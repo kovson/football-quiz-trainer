@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173c32">
+  <title>Poza boiskiem · Trening wiedzy piłkarskiej</title>
+  <style>/*__STYLE__*/</style>
+</head>
+<body>
+  <a class="skip" href="#training">Przejdź do pytania</a>
+  <header class="masthead"><a class="brand" href="#"><span class="mark" aria-hidden="true">PB</span><span>POZA BOISKIEM<small>TRENING WIEDZY PIŁKARSKIEJ</small></span></a><button class="quiet" id="archive-toggle" aria-expanded="false" aria-controls="archive">Zestawy <span aria-hidden="true">↗</span></button></header>
+  <main>
+    <div class="edition"><span>PIŁKA NOŻNA. CODZIENNIE.</span><span id="edition-date"></span></div>
+    <section class="intro"><div><p class="eyebrow" id="session-label"></p><h1>Forma przychodzi<br>z <em>powtórką.</em></h1><p class="lead">Przypomnij sobie. Odkryj odpowiedź. Zapamiętaj coś nowego.</p></div><div class="session-stats"><strong>30</strong><span>PYTAŃ W ZESTAWIE</span><p>Twoje tempo.<br>Piłkarska ciekawość.</p></div></section>
+    <p class="notice" id="sample-notice" hidden>Nowy zestaw próbny · Zdjęcia, herby, ścieżki kariery i bieżący sezon. Stan wiedzy: 8 października 2026.</p>
+    <p class="notice" id="waiting" hidden>Dzisiejszy trening czeka na uruchomienie generatora.</p>
+    <p class="notice" id="storage-warning" role="status" hidden>Ta przeglądarka nie zapisuje postępu. Możesz nadal trenować, ale po zamknięciu strony miejsce w zestawie może zniknąć.</p>
+    <section class="archive" id="archive" aria-label="Archiwum treningów" hidden><h2>Zestawy do treningu</h2><p>Wróć do wcześniejszych pytań w dowolnym momencie.</p><div id="archive-list"></div></section>
+    <div class="training-layout" id="training" tabindex="-1">
+      <section class="question-card" aria-label="Pytanie treningowe" id="question-card"></section>
+      <aside class="navigator" aria-label="Nawigacja po zestawie"><div class="nav-heading"><h2>Twój trening</h2><span id="reveal-count"></span></div><progress id="progress" max="30" value="0" aria-label="Odkryte odpowiedzi"></progress><p class="nav-help">Wybierz pytanie, do którego chcesz wrócić.</p><nav id="question-nav" aria-label="Numery pytań"></nav><p class="legend"><span aria-hidden="true">●</span> Odkryta odpowiedź</p><button class="restart" id="restart">Zacznij zestaw od nowa</button><div id="restart-confirm" hidden><p>Usunąć Twój postęp w tym zestawie?</p><button class="quiet" id="restart-cancel">Zachowaj postęp</button><button class="danger" id="restart-yes">Zacznij od nowa</button></div><p class="local-note" id="local-note">Miejsce w zestawie zapisuje się tylko w tej przeglądarce.</p></aside>
+    </div>
+    <section class="empty" id="empty" hidden><h2>Jeszcze chwila przed pierwszym treningiem.</h2><p>Gdy zestaw będzie gotowy, znajdziesz tu 30 nowych pytań.</p></section>
+  </main>
+  <footer><span>POZA BOISKIEM</span><p>Więcej wiedzy. Więcej frajdy z piłki.</p></footer>
+  <noscript><p>Włącz JavaScript, aby przejść przez trening i odkrywać odpowiedzi.</p></noscript>
+  <script id="training-data" type="application/json">__DATA__</script>
+  <script>/*__APP__*/</script>
+</body>
+</html>

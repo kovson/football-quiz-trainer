@@ -1,0 +1,1162 @@
+{
+  "id": "2026-10-08",
+  "kind": "daily",
+  "title": "Trening ligowy · 8 października 2026",
+  "date": "2026-10-08",
+  "publishAt": "2026-10-08T07:00:00+02:00",
+  "researchedAt": "2026-10-08T20:58:40.306Z",
+  "questions": [
+    {
+      "id": "2026-10-08-01",
+      "factKey": "alexander-hleb:portrait",
+      "format": "photo",
+      "prompt": "Jak nazywa się piłkarz na zdjęciu?",
+      "answerParts": [
+        "Alaksandr Hleb (Alexander Hleb)"
+      ],
+      "subjects": [
+        "player:alexander-hleb"
+      ],
+      "sources": [
+        {
+          "title": "Profil zawodnika",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Hleb",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "01",
+        "path": "assets/01.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Alexander_Hleb_press.jpeg",
+        "credit": "SuperPhotographer",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "alt": "Twarz piłkarza; ciasny kadr bez stroju klubowego.",
+        "crop": [
+          130,
+          12,
+          140,
+          150
+        ],
+        "width": 331
+      }
+    },
+    {
+      "id": "2026-10-08-02",
+      "factKey": "mike-hanke:club-2011-2013",
+      "format": "career-gap",
+      "prompt": "Uzupełnij brakujący klub w karierze Mike’a Hankego.",
+      "answerParts": [
+        "Borussia Mönchengladbach"
+      ],
+      "subjects": [
+        "club:borussia-monchengladbach"
+      ],
+      "sources": [
+        {
+          "title": "Mike Hanke — historia kariery",
+          "url": "https://en.wikipedia.org/wiki/Mike_Hanke",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Schalke 04",
+          "years": "2001–2005",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng This W3C-unspecified vector image was created with Inkscape .",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "years": "2005–2007",
+          "media": {
+            "id": "14",
+            "path": "assets/14.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "credit": "Unknown authorUnknown author",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hannover 96",
+          "years": "2007–2010",
+          "media": {
+            "id": "16",
+            "path": "assets/16.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hannover_96_Logo.svg",
+            "credit": "Hannoverscher Sportverein von 1896",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hannover_96_Logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Borussia Mönchengladbach",
+          "years": "2011–2013",
+          "missing": 0
+        }
+      ],
+      "careerCaption": "Kolejne kluby pierwszych drużyn w latach 2001–2013."
+    },
+    {
+      "id": "2026-10-08-03",
+      "factKey": "mainz-05:crest",
+      "format": "crest",
+      "prompt": "Który klub posługuje się tym herbem?",
+      "answerParts": [
+        "1. FSV Mainz 05"
+      ],
+      "subjects": [
+        "club:mainz-05"
+      ],
+      "sources": [
+        {
+          "title": "Herb klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "media": {
+        "id": "08",
+        "path": "assets/08.png",
+        "source": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+        "credit": "1. FSV Mainz 05",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+        "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+        "alt": "Czerwony herb ze splecionymi znakami i liczbą 05."
+      }
+    },
+    {
+      "id": "2026-10-08-04",
+      "factKey": "bayern:2013-cl-final:xi-alaba-martinez-mandzukic",
+      "format": "lineup",
+      "prompt": "Finał Ligi Mistrzów 2013: uzupełnij trzy nazwiska w wyjściowej jedenastce Bayernu.",
+      "answerParts": [
+        "David Alaba",
+        "Javi Martínez",
+        "Mario Mandžukić"
+      ],
+      "subjects": [
+        "player:david-alaba",
+        "player:javi-martinez",
+        "player:mario-mandzukic"
+      ],
+      "sources": [
+        {
+          "title": "Finał 2013 — wyjściowe składy",
+          "url": "https://en.wikipedia.org/wiki/2013_UEFA_Champions_League_final",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "lineup": {
+        "caption": "25 maja 2013 · Borussia Dortmund – Bayern · ustawienie 4–2–3–1",
+        "rows": [
+          [
+            {
+              "name": "Mario Mandžukić",
+              "slot": 2
+            }
+          ],
+          [
+            {
+              "name": "Franck Ribéry"
+            },
+            {
+              "name": "Thomas Müller"
+            },
+            {
+              "name": "Arjen Robben"
+            }
+          ],
+          [
+            {
+              "name": "Javi Martínez",
+              "slot": 1
+            },
+            {
+              "name": "Bastian Schweinsteiger"
+            }
+          ],
+          [
+            {
+              "name": "David Alaba",
+              "slot": 0
+            },
+            {
+              "name": "Dante"
+            },
+            {
+              "name": "Jérôme Boateng"
+            },
+            {
+              "name": "Philipp Lahm"
+            }
+          ],
+          [
+            {
+              "name": "Manuel Neuer"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2026-10-08-05",
+      "factKey": "ebi-smolarek:club-2007-2009",
+      "format": "career-gap",
+      "prompt": "Ebi Smolarek: jaki klub był następnym etapem po dwóch pokazanych?",
+      "answerParts": [
+        "Racing Santander"
+      ],
+      "subjects": [
+        "club:racing-santander"
+      ],
+      "sources": [
+        {
+          "title": "Ebi Smolarek — kluby i daty",
+          "url": "https://en.wikipedia.org/wiki/Ebi_Smolarek",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "career": [
+        {
+          "club": "Feyenoord",
+          "years": "2000–2005",
+          "media": {
+            "id": "18",
+            "path": "assets/18.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "credit": "Feyenoord Rotterdam N.V.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Borussia Dortmund",
+          "years": "2005–2007",
+          "media": {
+            "id": "15",
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Racing Santander",
+          "years": "2007–2009",
+          "missing": 0
+        }
+      ],
+      "careerCaption": "Kluby, z którymi zawodnik był związany w latach 2000–2009; wypożyczenie w sezonie 2008/09 pominięto."
+    },
+    {
+      "id": "2026-10-08-06",
+      "factKey": "michel-d-ornano:stadium-photo",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion na zdjęciu. Podaj jego nazwę i miasto.",
+      "answerParts": [
+        "Stade Michel-d’Ornano",
+        "Caen"
+      ],
+      "subjects": [
+        "stadium:michel-d-ornano"
+      ],
+      "sources": [
+        {
+          "title": "Stadion — nazwa i lokalizacja",
+          "url": "https://en.wikipedia.org/wiki/Stade_Michel_d%27Ornano",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "22",
+        "path": "assets/22.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Photo_du_Stade_Michel_d%27Ornano_vue_d%27un_drone,_match_contre_Laval_le_03-05-2024.jpg",
+        "credit": "Lub1.le",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+        "alt": "Widok stadionu z góry: prostokątny dach z szeregiem jasnych pasów, boisko i pobliskie budynki."
+      }
+    },
+    {
+      "id": "2026-10-08-07",
+      "factKey": "bayern-union:2026-09-18:fourth-scorer",
+      "format": "fact",
+      "prompt": "Bayern – Union, 18 września 2026: siedem goli Bayernu zdobyło czterech piłkarzy. Poza Kane’em, Olise i Musialą — kto trafił do siatki?",
+      "answerParts": [
+        "Ismael Saibari"
+      ],
+      "subjects": [
+        "player:ismael-saibari"
+      ],
+      "sources": [
+        {
+          "title": "Bundesliga — oficjalna relacja",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/4/fc-bayern-muenchen-vs-1-fc-union-berlin/liveticker",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-18"
+    },
+    {
+      "id": "2026-10-08-08",
+      "factKey": "hansa-rostock:crest",
+      "format": "crest",
+      "prompt": "Podaj pełną nazwę klubu z tego herbu.",
+      "answerParts": [
+        "F.C. Hansa Rostock"
+      ],
+      "subjects": [
+        "club:hansa-rostock"
+      ],
+      "sources": [
+        {
+          "title": "Herb klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:F.C._Hansa_Rostock_Logo.svg",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "media": {
+        "id": "12",
+        "path": "assets/12.png",
+        "source": "https://commons.wikimedia.org/wiki/File:F.C._Hansa_Rostock_Logo.svg",
+        "credit": "Fußballclub Hansa Rostock e. V.",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+        "alt": "Okrągły herb z niebiesko-czerwonym żaglowcem i gryfem."
+      }
+    },
+    {
+      "id": "2026-10-08-09",
+      "factKey": "kamil-kosowski:portrait",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego reprezentanta Polski na zdjęciu.",
+      "answerParts": [
+        "Kamil Kosowski"
+      ],
+      "subjects": [
+        "player:kamil-kosowski"
+      ],
+      "sources": [
+        {
+          "title": "Profil zawodnika",
+          "url": "https://en.wikipedia.org/wiki/Kamil_Kosowski",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "id": "09",
+        "path": "assets/09.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Kamil_Kosowski.jpg",
+        "credit": "Sławek",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "alt": "Twarz byłego piłkarza; kadr bez herbu reprezentacji i stroju.",
+        "crop": [
+          77,
+          12,
+          107,
+          157
+        ],
+        "width": 302
+      }
+    },
+    {
+      "id": "2026-10-08-10",
+      "factKey": "gladbach-mainz:2026-09-19:mainz-scorers",
+      "format": "fact",
+      "prompt": "Borussia Mönchengladbach – Mainz, 19 września 2026: goście wygrali 4:3. Wymień wszystkich czterech strzelców Mainz.",
+      "answerParts": [
+        "Phillip Tietz",
+        "Sheraldo Becker",
+        "Eric Martel",
+        "Danny da Costa"
+      ],
+      "subjects": [
+        "player:phillip-tietz",
+        "player:sheraldo-becker",
+        "player:eric-martel",
+        "player:danny-da-costa"
+      ],
+      "sources": [
+        {
+          "title": "Bundesliga — oficjalna relacja",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/4/borussia-moenchengladbach-vs-1-fsv-mainz-05/liveticker",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19",
+      "instruction": "Kolejność nazwisk nie ma znaczenia."
+    },
+    {
+      "id": "2026-10-08-11",
+      "factKey": "mladen-petric:club-2012-2013",
+      "format": "career-gap",
+      "prompt": "Mladen Petrić: uzupełnij klub z sezonu 2012/13.",
+      "answerParts": [
+        "Fulham"
+      ],
+      "subjects": [
+        "club:fulham"
+      ],
+      "sources": [
+        {
+          "title": "Mladen Petrić — historia kariery",
+          "url": "https://en.wikipedia.org/wiki/Mladen_Petri%C4%87",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Borussia Dortmund",
+          "years": "2007–2008",
+          "media": {
+            "id": "15",
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hamburger SV",
+          "years": "2008–2012",
+          "media": {
+            "id": "04",
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Fulham",
+          "years": "2012–2013",
+          "missing": 0
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery seniorskiej."
+    },
+    {
+      "id": "2026-10-08-12",
+      "factKey": "luigi-ferraris:stadium-photo",
+      "format": "stadium",
+      "prompt": "Jak nazywa się ten stadion i w jakim mieście się znajduje?",
+      "answerParts": [
+        "Stadio Luigi Ferraris (Marassi)",
+        "Genua (Genova)"
+      ],
+      "subjects": [
+        "stadium:luigi-ferraris"
+      ],
+      "sources": [
+        {
+          "title": "Zdjęcie i lokalizacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Stadio_Luigi_Ferraris_di_Genova.jpg",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "19",
+        "path": "assets/19.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Stadio_Luigi_Ferraris_di_Genova.jpg",
+        "credit": "Gabriel Rinaldi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+        "alt": "Stadion otoczony gęstą zabudową, z ceglastymi narożnymi wieżami i białymi konstrukcjami dachu."
+      }
+    },
+    {
+      "id": "2026-10-08-13",
+      "factKey": "ilhan-mansiz:birth-country-national-team",
+      "format": "country",
+      "prompt": "İlhan Mansız: w jakim państwie się urodził i jaką seniorską reprezentację narodową reprezentował?",
+      "answerParts": [
+        "RFN (obecnie Niemcy)",
+        "Turcja"
+      ],
+      "subjects": [
+        "player:ilhan-mansiz"
+      ],
+      "sources": [
+        {
+          "title": "İlhan Mansız — miejsce urodzenia i reprezentacja",
+          "url": "https://en.wikipedia.org/wiki/%C4%B0lhan_Mans%C4%B1z",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-14",
+      "factKey": "poland-austria:2008-06-12:xi-jop-roger-saganowski",
+      "format": "lineup",
+      "prompt": "Austria – Polska na Euro 2008: uzupełnij trzy nazwiska w wyjściowym składzie Polski.",
+      "answerParts": [
+        "Mariusz Jop",
+        "Roger Guerreiro",
+        "Marek Saganowski"
+      ],
+      "subjects": [
+        "player:mariusz-jop",
+        "player:roger-guerreiro",
+        "player:marek-saganowski"
+      ],
+      "sources": [
+        {
+          "title": "Euro 2008 — skład w meczu z Austrią",
+          "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2008_Group_B",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "lineup": {
+        "caption": "12 czerwca 2008 · Austria – Polska · ustawienie 4–3–1–2",
+        "rows": [
+          [
+            {
+              "name": "Ebi Smolarek"
+            },
+            {
+              "name": "Marek Saganowski",
+              "slot": 2
+            }
+          ],
+          [
+            {
+              "name": "Roger Guerreiro",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Jacek Krzynówek"
+            },
+            {
+              "name": "Mariusz Lewandowski"
+            },
+            {
+              "name": "Dariusz Dudka"
+            }
+          ],
+          [
+            {
+              "name": "Michał Żewłakow"
+            },
+            {
+              "name": "Jacek Bąk"
+            },
+            {
+              "name": "Mariusz Jop",
+              "slot": 0
+            },
+            {
+              "name": "Marcin Wasilewski"
+            }
+          ],
+          [
+            {
+              "name": "Artur Boruc"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2026-10-08-15",
+      "factKey": "fortuna-dusseldorf:crest",
+      "format": "crest",
+      "prompt": "Rozpoznaj klub na podstawie herbu.",
+      "answerParts": [
+        "Fortuna Düsseldorf"
+      ],
+      "subjects": [
+        "club:fortuna-dusseldorf"
+      ],
+      "sources": [
+        {
+          "title": "Herb klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:Fortuna_D%C3%BCsseldorf.svg",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "media": {
+        "id": "11",
+        "path": "assets/11.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Fortuna_D%C3%BCsseldorf.svg",
+        "credit": "Fortuna Düsseldorf (SVG created by de:Benutzer:ChristianBier)",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fortuna_D%C3%BCsseldorf.svg",
+        "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+        "alt": "Czerwony okrągły herb z białą literą F i liczbą 95."
+      }
+    },
+    {
+      "id": "2026-10-08-16",
+      "factKey": "florent-malouda:portrait",
+      "format": "photo",
+      "prompt": "Kto jest na zdjęciu?",
+      "answerParts": [
+        "Florent Malouda"
+      ],
+      "subjects": [
+        "player:florent-malouda"
+      ],
+      "sources": [
+        {
+          "title": "Profil zawodnika",
+          "url": "https://en.wikipedia.org/wiki/Florent_Malouda",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "02",
+        "path": "assets/02.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Florent_Malouda_Trabzonspor.jpg",
+        "credit": "61MaloudaFlorent",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "alt": "Twarz piłkarza w okularach przeciwsłonecznych; bez klubowego herbu.",
+        "crop": [
+          222,
+          18,
+          210,
+          293
+        ],
+        "width": 444
+      }
+    },
+    {
+      "id": "2026-10-08-17",
+      "factKey": "polish-cup-final:2024:wisla-scorers",
+      "format": "fact",
+      "prompt": "Finał Pucharu Polski 2024: wymień obu strzelców goli Wisły Kraków przeciwko Pogoni.",
+      "answerParts": [
+        "Eneko Satrústegui",
+        "Ángel Rodado"
+      ],
+      "subjects": [
+        "player:eneko-satrustegui",
+        "player:angel-rodado"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — kronika finału",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/pogon-szczecin-wisla-krakow-12-pd-02052024",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "instruction": "Podaj dwa nazwiska; kolejność dowolna."
+    },
+    {
+      "id": "2026-10-08-18",
+      "factKey": "lech-radomiak:2026-09-20:double-scorers",
+      "format": "fact",
+      "prompt": "Lech – Radomiak, 20 września 2026: Lech wygrał 5:1. Którzy dwaj zawodnicy gospodarzy zdobyli po dwie bramki?",
+      "answerParts": [
+        "Pablo Rodríguez",
+        "Patrik Wålemark"
+      ],
+      "subjects": [
+        "player:pablo-rodriguez",
+        "player:patrik-walemark"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — statystyki meczu",
+          "url": "https://fantasy.ekstraklasa.org/stats-game/76",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-20"
+    },
+    {
+      "id": "2026-10-08-19",
+      "factKey": "sergio-pinto:career-1999-2013",
+      "format": "career",
+      "prompt": "Który piłkarz przeszedł przez te trzy kolejne etapy kariery?",
+      "answerParts": [
+        "Sérgio Pinto (Sérgio da Silva Pinto)"
+      ],
+      "subjects": [
+        "player:sergio-pinto"
+      ],
+      "sources": [
+        {
+          "title": "Schalke 04 — historia zawodnika",
+          "url": "https://schalke04.de/knappenschmiede/sergio-pinto/",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        },
+        {
+          "title": "Kariera seniorskiej pierwszej drużyny",
+          "url": "https://en.wikipedia.org/wiki/S%C3%A9rgio_Pinto_(footballer,_born_1980)",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Schalke 04",
+          "years": "1999–2004",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng This W3C-unspecified vector image was created with Inkscape .",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Alemannia Aachen",
+          "years": "2004–2007",
+          "media": {
+            "id": "10",
+            "path": "assets/10.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Alemannia_Aachen_2010.svg",
+            "credit": "Aachener Turn- und Sportverein Alemannia 1900 e.V.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alemannia_Aachen_2010.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hannover 96",
+          "years": "2007–2013",
+          "media": {
+            "id": "16",
+            "path": "assets/16.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hannover_96_Logo.svg",
+            "credit": "Hannoverscher Sportverein von 1896",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hannover_96_Logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane kolejne kluby pierwszych drużyn; okres 1999–2013."
+    },
+    {
+      "id": "2026-10-08-20",
+      "factKey": "jonathan-de-guzman:birth-country-national-team",
+      "format": "country",
+      "prompt": "Jonathan de Guzmán: podaj kraj urodzenia oraz kraj jego seniorskiej reprezentacji.",
+      "answerParts": [
+        "Kanada",
+        "Holandia (Niderlandy)"
+      ],
+      "subjects": [
+        "player:jonathan-de-guzman"
+      ],
+      "sources": [
+        {
+          "title": "Jonathan de Guzmán — dane i reprezentacja",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_de_Guzm%C3%A1n",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-21",
+      "factKey": "jan-schlaudraff:career-2005-2015",
+      "format": "career",
+      "prompt": "Rozpoznaj zawodnika z tej ścieżki kariery.",
+      "answerParts": [
+        "Jan Schlaudraff"
+      ],
+      "subjects": [
+        "player:jan-schlaudraff"
+      ],
+      "sources": [
+        {
+          "title": "Jan Schlaudraff — kluby i sezony",
+          "url": "https://en.wikipedia.org/wiki/Jan_Schlaudraff",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Alemannia Aachen",
+          "years": "2005–2007",
+          "media": {
+            "id": "10",
+            "path": "assets/10.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Alemannia_Aachen_2010.svg",
+            "credit": "Aachener Turn- und Sportverein Alemannia 1900 e.V.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alemannia_Aachen_2010.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Bayern Monachium",
+          "years": "2007–2008",
+          "media": {
+            "id": "17",
+            "path": "assets/17.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+            "credit": "FC Bayern Munich",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hannover 96",
+          "years": "2008–2015",
+          "media": {
+            "id": "16",
+            "path": "assets/16.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hannover_96_Logo.svg",
+            "credit": "Hannoverscher Sportverein von 1896",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hannover_96_Logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane kolejne kluby pierwszych drużyn; okres 2005–2015."
+    },
+    {
+      "id": "2026-10-08-22",
+      "factKey": "jan-vennegoor-of-hesselink:portrait",
+      "format": "photo",
+      "prompt": "Podaj imię i nazwisko tego byłego napastnika.",
+      "answerParts": [
+        "Jan Vennegoor of Hesselink"
+      ],
+      "subjects": [
+        "player:jan-vennegoor-of-hesselink"
+      ],
+      "sources": [
+        {
+          "title": "Zdjęcie zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Big_Jan_(cropped).jpg",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        },
+        {
+          "title": "Profil zawodnika",
+          "url": "https://en.wikipedia.org/wiki/Jan_Vennegoor_of_Hesselink",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "07",
+        "path": "assets/07.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Big_Jan_(cropped).jpg",
+        "credit": "Fitzy 1888 at English Wikipedia",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Big_Jan_(cropped).jpg",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "alt": "Twarz byłego napastnika; ciasny kadr bez strojów w tle.",
+        "crop": [
+          175,
+          80,
+          365,
+          520
+        ],
+        "width": 658
+      }
+    },
+    {
+      "id": "2026-10-08-23",
+      "factKey": "hector-cuper:european-finals-1999-2001",
+      "format": "coach",
+      "prompt": "Który trener doprowadził Mallorcę do finału Pucharu Zdobywców Pucharów 1999, a Valencię do dwóch kolejnych finałów Ligi Mistrzów w 2000 i 2001?",
+      "answerParts": [
+        "Héctor Cúper"
+      ],
+      "subjects": [
+        "coach:hector-cuper"
+      ],
+      "sources": [
+        {
+          "title": "Héctor Cúper — kariera trenerska",
+          "url": "https://en.wikipedia.org/wiki/H%C3%A9ctor_C%C3%BAper",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-24",
+      "factKey": "portugal-poland:2007-09-08:poland-scorers",
+      "format": "fact",
+      "prompt": "Portugalia – Polska, Lizbona, 8 września 2007 (2:2): kto strzelił oba gole dla Polski?",
+      "answerParts": [
+        "Mariusz Lewandowski",
+        "Jacek Krzynówek"
+      ],
+      "subjects": [
+        "player:mariusz-lewandowski",
+        "player:jacek-krzynowek"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — relacja z eliminacji",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7b8e57b59b-c5823d73da53-1000--krzynowek-pounces-to-deny-portugal/",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ]
+    },
+    {
+      "id": "2026-10-08-25",
+      "factKey": "jagiellonia-legia:2026-09-20:penalty-own-goal",
+      "format": "fact",
+      "prompt": "Jagiellonia – Legia, 20 września 2026 (1:3): który legionista wykorzystał rzut karny i który zawodnik Jagiellonii strzelił gola samobójczego?",
+      "answerParts": [
+        "Rafał Augustyniak — rzut karny",
+        "Nik Prelec — gol samobójczy"
+      ],
+      "subjects": [
+        "player:rafal-augustyniak",
+        "player:nik-prelec"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — statystyki meczu",
+          "url": "https://fantasy.ekstraklasa.org/stats-game/74",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-20"
+    },
+    {
+      "id": "2026-10-08-26",
+      "factKey": "boumsong:rangers-newcastle:2005:8m-gbp",
+      "format": "transfer",
+      "prompt": "Styczeń 2005: Rangers → Newcastle United, raportowana kwota 8 mln funtów. O którego francuskiego obrońcę chodzi?",
+      "answerParts": [
+        "Jean-Alain Boumsong"
+      ],
+      "subjects": [
+        "player:jean-alain-boumsong"
+      ],
+      "sources": [
+        {
+          "title": "Jean-Alain Boumsong — transfer do Newcastle",
+          "url": "https://en.wikipedia.org/wiki/Jean-Alain_Boumsong",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-27",
+      "factKey": "juventus-lech:2010-09-16:all-scorers",
+      "format": "fact",
+      "prompt": "Juventus – Lech, 16 września 2010 (3:3): wymień wszystkich trzech strzelców tego meczu i liczbę goli każdego.",
+      "answerParts": [
+        "Artjoms Rudņevs — 3 (Lech)",
+        "Giorgio Chiellini — 2 (Juventus)",
+        "Alessandro Del Piero — 1 (Juventus)"
+      ],
+      "subjects": [
+        "player:artjoms-rudnevs",
+        "player:giorgio-chiellini",
+        "player:alessandro-del-piero"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — oficjalna relacja",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01e9-0e758132a2b9-a6e89a45ecea-1000--rudnevs-completes-hat-trick-to-deny-juventus/",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ]
+    },
+    {
+      "id": "2026-10-08-28",
+      "factKey": "euro-2004:golden-boot",
+      "format": "fact",
+      "prompt": "Kto został królem strzelców Euro 2004, ile zdobył goli i jaki kraj reprezentował?",
+      "answerParts": [
+        "Milan Baroš",
+        "5 goli",
+        "Czechy"
+      ],
+      "subjects": [
+        "player:milan-baros"
+      ],
+      "sources": [
+        {
+          "title": "Milan Baroš — Euro 2004",
+          "url": "https://en.wikipedia.org/wiki/Milan_Baro%C5%A1",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-29",
+      "factKey": "sevilla-barcelona:2026-09-19:hat-trick-result",
+      "format": "fact",
+      "prompt": "Sevilla – Barcelona, 19 września 2026: kto zdobył hat-tricka i jaki był wynik końcowy w kolejności gospodarze – goście?",
+      "answerParts": [
+        "Raphinha",
+        "1:3"
+      ],
+      "subjects": [
+        "player:raphinha",
+        "match:sevilla-barcelona-2026-09-19"
+      ],
+      "sources": [
+        {
+          "title": "LaLiga — oficjalna relacja",
+          "url": "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-sevilla-fc-fc-barcelona-7",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19"
+    },
+    {
+      "id": "2026-10-08-30",
+      "factKey": "valencia-sociedad:2026-09-20:winning-goal-assist",
+      "format": "fact",
+      "prompt": "Valencia – Real Sociedad, 20 września 2026: kto zdobył zwycięską bramkę na 2:3 w doliczonym czasie i kto mu asystował?",
+      "answerParts": [
+        "Ander Barrenetxea",
+        "Carlos Soler"
+      ],
+      "subjects": [
+        "player:ander-barrenetxea",
+        "player:carlos-soler"
+      ],
+      "sources": [
+        {
+          "title": "LaLiga — oficjalna relacja",
+          "url": "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-valencia-cf-real-sociedad-7",
+          "checkedAt": "2026-10-08T20:58:40.306Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-20"
+    }
+  ],
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-08"
+  }
+}

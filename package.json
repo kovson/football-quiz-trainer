@@ -1,0 +1,12 @@
+{
+  "name": "football-quiz-trainer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:preview": "node scripts/build.mjs --preview",
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
