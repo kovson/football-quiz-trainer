@@ -41,7 +41,7 @@
   function transfer(q, revealed) {
     if (!q.transfer) return '';
     const move=q.transfer;
-    return `<div class="transfer"><p class="transfer-year">${move.year}</p>${move.detail ? `<p class="transfer-detail">${escape(move.detail)}</p>` : ''}<ol class="career-path transfer-path" aria-label="Kierunek transferu">${[move.from,move.to].map((club,i) => `<li><div class="career-badge">${picture({...club.media,alt:revealed ? club.club : `Herb klubu, ${i === 0 ? 'z którego odchodzi' : 'do którego przechodzi'} zawodnik`},'badge')}</div><span class="transfer-role">${i === 0 ? 'Z klubu' : 'Do klubu'}</span>${revealed ? `<span class="career-name">${escape(club.club)}</span>` : ''}</li>`).join('')}</ol></div>`;
+    return `<div class="transfer"><p class="transfer-year">${move.year}</p>${move.detail ? `<p class="transfer-detail">${escape(move.detail)}</p>` : ''}<ol class="career-path transfer-path" aria-label="Kierunek transferu">${[move.from,move.to].map((club,i) => `<li><div class="career-badge">${picture({...club.media,alt:revealed ? club.club : `Herb klubu, ${i === 0 ? 'z którego odchodzi' : 'do którego przechodzi'} zawodnik`},'badge')}</div>${revealed ? `<span class="career-name">${escape(club.club)}</span>` : ''}</li>`).join('')}</ol></div>`;
   }
   function credits(q) {
     const media = [q.media,...(q.career ?? []).map(s => s.media),q.transfer?.from.media,q.transfer?.to.media].filter(Boolean);
