@@ -1,0 +1,1203 @@
+{
+  "id": "2026-10-09",
+  "kind": "daily",
+  "title": "Trening ligowy · 9 października 2026",
+  "date": "2026-10-09",
+  "publishAt": "2026-10-09T07:00:00+02:00",
+  "researchedAt": "2026-10-09T13:12:20.493Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-09"
+  },
+  "questions": [
+    {
+      "id": "2026-10-09-01",
+      "factKey": "jean-makoun:portrait",
+      "format": "photo",
+      "prompt": "Rozpoznaj zawodnika na tym portrecie.",
+      "answerParts": [
+        "Jean II Makoun"
+      ],
+      "subjects": [
+        "player:jean-makoun"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Makoun.jpg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d09-makoun.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Makoun.jpg",
+        "credit": "Eldiablos13",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Makoun.jpg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 720,
+        "alt": "Twarz piłkarza; bez herbu i stroju klubowego.",
+        "crop": [
+          265,
+          0,
+          510,
+          610
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-02",
+      "factKey": "valon-behrami:club-2008-2011",
+      "format": "career-gap",
+      "prompt": "Valon Behrami: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "West Ham United"
+      ],
+      "subjects": [
+        "club:west-ham-united"
+      ],
+      "sources": [
+        {
+          "title": "Valon Behrami — kluby i lata gry",
+          "url": "https://en.wikipedia.org/wiki/Valon_Behrami",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Lazio",
+          "years": "2005–2008",
+          "media": {
+            "path": "assets/d09-lazio.png",
+            "source": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "credit": "S.S. Lazio",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 406,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "West Ham United",
+          "years": "2008–2011",
+          "missing": 0
+        },
+        {
+          "club": "Fiorentina",
+          "years": "2011–2012",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Napoli",
+          "years": "2012–2014",
+          "media": {
+            "path": "assets/d09-napoli.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "credit": "The original uploader was Eric Duff at Portuguese Wikipedia.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hamburger SV",
+          "years": "2014–2015",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 711,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Kolejne etapy kariery w pierwszych drużynach, 2005–2015."
+    },
+    {
+      "id": "2026-10-09-03",
+      "factKey": "belenenses:crest",
+      "format": "crest",
+      "prompt": "Zidentyfikuj klub, którego herb przedstawiono.",
+      "answerParts": [
+        "CF Os Belenenses (Belenenses)"
+      ],
+      "subjects": [
+        "club:belenenses"
+      ],
+      "sources": [
+        {
+          "title": "Herb i nazwa klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:Os_Belenenses.png",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "media": {
+        "path": "assets/d09-belenenses.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Os_Belenenses.png",
+        "credit": "Clube de Futebol Os Belenenses",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Os_Belenenses.png",
+        "changes": "Pomniejszenie do wyświetlania.",
+        "width": 330,
+        "height": 419,
+        "alt": "Tarcza z niebieskimi pasami i czerwonym krzyżem."
+      }
+    },
+    {
+      "id": "2026-10-09-04",
+      "factKey": "inter:2010-cl-final:xi-chivu-zanetti-pandev",
+      "format": "lineup",
+      "prompt": "Inter w finale Ligi Mistrzów 2010: uzupełnij trzy brakujące nazwiska.",
+      "answerParts": [
+        "Cristian Chivu",
+        "Javier Zanetti",
+        "Goran Pandev"
+      ],
+      "subjects": [
+        "player:cristian-chivu",
+        "player:javier-zanetti",
+        "player:goran-pandev"
+      ],
+      "sources": [
+        {
+          "title": "Inter — archiwum spotkań i wyjściowa jedenastka",
+          "url": "https://www.inter.it/en/news/history-inter-bayern-m%C3%BCnchen-previous-24-25",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "lineup": {
+        "caption": "22 maja 2010 · Bayern – Inter · ustawienie 4–2–3–1",
+        "rows": [
+          [
+            {
+              "name": "Diego Milito"
+            }
+          ],
+          [
+            {
+              "name": "Goran Pandev",
+              "slot": 2
+            },
+            {
+              "name": "Wesley Sneijder"
+            },
+            {
+              "name": "Samuel Eto’o"
+            }
+          ],
+          [
+            {
+              "name": "Esteban Cambiasso"
+            },
+            {
+              "name": "Javier Zanetti",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Cristian Chivu",
+              "slot": 0
+            },
+            {
+              "name": "Walter Samuel"
+            },
+            {
+              "name": "Lúcio"
+            },
+            {
+              "name": "Maicon"
+            }
+          ],
+          [
+            {
+              "name": "Júlio César"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-05",
+      "factKey": "korona-rakow:2026-09-19:penalty-double-and-other-scorer",
+      "format": "fact",
+      "prompt": "Korona – Raków, 19 września 2026 (3:2): kto zdobył dla Korony dwa gole z rzutów karnych i kto strzelił jej pozostałą bramkę?",
+      "answerParts": [
+        "Mariusz Stępiński — dwa rzuty karne",
+        "Camilo Mena — pozostały gol"
+      ],
+      "subjects": [
+        "player:mariusz-stepinski",
+        "player:camilo-mena"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — oficjalne statystyki meczu",
+          "url": "https://fantasy.ekstraklasa.org/stats-game/75",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19"
+    },
+    {
+      "id": "2026-10-09-06",
+      "factKey": "delle-alpi:stadium-concert-photo",
+      "format": "stadium",
+      "prompt": "Ten dawny stadion sfotografowano podczas koncertu. Podaj jego nazwę i miasto.",
+      "answerParts": [
+        "Stadio delle Alpi",
+        "Turyn (Torino)"
+      ],
+      "subjects": [
+        "stadium:delle-alpi"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — nazwa stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Stadio_delle_Alpi,_full_house_(1484465461).jpg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d09-delle-alpi.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Stadio_delle_Alpi,_full_house_(1484465461).jpg",
+        "credit": "Alessio Bragadini from Milan, Italy",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 640,
+        "alt": "Trybuny dawnego stadionu podczas koncertu; kadr bez herbu na podwieszonym ekranie.",
+        "crop": [
+          0,
+          170,
+          960,
+          470
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-07",
+      "factKey": "mbark-boussoufa:portrait",
+      "format": "photo",
+      "prompt": "Kto został pokazany na tej fotografii?",
+      "answerParts": [
+        "Mbark Boussoufa"
+      ],
+      "subjects": [
+        "player:mbark-boussoufa"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — nazwisko zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Mbark_Boussoufa_2009.jpg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d09-boussoufa.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mbark_Boussoufa_2009.jpg",
+        "credit": "mustapha_ennaimi",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 290,
+        "height": 470,
+        "alt": "Portret piłkarza; kadr bez koszulki i godła reprezentacji.",
+        "crop": [
+          10,
+          8,
+          145,
+          210
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-08",
+      "factKey": "hasan-salihamidzic:club-2007-2011",
+      "format": "career-gap",
+      "prompt": "Hasan Salihamidžić: uzupełnij brakujący etap w jego klubowej karierze.",
+      "answerParts": [
+        "Juventus"
+      ],
+      "subjects": [
+        "club:juventus"
+      ],
+      "sources": [
+        {
+          "title": "Hasan Salihamidžić — historia kariery",
+          "url": "https://en.wikipedia.org/wiki/Hasan_Salihamid%C5%BEi%C4%87",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Hamburger SV",
+          "years": "1995–1998",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 711,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Bayern Monachium",
+          "years": "1998–2007",
+          "media": {
+            "path": "assets/17.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+            "credit": "FC Bayern Munich",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Juventus",
+          "years": "2007–2011",
+          "missing": 0
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "years": "2011–2012",
+          "media": {
+            "path": "assets/14.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "credit": "Unknown authorUnknown author",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 960,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Cztery kolejne kluby pierwszych drużyn."
+    },
+    {
+      "id": "2026-10-09-09",
+      "factKey": "stuttgart-dortmund:2026-09-19:winning-goal-assist",
+      "format": "fact",
+      "prompt": "Stuttgart – Borussia Dortmund, 19 września 2026 (0:1): kto strzelił jedynego gola i który rezerwowy mu asystował?",
+      "answerParts": [
+        "Maximilian Beier — gol",
+        "Jobe Bellingham — asysta"
+      ],
+      "subjects": [
+        "player:maximilian-beier",
+        "player:jobe-bellingham"
+      ],
+      "sources": [
+        {
+          "title": "Bundesliga — oficjalna relacja",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-borussia-dortmund-match-report-highlights-matchday-4-39274",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19"
+    },
+    {
+      "id": "2026-10-09-10",
+      "factKey": "metz:crest-fragment-2021",
+      "format": "crest",
+      "prompt": "Podaj klub, którego fragment herbu widzisz. Usunięto jedynie część z nazwą.",
+      "answerParts": [
+        "FC Metz"
+      ],
+      "subjects": [
+        "club:metz"
+      ],
+      "sources": [
+        {
+          "title": "Herb klubu od 2021 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:FC_Metz_2021_Logo.svg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d09-metz.png",
+        "source": "https://commons.wikimedia.org/wiki/File:FC_Metz_2021_Logo.svg",
+        "credit": "Fc Metz",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Metz_2021_Logo.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 330,
+        "height": 473,
+        "alt": "Bordowy krzyż i geometryczny kształt; fragment bez nazwy klubu.",
+        "crop": [
+          0,
+          87,
+          330,
+          386
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-11",
+      "factKey": "kevin-prince-boateng:birth-country-senior-team",
+      "format": "country",
+      "prompt": "Kevin-Prince Boateng: w jakim kraju się urodził i jaką reprezentację wybrał na poziomie seniorskim?",
+      "answerParts": [
+        "Niemcy (Berlin Zachodni)",
+        "Ghana"
+      ],
+      "subjects": [
+        "player:kevin-prince-boateng"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — biogram zawodnika, miejsce urodzenia i reprezentacja",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/ITT/uefaorg/General/01/53/55/89/1535589_DOWNLOAD.pdf",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-12",
+      "factKey": "gks-cracovia:2026-09-19:all-home-scorers",
+      "format": "fact",
+      "prompt": "GKS Katowice – Cracovia, 19 września 2026 (3:2): wymień wszystkich trzech strzelców bramek gospodarzy.",
+      "answerParts": [
+        "Mateusz Wdowiak",
+        "Ilja Szkurin",
+        "Bartosz Nowak"
+      ],
+      "subjects": [
+        "player:mateusz-wdowiak",
+        "player:ilja-szkurin",
+        "player:bartosz-nowak"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — oficjalne statystyki meczu",
+          "url": "https://fantasy.ekstraklasa.org/stats-game/73",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19",
+      "instruction": "Podaj trzy nazwiska; kolejność dowolna."
+    },
+    {
+      "id": "2026-10-09-13",
+      "factKey": "maciej-zurawski:portrait",
+      "format": "photo",
+      "prompt": "Podaj nazwisko byłego reprezentanta Polski z fotografii.",
+      "answerParts": [
+        "Maciej Żurawski"
+      ],
+      "subjects": [
+        "player:maciej-zurawski"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Maciej_%C5%BBurawski_3.jpg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "path": "assets/d09-zurawski.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Maciej_%C5%BBurawski_3.jpg",
+        "credit": "Sławek",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 199,
+        "height": 272,
+        "alt": "Twarz byłego piłkarza; bez klubowych oznaczeń.",
+        "crop": [
+          28,
+          16,
+          155,
+          214
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-14",
+      "factKey": "adrian-mierzejewski:career-2008-2016",
+      "format": "career",
+      "prompt": "Jaki polski piłkarz grał kolejno w tych trzech klubach w podanych latach?",
+      "answerParts": [
+        "Adrian Mierzejewski"
+      ],
+      "subjects": [
+        "player:adrian-mierzejewski"
+      ],
+      "sources": [
+        {
+          "title": "Adrian Mierzejewski — kluby i daty",
+          "url": "https://en.wikipedia.org/wiki/Adrian_Mierzejewski",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        },
+        {
+          "title": "Sydney FC — biogram przy podpisaniu kontraktu",
+          "url": "https://sydneyfc.com/news/sydney-fc-sign-polish-international-winger/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "career": [
+        {
+          "club": "Polonia Warszawa",
+          "years": "2008–2011",
+          "media": {
+            "path": "assets/d09-polonia.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "credit": "BallOnTelly",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 411,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Trabzonspor",
+          "years": "2011–2014",
+          "media": {
+            "path": "assets/d09-trabzon.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Trabzonspor_logosu.svg",
+            "credit": "Arda Tuğra SESLİ",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 433,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Al-Nassr",
+          "years": "2014–2016",
+          "media": {
+            "path": "assets/d09-al-nassr.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Nassr_FC_Logo.svg",
+            "credit": "Al Nassr FC",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nassr_FC_Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane kolejne etapy kariery seniorskiej, 2008–2016."
+    },
+    {
+      "id": "2026-10-09-15",
+      "factKey": "zenit-rangers:2008-uefa-cup-final:scorers",
+      "format": "fact",
+      "prompt": "Finał Pucharu UEFA 2008, Zenit – Rangers (2:0): wymień obu strzelców bramek.",
+      "answerParts": [
+        "Igor Dienisow (Igor Denisov)",
+        "Konstantin Zyrianow (Konstantin Zyryanov)"
+      ],
+      "subjects": [
+        "player:igor-denisov",
+        "player:konstantin-zyryanov"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — relacja z finału",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0250-0c50f24900c8-0ce03c73c512-1000--majestic-zenit-triumph-in-manchester/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-16",
+      "factKey": "brighton-arsenal:2026-09-19:all-scorers",
+      "format": "fact",
+      "prompt": "Brighton – Arsenal, 19 września 2026 (3:0): wymień wszystkich trzech strzelców goli.",
+      "answerParts": [
+        "Pascal Groß (Gross)",
+        "Charalampos Kostoulas (Babis Kostoulas)",
+        "Chema Andrés"
+      ],
+      "subjects": [
+        "player:pascal-gross",
+        "player:charalampos-kostoulas",
+        "player:chema-andres"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — podsumowanie sobotnich meczów",
+          "url": "https://www.premierleague.com/en/news/4721218",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19",
+      "instruction": "Podaj trzy nazwiska; kolejność dowolna."
+    },
+    {
+      "id": "2026-10-09-17",
+      "factKey": "municipal-braga:stadium-photo",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion z tego widoku. Jak się nazywa i w jakim mieście się znajduje?",
+      "answerParts": [
+        "Estádio Municipal de Braga",
+        "Braga"
+      ],
+      "subjects": [
+        "stadium:municipal-braga"
+      ],
+      "sources": [
+        {
+          "title": "Zdjęcie i lokalizacja obiektu",
+          "url": "https://commons.wikimedia.org/wiki/File:Braga_Estadio_Municipal.jpeg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/06.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Braga_Estadio_Municipal.jpeg",
+        "credit": "magicman0361",
+        "license": "Copyrighted free use",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Braga_Estadio_Municipal.jpeg",
+        "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+        "width": 960,
+        "height": 720,
+        "alt": "Dwie boczne trybuny i skalna ściana za jedną z bramek; bez klubowych herbów."
+      }
+    },
+    {
+      "id": "2026-10-09-18",
+      "factKey": "faubert:west-ham-real-madrid:2009-loan",
+      "format": "transfer",
+      "prompt": "Zimą 2009 Real Madryt wypożyczył z West Hamu francuskiego zawodnika, który wcześniej grał w Bordeaux. Podaj jego nazwisko.",
+      "answerParts": [
+        "Julien Faubert"
+      ],
+      "subjects": [
+        "player:julien-faubert"
+      ],
+      "sources": [
+        {
+          "title": "West Ham — historia wypożyczenia zawodnika",
+          "url": "https://www.whufc.com/news/articles/2010/february/22-february/faubert-pushing-forward",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-19",
+      "factKey": "poland-portugal:2016-06-30:xi-jedrzejczyk-pazdan-maczynski",
+      "format": "lineup",
+      "prompt": "Polska – Portugalia, ćwierćfinał Euro 2016: kto zajmuje trzy puste miejsca w wyjściowym składzie?",
+      "answerParts": [
+        "Artur Jędrzejczyk",
+        "Michał Pazdan",
+        "Krzysztof Mączyński"
+      ],
+      "subjects": [
+        "player:artur-jedrzejczyk",
+        "player:michal-pazdan",
+        "player:krzysztof-maczynski"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — relacja i wyjściowe składy ćwierćfinału",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0253-0d81b0ff65da-c7bfd6abfbe9-1000--draw-specialists-portugal-beat-poland-on-penalties-to-reach-eur/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "lineup": {
+        "caption": "30 czerwca 2016 · Polska – Portugalia · ustawienie 4–4–2",
+        "rows": [
+          [
+            {
+              "name": "Robert Lewandowski"
+            },
+            {
+              "name": "Arkadiusz Milik"
+            }
+          ],
+          [
+            {
+              "name": "Kamil Grosicki"
+            },
+            {
+              "name": "Krzysztof Mączyński",
+              "slot": 2
+            },
+            {
+              "name": "Grzegorz Krychowiak"
+            },
+            {
+              "name": "Jakub Błaszczykowski"
+            }
+          ],
+          [
+            {
+              "name": "Artur Jędrzejczyk",
+              "slot": 0
+            },
+            {
+              "name": "Michał Pazdan",
+              "slot": 1
+            },
+            {
+              "name": "Kamil Glik"
+            },
+            {
+              "name": "Łukasz Piszczek"
+            }
+          ],
+          [
+            {
+              "name": "Łukasz Fabiański"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-20",
+      "factKey": "zaglebie-wisla-plock:2026-09-20:away-scorers",
+      "format": "fact",
+      "prompt": "Zagłębie Lubin – Wisła Płock, 20 września 2026 (0:2): którzy dwaj napastnicy zdobyli bramki dla Nafciarzy?",
+      "answerParts": [
+        "Łukasz Sekulski",
+        "Saïd Hamulić"
+      ],
+      "subjects": [
+        "player:lukasz-sekulski",
+        "player:said-hamulic"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — oficjalne statystyki meczu",
+          "url": "https://fantasy.ekstraklasa.org/stats-game/81",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-20"
+    },
+    {
+      "id": "2026-10-09-21",
+      "factKey": "marco-delvecchio:portrait",
+      "format": "photo",
+      "prompt": "Jak nazywa się były piłkarz przedstawiony na portrecie?",
+      "answerParts": [
+        "Marco Delvecchio"
+      ],
+      "subjects": [
+        "player:marco-delvecchio"
+      ],
+      "sources": [
+        {
+          "title": "Fotografia zawodnika — dane autora",
+          "url": "https://commons.wikimedia.org/wiki/File:KL-2018_(16)_(cropped).jpg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d09-delvecchio.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:KL-2018_(16)_(cropped).jpg",
+        "credit": "Антон Зайцев",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 303,
+        "height": 386,
+        "alt": "Twarz byłego piłkarza; kadr bez narodowych i klubowych oznaczeń.",
+        "crop": [
+          77,
+          18,
+          120,
+          141
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-22",
+      "factKey": "mohamed-zidan:career-2007-2012",
+      "format": "career",
+      "prompt": "Rozpoznaj piłkarza po tej klubowej ścieżce z lat 2007–2012.",
+      "answerParts": [
+        "Mohamed Zidan"
+      ],
+      "subjects": [
+        "player:mohamed-zidan"
+      ],
+      "sources": [
+        {
+          "title": "Borussia Dortmund — transfer i poprzednie kluby zawodnika",
+          "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Mohamed-Zidan-wechselt-zum-1.-FSV-Mainz-05.html",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        },
+        {
+          "title": "Mohamed Zidan — historia kariery",
+          "url": "https://en.wikipedia.org/wiki/Mohamed_Zidan",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Mainz 05",
+          "years": "2007",
+          "media": {
+            "path": "assets/08.png",
+            "source": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "credit": "1. FSV Mainz 05",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 893,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hamburger SV",
+          "years": "2007–2008",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 711,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Borussia Dortmund",
+          "years": "2008–2012",
+          "media": {
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 961,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Mainz 05",
+          "years": "2012",
+          "media": {
+            "path": "assets/08.png",
+            "source": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "credit": "1. FSV Mainz 05",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 893,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Kolejne kluby pierwszych drużyn, 2007–2012; wcześniejsze lata pominięto."
+    },
+    {
+      "id": "2026-10-09-23",
+      "factKey": "otto-rehhagel:kaiserslautern-1998-greece-2004",
+      "format": "coach",
+      "prompt": "Który trener zdobył mistrzostwo Niemiec z beniaminkiem Kaiserslautern w 1998 roku, a sześć lat później wygrał Euro z Grecją?",
+      "answerParts": [
+        "Otto Rehhagel"
+      ],
+      "subjects": [
+        "coach:otto-rehhagel"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — historia kariery selekcjonera Grecji",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7b4528b42b-6ec40296fd8e-1000--rehhagel-recipe-revealed/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-24",
+      "factKey": "heidenheim:crest-fragment",
+      "format": "crest",
+      "prompt": "Z którego niemieckiego klubu pochodzi ten fragment herbu? Nazwę celowo pominięto.",
+      "answerParts": [
+        "1. FC Heidenheim 1846"
+      ],
+      "subjects": [
+        "club:heidenheim"
+      ],
+      "sources": [
+        {
+          "title": "Pełny herb i nazwa klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:1._FC_Heidenheim_1846.svg",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/05.png",
+        "source": "https://commons.wikimedia.org/wiki/File:1._FC_Heidenheim_1846.svg",
+        "credit": "1. FC Heidenheim",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FC_Heidenheim_1846.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 1185,
+        "alt": "Fragment tarczy z czerwonym kołem i białymi literami FCH.",
+        "crop": [
+          15,
+          287,
+          930,
+          890
+        ]
+      }
+    },
+    {
+      "id": "2026-10-09-25",
+      "factKey": "forest-coventry:2026-09-19:goal-and-goalkeeper-assist",
+      "format": "fact",
+      "prompt": "Nottingham Forest – Coventry City, 19 września 2026 (0:1): kto strzelił zwycięskiego gola i który bramkarz zaliczył asystę?",
+      "answerParts": [
+        "Jay Dasilva — gol",
+        "Carl Rushworth — asysta"
+      ],
+      "subjects": [
+        "player:jay-dasilva",
+        "player:carl-rushworth"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — relacja z meczu",
+          "url": "https://www.premierleague.com/en/news/4721218",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-19"
+    },
+    {
+      "id": "2026-10-09-26",
+      "factKey": "mata-silva:shared-club-2007-2010",
+      "format": "shared-club",
+      "prompt": "W którym klubie Juan Mata i David Silva byli kolegami z pierwszej drużyny w latach 2007–2010?",
+      "answerParts": [
+        "Valencia CF"
+      ],
+      "subjects": [
+        "club:valencia"
+      ],
+      "sources": [
+        {
+          "title": "Valencia CF — wspólna gra Silvy i Maty",
+          "url": "https://www.valenciacf.com/va-david-silva-un-mag-format-al-valencia-cf-2023-09-26",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-27",
+      "factKey": "zvjezdan-misimovic:birth-country-senior-team",
+      "format": "country",
+      "prompt": "Zvjezdan Misimović: podaj kraj urodzenia oraz reprezentację narodową, w której występował jako senior.",
+      "answerParts": [
+        "RFN (obecnie Niemcy)",
+        "Bośnia i Hercegowina"
+      ],
+      "subjects": [
+        "player:zvjezdan-misimovic"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — miejsce urodzenia i reprezentacja",
+          "url": "https://www.uefa.com/news-media/news/01ef-0f86222d2a7e-0d6db2a0c556-1000--misimovic-makes-move-to-dinamo-moskva/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-28",
+      "factKey": "wisla-panathinaikos:2005-08-09:home-scorers",
+      "format": "fact",
+      "prompt": "Wisła Kraków – Panathinaikos, 9 sierpnia 2005 (3:1): wymień wszystkich trzech strzelców Wisły.",
+      "answerParts": [
+        "Paweł Brożek",
+        "Kalu Uche",
+        "Tomasz Frankowski"
+      ],
+      "subjects": [
+        "player:pawel-brozek",
+        "player:kalu-uche",
+        "player:tomasz-frankowski"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — relacja z pierwszego meczu kwalifikacji",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0ea9f9392c49-440153dfc23f-1000--wisla-seal-classy-comeback-win/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "instruction": "Podaj trzy nazwiska; kolejność dowolna."
+    },
+    {
+      "id": "2026-10-09-29",
+      "factKey": "pedro-mendes:portsmouth-rangers:2008:3-8m-eur",
+      "format": "transfer",
+      "prompt": "Sierpień 2008: Portsmouth → Rangers za raportowane 3,8 mln euro. Ten portugalski pomocnik wcześniej grał w Porto i Tottenhamie. Kto to?",
+      "answerParts": [
+        "Pedro Mendes"
+      ],
+      "subjects": [
+        "player:pedro-mendes"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — transfer do Rangers i poprzednie kluby",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01d0-0e6faa051d14-67f2881d1fa0-1000--pompey-pick-up-thomas-mendes-goes/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-30",
+      "factKey": "monaco-porto:2004-cl-final:all-scorers",
+      "format": "fact",
+      "prompt": "Finał Ligi Mistrzów 2004, Monaco – Porto (0:3): wymień wszystkich trzech strzelców bramek.",
+      "answerParts": [
+        "Carlos Alberto",
+        "Deco",
+        "Dmitrij Aleniczew (Dmitri Alenichev)"
+      ],
+      "subjects": [
+        "player:carlos-alberto-1984",
+        "player:deco",
+        "player:dmitri-alenichev"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — finał Monaco – Porto",
+          "url": "https://www.uefa.com/uefachampionsleague/news/019d-0e6ae5999141-82ce41064ec4-1000--porto-perform-to-perfection/",
+          "checkedAt": "2026-10-09T13:12:20.493Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": []
+    }
+  ]
+}
