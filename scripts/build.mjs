@@ -97,7 +97,8 @@ for (const s of [...daily,...samples]) for (const q of s.questions) {
 }
 const data = JSON.stringify({ preview, sessions }).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
 const [template, css, js] = await Promise.all(['src/index.html', 'src/style.css', 'src/app.js'].map(p => readFile(resolve(root, p), 'utf8')));
-const html = template.replace('/*__STYLE__*/', () => css).replace('/*__APP__*/', () => js).replace('__DATA__', () => data);
+const logo = await readFile(resolve(root, 'assets/young-power-family.png'));
+const html = template.replace('/*__STYLE__*/', () => css).replace('/*__APP__*/', () => js).replace('__DATA__', () => data).replace('__LOGO__', () => `data:image/png;base64,${logo.toString('base64')}`);
 await mkdir(output, { recursive: true });
 await writeFile(resolve(output, 'index.html'), html);
 await writeFile(resolve(output, '.nojekyll'), '');
