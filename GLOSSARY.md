@@ -57,7 +57,7 @@ A question asking the member to identify a player or coach from a photograph. Pl
 A question asking which club named players were teammates at during overlapping spells.
 
 **Transfer clues**:
-A question asking the member to identify a player from a transfer's year, selling club, buying club, and reported fee.
+A question asking the member to identify a player from a transfer's year and the selling and buying clubs' badges, optionally with a sourced reported fee or other clue.
 
 **Transfer history**:
 A question asking the member to identify a player from a sequence of club badges and dates in their career.

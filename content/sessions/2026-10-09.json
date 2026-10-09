@@ -87,7 +87,18 @@
         {
           "club": "West Ham United",
           "years": "2008–2011",
-          "missing": 0
+          "missing": 0,
+          "media": {
+            "path": "assets/badge-west-ham.png",
+            "source": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+            "credit": "West Ham United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 280,
+            "alt": "Herb klubu"
+          }
         },
         {
           "club": "Fiorentina",
@@ -404,7 +415,18 @@
         {
           "club": "Juventus",
           "years": "2007–2011",
-          "missing": 0
+          "missing": 0,
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          }
         },
         {
           "club": "VfL Wolfsburg",
@@ -748,7 +770,7 @@
       "id": "2026-10-09-18",
       "factKey": "faubert:west-ham-real-madrid:2009-loan",
       "format": "transfer",
-      "prompt": "Zimą 2009 Real Madryt wypożyczył z West Hamu francuskiego zawodnika, który wcześniej grał w Bordeaux. Podaj jego nazwisko.",
+      "prompt": "Którego francuskiego zawodnika wypożyczono w tym ruchu? Wcześniej grał w Bordeaux.",
       "answerParts": [
         "Julien Faubert"
       ],
@@ -763,7 +785,39 @@
         }
       ],
       "difficulty": "trudne",
-      "tags": []
+      "tags": [],
+      "transfer": {
+        "year": 2009,
+        "detail": "Zima · wypożyczenie",
+        "from": {
+          "club": "West Ham United",
+          "media": {
+            "path": "assets/badge-west-ham.png",
+            "source": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+            "credit": "West Ham United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 280,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Real Madryt",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        }
+      }
     },
     {
       "id": "2026-10-09-19",
@@ -1157,7 +1211,7 @@
       "id": "2026-10-09-29",
       "factKey": "pedro-mendes:portsmouth-rangers:2008:3-8m-eur",
       "format": "transfer",
-      "prompt": "Sierpień 2008: Portsmouth → Rangers za raportowane 3,8 mln euro. Ten portugalski pomocnik wcześniej grał w Porto i Tottenhamie. Kto to?",
+      "prompt": "Rozpoznaj portugalskiego pomocnika z tego transferu. Wcześniej grał w Porto i Tottenhamie.",
       "answerParts": [
         "Pedro Mendes"
       ],
@@ -1172,7 +1226,39 @@
         }
       ],
       "difficulty": "trudne",
-      "tags": []
+      "tags": [],
+      "transfer": {
+        "year": 2008,
+        "detail": "Sierpień · raportowane 3,8 mln euro",
+        "from": {
+          "club": "Portsmouth",
+          "media": {
+            "path": "assets/badge-portsmouth.png",
+            "source": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+            "credit": "Portsmouth Football Club",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Rangers",
+          "media": {
+            "path": "assets/badge-rangers.png",
+            "source": "https://en.wikipedia.org/wiki/File:Rangers_FC.svg",
+            "credit": "Rangers",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Rangers_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      }
     },
     {
       "id": "2026-10-09-30",

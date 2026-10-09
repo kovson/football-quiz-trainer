@@ -110,7 +110,18 @@
         {
           "club": "Borussia Mönchengladbach",
           "years": "2011–2013",
-          "missing": 0
+          "missing": 0,
+          "media": {
+            "path": "assets/badge-gladbach.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_M%C3%B6nchengladbach_logo.svg",
+            "credit": "Borussia Mönchengladbach",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_M%C3%B6nchengladbach_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 400,
+            "alt": "Herb klubu"
+          }
         }
       ],
       "careerCaption": "Kolejne kluby pierwszych drużyn w latach 2001–2013."
@@ -276,7 +287,18 @@
         {
           "club": "Racing Santander",
           "years": "2007–2009",
-          "missing": 0
+          "missing": 0,
+          "media": {
+            "path": "assets/badge-racing.png",
+            "source": "https://en.wikipedia.org/wiki/File:Racing_de_Santander_logo.svg",
+            "credit": "Racing Santander",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Racing_de_Santander_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 349,
+            "alt": "Herb klubu"
+          }
         }
       ],
       "careerCaption": "Kluby, z którymi zawodnik był związany w latach 2000–2009; wypożyczenie w sezonie 2008/09 pominięto."
@@ -493,7 +515,18 @@
         {
           "club": "Fulham",
           "years": "2012–2013",
-          "missing": 0
+          "missing": 0,
+          "media": {
+            "path": "assets/badge-fulham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "credit": "Fulham F.C.",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
         }
       ],
       "careerCaption": "Trzy kolejne etapy kariery seniorskiej."
@@ -1033,7 +1066,7 @@
       "id": "2026-10-08-26",
       "factKey": "boumsong:rangers-newcastle:2005:8m-gbp",
       "format": "transfer",
-      "prompt": "Styczeń 2005: Rangers → Newcastle United, raportowana kwota 8 mln funtów. O którego francuskiego obrońcę chodzi?",
+      "prompt": "Który francuski obrońca zmienił klub w tym transferze?",
       "answerParts": [
         "Jean-Alain Boumsong"
       ],
@@ -1048,7 +1081,39 @@
         }
       ],
       "difficulty": "trudne",
-      "tags": []
+      "tags": [],
+      "transfer": {
+        "year": 2005,
+        "detail": "Styczeń · raportowane 8 mln funtów",
+        "from": {
+          "club": "Rangers",
+          "media": {
+            "path": "assets/badge-rangers.png",
+            "source": "https://en.wikipedia.org/wiki/File:Rangers_FC.svg",
+            "credit": "Rangers",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Rangers_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Newcastle United",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        }
+      }
     },
     {
       "id": "2026-10-08-27",

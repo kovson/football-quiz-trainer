@@ -86,8 +86,13 @@ for (const s of [...daily,...samples]) for (const q of s.questions) {
     for (const step of q.career) {
       if (!nonempty(step.club) || !nonempty(step.years) || (step.missing !== undefined && (!Number.isInteger(step.missing) || q.answerParts[step.missing] !== step.club))) fail(`Invalid career step: ${q.id}`);
       if (step.media) await embed(step.media);
-      else if (step.missing === undefined) fail(`Career step needs a badge: ${q.id}`);
+      else fail(`Career step needs a badge, including hidden answers: ${q.id}`);
     }
+  }
+  if (q.transfer) {
+    const move=q.transfer;
+    if (q.format !== 'transfer' || !Number.isInteger(move.year) || move.year < 1850 || move.year > Number(s.date.slice(0,4)) || (move.detail !== undefined && !nonempty(move.detail)) || !nonempty(move.from?.club) || !nonempty(move.to?.club) || move.from.club === move.to.club) fail(`Invalid transfer: ${q.id}`);
+    for (const club of [move.from,move.to]) await embed(club.media);
   }
 }
 const data = JSON.stringify({ preview, sessions }).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
