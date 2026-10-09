@@ -36,7 +36,10 @@ Publishing a previously used question, including one that merely changes its wor
 ### Question formats
 
 **Career riddle**:
-A question asking the member to identify a footballer from clues about their life and playing career.
+A question asking the member to identify a footballer from a short written summary of their life and playing career.
+
+**Shared coach**:
+A question asking the member to identify a coach who coached each of the named players, potentially at different clubs or times.
 
 **Club riddle**:
 A question asking the member to identify a club from clues about its players, history, fortunes, or crest.

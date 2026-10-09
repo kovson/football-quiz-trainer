@@ -1,4 +1,4 @@
-# Poza boiskiem
+# Football quiz trainer
 
 Static, Polish football knowledge trainer. Thirty shared questions per session, mental recall followed by answer reveal, and browser-local progress.
 
@@ -26,7 +26,7 @@ Public site: https://kovson.github.io/football-quiz-trainer/
 
 The `Publish training` workflow validates and builds the app on pushes to `main`, manual runs, and daily at 07:00 Europe/Warsaw, including daylight-saving changes. GitHub's scheduler can run late. Only released daily sessions appear on the public site; local samples are excluded. The reviewed replacement sample was promoted to the first session, dated 8 October 2026.
 
-Author new Polish content on the Mac, save a complete dated JSON file under `content/sessions/` with `publishAt` at 07:00 Warsaw time, run `npm test` and `npm run build`, then commit and push. An early push keeps tomorrow's session hidden until its release; a late push publishes eligible content immediately. Previous sessions remain in the archive.
+Follow [question-authoring rules](docs/question-authoring.md). Author new Polish content on the Mac, save a complete dated JSON file under `content/sessions/` with `publishAt` at 07:00 Warsaw time, run `npm test` and `npm run build`, then commit and push. An early push keeps tomorrow's session hidden until its release; a late push publishes eligible content immediately. Previous sessions remain in the archive.
 
 ## Project status
 

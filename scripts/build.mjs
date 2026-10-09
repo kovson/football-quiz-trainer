@@ -14,7 +14,7 @@ const validDate = value => /^\d{4}-\d{2}-\d{2}$/.test(value) && new Date(`${valu
 const instant = value => nonempty(value) && /(?:Z|[+-]\d{2}:\d{2})$/.test(value) && Number.isFinite(Date.parse(value));
 const day = date => Date.parse(`${date}T12:00:00Z`) / 86400000;
 const warsawDate = date => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(date);
-const formats = new Set(['career', 'career-gap', 'photo', 'lineup', 'fact', 'result', 'coach', 'shared-club', 'transfer', 'club-riddle', 'crest', 'country', 'stadium', 'true-false', 'kit']);
+const formats = new Set(['career', 'career-gap', 'career-riddle', 'coach-link', 'photo', 'lineup', 'fact', 'result', 'coach', 'shared-club', 'transfer', 'club-riddle', 'crest', 'country', 'stadium', 'true-false', 'kit']);
 
 async function load(directory) {
   let names;
@@ -32,7 +32,7 @@ function validate(sessions) {
     if (!Array.isArray(s.questions) || s.questions.length !== 30) fail(`Session ${s.id} must contain exactly 30 questions`);
     const inSession = new Set();
     for (const q of s.questions) {
-      if (!nonempty(q.id) || !nonempty(q.factKey) || !nonempty(q.prompt) || !formats.has(q.format) || !['łatwe', 'średnie', 'trudne'].includes(q.difficulty) || !Array.isArray(q.tags) || !q.tags.every(nonempty) || !Array.isArray(q.subjects) || !q.subjects.length || !q.subjects.every(nonempty) || !Array.isArray(q.answerParts) || !q.answerParts.length || !q.answerParts.every(nonempty)) fail(`Incomplete question: ${q.id}`);
+      if (!nonempty(q.id) || !nonempty(q.factKey) || !nonempty(q.prompt) || !formats.has(q.format) || !['łatwe', 'średnie', 'trudne', 'bardzo trudne'].includes(q.difficulty) || !Array.isArray(q.tags) || !q.tags.every(nonempty) || !Array.isArray(q.subjects) || !q.subjects.length || !q.subjects.every(nonempty) || !Array.isArray(q.answerParts) || !q.answerParts.length || !q.answerParts.every(nonempty)) fail(`Incomplete question: ${q.id}`);
       const normalized = q.prompt.toLocaleLowerCase('pl').replace(/\s+/g, ' ').trim();
       if (ids.has(q.id) || facts.has(q.factKey) || prompts.has(normalized)) fail(`Duplicate question or fact: ${q.id}`);
       ids.add(q.id); facts.add(q.factKey); prompts.add(normalized);

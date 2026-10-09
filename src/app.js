@@ -5,7 +5,7 @@
   const escape = value => String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
   const today = () => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(new Date());
   const dateLabel = date => new Intl.DateTimeFormat('pl-PL', { day:'numeric', month:'long', year:'numeric', timeZone:'Europe/Warsaw' }).format(new Date(`${date}T12:00:00Z`));
-  const formats = { career:'Ścieżka kariery', 'career-gap':'Luka w karierze', photo:'Kto jest na zdjęciu?', lineup:'Brakujące ogniwa', fact:'Piłkarskie fakty', result:'Wynik meczu', coach:'Na ławce', 'shared-club':'Wspólny klub', transfer:'Rynek transferowy', 'club-riddle':'Jaki to klub?', crest:'Rozpoznaj herb', country:'Piłkarska geografia', stadium:'Stadiony', 'true-false':'Prawda czy fałsz?', kit:'Barwy klubowe' };
+  const formats = { career:'Ścieżka kariery', 'career-gap':'Luka w karierze', 'career-riddle':'Zagadka kariery', 'coach-link':'Wspólny trener', photo:'Kto jest na zdjęciu?', lineup:'Brakujące ogniwa', fact:'Piłkarskie fakty', result:'Wynik meczu', coach:'Na ławce', 'shared-club':'Wspólny klub', transfer:'Rynek transferowy', 'club-riddle':'Jaki to klub?', crest:'Rozpoznaj herb', country:'Piłkarska geografia', stadium:'Stadiony', 'true-false':'Prawda czy fałsz?', kit:'Barwy klubowe' };
   let session = sessions.find(s => s.kind === 'daily' && s.date === today()) ?? sessions[0];
   let state, persistent = true;
   function storageProblem() { persistent = false; el('storage-warning').hidden = false; el('local-note').textContent = 'Postęp jest teraz przechowywany tylko do zamknięcia lub odświeżenia strony.'; }
@@ -44,11 +44,10 @@
     return `<details class="image-credits"><summary>Źródła zdjęć i herbów</summary>${media.map(m => `<p><a href="${escape(m.source)}" target="_blank" rel="noopener noreferrer">${escape(m.credit)}</a> · <a href="${escape(m.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escape(m.license)}</a> · ${escape(m.changes)}</p>`).join('')}</details>`;
   }
   function render() {
-    el('edition-date').textContent = dateLabel(today()).toLocaleUpperCase('pl');
     el('sample-notice').hidden = !preview;
     el('waiting').hidden = preview || sessions.some(s => s.kind === 'daily' && s.date === today());
-    el('session-label').textContent = session ? `${session.kind === 'sample' ? 'Trening próbny' : dateLabel(session.date)} · ${session.title}` : 'Codzienny trening';
-    el('archive-list').innerHTML = sessions.map(s => `<button data-session="${escape(s.id)}">${escape(s.title)} · ${s.kind === 'sample' ? 'Zestaw próbny' : escape(dateLabel(s.date))} · 30 pytań</button>`).join('') || '<p>Archiwum pojawi się po pierwszym treningu.</p>';
+    el('session-label').textContent = session ? (session.kind === 'sample' ? 'Trening próbny' : dateLabel(session.date)) : 'Trening piłkarski';
+    el('archive-list').innerHTML = sessions.map(s => `<button data-session="${escape(s.id)}">${s.kind === 'sample' ? 'Zestaw próbny' : escape(dateLabel(s.date))} · 30 pytań</button>`).join('') || '<p>Archiwum pojawi się po pierwszym treningu.</p>';
     el('training').hidden = !session;
     el('empty').hidden = Boolean(session);
     if (!session) return;
