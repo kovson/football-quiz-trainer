@@ -1,0 +1,1415 @@
+{
+  "id": "2026-10-11",
+  "kind": "daily",
+  "title": "Trening głowy · 11 października 2026",
+  "date": "2026-10-11",
+  "publishAt": "2026-10-11T07:00:00+02:00",
+  "researchedAt": "2026-10-10T22:44:20.756Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-11"
+  },
+  "questions": [
+    {
+      "id": "2026-10-11-01",
+      "factKey": "bartosz-bosacki:photo",
+      "format": "photo",
+      "prompt": "Jak nazywa się ten polski zawodnik?",
+      "answerParts": [
+        "Bartosz Bosacki"
+      ],
+      "subjects": [
+        "player:bartosz-bosacki"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Bartosz_Bosacki_2011.jpg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "path": "assets/d11-bosacki.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bartosz_Bosacki_2011.jpg",
+        "credit": "Roger Gorączniak",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 1600,
+        "height": 1067,
+        "crop": [
+          575,
+          85,
+          410,
+          575
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowych i narodowych oznaczeń."
+      }
+    },
+    {
+      "factKey": "jerzy-dudek:feyenoord-liverpool-2001",
+      "format": "transfer",
+      "prompt": "Który polski bramkarz wykonał ten transfer?",
+      "answerParts": [
+        "Jerzy Dudek"
+      ],
+      "subjects": [
+        "player:jerzy-dudek"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "holandia",
+        "premier-league",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2001,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Feyenoord",
+          "media": {
+            "id": "18",
+            "path": "assets/18.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "credit": "Feyenoord Rotterdam N.V.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "UEFA — Jerzy Dudek: kluby i przejście do Liverpoolu w sierpniu 2001",
+          "url": "https://es.uefa.com/uefaeuropaleague/news/0218-0e8b8d5ac131-003da7824d3a-1000--embajador-de-la-final-de-la-europa-league-jerzy-dudek/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-02"
+    },
+    {
+      "factKey": "cracovia:2026-10-10:late-98-and-108-minute-comeback",
+      "format": "fact",
+      "prompt": "Który klub Ekstraklasy 10 października 2026 przegrywał do przerwy z Zagłębiem Lubin, ale wygrał 3:1, zdobywając dwa z goli w doliczonym czasie drugiej połowy — w 98. i 108. minucie?",
+      "answerParts": [
+        "Cracovia"
+      ],
+      "subjects": [
+        "club:cracovia"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — Cracovia 3:1 Zagłębie, gole w doliczonym czasie",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-cracovia-31-kghm-zaglebie-lubin-dublet-z-rzutow-karnych/",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "season",
+        "recent"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "id": "2026-10-11-03"
+    },
+    {
+      "factKey": "mousa-dembele:selected-career-2005-2019",
+      "format": "career",
+      "prompt": "Rozpoznaj piłkarza po czterech etapach kariery z lat 2005–2019.",
+      "answerParts": [
+        "Mousa Dembélé"
+      ],
+      "subjects": [
+        "player:mousa-dembele"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "holandia",
+        "belgia",
+        "premier-league",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Willem II",
+          "years": "2005–2006",
+          "media": {
+            "path": "assets/d11-badge-willem.png",
+            "source": "https://en.wikipedia.org/wiki/File:Willem_II_logo.svg",
+            "credit": "Willem II",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Willem_II_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 426,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "AZ",
+          "years": "2006–2010",
+          "media": {
+            "path": "assets/d11-badge-az.png",
+            "source": "https://commons.wikimedia.org/wiki/File:AZ_Alkmaar.svg",
+            "credit": "Autor nieznany",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:AZ_Alkmaar.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 123,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Fulham",
+          "years": "2010–2012",
+          "media": {
+            "path": "assets/badge-fulham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "credit": "Fulham F.C.",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Tottenham",
+          "years": "2012–2019",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Willem II pozyskuje Dembélé w czerwcu 2005",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01aa-0e6cf6ba8225-850dc73c9fb6-1000--willem-ii-win-dembele-signature/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "UEFA — przejście z Willem II do AZ latem 2006",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01be-0ea89e32a157-efbc49c7db70-1000--dembele-extends-az-deal/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Tottenham — przyjście z Fulham w 2012, wcześniejsze przyjście do Fulham w 2010",
+          "url": "https://www.tottenhamhotspur.com/news/1043825/dembele-deal-agreed",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Tottenham — odejście Dembélé w styczniu 2019",
+          "url": "https://www.tottenhamhotspur.com/news/996167/dembele-to-guangzhou-rf",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "careerCaption": "Cztery kolejne etapy kariery w pierwszych drużynach, 2005–2019.",
+      "id": "2026-10-11-04"
+    },
+    {
+      "id": "2026-10-11-05",
+      "factKey": "motherwell:crest",
+      "format": "crest",
+      "prompt": "Podaj klub ukryty za tym fragmentem herbu.",
+      "answerParts": [
+        "Motherwell FC"
+      ],
+      "subjects": [
+        "club:motherwell"
+      ],
+      "sources": [
+        {
+          "title": "Źródło herbu — identyfikacja klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:Motherwell_FC_crest.svg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-motherwell.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Motherwell_FC_crest.svg",
+        "credit": "Motherwell F.C.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 1280,
+        "height": 1280,
+        "crop": [
+          310,
+          285,
+          660,
+          715
+        ],
+        "alt": "Fragment tarczy: drzewa, piłka i fabryka w bordowo-żółtych barwach."
+      }
+    },
+    {
+      "factKey": "gudjohnsen:father-son:iceland-estonia-1996-substitution",
+      "format": "fact",
+      "prompt": "24 kwietnia 1996 w meczu Islandii z Estonią 17-letni debiutant wszedł na boisko za swojego ojca. Podaj imiona i wspólne nazwisko obu piłkarzy: najpierw ojca, potem syna.",
+      "answerParts": [
+        "Arnór Guðjohnsen (Gudjohnsen)",
+        "Eiður Guðjohnsen (Eidur Gudjohnsen)"
+      ],
+      "subjects": [
+        "player:arnor-gudjohnsen",
+        "player:eidur-gudjohnsen"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — debiut syna jako zmiennika ojca, 24 kwietnia 1996",
+          "url": "https://www.uefa.com/european-qualifiers/news/0253-0d7ef1f6954d-558f334ec3af-1000--gudjohnsen-calls-time-on-iceland-career/",
+          "checkedAt": "2026-10-10T22:38:21.787Z"
+        }
+      ],
+      "id": "2026-10-11-06"
+    },
+    {
+      "factKey": "dick-advocaat:vanbronckhorst-strootman-arshavin",
+      "format": "coach-link",
+      "prompt": "Van Bronckhorst, Strootman i Arshavin: kto prowadził całą trójkę w podanych klubach i sezonach?",
+      "answerParts": [
+        "Dick Advocaat"
+      ],
+      "subjects": [
+        "coach:dick-advocaat"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trener",
+        "holandia",
+        "szkocja",
+        "rosja"
+      ],
+      "clues": [
+        "Giovanni van Bronckhorst — Rangers, 1999/00",
+        "Kevin Strootman — PSV, 2012/13",
+        "Andrey Arshavin — Zenit, 2007/08"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Advocaat, van Bronckhorst w Rangers 1999/00 oraz Arshavin w Zenicie 2007/08",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01cb-0e6f2a9358ca-64de303e2e4b-1000--skibbe-ready-for-advocaat-rematch/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "PSV — Strootman i trener Advocaat w styczniu 2013",
+          "url": "https://www.psv.nl/media/artikel/advocaat-twee-verschillende-stijlen",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-07"
+    },
+    {
+      "id": "2026-10-11-08",
+      "factKey": "de-kuip:stadium",
+      "format": "stadium",
+      "prompt": "Jaki stadion pokazano z lotu ptaka? Podaj także miasto.",
+      "answerParts": [
+        "De Kuip",
+        "Rotterdam"
+      ],
+      "subjects": [
+        "stadium:de-kuip"
+      ],
+      "sources": [
+        {
+          "title": "Źródło ilustracji — identyfikacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:De_Kuip_Rotterdam_The_Netherlands.jpg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-dekuip.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:De_Kuip_Rotterdam_The_Netherlands.jpg",
+        "credit": "R.M.Jaarsma",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+        "width": 1632,
+        "height": 1224,
+        "alt": "Widok stadionu; bez identyfikujących nazw i herbów."
+      }
+    },
+    {
+      "factKey": "givairo-read:2026-10-09:first-50-eredivisie-defender-assists",
+      "format": "fact",
+      "prompt": "Który prawy obrońca Feyenoordu, wyróżniony 9 października 2026 nagrodą Talentu Września im. Johana Cruyffa, zanotował 13 asyst w pierwszych 50 występach w Eredivisie — najwięcej w takim początku kariery wśród obrońców w tym stuleciu?",
+      "answerParts": [
+        "Givairo Read"
+      ],
+      "subjects": [
+        "player:givairo-read"
+      ],
+      "sources": [
+        {
+          "title": "Eredivisie — Talent Września Givairo Read i rekord asyst",
+          "url": "https://eredivisie.com/news/read-jctvdm-sep/",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-09",
+      "id": "2026-10-11-09"
+    },
+    {
+      "factKey": "demba-ba:career-gap-besiktas-2014-2015",
+      "format": "career-gap",
+      "prompt": "Demba Ba: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "Beşiktaş"
+      ],
+      "subjects": [
+        "club:besiktas"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "premier-league",
+        "turcja",
+        "chiny",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Newcastle United",
+          "years": "2011–2013",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Chelsea",
+          "years": "2013–2014",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Beşiktaş",
+          "years": "2014–2015",
+          "missing": 0,
+          "media": {
+            "path": "assets/d11-badge-besiktas.png",
+            "source": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "credit": "Unknown authorUnknown author",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 415,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Shanghai Shenhua",
+          "years": "2015 · transfer",
+          "media": {
+            "path": "assets/d11-badge-shanghai.png",
+            "source": "https://en.wikipedia.org/wiki/File:Shanghai_Shenhua_F.C.svg",
+            "credit": "Shanghai Shenhua",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Shanghai_Shenhua_F.C.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 248,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Newcastle — Demba Ba w klubie w latach 2011–2013",
+          "url": "https://www.newcastleunited.com/en/news/demba-ba-announces-retirement",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Chelsea — Demba Ba w latach 2013–2014",
+          "url": "https://www.chelseafc.com/en/news/article/demba-ba-s-big-blue-moments",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Beşiktaş — pierwszy pobyt Ba w sezonie 2014/15 i powrót na wypożyczenie",
+          "url": "https://bjk.com.tr/en/news/68905/demba_ba_is_back_home.html",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Beşiktaş — transfer Ba do Shanghai Shenhua w czerwcu 2015",
+          "url": "https://bjk.com.tr/en/mobil/haber?news_id=62939",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "careerCaption": "Kolejne kluby od 2011 roku; brakujący etap to pierwszy pobyt w tym klubie. Przy ostatnim herbie podano rok transferu.",
+      "id": "2026-10-11-10"
+    },
+    {
+      "id": "2026-10-11-11",
+      "factKey": "tim-borowski:photo",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego piłkarza na tej fotografii.",
+      "answerParts": [
+        "Tim Borowski"
+      ],
+      "subjects": [
+        "player:tim-borowski"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Tim_Borowski_%E2%80%93_Tag_der_Legenden_2016_01.jpg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-borowski.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tim_Borowski_%E2%80%93_Tag_der_Legenden_2016_01.jpg",
+        "credit": "Frank Schwichtenberg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 1280,
+        "height": 1579,
+        "crop": [
+          300,
+          140,
+          590,
+          810
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowych i narodowych oznaczeń."
+      }
+    },
+    {
+      "factKey": "radoslaw-majewski:polonia-nottingham-2009",
+      "format": "transfer",
+      "prompt": "Który polski pomocnik przeniósł się między tymi klubami?",
+      "answerParts": [
+        "Radosław Majewski"
+      ],
+      "subjects": [
+        "player:radoslaw-majewski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "anglia",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Lato",
+        "from": {
+          "club": "Polonia Warszawa",
+          "media": {
+            "path": "assets/d09-polonia.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "credit": "BallOnTelly",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 411,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Nottingham Forest",
+          "media": {
+            "path": "assets/d11-badge-nottingham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Nottingham_Forest_F.C._logo.svg",
+            "credit": "Nottingham Forest",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Nottingham_Forest_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 532,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "PZPN — odejście Majewskiego z Polonii do Nottingham przed sierpniem 2009",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/nac-breda-polonia-warszawa-31-06082009",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-12"
+    },
+    {
+      "factKey": "amedspor:2026-10-10:super-lig-second-place-snapshot",
+      "format": "fact",
+      "prompt": "Süper Lig 2026/27, tabela po meczach 10 października: jaki klub zajmował drugie miejsce za Galatasaray z 14 punktami po siedmiu spotkaniach, po remisie 2:2 z Gençlerbirliği?",
+      "answerParts": [
+        "Amedspor (Amed Sportif Faaliyetler)"
+      ],
+      "subjects": [
+        "club:amedspor"
+      ],
+      "sources": [
+        {
+          "title": "TFF — oficjalna tabela i wyniki Süper Lig 2026/27",
+          "url": "https://www.tff.org/default.aspx?pageID=198",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "season",
+        "recent"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "id": "2026-10-11-13"
+    },
+    {
+      "factKey": "nihat-kahveci:career-riddle-sociedad-villarreal-besiktas",
+      "format": "career-riddle",
+      "prompt": "W sezonie 2002/03 tworzył w Real Sociedad duet z Darko Kovačeviciem, a ich zespół został wicemistrzem Hiszpanii. Po pobycie w Villarreal wrócił latem 2009 roku do Beşiktaşu, gdzie zaczynał karierę. O którego tureckiego napastnika chodzi?",
+      "answerParts": [
+        "Nihat Kahveci"
+      ],
+      "subjects": [
+        "player:nihat-kahveci"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "turcja",
+        "la-liga",
+        "zagadka-kariery"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Nihat i Kovačević, wicemistrzostwo Real Sociedad w 2003",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0195-0e6a7198ffdf-1c222fed32c7-1000--istanbul-beckons-for-nihat/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "UEFA — Nihat wraca w 2009 do Beşiktaşu po Real Sociedad i Villarreal",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01df-0e7355d87c2a-9cbcf91fd9f2-1000--real-nihat-ready-to-step-forward/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-14"
+    },
+    {
+      "factKey": "sevilla:2006-uefa-cup-final:castedo-escude-marti",
+      "format": "lineup",
+      "prompt": "Finał Pucharu UEFA 2006: uzupełnij trzy nazwiska w wyjściowej jedenastce Sevilli.",
+      "answerParts": [
+        "David Castedo",
+        "Julien Escudé",
+        "José Luis Martí"
+      ],
+      "subjects": [
+        "player:david-castedo",
+        "player:julien-escude",
+        "player:jose-luis-marti"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — wyjściowe składy finałów Sevilli",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0281-1812b378a6df-8ec4e172f0bc-1000--sevilla-s-seven-final-wins/",
+          "checkedAt": "2026-10-10T22:38:21.787Z"
+        },
+        {
+          "title": "UEFA — pełne nazwisko Davida Castedo w składzie finału",
+          "url": "https://es.uefa.com/uefachampionsleague/news/0241-0e9843f56044-309704b628df-1000--lo-mejor-del-sevilla-en-un-dia-muy-especial/",
+          "checkedAt": "2026-10-10T22:38:21.787Z"
+        }
+      ],
+      "lineup": {
+        "caption": "Middlesbrough – Sevilla, 10 maja 2006 · ustawienie 4–4–2",
+        "rows": [
+          [
+            {
+              "name": "Andrés Palop"
+            }
+          ],
+          [
+            {
+              "name": "David Castedo",
+              "slot": 0
+            },
+            {
+              "name": "Julien Escudé",
+              "slot": 1
+            },
+            {
+              "name": "Javi Navarro"
+            },
+            {
+              "name": "Dani Alves"
+            }
+          ],
+          [
+            {
+              "name": "Adriano"
+            },
+            {
+              "name": "Enzo Maresca"
+            },
+            {
+              "name": "José Luis Martí",
+              "slot": 2
+            },
+            {
+              "name": "Jesús Navas"
+            }
+          ],
+          [
+            {
+              "name": "Luís Fabiano"
+            },
+            {
+              "name": "Javier Saviola"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-11-15"
+    },
+    {
+      "id": "2026-10-11-16",
+      "factKey": "genk:crest",
+      "format": "crest",
+      "prompt": "Rozpoznaj belgijski klub po górnej części herbu.",
+      "answerParts": [
+        "KRC Genk"
+      ],
+      "subjects": [
+        "club:genk"
+      ],
+      "sources": [
+        {
+          "title": "Źródło herbu — identyfikacja klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:KRC_Genk_Logo_2016.svg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-genk.png",
+        "source": "https://commons.wikimedia.org/wiki/File:KRC_Genk_Logo_2016.svg",
+        "credit": "KRC Genk",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:KRC_Genk_Logo_2016.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 1280,
+        "height": 1606,
+        "crop": [
+          0,
+          0,
+          1280,
+          860
+        ],
+        "alt": "Fragment niebiesko-białej tarczy z pionowymi pasami."
+      }
+    },
+    {
+      "factKey": "milan-jovanovic:selected-career-standard-liverpool-anderlecht",
+      "format": "career",
+      "prompt": "Który piłkarz przeszedł tę drogę klubową, począwszy od 2006 roku?",
+      "answerParts": [
+        "Milan Jovanović"
+      ],
+      "subjects": [
+        "player:milan-jovanovic"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "belgia",
+        "premier-league",
+        "serbia",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Standard Liège",
+          "years": "2006–2010",
+          "media": {
+            "path": "assets/d11-badge-standard.png",
+            "source": "https://en.wikipedia.org/wiki/File:Standard_Li%C3%A8ge_logo.svg",
+            "credit": "Standard Liège",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Standard_Li%C3%A8ge_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 419,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Liverpool",
+          "years": "2010–2011",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Anderlecht",
+          "years": "2011 · transfer",
+          "media": {
+            "path": "assets/d11-badge-anderlecht.png",
+            "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "credit": "Anderlecht",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Jovanović dołącza do Standardu w lipcu 2006",
+          "url": "https://fr.uefa.com/uefachampionsleague/news/01b7-0e6d91398316-81a8f41c54c9-1000--le-standard-seduit-par-jovanovic/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Liverpool — Jovanović: sezon 2010–2011 i przejście do Anderlechtu",
+          "url": "https://www.liverpoolfc.com/info/milan-jovanovic/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery. Przy ostatnim klubie podano rok transferu.",
+      "id": "2026-10-11-17"
+    },
+    {
+      "factKey": "john-carver:2026-09-29:radomiak-appointment",
+      "format": "coach",
+      "prompt": "Który angielski trener, pracujący wcześniej w Lechii Gdańsk i w sztabie reprezentacji Szkocji, został 29 września 2026 ogłoszony nowym szkoleniowcem Radomiaka Radom?",
+      "answerParts": [
+        "John Carver"
+      ],
+      "subjects": [
+        "coach:john-carver"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — John Carver trenerem Radomiaka",
+          "url": "https://ekstraklasa.org/aktualnosci/httpsekstraklasaorgaktualnoscinumer-wrzesnia-lotto-2026-gornik-zabrze-7-zwyciestw-w-8-pierwszych-meczach-sezonu/",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-29",
+      "id": "2026-10-11-18"
+    },
+    {
+      "factKey": "tuncay-sanli:fenerbahce-middlesbrough-2007",
+      "format": "transfer",
+      "prompt": "Który turecki napastnik wykonał ten transfer?",
+      "answerParts": [
+        "Tuncay Şanlı"
+      ],
+      "subjects": [
+        "player:tuncay-sanli"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "turcja",
+        "premier-league",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2007,
+        "detail": "Bez odstępnego",
+        "from": {
+          "club": "Fenerbahçe",
+          "media": {
+            "path": "assets/d11-badge-fenerbahce.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+            "credit": "Fenerbahçe",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Middlesbrough",
+          "media": {
+            "path": "assets/d11-badge-middlesbrough.png",
+            "source": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+            "credit": "Middlesbrough",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "UEFA — Middlesbrough uzgadnia wolny transfer Tuncaya z Fenerbahçe w 2007",
+          "url": "https://www.uefa.com/news-media/news/0254-0d7ba186ba9f-9fb398a11a53-1000--middlesbrough-take-on-tuncay/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "UEFA — pierwszy sezon Tuncaya w Middlesbrough przed EURO 2008",
+          "url": "https://www.uefa.com/uefaeuro/history/news/025b-0f0b1823034c-c2412c4fb4a6-1000--euro-classics-turkey-3-2-czech-republic/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-19"
+    },
+    {
+      "id": "2026-10-11-20",
+      "factKey": "zdravko-kuzmanovic:photo",
+      "format": "photo",
+      "prompt": "Podaj imię i nazwisko zawodnika z tego portretu.",
+      "answerParts": [
+        "Zdravko Kuzmanović"
+      ],
+      "subjects": [
+        "player:zdravko-kuzmanovic"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Zdravko_Kuzmanovic.jpg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-kuzmanovic.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Zdravko_Kuzmanovic.jpg",
+        "credit": "Roberto Vicario",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 900,
+        "height": 600,
+        "crop": [
+          235,
+          0,
+          365,
+          505
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowych i narodowych oznaczeń."
+      }
+    },
+    {
+      "factKey": "kv-mechelen:cup-winners-cup-final-ajax-1988",
+      "format": "fact",
+      "prompt": "Który belgijski klub wygrał finał Pucharu Zdobywców Pucharów w 1988 roku, pokonując Ajax 1:0 w Strasburgu?",
+      "answerParts": [
+        "KV Mechelen"
+      ],
+      "subjects": [
+        "club:kv-mechelen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "belgia",
+        "puchar-zdobywcow-pucharow",
+        "lata-80",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "KV Mechelen — klubowy wykaz trofeów, finał PZP 1988 przeciw Ajaxowi",
+          "url": "https://kvmechelen.be/club/palmares/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-21"
+    },
+    {
+      "factKey": "shinji-ono:career-gap-bochum-2008-2010",
+      "format": "career-gap",
+      "prompt": "Shinji Ono: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "VfL Bochum"
+      ],
+      "subjects": [
+        "club:bochum"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "holandia",
+        "bundesliga",
+        "japonia",
+        "australia",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Feyenoord",
+          "years": "2001–2006",
+          "media": {
+            "id": "18",
+            "path": "assets/18.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "credit": "Feyenoord Rotterdam N.V.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Urawa Red Diamonds",
+          "years": "2006–2008",
+          "media": {
+            "path": "assets/d11-badge-urawa.png",
+            "source": "https://en.wikipedia.org/wiki/File:Urawa_Red_Diamonds_logo.svg",
+            "credit": "Urawa Red Diamonds",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Urawa_Red_Diamonds_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 324,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "VfL Bochum",
+          "years": "2008–2010",
+          "missing": 0,
+          "media": {
+            "path": "assets/d11-badge-bochum.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "credit": "VfL Bochum",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 264,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Shimizu S-Pulse",
+          "years": "2010–2012",
+          "media": {
+            "path": "assets/d11-badge-shimizu.png",
+            "source": "https://en.wikipedia.org/wiki/File:Shimizu_S-Pulse_logo.svg",
+            "credit": "Shimizu S-Pulse",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Shimizu_S-Pulse_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 322,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Western Sydney Wanderers",
+          "years": "2012–2014",
+          "media": {
+            "path": "assets/d11-badge-western-sydney.png",
+            "source": "https://en.wikipedia.org/wiki/File:Western_Sydney_Wanderers_Football_Club_logo.svg",
+            "credit": "Western Sydney Wanderers Football Club",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Western_Sydney_Wanderers_Football_Club_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 320,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Feyenoord — Ono w Rotterdamie od 2001 do 2006",
+          "url": "https://www.feyenoord.com/nl/news/feyenoord-verwelkomt-shinji-ono-bij-klassieker-in-de-kuip",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Urawa — transfer Ono do Bochum w styczniu 2008",
+          "url": "https://www.urawa-reds.co.jp/topteamtopics/29315/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "DFB — Ono w kadrze Bochum do stycznia 2010",
+          "url": "https://datencenter.dfb.de/en/bundesliga/2008-2009/team/vfl-bochum",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Western Sydney — przyjście Ono z Shimizu w 2012",
+          "url": "https://wswanderersfc.com.au/news/shinji-ono-join-wanderers/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "Western Sydney — zapowiedź zakończenia pobytu Ono w maju 2014",
+          "url": "https://wswanderersfc.com.au/news/shinji-ono-return-japan-seasons-end/",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "careerCaption": "Pięć kolejnych etapów kariery, 2001–2014. Drugi herb oznacza powrót do dawnego klubu.",
+      "id": "2026-10-11-22"
+    },
+    {
+      "factKey": "nicolo-tresoldi:2026-10-11:germany-u21-captain-16-goals-snapshot",
+      "format": "fact",
+      "prompt": "Stan z 11 października 2026 według Pro League: który napastnik Club Brugge był kapitanem reprezentacji Niemiec U21 i z 16 golami zajmował trzecie miejsce w jej historycznej klasyfikacji strzelców, za Pierre’em Littbarskim i Heiko Herrlichem?",
+      "answerParts": [
+        "Nicolò Tresoldi"
+      ],
+      "subjects": [
+        "player:nicolo-tresoldi"
+      ],
+      "sources": [
+        {
+          "title": "Pro League — Tresoldi i wydarzenia przerwy reprezentacyjnej",
+          "url": "https://www.proleague.be/fr/informations/stat-check-de-tresoldi-a-cvetkovic-cinq-belles-histoires-de-la-treve-internationale",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-11",
+      "id": "2026-10-11-23"
+    },
+    {
+      "id": "2026-10-11-24",
+      "factKey": "kantrida:stadium",
+      "format": "stadium",
+      "prompt": "Podaj nazwę i miasto stadionu z tej fotografii.",
+      "answerParts": [
+        "Kantrida",
+        "Rijeka"
+      ],
+      "subjects": [
+        "stadium:kantrida"
+      ],
+      "sources": [
+        {
+          "title": "Źródło ilustracji — identyfikacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Stadion-kantrida-rijeka_(1).jpg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-kantrida.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Stadion-kantrida-rijeka_(1).jpg",
+        "credit": "Antonio199cro",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 1233,
+        "height": 1024,
+        "crop": [
+          0,
+          120,
+          765,
+          830
+        ],
+        "alt": "Widok stadionu; bez identyfikujących nazw i herbów."
+      }
+    },
+    {
+      "factKey": "sinan-bolat:standard-az-2009:95th-minute-header",
+      "format": "fact",
+      "prompt": "Który bramkarz uratował Standard Liège w meczu z AZ Alkmaar 9 grudnia 2009? W 95. minucie zdobył głową gola na 1:1, dając klubowi trzecie miejsce w grupie Ligi Mistrzów i grę w Lidze Europy.",
+      "answerParts": [
+        "Sinan Bolat"
+      ],
+      "subjects": [
+        "player:sinan-bolat"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — gol głową w 95. minucie i awans Standardu do Ligi Europy",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01e0-0e73874dbb93-9198a21db03c-1000--bolat-dramatics-steal-the-show/",
+          "checkedAt": "2026-10-10T22:38:21.787Z"
+        },
+        {
+          "title": "UEFA — raport meczu Standard – AZ z 9 grudnia 2009",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f22c231c-315c47c98683-1000/",
+          "checkedAt": "2026-10-10T22:38:21.787Z"
+        }
+      ],
+      "id": "2026-10-11-25"
+    },
+    {
+      "factKey": "luc-nilis:anderlecht-psv-1994",
+      "format": "transfer",
+      "prompt": "Który belgijski napastnik wykonał ten transfer?",
+      "answerParts": [
+        "Luc Nilis"
+      ],
+      "subjects": [
+        "player:luc-nilis"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "belgia",
+        "holandia",
+        "lata-90",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 1994,
+        "detail": "Lato",
+        "from": {
+          "club": "Anderlecht",
+          "media": {
+            "path": "assets/d11-badge-anderlecht.png",
+            "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "credit": "Anderlecht",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "PSV",
+          "media": {
+            "path": "assets/d11-badge-psv.png",
+            "source": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "credit": "PSV",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 207,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "Anderlecht — Nilis przenosi się do PSV latem 1994",
+          "url": "https://www.rsca.be/nl/news/rsca-retro-luc-nilis-signa-un-triple-sclessin",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-26"
+    },
+    {
+      "id": "2026-10-11-27",
+      "factKey": "pogon-szczecin:crest",
+      "format": "crest",
+      "prompt": "Z którego klubu pochodzi ten gryf?",
+      "answerParts": [
+        "Pogoń Szczecin"
+      ],
+      "subjects": [
+        "club:pogon-szczecin"
+      ],
+      "sources": [
+        {
+          "title": "Źródło herbu — identyfikacja klubu",
+          "url": "https://en.wikipedia.org/wiki/File:Pogon_Szczecin_logo.svg",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "path": "assets/d11-pogon.png",
+        "source": "https://en.wikipedia.org/wiki/File:Pogon_Szczecin_logo.svg",
+        "credit": "Pogoń Szczecin",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Pogon_Szczecin_logo.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 1559,
+        "crop": [
+          150,
+          215,
+          660,
+          940
+        ],
+        "alt": "Złoty gryf na granatowo-bordowym tle."
+      }
+    },
+    {
+      "factKey": "diego-carlos:2026-10-10:inter-parma-var-penalty-foul",
+      "format": "fact",
+      "prompt": "Inter – Parma, 10 października 2026 (3:0): który obrońca Parmy nadepnął na stopę Esposito, co po interwencji VAR doprowadziło do rzutu karnego wykorzystanego przez Çalhanoğlu?",
+      "answerParts": [
+        "Diego Carlos"
+      ],
+      "subjects": [
+        "player:diego-carlos"
+      ],
+      "sources": [
+        {
+          "title": "Lega Serie A — Inter 3:0 Parma, oficjalna relacja",
+          "url": "https://www.legaseriea.it/serie-a/news/inter-parma-2026-2027-3-0-cronaca-risultato-gol",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        },
+        {
+          "title": "Lega Serie A — termin Inter–Parma: 10 października 2026",
+          "url": "https://www.legaseriea.it/serie-a/news/gilardino-ritorno-al-futuro-da-parma-a-san-siro-vent-anni-dopo",
+          "checkedAt": "2026-10-10T22:38:59.072Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "id": "2026-10-11-28"
+    },
+    {
+      "id": "2026-10-11-29",
+      "factKey": "john-mensah:photo",
+      "format": "photo",
+      "prompt": "Zidentyfikuj piłkarza widocznego na zdjęciu.",
+      "answerParts": [
+        "John Mensah"
+      ],
+      "subjects": [
+        "player:john-mensah"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Entrainement_SRFC_St-Malo_2013_(70).JPG",
+          "checkedAt": "2026-10-10T22:41:02.465979+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d11-mensah.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrainement_SRFC_St-Malo_2013_(70).JPG",
+        "credit": "S. Plaine",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 3264,
+        "height": 2448,
+        "crop": [
+          1320,
+          600,
+          510,
+          610
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowych i narodowych oznaczeń."
+      }
+    },
+    {
+      "factKey": "dundee-united:eliminate-barcelona-uefa-cup-1987",
+      "format": "fact",
+      "prompt": "Który szkocki klub wyeliminował Barcelonę w ćwierćfinale Pucharu UEFA 1986/87, wygrywając 1:0 u siebie i 2:1 na Camp Nou?",
+      "answerParts": [
+        "Dundee United"
+      ],
+      "subjects": [
+        "club:dundee-united"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szkocja",
+        "puchar-uefa",
+        "lata-80",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Dundee United — archiwalna relacja z wygranej 1:0 z Barceloną",
+          "url": "https://www.dundeeunitedfc.co.uk/news/4990/MATCH-REPORT-1987-DUNDEE-UNITED-1-FC-BARCELONA-0.html",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        },
+        {
+          "title": "FC Barcelona — wyniki sezonu 1986/87, dwa mecze z Dundee United",
+          "url": "https://players.fcbarcelona.com/en/chronology/1986",
+          "checkedAt": "2026-10-10T22:44:20.756Z"
+        }
+      ],
+      "id": "2026-10-11-30"
+    }
+  ]
+}
