@@ -1,0 +1,1411 @@
+{
+  "id": "2026-10-10",
+  "kind": "daily",
+  "title": "Trening głowy · 10 października 2026",
+  "date": "2026-10-10",
+  "publishAt": "2026-10-10T07:00:00+02:00",
+  "researchedAt": "2026-10-10T05:27:46.312Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-10"
+  },
+  "questions": [
+    {
+      "id": "2026-10-10-01",
+      "factKey": "tomasz-klos:photo",
+      "format": "photo",
+      "prompt": "Podaj imię i nazwisko polskiego piłkarza na tym zdjęciu.",
+      "answerParts": [
+        "Tomasz Kłos"
+      ],
+      "subjects": [
+        "player:tomasz-klos"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Tomasz_K%C5%82os_2_(34748909280)_(cropped)2.jpg",
+          "checkedAt": "2026-10-10T05:28:59.312510+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "path": "assets/d10-klos.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tomasz_K%C5%82os_2_(34748909280)_(cropped)2.jpg",
+        "credit": "Fryta 73",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 980,
+        "height": 1483,
+        "alt": "Portret byłego piłkarza w ubraniu codziennym; bez klubowych i narodowych oznaczeń.",
+        "crop": [
+          70,
+          25,
+          740,
+          1000
+        ]
+      }
+    },
+    {
+      "factKey": "radoslaw-matusiak:belchatow-palermo-2007",
+      "format": "transfer",
+      "prompt": "Który polski napastnik wykonał ten transfer?",
+      "answerParts": [
+        "Radosław Matusiak"
+      ],
+      "subjects": [
+        "player:radoslaw-matusiak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "serie-a",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2007,
+        "detail": "Styczeń",
+        "from": {
+          "club": "GKS Bełchatów",
+          "media": {
+            "path": "assets/d10-badge-belchatow.png",
+            "source": "https://en.wikipedia.org/wiki/File:GKS_Be%C5%82chat%C3%B3w.png",
+            "credit": "GKS Bełchatów",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:GKS_Be%C5%82chat%C3%B3w.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 327,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Palermo",
+          "media": {
+            "path": "assets/d10-badge-palermo.png",
+            "source": "https://en.wikipedia.org/wiki/File:Palermo_Calcio_logo_(2019).svg",
+            "credit": "Palermo",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Palermo_Calcio_logo_(2019).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 213,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "UEFA — Matusiak: wyjazd z Bełchatowa w styczniu 2007",
+          "url": "https://www.uefa.com/news-media/news/0254-0d7bc5f09c96-f29fc44cfca4-1000--euro-dreams-tempt-matusiak-home/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-02"
+    },
+    {
+      "factKey": "wieczysta:2026-10-09:first-top-flight-home-win",
+      "format": "fact",
+      "prompt": "Który beniaminek Ekstraklasy odniósł 9 października 2026 swoje pierwsze zwycięstwo u siebie na najwyższym szczeblu, pokonując Wisłę Płock 3:0?",
+      "answerParts": [
+        "Wieczysta Kraków"
+      ],
+      "subjects": [
+        "club:wieczysta-krakow"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — pierwsze zwycięstwo Wieczystej u siebie",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-wieczysta-krakow-30-wisla-plock-co-za-powrot/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "season",
+        "recent"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-09",
+      "id": "2026-10-10-03"
+    },
+    {
+      "factKey": "kevin-gameiro:selected-career-2008-2021",
+      "format": "career",
+      "prompt": "Rozpoznaj napastnika po pięciu kolejnych klubach w latach 2008–2021.",
+      "answerParts": [
+        "Kévin Gameiro"
+      ],
+      "subjects": [
+        "player:kevin-gameiro"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "ligue-1",
+        "la-liga",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Lorient",
+          "years": "2008–2011",
+          "media": {
+            "path": "assets/d10-badge-lorient.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Lorient_logo.svg",
+            "credit": "Lorient",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Lorient_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 357,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "years": "2011–2013",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Sevilla",
+          "years": "2013–2016",
+          "media": {
+            "path": "assets/d10-badge-sevilla.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "credit": "Sevilla",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 305,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Atlético Madryt",
+          "years": "2016–2018",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Valencia",
+          "years": "2018–2021",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "FFF — Kévin Gameiro, wykaz klubów i dat",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/8677-gameiro-kevin/fiche.html",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "careerCaption": "Pięć kolejnych etapów kariery w pierwszych drużynach, 2008–2021.",
+      "id": "2026-10-10-04"
+    },
+    {
+      "id": "2026-10-10-05",
+      "factKey": "ofi-crete:crest",
+      "format": "crest",
+      "prompt": "Jaki grecki klub posługiwał się tym dawnym herbem?",
+      "answerParts": [
+        "OFI Kreta"
+      ],
+      "subjects": [
+        "club:ofi-crete"
+      ],
+      "sources": [
+        {
+          "title": "Źródło herbu — identyfikacja klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:OFI_Cr%C3%A8te_(ancien_logo).svg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-ofi.png",
+        "source": "https://commons.wikimedia.org/wiki/File:OFI_Cr%C3%A8te_(ancien_logo).svg",
+        "credit": "OFI Crète",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:OFI_Cr%C3%A8te_(ancien_logo).svg",
+        "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+        "width": 960,
+        "height": 1178,
+        "alt": "Dawna czarno-biała tarcza z greckimi inicjałami i rokiem 1925."
+      }
+    },
+    {
+      "factKey": "eduardo-da-silva:birth-country-senior-team",
+      "format": "country",
+      "prompt": "Eduardo da Silva: podaj kraj urodzenia oraz jego seniorską reprezentację narodową.",
+      "answerParts": [
+        "Brazylia",
+        "Chorwacja"
+      ],
+      "subjects": [
+        "player:eduardo-da-silva"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — urodzony w Brazylii reprezentant Chorwacji",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01d5-0e70c7ea3472-2316b7f7ac9a-1000--eduardo-called-up-for-croatia-friendly/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-06"
+    },
+    {
+      "factKey": "quique-sanchez-flores:aimar-degea-deeney",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził każdego z tych piłkarzy we wskazanym klubie i sezonie?",
+      "clues": [
+        "Pablo Aimar — Valencia, 2005/06",
+        "David de Gea — Atlético Madryt, 2009/10",
+        "Troy Deeney — Watford, 2015/16"
+      ],
+      "answerParts": [
+        "Quique Sánchez Flores"
+      ],
+      "subjects": [
+        "coach:quique-sanchez-flores"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "trener",
+        "la-liga",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Aimar odchodzi z Valencii prowadzonej przez Quique",
+          "url": "https://www.uefa.com/news-media/news/01b7-0f848c20a07f-f54fd3cb5740-1000--aimar-adds-zest-to-zaragoza/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "UEFA — Aimar zdobywa bramkę dla zespołu Quique 30 kwietnia 2006",
+          "url": "https://es.uefa.com/news-media/news/01b4-0f8eed88b879-4c84f6820eb3-1000--el-malaga-desciende/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "UEFA — de Gea i Quique w finale Ligi Europy 12 maja 2010",
+          "url": "https://www.uefa.com/newsfiles/uefacup/2010/2000967_LU.pdf",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "Premier League — Deeney w Watford Quique w sezonie 2015/16",
+          "url": "https://www.premierleague.com/es/news/84425",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-07"
+    },
+    {
+      "id": "2026-10-10-08",
+      "factKey": "auguste-delaune:stadium",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion widoczny z góry. Podaj jego nazwę i miasto.",
+      "answerParts": [
+        "Stade Auguste-Delaune",
+        "Reims"
+      ],
+      "subjects": [
+        "stadium:auguste-delaune"
+      ],
+      "sources": [
+        {
+          "title": "Źródło ilustracji — identyfikacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Stade_Delaune_(vu_depuis_la_cath%C3%A9drale).jpg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-reims.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Stade_Delaune_(vu_depuis_la_cath%C3%A9drale).jpg",
+        "credit": "Liondartois",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 4730,
+        "height": 3547,
+        "crop": [
+          600,
+          650,
+          3500,
+          1400
+        ],
+        "alt": "Widok konstrukcji trybun stadionu; kadr bez nazw i herbów."
+      }
+    },
+    {
+      "factKey": "michal-gasparik:2026-09:ekstraklasa-coach-award",
+      "format": "coach",
+      "prompt": "Który trener Górnika Zabrze został Trenerem Września 2026 w Ekstraklasie? Jego drużyna zdobyła w pięciu meczach miesiąca 13 punktów i zakończyła wrzesień na pozycji lidera.",
+      "answerParts": [
+        "Michal Gašparík (Michal Gasparik)"
+      ],
+      "subjects": [
+        "coach:michal-gasparik"
+      ],
+      "sources": [
+        {
+          "title": "Ekstraklasa — Trener Września 2026",
+          "url": "https://ekstraklasa.org/aktualnosci/trener-wrzesnia-2026-michal-gasparik-gornik-zabrze/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-01",
+      "id": "2026-10-10-09"
+    },
+    {
+      "factKey": "bafetimbi-gomis:career-gap-marseille-2016-2017",
+      "format": "career-gap",
+      "prompt": "Bafétimbi Gomis: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "Olympique Marsylia"
+      ],
+      "subjects": [
+        "club:olympique-marseille"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "ligue-1",
+        "premier-league",
+        "turcja",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Olympique Lyon",
+          "years": "2009–2014",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Swansea City",
+          "years": "2014–2016",
+          "media": {
+            "path": "assets/d10-badge-swansea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+            "credit": "Swansea City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 229,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Olympique Marsylia",
+          "years": "2016–2017",
+          "missing": 0,
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Galatasaray",
+          "years": "2017–2018",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "FFF — Bafétimbi Gomis: kluby i daty",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/8755-gomis-bafetimbi/fiche.html",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "Swansea — Swans agree Gomis transfer, potwierdzenie wypożyczenia do Marsylii",
+          "url": "https://www.swanseacity.com/news/swans-agree-gomis-transfer",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "careerCaption": "Kolejne kluby, w których występował, 2009–2018. Etap pod znakiem zapytania to wypożyczenie; ostatni to pierwszy pobyt w tym klubie.",
+      "id": "2026-10-10-10"
+    },
+    {
+      "id": "2026-10-10-11",
+      "factKey": "marouane-chamakh:photo",
+      "format": "photo",
+      "prompt": "Rozpoznaj zawodnika na fotografii.",
+      "answerParts": [
+        "Marouane Chamakh"
+      ],
+      "subjects": [
+        "player:marouane-chamakh"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Marouane_Chamakh_2009.jpg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-chamakh.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Marouane_Chamakh_2009.jpg",
+        "credit": "Fcgb260",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Marouane_Chamakh_2009.jpg",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 1193,
+        "height": 1526,
+        "crop": [
+          355,
+          75,
+          455,
+          555
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowego lub narodowego herbu."
+      }
+    },
+    {
+      "factKey": "andreas-ivanschitz:panathinaikos-mainz-loan-2009",
+      "format": "transfer",
+      "prompt": "Który austriacki pomocnik wykonał ten transfer?",
+      "answerParts": [
+        "Andreas Ivanschitz"
+      ],
+      "subjects": [
+        "player:andreas-ivanschitz"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "grecja",
+        "bundesliga",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Lato · wypożyczenie z opcją wykupu",
+        "from": {
+          "club": "Panathinaikos",
+          "media": {
+            "path": "assets/d10-badge-panathinaikos.png",
+            "source": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "credit": "Panathinaikos",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Mainz 05",
+          "media": {
+            "path": "assets/08.png",
+            "source": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "credit": "1. FSV Mainz 05",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 893,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "Mainz 05 — Ivanschitz o przejściu latem 2009",
+          "url": "https://www.mainz05.de/news/traumtor-riesenstimmung",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-12"
+    },
+    {
+      "factKey": "torreense:2026-27:non-top-flight-league-phase-first",
+      "format": "fact",
+      "prompt": "Liga Europy 2026/27: jaki portugalski klub, zdobywca krajowego pucharu, został pierwszym zespołem spoza najwyższej ligi, który zakwalifikował się do fazy ligowej europejskich pucharów? Stan według UEFA z 2 września 2026.",
+      "answerParts": [
+        "SCU Torreense (Torreense)"
+      ],
+      "subjects": [
+        "club:torreense"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — nowe kluby w fazach ligowych",
+          "url": "https://www.uefa.com/news-media/news/02a9-217e6dbfa1d4-5ee1dd0e37cd-1000--expanding-the-european-dream-the-numbers-behind-the-league-/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        },
+        {
+          "title": "UEFA — uczestnicy Ligi Europy 2026/27",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-217364fd42e6-7e49801d8daf-1000--2026-27-europa-league-meet-the-league-phase-teams/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-02",
+      "id": "2026-10-10-13"
+    },
+    {
+      "factKey": "bas-dost:career-riddle-leverkusen-sporting",
+      "format": "career-riddle",
+      "prompt": "W barwach Wolfsburga strzelił cztery gole w wygranym 5:4 meczu z Bayerem Leverkusen w lutym 2015 roku. Potem przeniósł się do Sportingu i już w pierwszym sezonie został królem strzelców ligi portugalskiej z 34 golami. O którego napastnika chodzi?",
+      "answerParts": [
+        "Bas Dost"
+      ],
+      "subjects": [
+        "player:bas-dost"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "bundesliga",
+        "portugalia",
+        "zagadka-kariery"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Bas Dost: cztery gole przeciw Bayerowi w 2015",
+          "url": "https://de.uefa.com/news/021e-0e8f3d4eed26-364ff98e09d3-1000--bas-dost-vom-ganghocker-zum-viererpacker/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "Sporting — Bas Dost otrzymuje nagrodę za 34 gole w pierwszym sezonie",
+          "url": "https://www.sporting.pt/pt/tags/melhor-marcador",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "UEFA — Dost przechodzi z Wolfsburga do Sportingu w 2016",
+          "url": "https://pt.uefa.com/uefachampionsleague/news/0232-0e9538a90d0e-0cfcd309f112-1000--golos-de-bas-dost-inspiram-sporting/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-14"
+    },
+    {
+      "factKey": "chelsea:2012-final:starting-xi-bosingwa-bertrand-kalou",
+      "format": "lineup",
+      "prompt": "Chelsea w finale Ligi Mistrzów 2012: uzupełnij trzy nazwiska w wyjściowej jedenastce.",
+      "answerParts": [
+        "José Bosingwa",
+        "Ryan Bertrand",
+        "Salomon Kalou"
+      ],
+      "subjects": [
+        "player:jose-bosingwa",
+        "player:ryan-bertrand",
+        "player:salomon-kalou"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — oficjalny skład finału z 19 maja 2012",
+          "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "lineup": {
+        "caption": "Bayern – Chelsea, 19 maja 2012 · ustawienie 4–2–3–1",
+        "rows": [
+          [
+            {
+              "name": "Petr Čech",
+              "number": 1
+            }
+          ],
+          [
+            {
+              "name": "Ashley Cole",
+              "number": 3
+            },
+            {
+              "name": "David Luiz",
+              "number": 4
+            },
+            {
+              "name": "Gary Cahill",
+              "number": 24
+            },
+            {
+              "name": "José Bosingwa",
+              "number": 17,
+              "slot": 0
+            }
+          ],
+          [
+            {
+              "name": "Frank Lampard",
+              "number": 8
+            },
+            {
+              "name": "John Obi Mikel",
+              "number": 12
+            }
+          ],
+          [
+            {
+              "name": "Ryan Bertrand",
+              "number": 34,
+              "slot": 1
+            },
+            {
+              "name": "Juan Mata",
+              "number": 10
+            },
+            {
+              "name": "Salomon Kalou",
+              "number": 21,
+              "slot": 2
+            }
+          ],
+          [
+            {
+              "name": "Didier Drogba",
+              "number": 11
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-10-15"
+    },
+    {
+      "id": "2026-10-10-16",
+      "factKey": "sturm-graz:crest",
+      "format": "crest",
+      "prompt": "Jaki austriacki klub rozpoznajesz po tym fragmencie herbu?",
+      "answerParts": [
+        "Sturm Graz"
+      ],
+      "subjects": [
+        "club:sturm-graz"
+      ],
+      "sources": [
+        {
+          "title": "Źródło herbu — identyfikacja klubu",
+          "url": "https://commons.wikimedia.org/wiki/File:SK_Sturm_Graz.svg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-sturm.png",
+        "source": "https://commons.wikimedia.org/wiki/File:SK_Sturm_Graz.svg",
+        "credit": "Autor nieznany",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:SK_Sturm_Graz.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 960,
+        "crop": [
+          235,
+          350,
+          500,
+          390
+        ],
+        "alt": "Fragment czarno-białej flagi z monogramem."
+      }
+    },
+    {
+      "factKey": "jonathan-soriano:selected-career-barca-salzburg-beijing",
+      "format": "career",
+      "prompt": "Który napastnik przeszedł przez te trzy etapy? Pierwszy oznacza drużynę rezerw.",
+      "answerParts": [
+        "Jonathan Soriano"
+      ],
+      "subjects": [
+        "player:jonathan-soriano"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "austria",
+        "hiszpania",
+        "chiny",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "FC Barcelona B",
+          "years": "2009–2012 · B",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Red Bull Salzburg",
+          "years": "2012–2017",
+          "media": {
+            "path": "assets/d10-badge-salzburg.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Red_Bull_Salzburg_logo.svg",
+            "credit": "Red Bull Salzburg",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Red_Bull_Salzburg_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Beijing Guoan",
+          "years": "2017 · transfer",
+          "media": {
+            "path": "assets/d10-badge-beijing.png",
+            "source": "https://en.wikipedia.org/wiki/File:Beijing_Guoan_F.C.svg",
+            "credit": "Beijing Guoan",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Beijing_Guoan_F.C.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 286,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Soriano przechodzi z Barcelony do Salzburga w 2012",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01f9-0e7b8fb426d0-a809dd19d46f-1000--salzburg-delighted-to-sign-soriano/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "FC Barcelona — biografia Soriano, Barcelona B i późniejsze kluby",
+          "url": "https://www.fcbarcelona.com/en/football/barca-legends/players/4231990/jonathan-soriano",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "SK Rapid — oficjalny program z 5 marca 2017, odejście Soriano do Beijing Guoan",
+          "url": "https://assets.skrapid.at/media/3c/59/1f/stadionzeitung-sk-rapid-rb-salzburg-5-3-2017.pdf",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery; pierwszy to drużyna rezerw. Przy ostatnim klubie podano rok transferu.",
+      "id": "2026-10-10-17"
+    },
+    {
+      "factKey": "enzo-maresca:2026-09-24:first-five-man-city-league-wins",
+      "format": "coach",
+      "prompt": "Premier League 2026/27, stan z 24 września: który szkoleniowiec Manchesteru City został szóstym trenerem w historii ligi, który wygrał pierwszych pięć ligowych meczów po objęciu danego klubu?",
+      "answerParts": [
+        "Enzo Maresca"
+      ],
+      "subjects": [
+        "coach:enzo-maresca"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — wrześniowi nominowani trenerzy 2026",
+          "url": "https://www.premierleague.com/en/news/4725621",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-24",
+      "id": "2026-10-10-18"
+    },
+    {
+      "factKey": "maxwell:inter-barcelona-2009",
+      "format": "transfer",
+      "prompt": "Który brazylijski lewy obrońca wykonał ten transfer?",
+      "answerParts": [
+        "Maxwell"
+      ],
+      "subjects": [
+        "player:maxwell"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "serie-a",
+        "la-liga",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "FC Barcelona",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "UEFA — Barça make move for Maxwell, 16 lipca 2009",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01db-0e726fa2316b-7b7d8f0aa6e2-1000--barca-make-move-for-maxwell/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-19"
+    },
+    {
+      "id": "2026-10-10-20",
+      "factKey": "giuseppe-pancaro:photo",
+      "format": "photo",
+      "prompt": "Którego byłego włoskiego obrońcę widzisz na portrecie?",
+      "answerParts": [
+        "Giuseppe Pancaro"
+      ],
+      "subjects": [
+        "player:giuseppe-pancaro"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Pancaro,_2005.jpg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-pancaro.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Giuseppe_Pancaro,_2005.jpg",
+        "credit": "Soprano71",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 690,
+        "height": 900,
+        "crop": [
+          210,
+          55,
+          345,
+          490
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowego lub narodowego herbu."
+      }
+    },
+    {
+      "factKey": "fiorentina:eliminate-lech-conference-2023",
+      "format": "fact",
+      "prompt": "Lech Poznań przegrał u siebie 1:4, a w rewanżu wygrał na wyjeździe 3:2. Z którym klubem odpadł w ćwierćfinale Ligi Konferencji 2022/23?",
+      "answerParts": [
+        "Fiorentina"
+      ],
+      "subjects": [
+        "club:fiorentina"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "liga-konferencji",
+        "polish",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Fiorentina 2–3 Lech, wynik dwumeczu 6–4, 20 kwietnia 2023",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/0280-17d2eec33488-42a2a53cc94c-1000--highlights-report-fiorentina-weather-lech-storm/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-21"
+    },
+    {
+      "factKey": "kamil-wilczek:career-gap-carpi-2015-2016",
+      "format": "career-gap",
+      "prompt": "Kamil Wilczek: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "Carpi"
+      ],
+      "subjects": [
+        "club:carpi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "serie-a",
+        "dania",
+        "turcja",
+        "kariera"
+      ],
+      "career": [
+        {
+          "club": "Piast Gliwice",
+          "years": "2013–2015",
+          "media": {
+            "path": "assets/d10-badge-piast.png",
+            "source": "https://en.wikipedia.org/wiki/File:GKS_Piast_Gliwice.svg",
+            "credit": "Piast Gliwice",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:GKS_Piast_Gliwice.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Carpi",
+          "years": "2015–2016",
+          "missing": 0,
+          "media": {
+            "path": "assets/d10-badge-carpi.png",
+            "source": "https://en.wikipedia.org/wiki/File:AC_Carpi_crest.svg",
+            "credit": "Carpi",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AC_Carpi_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 295,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Brøndby",
+          "years": "2016–2020",
+          "media": {
+            "path": "assets/d10-badge-brondby.png",
+            "source": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+            "credit": "Brøndby",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 304,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Göztepe",
+          "years": "2020",
+          "media": {
+            "path": "assets/d10-badge-goztepe.png",
+            "source": "https://en.wikipedia.org/wiki/File:G%C3%B6ztepe_S.K._logo.svg",
+            "credit": "Göztepe",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:G%C3%B6ztepe_S.K._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 213,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "FC Kopenhaga",
+          "years": "2020–2022",
+          "media": {
+            "path": "assets/d10-badge-copenhagen.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Copenhagen_logo.svg",
+            "credit": "FC Kopenhaga",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Copenhagen_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Piast — Kamil Wilczek po sezonie odejdzie z Piasta, kolejność klubów",
+          "url": "https://piast-gliwice.eu/aktualnosci/newsy/kamil-wilczek-po-sezonie-odejdzie-z-piasta",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "Brøndby — Wilczek przechodzi z Carpi 22 stycznia 2016",
+          "url": "https://brondby.com/nyheder/herrer/2016/januar/brondby-if-henter-polsk-angriber",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "FCK — Wilczek podpisuje kontrakt 6 sierpnia 2020",
+          "url": "https://www.fck.dk/en/news/fck-sign-kamil-wilczek",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        },
+        {
+          "title": "FCK — odejście Wilczka 31 stycznia 2022",
+          "url": "https://www.fck.dk/nyhed/kamil-wilczek-stopper-i-fc-koebenhavn",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "careerCaption": "Pięć kolejnych klubów, 2013–2022. Pierwszy etap oznacza drugi pobyt w tym klubie.",
+      "id": "2026-10-10-22"
+    },
+    {
+      "factKey": "inter-escaldes:2026-27:first-andorran-uefa-league-phase",
+      "format": "fact",
+      "prompt": "Liga Konferencji 2026/27: który klub został pierwszym przedstawicielem Andory w fazie grupowej lub ligowej męskich rozgrywek klubowych UEFA? Stan z 2 września 2026.",
+      "answerParts": [
+        "Inter Club d’Escaldes (Inter Escaldes)"
+      ],
+      "subjects": [
+        "club:inter-escaldes"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — nowe kluby w fazach ligowych",
+          "url": "https://www.uefa.com/news-media/news/02a9-217e6dbfa1d4-5ee1dd0e37cd-1000--expanding-the-european-dream-the-numbers-behind-the-league-/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        },
+        {
+          "title": "UEFA — historyczna noc Andory",
+          "url": "https://www.uefa.com/news-media/news/02a8-217485503969-de85665aa7e9-1000--historic-night-for-andorra-as-men-s-club-competition-pla/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-02",
+      "id": "2026-10-10-23"
+    },
+    {
+      "id": "2026-10-10-24",
+      "factKey": "jan-breydel:stadium",
+      "format": "stadium",
+      "prompt": "Zidentyfikuj stadion po tej trybunie: podaj nazwę i miasto.",
+      "answerParts": [
+        "Jan Breydelstadion",
+        "Brugia"
+      ],
+      "subjects": [
+        "stadium:jan-breydel"
+      ],
+      "sources": [
+        {
+          "title": "Źródło ilustracji — identyfikacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Jan_Breydelstadion.JPG",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-bruges.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jan_Breydelstadion.JPG",
+        "credit": "Chivista",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 3264,
+        "height": 2448,
+        "crop": [
+          2070,
+          720,
+          1194,
+          1020
+        ],
+        "alt": "Widok konstrukcji trybun stadionu; kadr bez nazw i herbów."
+      }
+    },
+    {
+      "factKey": "xhaka-brothers:senior-national-teams-euro-2016",
+      "format": "country",
+      "prompt": "Bracia Xhaka wybrali różne reprezentacje narodowe. Podaj seniorskie reprezentacje Taulanta i Granita.",
+      "answerParts": [
+        "Taulant — Albania",
+        "Granit — Szwajcaria"
+      ],
+      "subjects": [
+        "player:taulant-xhaka",
+        "player:granit-xhaka"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — bracia Xhaka i ich reprezentacje",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0253-0d81654292ce-b6756d705bbc-1000--xhaka-brothers-poised-to-face-each-other-at-euro/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-25"
+    },
+    {
+      "factKey": "pablo-osvaldo:espanyol-roma-2011",
+      "format": "transfer",
+      "prompt": "Który urodzony w Argentynie napastnik, reprezentant włoskiej młodzieżówki, wykonał ten transfer?",
+      "answerParts": [
+        "Pablo Daniel Osvaldo"
+      ],
+      "subjects": [
+        "player:pablo-daniel-osvaldo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "la-liga",
+        "serie-a",
+        "transfer"
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Sierpień · 15 mln euro",
+        "from": {
+          "club": "Espanyol",
+          "media": {
+            "path": "assets/d10-badge-espanyol.png",
+            "source": "https://en.wikipedia.org/wiki/File:RCD_Espanyol_crest.svg",
+            "credit": "Espanyol",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:RCD_Espanyol_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 355,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "UEFA — Osvaldo per la Roma, 26 sierpnia 2011",
+          "url": "https://it.uefa.com/news-media/news/01f4-0f863d6f5f0d-37647b318fd5-1000--osvaldo-per-la-roma/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-26"
+    },
+    {
+      "id": "2026-10-10-27",
+      "factKey": "warta-poznan:crest",
+      "format": "crest",
+      "prompt": "Jaki polski klub ma ten herb?",
+      "answerParts": [
+        "Warta Poznań"
+      ],
+      "subjects": [
+        "club:warta-poznan"
+      ],
+      "sources": [
+        {
+          "title": "Źródło herbu — identyfikacja klubu",
+          "url": "https://en.wikipedia.org/wiki/File:Warta_Pozna%C5%84_crest.svg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "path": "assets/d10-warta.png",
+        "source": "https://en.wikipedia.org/wiki/File:Warta_Pozna%C5%84_crest.svg",
+        "credit": "Warta Poznań",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Warta_Pozna%C5%84_crest.svg",
+        "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+        "width": 250,
+        "height": 250,
+        "alt": "Zielony okrągły znak z literą W."
+      }
+    },
+    {
+      "factKey": "lask:2026-08-25:celtic-comeback-first-ucl-league-phase",
+      "format": "fact",
+      "prompt": "Liga Mistrzów 2026/27: który austriacki klub awansował do fazy ligowej po odrobieniu straty 0:3 z pierwszego meczu z Celtikiem i zwycięstwie 5:1 po dogrywce w rewanżu 25 sierpnia 2026?",
+      "answerParts": [
+        "LASK (LASK Linz)"
+      ],
+      "subjects": [
+        "club:lask"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wyniki eliminacji Ligi Mistrzów 2026/27",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a6-20e5a8be4e63-ae971c582f8c-1000--champions-league-qualifying-fixtures-results-dates-how-it-/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        },
+        {
+          "title": "UEFA — pierwsza kwalifikacja LASK do fazy ligowej",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2171a88881a0-c70193b972c6-1000--meet-the-2026-27-champions-league-league-phase-teams/",
+          "checkedAt": "2026-10-10T05:22:30.396Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-25",
+      "id": "2026-10-10-28"
+    },
+    {
+      "id": "2026-10-10-29",
+      "factKey": "maniche:photo",
+      "format": "photo",
+      "prompt": "Jak nazywa się ten były reprezentant Portugalii?",
+      "answerParts": [
+        "Maniche"
+      ],
+      "subjects": [
+        "player:maniche"
+      ],
+      "sources": [
+        {
+          "title": "Autor fotografii — identyfikacja zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:KL_2015_Final_(4).jpg",
+          "checkedAt": "2026-10-10T05:25:29.417338+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d10-maniche.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:KL_2015_Final_(4).jpg",
+        "credit": "Дмитрий Садовников",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie do twarzy; bez retuszu.",
+        "width": 508,
+        "height": 706,
+        "crop": [
+          110,
+          18,
+          215,
+          270
+        ],
+        "alt": "Twarz piłkarza; kadr bez klubowego lub narodowego herbu."
+      }
+    },
+    {
+      "factKey": "athletic-club:eliminate-united-europa-2012",
+      "format": "fact",
+      "prompt": "Który klub wyeliminował Manchester United w 1/8 finału Ligi Europy 2011/12, wygrywając 3:2 na Old Trafford i 2:1 u siebie?",
+      "answerParts": [
+        "Athletic Club (Athletic Bilbao)"
+      ],
+      "subjects": [
+        "club:athletic-bilbao"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "liga-europy",
+        "historia",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Athletic see off United with room to spare, 15 marca 2012",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01fb-0e8186497a8f-4a3adcb0d228-1000--athletic-see-off-united-with-room-to-spare/",
+          "checkedAt": "2026-10-10T05:27:46.312Z"
+        }
+      ],
+      "id": "2026-10-10-30"
+    }
+  ]
+}
