@@ -1,0 +1,1148 @@
+{
+  "id": "2026-10-12",
+  "kind": "daily",
+  "title": "Trening głowy · 12 października 2026",
+  "date": "2026-10-12",
+  "publishAt": "2026-10-12T07:00:00+02:00",
+  "researchedAt": "2026-10-12T08:52:02.870Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-12"
+  },
+  "questions": [
+    {
+      "factKey": "euzebiusz-smolarek:portrait-2011",
+      "format": "photo",
+      "prompt": "Rozpoznajesz tego byłego napastnika reprezentacji Polski?",
+      "answerParts": [
+        "Euzebiusz Smolarek (Ebi Smolarek)"
+      ],
+      "subjects": [
+        "player:euzebiusz-smolarek"
+      ],
+      "sources": [
+        {
+          "title": "Fotografia zawodnika — Polonia Warszawa, 2011",
+          "url": "https://commons.wikimedia.org/wiki/File:Euzebiusz_Smolarek_2011.jpg",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "path": "assets/d12-smolarek.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Euzebiusz_Smolarek_2011.jpg",
+        "credit": "Zbigniew Luchciński  / ksppolonia.pl",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 2648,
+        "height": 3939,
+        "alt": "Portret byłego piłkarza; bez widocznych klubowych oznaczeń.",
+        "crop": [
+          650,
+          100,
+          1150,
+          1430
+        ]
+      },
+      "id": "2026-10-12-01"
+    },
+    {
+      "factKey": "peter-crouch:transfer-2009",
+      "format": "transfer",
+      "prompt": "Podaj piłkarza, który przeszedł między tymi klubami w lipcu 2009.",
+      "answerParts": [
+        "Peter Crouch"
+      ],
+      "subjects": [
+        "player:peter-crouch"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "premier-league",
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — transfer Croucha z Portsmouth w lipcu 2009",
+          "url": "https://www.tottenhamhotspur.com/news/1059138/crouch-deal-agreed",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Portsmouth",
+          "media": {
+            "path": "assets/badge-portsmouth.png",
+            "source": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+            "credit": "Portsmouth Football Club",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-12-02"
+    },
+    {
+      "factKey": "robin-fellhauer:2026-10-10:fastest-bundesliga-goal",
+      "format": "fact",
+      "prompt": "Kto 10 października 2026 odebrał piłkę Neuerowi i strzelił dla Augsburga najszybszego gola w historii Bundesligi — przed upływem dziewięciu sekund?",
+      "answerParts": [
+        "Robin Fellhauer"
+      ],
+      "subjects": [
+        "player:robin-fellhauer"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "sources": [
+        {
+          "title": "Bundesliga: najszybsze gole w historii",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/bellarabi-volland-musiala-the-fastest-goals-in-history-fellhauer-24353",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        }
+      ],
+      "id": "2026-10-12-03"
+    },
+    {
+      "factKey": "porto:hulk-falcao-guarin-2010-2011",
+      "format": "shared-club",
+      "prompt": "Hulk, Radamel Falcao i Fredy Guarín: w którym klubie grali razem w sezonie 2010/11?",
+      "answerParts": [
+        "FC Porto"
+      ],
+      "subjects": [
+        "club:fc-porto"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "portugalia",
+        "liga-europy",
+        "wspolny-klub"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wszyscy trzej w zwycięskiej drużynie finału Ligi Europy 2011",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0250-0c50f8680b62-7a96c1afdbf0-1000--falcao-heads-porto-to-europa-league-glory/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-10-12-04"
+    },
+    {
+      "factKey": "fluminense:crest-fragment",
+      "format": "crest",
+      "prompt": "Z jakiego brazylijskiego klubu pochodzi ten fragment herbu?",
+      "answerParts": [
+        "Fluminense FC"
+      ],
+      "subjects": [
+        "club:fluminense"
+      ],
+      "sources": [
+        {
+          "title": "Herb klubu — źródło ilustracji",
+          "url": "https://commons.wikimedia.org/wiki/File:Fluminense_Football_Club.svg",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        },
+        {
+          "title": "Fluminense — monogram FFC w herbie",
+          "url": "https://fluminense.com.br/noticia/lancamento-de-terceiro-uniforme-mantem-pioneirismo-de-20-anos",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d12-fluminense.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Fluminense_Football_Club.svg",
+        "credit": "Fluminense FC",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fluminense_Football_Club.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 1112,
+        "alt": "Fragment bordowo-zielonego herbu z białym monogramem.",
+        "crop": [
+          70,
+          230,
+          820,
+          720
+        ]
+      },
+      "id": "2026-10-12-05"
+    },
+    {
+      "factKey": "clarence-seedorf:ucl-wins:ajax-real-milan",
+      "format": "fact",
+      "prompt": "Wygrał Ligę Mistrzów z Ajaxem, Realem Madryt i Milanem. Który holenderski pomocnik łączy te kluby?",
+      "answerParts": [
+        "Clarence Seedorf"
+      ],
+      "subjects": [
+        "player:clarence-seedorf"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — cztery triumfy z trzema klubami",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0250-0e886c882ffd-36cd0c025d66-1000--four-time-winner-seedorf-one-of-a-kind/",
+          "checkedAt": "2026-10-12T08:27:35.514Z"
+        }
+      ],
+      "id": "2026-10-12-06"
+    },
+    {
+      "factKey": "wojciech-szczesny:selected-career-2010-2024",
+      "format": "career",
+      "prompt": "Rozpoznaj piłkarza po tych trzech etapach kariery.",
+      "answerParts": [
+        "Wojciech Szczęsny"
+      ],
+      "subjects": [
+        "player:wojciech-szczesny"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "premier-league",
+        "serie-a",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "Juventus — Arsenal, dwa sezony na wypożyczeniu w Romie i transfer do Turynu w 2017",
+          "url": "https://www.juventus.com/en/news/articles/wojciech-szczesny-signs-for-juventus",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        },
+        {
+          "title": "Juventus — koniec siedmioletniego pobytu w sierpniu 2024",
+          "url": "https://www.juventus.com/en/news/articles/szczesny-and-juventus-part-ways",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Arsenal",
+          "years": "2010–2015",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "AS Roma",
+          "years": "2015–2017",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Juventus",
+          "years": "2017–2024",
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery, 2010–2024. Środkowy etap to wypożyczenie.",
+      "id": "2026-10-12-07"
+    },
+    {
+      "factKey": "piast:2026-10-11:end-five-widzew-defeats",
+      "format": "fact",
+      "prompt": "Który klub 11 października 2026 wygrał z Widzewem 2:1, przerywając serię pięciu ligowych porażek z tym rywalem?",
+      "answerParts": [
+        "Piast Gliwice"
+      ],
+      "subjects": [
+        "club:piast-gliwice"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-11",
+      "sources": [
+        {
+          "title": "Ekstraklasa: Piast przerwał serię porażek z Widzewem",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-piast-21-widzew-zaskoczenie-w-koncowce/",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        }
+      ],
+      "id": "2026-10-12-08"
+    },
+    {
+      "factKey": "romania:1998-world-cup-blond-hair",
+      "format": "fact",
+      "prompt": "Piłkarze której reprezentacji przefarbowali włosy na blond po awansie z grupy na mundialu we Francji w 1998 roku?",
+      "answerParts": [
+        "Rumunia"
+      ],
+      "subjects": [
+        "national-team:romania"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — zakład i blond włosy reprezentacji Rumunii",
+          "url": "https://inside.fifa.com/news/romania-s-blond-bet-backfires-in-france",
+          "checkedAt": "2026-10-12T08:43:51.165484+00:00"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-10-12-09"
+    },
+    {
+      "factKey": "fernando-morientes:transfer-2005",
+      "format": "transfer",
+      "prompt": "Rozpoznaj bohatera transferu ze stycznia 2005.",
+      "answerParts": [
+        "Fernando Morientes"
+      ],
+      "subjects": [
+        "player:fernando-morientes"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "la-liga",
+        "premier-league",
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — Morientes przechodzi z Realu w styczniu 2005",
+          "url": "https://www.liverpoolfc.com/info/fernando-morientes",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Real Madryt",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-12-10"
+    },
+    {
+      "factKey": "bobby-robson:ronaldo-vannistelrooy-shearer",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził całą trójkę w tych klubach i sezonach?",
+      "answerParts": [
+        "Bobby Robson"
+      ],
+      "subjects": [
+        "coach:bobby-robson"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trener",
+        "la-liga",
+        "holandia",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "title": "Barcelona — Robson prowadzi Ronaldo w sezonie 1996/97",
+          "url": "https://www.fcbarcelona.com/en/news/4362148/sir-bobby-robson-the-bond-between-barca-and-newcastle/amp",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        },
+        {
+          "title": "PSV — Robson trenerem w sezonie 1998/99",
+          "url": "https://www.psv.nl/en/club/history/chairmen-head-coaches",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        },
+        {
+          "title": "PSV — van Nistelrooy gra w klubie od 1998 do 2001",
+          "url": "https://www.psv.nl/en/media/article/our-heroes-ruud-van-nistelrooij",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        },
+        {
+          "title": "Newcastle — Shearer gra pod wodzą Robsona",
+          "url": "https://www.newcastleunited.com/en/hall-of-fame/alan-shearer",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "clues": [
+        "Ronaldo Nazário — Barcelona, 1996/97",
+        "Ruud van Nistelrooy — PSV, 1998/99",
+        "Alan Shearer — Newcastle, 2001/02"
+      ],
+      "id": "2026-10-12-11"
+    },
+    {
+      "factKey": "stadium-aveiro:city-photo",
+      "format": "stadium",
+      "prompt": "W którym portugalskim mieście stoi ten kolorowy stadion?",
+      "answerParts": [
+        "Aveiro"
+      ],
+      "subjects": [
+        "stadium:municipal-aveiro"
+      ],
+      "sources": [
+        {
+          "title": "Fotografia stadionu — autor Husond",
+          "url": "https://commons.wikimedia.org/wiki/File:Aveiro_Stadium.JPG",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        },
+        {
+          "title": "Tomás Taveira — projekt stadionu w Aveiro",
+          "url": "https://tomastaveira.pt/arquitectura/estadio-municipal-de-aveiro",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d12-aveiro.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Aveiro_Stadium.JPG",
+        "credit": "Husond",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 2592,
+        "height": 1944,
+        "alt": "Kolorowa fasada stadionu i konstrukcja dachu; bez nazw i herbów.",
+        "crop": [
+          150,
+          450,
+          2300,
+          900
+        ]
+      },
+      "id": "2026-10-12-12"
+    },
+    {
+      "factKey": "ryan-gravenberch:2026-10-11:anfield-red-card-man-city",
+      "format": "fact",
+      "prompt": "Liverpool – Manchester City, 11 października 2026: który Holender otrzymał drugą żółtą kartkę przy 0:0, zanim goście wygrali 3:0?",
+      "answerParts": [
+        "Ryan Gravenberch"
+      ],
+      "subjects": [
+        "player:ryan-gravenberch"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-11",
+      "sources": [
+        {
+          "title": "Premier League: najważniejsze wydarzenia niedzielnych meczów",
+          "url": "https://www.premierleague.com/en/news/4730421/what-weve-learned-from-sundays-premier-league-matches/",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        }
+      ],
+      "id": "2026-10-12-13"
+    },
+    {
+      "factKey": "nemanja-matic:career-gap-benfica-2011-2014",
+      "format": "career-gap",
+      "prompt": "Nemanja Matić: uzupełnij brakujący klub.",
+      "answerParts": [
+        "Benfica"
+      ],
+      "subjects": [
+        "club:benfica"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portugalia",
+        "premier-league",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Matić odchodzi do Benfiki w 2011 i wraca do Chelsea w styczniu 2014",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0211-0e886b12a21b-1f536dc5d212-1000--chelsea-take-midfielder-matic-back-from-benfica/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Chelsea",
+          "years": "2009–2011",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Benfica",
+          "years": "2011–2014",
+          "missing": 0,
+          "media": {
+            "path": "assets/d12-badge-benfica.png",
+            "source": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+            "credit": "Benfica",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 248,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Chelsea",
+          "years": "2014 · powrót",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane kluby macierzyste; pominięto wypożyczenie. Ostatnia data oznacza rok powrotu.",
+      "id": "2026-10-12-14"
+    },
+    {
+      "factKey": "franciszek-smuda:desperados-quote",
+      "format": "coach",
+      "prompt": "Który selekcjoner mówił: „Musimy przez 90 minut być desperados”? Jego Widzew zdobył dwa kolejne mistrzostwa Polski.",
+      "answerParts": [
+        "Franciszek Smuda"
+      ],
+      "subjects": [
+        "coach:franciszek-smuda"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — słowa i sukcesy selekcjonera",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/trener-z-charyzma-i-sukcesami",
+          "checkedAt": "2026-10-12T08:27:35.514Z"
+        }
+      ],
+      "id": "2026-10-12-15"
+    },
+    {
+      "factKey": "munir-el-haddadi:spain-before-morocco",
+      "format": "country",
+      "prompt": "Munir El Haddadi grał później dla Maroka. W jakiej seniorskiej reprezentacji zadebiutował we wrześniu 2014 roku?",
+      "answerParts": [
+        "Hiszpania"
+      ],
+      "subjects": [
+        "player:munir-el-haddadi"
+      ],
+      "sources": [
+        {
+          "title": "FC Barcelona — seniorski debiut Munira w Hiszpanii",
+          "url": "https://www.fcbarcelona.com/en/news/1119954/munir-debuts-sergio-and-pedro-score",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        },
+        {
+          "title": "UD Las Palmas — reprezentant Maroka",
+          "url": "https://www.udlaspalmas.es/en/news/munir-nuevo-jugador-de-la-ud-las-palmas",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-10-12-16"
+    },
+    {
+      "factKey": "rafael-van-der-vaart:transfer-2008",
+      "format": "transfer",
+      "prompt": "Jakiego zawodnika sprowadzono w sierpniu 2008?",
+      "answerParts": [
+        "Rafael van der Vaart"
+      ],
+      "subjects": [
+        "player:rafael-van-der-vaart"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "bundesliga",
+        "la-liga",
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — van der Vaart przechodzi z Hamburga do Realu",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01d0-0e6f917a6fbb-17f78950375f-1000--van-der-vaart-makes-madrid-move/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Hamburger SV",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 711,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Real Madryt",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-12-17"
+    },
+    {
+      "factKey": "como:2026-09-10:champions-league-debut-win-leipzig",
+      "format": "fact",
+      "prompt": "Który włoski debiutant rozpoczął Ligę Mistrzów 2026/27 od wygranej 4:1 z RB Leipzig 10 września?",
+      "answerParts": [
+        "Como 1907 (Como)"
+      ],
+      "subjects": [
+        "club:como"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "champions-league",
+        "serie-a"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-10",
+      "sources": [
+        {
+          "title": "UEFA: wyniki pierwszej kolejki Ligi Mistrzów 2026/27",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        },
+        {
+          "title": "Como: pierwszy sezon w Lidze Mistrzów",
+          "url": "https://comofootball.com/en/stadio-sinigaglia-will-host-the-uefa-champions-league/",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        }
+      ],
+      "id": "2026-10-12-18"
+    },
+    {
+      "factKey": "poland-greece:2012-06-08:xi-murawski-blaszczykowski",
+      "format": "lineup",
+      "prompt": "Polska – Grecja na otwarcie Euro 2012: uzupełnij dwa nazwiska.",
+      "answerParts": [
+        "Rafał Murawski",
+        "Jakub Błaszczykowski"
+      ],
+      "subjects": [
+        "player:rafal-murawski",
+        "player:jakub-blaszczykowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "euro",
+        "sklad"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pełne wyjściowe składy Polski i Grecji",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7dee5be59e-a226f3a4320b-1000--greece-fightback-foils-co-hosts-poland-in-euro-2012-group-a/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        },
+        {
+          "title": "PZPN — pełny skład i zdjęcie podstawowej jedenastki",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-grecja-11-08062012/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "lineup": {
+        "caption": "Polska – Grecja, 8 czerwca 2012 · ustawienie 4–2–3–1",
+        "rows": [
+          [
+            {
+              "name": "Wojciech Szczęsny"
+            }
+          ],
+          [
+            {
+              "name": "Sebastian Boenisch"
+            },
+            {
+              "name": "Damien Perquis"
+            },
+            {
+              "name": "Marcin Wasilewski"
+            },
+            {
+              "name": "Łukasz Piszczek"
+            }
+          ],
+          [
+            {
+              "name": "Rafał Murawski",
+              "slot": 0
+            },
+            {
+              "name": "Eugen Polanski"
+            }
+          ],
+          [
+            {
+              "name": "Maciej Rybus"
+            },
+            {
+              "name": "Ludovic Obraniak"
+            },
+            {
+              "name": "Jakub Błaszczykowski",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Robert Lewandowski"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-12-19"
+    },
+    {
+      "factKey": "ferencvaros:crest-fragment",
+      "format": "crest",
+      "prompt": "Ten zielono-biały herb należy do klubu z Węgier. Którego?",
+      "answerParts": [
+        "Ferencvárosi TC (Ferencváros)"
+      ],
+      "subjects": [
+        "club:ferencvaros"
+      ],
+      "sources": [
+        {
+          "title": "Herb klubu — źródło ilustracji",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferencvarosi_TC.svg",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        },
+        {
+          "title": "Oficjalny magazyn klubu — herb FTC",
+          "url": "https://www.fradi.hu/upload/k/jn/2gnrj.pdf",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "path": "assets/d12-ferencvaros.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferencvarosi_TC.svg",
+        "credit": "Ferencvárosi TC",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ferencvarosi_TC.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 997,
+        "alt": "Fragment zielono-białego herbu z datą 1899.",
+        "crop": [
+          180,
+          360,
+          600,
+          625
+        ]
+      },
+      "id": "2026-10-12-20"
+    },
+    {
+      "factKey": "emmanuel-olisadebe:career-riddle-polonia-panathinaikos",
+      "format": "career-riddle",
+      "prompt": "Urodził się w Nigerii, a z Polonią Warszawa zdobył mistrzostwo Polski w 2000 roku. Później grał w Panathinaikosie i pomógł Polsce awansować na mundial 2002. Kto to?",
+      "answerParts": [
+        "Emmanuel Olisadebe"
+      ],
+      "subjects": [
+        "player:emmanuel-olisadebe"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "grecja",
+        "mundial",
+        "zagadka-kariery"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — nigeryjskie korzenie, mistrzostwo z Polonią, Panathinaikos i mundial 2002",
+          "url": "https://www.uefa.com/news/0205-0e82d584182c-678de83fd7f1-1000--olisadebe-proud-to-reflect-on-poland-success/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-10-12-21"
+    },
+    {
+      "factKey": "alaves:2001-uefa-cup-final:liverpool-5-4",
+      "format": "fact",
+      "prompt": "Który hiszpański klub przegrał z Liverpoolem 4:5 po dogrywce w finale Pucharu UEFA 2001?",
+      "answerParts": [
+        "Deportivo Alavés"
+      ],
+      "subjects": [
+        "club:deportivo-alaves"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — finał z dziewięcioma golami",
+          "url": "https://www.uefa.com/news/025e-0f99c9000468-de442df38cc1-1000--classics-liverpool-5-4-alaves/",
+          "checkedAt": "2026-10-12T08:27:35.514Z"
+        }
+      ],
+      "id": "2026-10-12-22"
+    },
+    {
+      "factKey": "paul-mukairu:2026-10-11:goal-and-assist-korona",
+      "format": "fact",
+      "prompt": "Pogoń – Korona, 11 października 2026: który Nigeryjczyk asystował przy pierwszej bramce, a potem ustalił wynik na 2:0?",
+      "answerParts": [
+        "Paul Mukairu"
+      ],
+      "subjects": [
+        "player:paul-mukairu"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-11",
+      "sources": [
+        {
+          "title": "Ekstraklasa: Pogoń – Korona, oficjalna relacja",
+          "url": "https://ekstraklasa.org/mecz/4a5b91d8-b6f6-460c-a0ed-4e2115c8002d/pogon-szczecin-korona-kielce/relacja/",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        }
+      ],
+      "id": "2026-10-12-23"
+    },
+    {
+      "factKey": "bordeaux:gourcuff-chamakh-cavenaghi-2008-2009",
+      "format": "shared-club",
+      "prompt": "Yoann Gourcuff, Marouane Chamakh i Fernando Cavenaghi: w którym klubie grali razem w sezonie 2008/09?",
+      "answerParts": [
+        "Girondins Bordeaux"
+      ],
+      "subjects": [
+        "club:girondins-bordeaux"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "ligue-1",
+        "wspolny-klub"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Gourcuff, Chamakh i Cavenaghi w Bordeaux w styczniu 2009",
+          "url": "https://fr.uefa.com/news-media/news/01d5-0e70b7cf3f32-f9c72daa6a86-1000--tout-benefice-pour-bordeaux/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-10-12-24"
+    },
+    {
+      "factKey": "denmark-1986:kit-manufacturer",
+      "format": "kit",
+      "prompt": "Jaka marka przygotowała słynne czerwono-białe koszulki Danii na mundial w 1986 roku?",
+      "answerParts": [
+        "hummel"
+      ],
+      "subjects": [
+        "kit:denmark-1986"
+      ],
+      "sources": [
+        {
+          "title": "hummel — historia koszulki Danii z mundialu 1986",
+          "url": "https://www.hummel.dk/en/the-story-behind-the-iconic-86-jersey.html",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        },
+        {
+          "title": "hummel — komunikat prasowy o projektantkach stroju z 1986",
+          "url": "https://via.ritzau.dk/pressemeddelelse/13696223/her-er-fortaellingen-bag-86-trojen%3A-designere-rejste-120-dage-om-aret-og-skabte-en-af-historiens-mest-ikoniske-fodboldtrojer?lang=da&publisherId=13559511",
+          "checkedAt": "2026-10-12T08:30:48.882836+00:00"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-10-12-25"
+    },
+    {
+      "factKey": "ivan-perisic:transfer-2015",
+      "format": "transfer",
+      "prompt": "Czyj transfer z 2015 roku pokazano poniżej?",
+      "answerParts": [
+        "Ivan Perišić"
+      ],
+      "subjects": [
+        "player:ivan-perisic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "bundesliga",
+        "serie-a",
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "Inter — Perišić przychodzi z Wolfsburga w 2015",
+          "url": "https://www.inter.it/en/news/2022-05-01-perisic-250-appearances-inter",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "transfer": {
+        "year": 2015,
+        "from": {
+          "club": "VfL Wolfsburg",
+          "media": {
+            "path": "assets/14.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "credit": "Unknown authorUnknown author",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 960,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-12-26"
+    },
+    {
+      "factKey": "polish-clubs:ucl-group-stage:1990s-legia-widzew",
+      "format": "fact",
+      "prompt": "Wymień dwa polskie kluby, które zagrały w fazie grupowej Ligi Mistrzów w latach 90.",
+      "answerParts": [
+        "Legia Warszawa",
+        "Widzew Łódź"
+      ],
+      "subjects": [
+        "club:legia-warsaw",
+        "club:widzew-lodz"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Legia w sezonie 1995/96",
+          "url": "https://www.uefa.com/uefachampionsleague/history/clubs/50146--legia-warszawa/",
+          "checkedAt": "2026-10-12T08:27:35.514Z"
+        },
+        {
+          "title": "UEFA — Widzew w sezonie 1996/97",
+          "url": "https://www.uefa.com/uefachampionsleague/history/clubs/52752--widzew/",
+          "checkedAt": "2026-10-12T08:27:35.514Z"
+        }
+      ],
+      "id": "2026-10-12-27"
+    },
+    {
+      "factKey": "viktoria-plzen:2026-08-27:europa-comeback-crvena-zvezda",
+      "format": "fact",
+      "prompt": "Który czeski klub awansował do Ligi Europy 2026/27, odrabiając porażkę 0:3 z Crveną zvezdą wygraną 5:1 po dogrywce?",
+      "answerParts": [
+        "Viktoria Pilzno (Viktoria Plzeň)"
+      ],
+      "subjects": [
+        "club:viktoria-plzen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "europa-league",
+        "czechy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-27",
+      "sources": [
+        {
+          "title": "UEFA: wyniki eliminacji Ligi Europy 2026/27",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02a6-20e5db0029dd-8241a8d00925-1000--europa-league-qualifying-fixtures-dates-how-it-works/",
+          "checkedAt": "2026-10-12T08:30:01.989649+00:00"
+        }
+      ],
+      "id": "2026-10-12-28"
+    },
+    {
+      "factKey": "rene-higuita:scorpion-save-wembley-1995",
+      "format": "fact",
+      "prompt": "Który kolumbijski bramkarz zasłynął „obroną skorpiona” na Wembley przeciwko Anglii w 1995 roku?",
+      "answerParts": [
+        "René Higuita"
+      ],
+      "subjects": [
+        "player:rene-higuita"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Higuita i słynna obrona skorpiona",
+          "url": "https://inside.fifa.com/en/news/skrabb-s-scorpion-kick-finds-the-top-corner-2856735-x7355",
+          "checkedAt": "2026-10-12T08:43:51.165484+00:00"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-10-12-29"
+    },
+    {
+      "factKey": "conference-league:first-final-2022-clubs",
+      "format": "fact",
+      "prompt": "Kluby z Włoch i Holandii spotkały się w pierwszym finale Ligi Konferencji (2022). Wymień oba.",
+      "answerParts": [
+        "AS Roma",
+        "Feyenoord"
+      ],
+      "subjects": [
+        "club:as-roma",
+        "club:feyenoord"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "liga-konferencji",
+        "serie-a",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Roma i Feyenoord w pierwszym finale Ligi Konferencji",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/0275-153b4c3b58ce-9dd2bc95bfd0-1000--roma-1-0-feyenoord-zaniolo-strike-wins-the-first-europa-confere/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-10-12-30"
+    }
+  ]
+}
