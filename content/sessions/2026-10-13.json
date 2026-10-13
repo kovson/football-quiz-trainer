@@ -1,0 +1,1199 @@
+{
+  "id": "2026-10-13",
+  "kind": "daily",
+  "title": "Trening głowy · 13 października 2026",
+  "date": "2026-10-13",
+  "publishAt": "2026-10-13T07:00:00+02:00",
+  "researchedAt": "2026-10-13T08:27:22.356Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-13"
+  },
+  "questions": [
+    {
+      "factKey": "jacek-bak:portrait-2008",
+      "format": "photo",
+      "prompt": "Jak nazywa się ten były kapitan reprezentacji Polski?",
+      "answerParts": [
+        "Jacek Bąk"
+      ],
+      "subjects": [
+        "player:jacek-bak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Grzegorz Jereczek — fotografia zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Jacek.B%C4%85k.JPG",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        },
+        {
+          "title": "PZPN — Jacek Bąk, były kapitan kadry",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/jacek-bak/",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "media": {
+        "path": "assets/d13-bak.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jacek.B%C4%85k.JPG",
+        "credit": "Grzegorz Jereczek from Gdańsk, Poland",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 874,
+        "height": 1313,
+        "alt": "Portret byłego piłkarza; bez oznaczeń reprezentacji i numeru.",
+        "crop": [
+          310,
+          25,
+          265,
+          315
+        ]
+      },
+      "id": "2026-10-13-01"
+    },
+    {
+      "factKey": "fernando-torres:transfer-2011",
+      "format": "transfer",
+      "prompt": "Kto wykonał ten transfer w styczniu 2011 roku?",
+      "answerParts": [
+        "Fernando Torres"
+      ],
+      "subjects": [
+        "player:fernando-torres"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — Torres przechodzi do Chelsea w styczniu 2011",
+          "url": "https://www.liverpoolfc.com/info/fernando-torres/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-13-02"
+    },
+    {
+      "factKey": "sc-freiburg:2026-10-11:record-start-top-13-points",
+      "format": "fact",
+      "prompt": "Który klub prowadził w Bundeslidze po 11 października 2026, zdobywając rekordowe dla siebie 13 punktów w pierwszych pięciu meczach?",
+      "answerParts": [
+        "SC Freiburg"
+      ],
+      "subjects": [
+        "club:sc-freiburg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-11",
+      "sources": [
+        {
+          "title": "Bundesliga: Freiburg na czele po rekordowym początku",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/table-topping-freiburg-revel-in-record-start-39513",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        }
+      ],
+      "id": "2026-10-13-03"
+    },
+    {
+      "factKey": "sampdoria:cassano-pazzini-palombo-2009-2010",
+      "format": "shared-club",
+      "prompt": "Antonio Cassano, Giampaolo Pazzini i Angelo Palombo: w którym klubie grali razem w sezonie 2009/10?",
+      "answerParts": [
+        "Sampdoria (UC Sampdoria)"
+      ],
+      "subjects": [
+        "club:sampdoria"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "serie-a",
+        "wspolny-klub"
+      ],
+      "sources": [
+        {
+          "title": "Sampdoria — Cassano, Pazzini i Palombo w klubie w marcu 2010",
+          "url": "https://www.sampdoria.it/news/archivio/2010/03/21/cassano-piega-la-juve-e-spinge-la-samp-al-quarto-posto/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "id": "2026-10-13-04"
+    },
+    {
+      "factKey": "austria-wien:crest-monogram",
+      "format": "crest",
+      "prompt": "Rozpoznaj austriacki klub po monogramie w herbie.",
+      "answerParts": [
+        "FK Austria Wiedeń (FK Austria Wien)"
+      ],
+      "subjects": [
+        "club:austria-wien"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Herb klubu — metadane oryginału",
+          "url": "https://commons.wikimedia.org/wiki/File:FK_Austria_Wien_logo.svg",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        },
+        {
+          "title": "Austria Wien — tożsamość i herb klubu",
+          "url": "https://fk-austria.at/en/news/carrying-history-into-the-future.",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "media": {
+        "path": "assets/d13-austria.png",
+        "source": "https://commons.wikimedia.org/wiki/File:FK_Austria_Wien_logo.svg",
+        "credit": "FK Austria Wien",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:FK_Austria_Wien_logo.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 1202,
+        "alt": "Fioletowo-biały monogram z centralnej części herbu.",
+        "crop": [
+          275,
+          520,
+          410,
+          390
+        ]
+      },
+      "id": "2026-10-13-05"
+    },
+    {
+      "factKey": "jose-luis-chilavert:1999-penalty-hat-trick",
+      "format": "fact",
+      "prompt": "Który paragwajski bramkarz zdobył hat-tricka z rzutów karnych dla Vélez Sarsfield przeciwko Ferro Carril Oeste w listopadzie 1999?",
+      "answerParts": [
+        "José Luis Chilavert"
+      ],
+      "subjects": [
+        "player:jose-luis-chilavert"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Vélez — bramki Chilaverta, w tym trzy karne 28 listopada 1999",
+          "url": "https://velez.com.ar/homenajes/notas/2018/07/26/151337_feliz-cumpleanos-chila",
+          "checkedAt": "2026-10-13T08:20:29.954Z"
+        }
+      ],
+      "id": "2026-10-13-06"
+    },
+    {
+      "factKey": "arkadiusz-milik:selected-career-2014-2022",
+      "format": "career",
+      "prompt": "Który polski napastnik grał kolejno w tych klubach?",
+      "answerParts": [
+        "Arkadiusz Milik"
+      ],
+      "subjects": [
+        "player:arkadiusz-milik"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "holandia",
+        "serie-a",
+        "ligue-1",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "Juventus — kariera Milika przed transferem w sierpniu 2022",
+          "url": "https://www.juventus.com/en/news/articles/official-arkadiusz-milik-is-bianconero",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — pierwsze wypożyczenie do Ajaxu w 2014",
+          "url": "https://es.uefa.com/news-media/news/0257-0def76dbb390-68feaa6a7830-1000--milik-feliz-por-su-marcha-al-ajax/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — Milik z Ajaxu do Napoli latem 2016",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0231-0e95127f1578-43ac8aacddab-1000--milik-moving-forward-with-napoli/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — wypożyczenie Milika z Napoli do Marsylii zimą 2021",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0266-117c8d07f7ff-81847285c308-1000--all-the-europa-league-transfers/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Ajax",
+          "years": "2014–2016*",
+          "media": {
+            "path": "assets/d13-badge-ajax.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "credit": "AFC Ajax",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Napoli",
+          "years": "2016–2021",
+          "media": {
+            "path": "assets/d09-napoli.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "credit": "The original uploader was Eric Duff at Portuguese Wikipedia.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Olympique Marsylia",
+          "years": "2021–2022*",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery, 2014–2022. * Pobyt rozpoczęty od wypożyczenia.",
+      "id": "2026-10-13-07"
+    },
+    {
+      "factKey": "frank-lampard:2026-10-12:coventry-newcastle-4-1",
+      "format": "coach",
+      "prompt": "Kto prowadzi Coventry w sezonie 2026/27? 12 października jego zespół pokonał Newcastle 4:1 i opuścił strefę spadkową.",
+      "answerParts": [
+        "Frank Lampard"
+      ],
+      "subjects": [
+        "coach:frank-lampard"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-12",
+      "sources": [
+        {
+          "title": "Premier League: Coventry – Newcastle 4:1",
+          "url": "https://www.premierleague.com/en/news/4730413/coventry-hit-four-to-beat-newcastle-for-first-home-win",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        }
+      ],
+      "id": "2026-10-13-08"
+    },
+    {
+      "factKey": "iran:usa-1998-pre-match-flowers",
+      "format": "fact",
+      "prompt": "Piłkarze której reprezentacji wręczyli Amerykanom kwiaty przed meczem na mundialu w 1998 roku?",
+      "answerParts": [
+        "Iran"
+      ],
+      "subjects": [
+        "national-team:iran"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FIFA — Lyon memories spur Team Melli",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/qatar2022/news/iran-ready-for-usa-reunion-fifa-world-cup",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "id": "2026-10-13-09"
+    },
+    {
+      "factKey": "ricardo-quaresma:transfer-2009",
+      "format": "transfer",
+      "prompt": "Którego skrzydłowego wypożyczono w lutym 2009?",
+      "answerParts": [
+        "Ricardo Quaresma"
+      ],
+      "subjects": [
+        "player:ricardo-quaresma"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "serie-a",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wypożyczenie Quaresmy do Chelsea, 2 lutego 2009",
+          "url": "https://de.uefa.com/uefachampionsleague/news/01d6-0e70ce10b74e-2ed2ee66ea31-1000--inter-leiht-quaresma-an-chelsea-aus/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Luty · wypożyczenie do końca sezonu",
+        "from": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-13-10"
+    },
+    {
+      "factKey": "louis-van-gaal:xavi-schweinsteiger-rooney",
+      "format": "coach-link",
+      "prompt": "Jaki trener prowadził tych trzech piłkarzy w podanych sezonach?",
+      "answerParts": [
+        "Louis van Gaal"
+      ],
+      "subjects": [
+        "coach:louis-van-gaal"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "trener",
+        "la-liga",
+        "bundesliga",
+        "premier-league"
+      ],
+      "sources": [
+        {
+          "title": "Barcelona — Xavi pod wodzą van Gaala w 1998/99",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/1121130/xavi-a-liga-legend-at-fc-barcelona",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "Bayern — Schweinsteiger i trener van Gaal w mistrzowskim sezonie 2009/10",
+          "url": "https://fcbayern.com/en/club/honours/german-championship/season-2009-2010",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "The FA — Rooney i jego trener van Gaal w grudniu 2014",
+          "url": "https://www.thefa.com/news/2014/dec/27/wayne-rooney-could-not-have-done-anymore-says-manchester-united-boss-271214",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "clues": [
+        "Xavi — Barcelona, 1998/99",
+        "Bastian Schweinsteiger — Bayern, 2009/10",
+        "Wayne Rooney — Manchester United, 2014/15"
+      ],
+      "id": "2026-10-13-11"
+    },
+    {
+      "factKey": "olympiastadion-berlin:aerial-photo-2018",
+      "format": "stadium",
+      "prompt": "W jakim mieście znajduje się stadion pokazany z góry?",
+      "answerParts": [
+        "Berlin"
+      ],
+      "subjects": [
+        "stadium:olympiastadion-berlin"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Cordhg — autentyczna fotografia z 2018 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Olympiastadion_Berlin_2018.jpg",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        },
+        {
+          "title": "Operator stadionu — niebieska bieżnia i stadion",
+          "url": "https://olympiastadion.berlin/en/event/stadium-infield/",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "media": {
+        "path": "assets/d13-berlin-modern.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Olympiastadion_Berlin_2018.jpg",
+        "credit": "Cordhg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Bez zmian.",
+        "width": 1922,
+        "height": 1081,
+        "alt": "Widok stadionu z góry: niebieska bieżnia i owalny dach."
+      },
+      "id": "2026-10-13-12"
+    },
+    {
+      "factKey": "tymoteusz-puchacz:2026-10-13:sabah-ucl-squad",
+      "format": "fact",
+      "prompt": "Liga Mistrzów 2026/27: który Polak gra w defensywie debiutującego Sabah? Wcześniej występował m.in. w Lechu i Unionie Berlin.",
+      "answerParts": [
+        "Tymoteusz Puchacz"
+      ],
+      "subjects": [
+        "player:tymoteusz-puchacz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "polish",
+        "champions-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "UEFA: kadra Sabah w Lidze Mistrzów 2026/27",
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/2609356/squad/",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        },
+        {
+          "title": "Sabah: przyjście Puchacza i wcześniejsze kluby",
+          "url": "https://sabahfc.az/news/215",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        },
+        {
+          "title": "UEFA: debiut Sabah w Lidze Mistrzów",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218383d11a7b-40ea7b8444ad-1000--champions-league-matchday-1-manchester-united-vs-sabah-facts/",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        }
+      ],
+      "id": "2026-10-13-13"
+    },
+    {
+      "factKey": "marko-marin:career-gap-sevilla-2013-2014",
+      "format": "career-gap",
+      "prompt": "Marko Marin: w którym klubie spędził sezon 2013/14?",
+      "answerParts": [
+        "Sevilla"
+      ],
+      "subjects": [
+        "club:sevilla"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "premier-league",
+        "la-liga",
+        "serie-a",
+        "belgia",
+        "liga-europy",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — sezonowe wypożyczenie Marina w 2013/14",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/020b-0e8536c34f32-21ff2a06264d-1000--marin-aiming-to-thrive-on-loan-at-sevilla/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — wcześniejszy sezon w Chelsea i kolejne wypożyczenie do Fiorentiny w 2014",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0218-0e8bb9e8bd0f-9865a8fdc848-1000--marin-targets-trophy-hat-trick-with-fiorentina/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — wypożyczenie Marina do Anderlechtu w styczniu 2015",
+          "url": "https://pt.uefa.com/uefachampionsleague/news/021e-0e8f1e228af1-ad62da4c5cd4-1000--transferencias-de-inverno-na-uefa-champions-league/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Chelsea",
+          "years": "2012–2013",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Sevilla",
+          "years": "2013–2014*",
+          "media": {
+            "path": "assets/d10-badge-sevilla.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "credit": "Sevilla",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 305,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Fiorentina",
+          "years": "2014–2015*",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Anderlecht",
+          "years": "2015*",
+          "media": {
+            "path": "assets/d11-badge-anderlecht.png",
+            "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "credit": "Anderlecht",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane etapy gry, 2012–2015. * Wypożyczenie; pominięto powroty do klubu macierzystego między wypożyczeniami.",
+      "id": "2026-10-13-14"
+    },
+    {
+      "factKey": "wigan-athletic:2013-fa-cup-final-win",
+      "format": "fact",
+      "prompt": "Który klub Roberto Martíneza pokonał Manchester City 1:0 w finale Pucharu Anglii w 2013 roku?",
+      "answerParts": [
+        "Wigan Athletic"
+      ],
+      "subjects": [
+        "club:wigan-athletic"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Wembley — finał Pucharu Anglii 2013",
+          "url": "https://www.wembleystadium.com/events/10s/2013/the-fa-cup-final",
+          "checkedAt": "2026-10-13T08:20:29.954Z"
+        }
+      ],
+      "id": "2026-10-13-15"
+    },
+    {
+      "factKey": "mascot:zakumi-2010-leopard-name",
+      "format": "fact",
+      "prompt": "Jak nazywała się maskotka mundialu 2010 — lampart z zieloną grzywą?",
+      "answerParts": [
+        "Zakumi"
+      ],
+      "subjects": [
+        "mascot:zakumi-2010"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FIFA — historia maskotek mistrzostw świata",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mascots-history",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "id": "2026-10-13-16"
+    },
+    {
+      "factKey": "lukas-podolski:transfer-2015",
+      "format": "transfer",
+      "prompt": "Czyj transfer z lipca 2015 pokazują te herby?",
+      "answerParts": [
+        "Lukas Podolski"
+      ],
+      "subjects": [
+        "player:lukas-podolski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "premier-league",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Podolski z Arsenalu do Galatasaray w lipcu 2015",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0253-0d80681a8b6a-835e118a60b8-1000--galatasaray-capture-world-cup-winner-podolski/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "transfer": {
+        "year": 2015,
+        "detail": "Lipiec · transfer definitywny",
+        "from": {
+          "club": "Arsenal",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Galatasaray",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-13-17"
+    },
+    {
+      "factKey": "thorgan-hazard:2026-07-13:return-lens-anderlecht",
+      "format": "fact",
+      "prompt": "Który belgijski piłkarz wrócił latem 2026 z Anderlechtu do Lens, gdzie zaczynał profesjonalną karierę?",
+      "answerParts": [
+        "Thorgan Hazard"
+      ],
+      "subjects": [
+        "player:thorgan-hazard"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "ligue-1"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-07-13",
+      "sources": [
+        {
+          "title": "RC Lens: powrót Thorgana Hazarda",
+          "url": "https://www.rclens.fr/fr/thorgan-hazard-mercato-rclens-leslensois-20260713",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        }
+      ],
+      "id": "2026-10-13-18"
+    },
+    {
+      "factKey": "liverpool:2005-ucl-final:xi-hyypia-luis-garcia",
+      "format": "lineup",
+      "prompt": "Liverpool w finale Ligi Mistrzów w Stambule (2005): uzupełnij dwa nazwiska.",
+      "answerParts": [
+        "Sami Hyypiä",
+        "Luis García"
+      ],
+      "subjects": [
+        "player:sami-hyypia",
+        "player:luis-garcia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-mistrzow",
+        "premier-league",
+        "sklad"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — oficjalna wyjściowa jedenastka Liverpoolu w finale 2005",
+          "url": "https://www.uefa.com/newsfiles/UCL/2004/1086988_LU.pdf",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — skład i zmiany w finale Milan – Liverpool z 25 maja 2005",
+          "url": "https://www.uefa.com/uefachampionsleague/match/80813--liverpool-vs-milan/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "lineup": {
+        "caption": "Wyjściowy skład z 25 maja 2005; rozmieszczenie poglądowe.",
+        "rows": [
+          [
+            {
+              "name": "Jerzy Dudek"
+            }
+          ],
+          [
+            {
+              "name": "Djimi Traoré"
+            },
+            {
+              "name": "Sami Hyypiä",
+              "slot": 0
+            },
+            {
+              "name": "Jamie Carragher"
+            },
+            {
+              "name": "Steve Finnan"
+            }
+          ],
+          [
+            {
+              "name": "John Arne Riise"
+            },
+            {
+              "name": "Steven Gerrard"
+            },
+            {
+              "name": "Xabi Alonso"
+            },
+            {
+              "name": "Luis García",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Harry Kewell"
+            }
+          ],
+          [
+            {
+              "name": "Milan Baroš"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-13-19"
+    },
+    {
+      "factKey": "paok:crest-lower-fragment",
+      "format": "crest",
+      "prompt": "Z którego greckiego klubu pochodzi dolna część tego herbu?",
+      "answerParts": [
+        "PAOK Saloniki (PAOK FC)"
+      ],
+      "subjects": [
+        "club:paok"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Herb P.A.O.K. — źródło grafiki",
+          "url": "https://en.wikipedia.org/wiki/File:PAOK_emblem_2010.svg",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        },
+        {
+          "title": "UEFA — herb i czarno-białe barwy PAOK",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/021a-0e8d6f5c3b38-a0d88cf99272-1000--myths-heroes-and-legends-paok-in-focus/",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "media": {
+        "path": "assets/d13-paok.png",
+        "source": "https://en.wikipedia.org/wiki/File:PAOK_emblem_2010.svg",
+        "credit": "P.A.O.K.",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:PAOK_emblem_2010.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 1135,
+        "alt": "Dolna część czarno-białego herbu, skrzydła i data 1926.",
+        "crop": [
+          180,
+          560,
+          600,
+          485
+        ]
+      },
+      "id": "2026-10-13-20"
+    },
+    {
+      "factKey": "krzysztof-warzycha:career-riddle-ruch-panathinaikos",
+      "format": "career-riddle",
+      "prompt": "W 1989 zdobył z Ruchem Chorzów mistrzostwo Polski i koronę króla strzelców. Później trzykrotnie był najlepszym strzelcem ligi greckiej w barwach Panathinaikosu. Kto to?",
+      "answerParts": [
+        "Krzysztof Warzycha"
+      ],
+      "subjects": [
+        "player:krzysztof-warzycha"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "grecja",
+        "ekstraklasa",
+        "zagadka-kariery"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — mistrzostwo Ruchu w 1989 i trzy korony strzeleckie w Grecji",
+          "url": "https://www.laczynaspilka.pl/biblioteka/ppns/artykuly/pko-bp-ekstraklasa-ruch-chorzow",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "id": "2026-10-13-21"
+    },
+    {
+      "factKey": "fc-nantes:1994-1995-champions-32-unbeaten",
+      "format": "fact",
+      "prompt": "Który francuski klub został mistrzem w sezonie 1994/95 po serii 32 kolejnych ligowych meczów bez porażki?",
+      "answerParts": [
+        "FC Nantes"
+      ],
+      "subjects": [
+        "club:fc-nantes"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FC Nantes — mistrzostwo i seria bez porażki w sezonie 1994/95",
+          "url": "https://www.fcnantes.com/articles/article2809.php?num=34575",
+          "checkedAt": "2026-10-13T08:20:29.954Z"
+        }
+      ],
+      "id": "2026-10-13-22"
+    },
+    {
+      "factKey": "karol-swiderski:2026-07-25:widzew-return-panathinaikos",
+      "format": "fact",
+      "prompt": "Latem 2026 wrócił do Ekstraklasy z Panathinaikosu i podpisał kontrakt z Widzewem. Który napastnik reprezentacji Polski?",
+      "answerParts": [
+        "Karol Świderski"
+      ],
+      "subjects": [
+        "player:karol-swiderski"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-07-25",
+      "sources": [
+        {
+          "title": "Ekstraklasa: powroty reprezentantów przed sezonem",
+          "url": "https://ekstraklasa.org/aktualnosci/powroty-reprezentantow-jak-rozpoczna-sezon/",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        }
+      ],
+      "id": "2026-10-13-23"
+    },
+    {
+      "factKey": "andrzej-juskowiak:barcelona-1992-top-scorer",
+      "format": "fact",
+      "prompt": "Który Polak został królem strzelców olimpijskiego turnieju w Barcelonie w 1992 roku z siedmioma golami?",
+      "answerParts": [
+        "Andrzej Juskowiak"
+      ],
+      "subjects": [
+        "player:andrzej-juskowiak"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "igrzyska",
+        "reprezentacje"
+      ],
+      "sources": [
+        {
+          "title": "Polski Komitet Olimpijski — Juskowiak królem strzelców Barcelony 1992",
+          "url": "https://olimpijski.pl/olimpijczycy/andrzej-mieczyslaw-juskowiak/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "id": "2026-10-13-24"
+    },
+    {
+      "factKey": "frederic-kanoute:portrait-2008",
+      "format": "photo",
+      "prompt": "Podaj nazwisko zawodnika z tej fotografii.",
+      "answerParts": [
+        "Frédéric Kanouté"
+      ],
+      "subjects": [
+        "player:frederic-kanoute"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FAMSI — portret piłkarza podczas konferencji",
+          "url": "https://commons.wikimedia.org/wiki/File:Frederic_Kanoute_2008.jpg",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "media": {
+        "path": "assets/d13-kanoute-head.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Kanoute_2008.jpg",
+        "credit": "Fondo Andaluz de Municipios para la Solidaridad Internacional FAMSI",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 328,
+        "height": 404,
+        "alt": "Portret piłkarza w białej koszuli, bez klubowych oznaczeń.",
+        "crop": [
+          35,
+          15,
+          270,
+          335
+        ]
+      },
+      "id": "2026-10-13-25"
+    },
+    {
+      "factKey": "diego-forlan:transfer-2011",
+      "format": "transfer",
+      "prompt": "Podaj napastnika, którego sprowadzono w sierpniu 2011.",
+      "answerParts": [
+        "Diego Forlán"
+      ],
+      "subjects": [
+        "player:diego-forlan"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "la-liga",
+        "serie-a"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Forlán z Atlético do Interu w sierpniu 2011",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01f4-0ea2a098b10d-8d04252d7dfa-1000--inter-complete-deals-for-forlan-poli-and-zarate/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Atlético Madryt",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-13-26"
+    },
+    {
+      "factKey": "dariusz-dziekanowski:1989-four-goals-partizan",
+      "format": "fact",
+      "prompt": "Który Polak strzelił cztery gole dla Celtiku przeciwko Partizanowi we wrześniu 1989, choć jego zespół odpadł przez bramki wyjazdowe?",
+      "answerParts": [
+        "Dariusz Dziekanowski"
+      ],
+      "subjects": [
+        "player:dariusz-dziekanowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Celtic — cztery gole i odpadnięcie z pucharów",
+          "url": "https://www.celticfc.com/news/2021/september/Big-Jaki-to-the-four-but-Celts-still-drop-out/",
+          "checkedAt": "2026-10-13T08:20:29.954Z"
+        },
+        {
+          "title": "Legia — cztery bramki Dziekanowskiego przeciwko Partizanowi",
+          "url": "https://legia.com/articles/dariusz-dziekanowski-warszawiak-z-widzewska-wiza-w-pilkarskim-paszporcie",
+          "checkedAt": "2026-10-13T08:20:29.954Z"
+        }
+      ],
+      "id": "2026-10-13-27"
+    },
+    {
+      "factKey": "nec:2026-10-10:first-four-unbeaten-ajax",
+      "format": "fact",
+      "prompt": "Który holenderski klub po remisie 1:1 z Ajaksem 10 października 2026 miał po raz pierwszy cztery kolejne ligowe mecze bez porażki z tym rywalem?",
+      "answerParts": [
+        "N.E.C. Nijmegen"
+      ],
+      "subjects": [
+        "club:nec"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "eredivisie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "sources": [
+        {
+          "title": "Eredivisie: podsumowanie ósmej kolejki",
+          "url": "https://eredivisie.nl/nieuws/terugblik-speelronde-8-we-hebben-een-nieuwe-koploper/",
+          "checkedAt": "2026-10-13T08:21:36Z"
+        }
+      ],
+      "id": "2026-10-13-28"
+    },
+    {
+      "factKey": "bhutan:other-final-montserrat-2002",
+      "format": "fact",
+      "prompt": "Która himalajska reprezentacja zmierzyła się z Montserrat w „Innym finale” 30 czerwca 2002, w dniu finału mundialu?",
+      "answerParts": [
+        "Bhutan"
+      ],
+      "subjects": [
+        "national-team:bhutan"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FIFA — The Other Final",
+          "url": "https://inside.fifa.com/news/the-other-final-when-the-world-s-worst-two-teams-met",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        },
+        {
+          "title": "AFC — Bhutan jako kraj Himalajów",
+          "url": "https://assets.the-afc.com/migration/a/f/afc-quarterly-issue-11-26150",
+          "checkedAt": "2026-10-13T08:24:33.754920+00:00"
+        }
+      ],
+      "id": "2026-10-13-29"
+    },
+    {
+      "factKey": "nottingham-forest:consecutive-european-cups-1979-1980",
+      "format": "fact",
+      "prompt": "Który angielski klub zdobył Puchar Europy w 1979 i 1980, pokonując w finałach Malmö i HSV?",
+      "answerParts": [
+        "Nottingham Forest"
+      ],
+      "subjects": [
+        "club:nottingham-forest"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "puchar-europy",
+        "liga-mistrzow",
+        "anglia",
+        "lata-70",
+        "lata-80"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Nottingham Forest wygrywa finał Pucharu Europy 1979 z Malmö",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0ea6687c95ea-1cc4f4a550f7-1000--1978-79-forest-join-elite-club/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        },
+        {
+          "title": "UEFA — Nottingham Forest broni tytułu w 1980 przeciw HSV",
+          "url": "https://www.uefa.com/uefachampionsleague/news/007d-0e6a0985c1d4-9c3f4571f066-1000/",
+          "checkedAt": "2026-10-13T08:22:28Z"
+        }
+      ],
+      "id": "2026-10-13-30"
+    }
+  ]
+}
