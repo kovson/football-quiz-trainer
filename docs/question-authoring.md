@@ -32,6 +32,7 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 ## Current-season selection
 
 - Research the latest completed matches and developments available at authoring time. Balance memorable incidents with standings, managerial changes, transfers, debuts, milestones, and records; do not fill the quota with obscure scorers from an arbitrary round.
+- The preferred authoring start is around 08:00 Europe/Warsaw, followed by publication when the set is ready. Include overnight games that have actually finished by the run; this is a manual morning workflow until unattended authoring is configured, and does not promise that every worldwide game has finished or that new content is live at 07:00.
 - Apply an editorial filter: choose surprising results, meaningful transfers, managerial changes, European breakthroughs, debuts, and milestones worth remembering. Six available match reports do not automatically deserve six questions. Include the season's bigger picture alongside the latest games; source availability alone is not a reason to select a fact.
 - Prefer events within the quiz-event window. If that window is quiet, use useful ongoing-season knowledge and label it as current-season rather than falsely recent.
 - State the match date or the season and the snapshot date for changing facts. Check results, scorers, assists, and incidents against the exact official report. Do not assume a readable URL establishes the date or season.
@@ -43,6 +44,8 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 - Build difficulty through identities, meaningful clue combinations, and connections. A famous answer can still be hard when its clues are subtle.
 - Prefer a recognizable player's forgotten loan, an unexpected coaching connection, or another useful clue over an obscure scorer from an ordinary match. Give enough information for a satisfying deduction without making the answer obvious; obscurity alone does not make a good question.
 - Balance recognizable names with discoveries: include familiar players with surprising connections and a few lesser-known subjects. Avoid both a set dominated by obvious stars and a set that becomes a guessing exercise about obscure identities.
+- Calibrate Polish-player identification against the user's 13 October feedback: questions 1 (Jacek Bąk portrait), 7 (Arkadiusz Milik badge career), 13 (Tymoteusz Puchacz with Lech/Union clues), and 23 (Karol Świderski's Panathinaikos-to-Widzew move) were too easy. These are examples of clues that give this audience too much help, not evidence that every question or Polish-football topic is too easy.
+- Keep Polish football challenging through forgotten spells, career gaps, club or coach connections, less obvious portraits, and meaningful historical details. Avoid a cluster of familiar internationals identified from their signature clubs or a current transfer plus position/nationality hints. Remove unnecessary biographical hints only when the remaining clues still identify a fair, unambiguous answer; otherwise choose a stronger candidate. Familiar players can remain when the tested connection is less obvious. Keep the short phone-friendly interaction.
 - Use clear, genuine photos of less obvious players. Crop identifying kit, crests, and stadium signage, while keeping the face or stadium recognizable; reject blurry, tiny, or excessively tight crops. Do not fabricate or retouch identities.
 - Inspect the whole question as the player sees it before reveal, including images and surrounding clues, for accidental spoilers such as sponsors, stadium signs or crest lettering. Remove clues that give away the tested identity while preserving intentional club logos in badge careers and transfers. Crest-identification questions may omit club-name text.
 
@@ -59,6 +62,8 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 ## Before publication
 
 Confirm all thirty answers against sources that support the exact claims, inspect subject cooldown and semantic reuse, review the daily mix and rolling coverage, and visually inspect media. Explicitly review repeated tasks, prompt length, answer count, meaningful difficulty, and phone readability. Run `npm test` and `npm run build`, then check the phone layout and reveal/navigation behavior. Structural checks cannot establish factual accuracy or editorial quality. Replace uncertain questions rather than inventing an answer.
+
+Review Polish-player identification separately against the four user-flagged examples above. Judge difficulty from the complete visible clue set and this audience's knowledge; a famous face, signature career path, or heavily narrowed transfer should not receive a hard label merely because the format looks challenging.
 
 Finish with the editorial question: “Would I enjoy answering these thirty on my phone?” Meeting every quota is insufficient if the complete set feels repetitive, confusing or tiring. Replace weak questions and adjust their order before publication.
 
