@@ -1,0 +1,1190 @@
+{
+  "id": "2026-10-15",
+  "kind": "daily",
+  "title": "Trening głowy · 15 października 2026",
+  "date": "2026-10-15",
+  "publishAt": "2026-10-15T08:00:00+02:00",
+  "researchedAt": "2026-10-15T13:17:19.617Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-15"
+  },
+  "questions": [
+    {
+      "factKey": "grzegorz-rasiak:portrait-training",
+      "format": "photo",
+      "prompt": "Podaj imię i nazwisko zawodnika widocznego na fotografii.",
+      "answerParts": [
+        "Grzegorz Rasiak"
+      ],
+      "subjects": [
+        "player:grzegorz-rasiak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Roger Gor — fotografia piłkarza na treningu",
+          "url": "https://commons.wikimedia.org/wiki/File:Grzegorz_Rasiak_Warta.jpg",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d15-rasiak-warta.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Grzegorz_Rasiak_Warta.jpg",
+        "credit": "Roger Gor",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 1554,
+        "height": 1600,
+        "crop": [
+          450,
+          0,
+          600,
+          725
+        ],
+        "alt": "Twarz piłkarza; kadr bez herbu i sponsora."
+      },
+      "id": "2026-10-15-01"
+    },
+    {
+      "factKey": "lassana-diarra:chelsea-arsenal:2007",
+      "format": "transfer",
+      "prompt": "Rozpoznaj bohatera transferu z końca letniego okna w 2007 roku.",
+      "answerParts": [
+        "Lassana Diarra"
+      ],
+      "subjects": [
+        "player:lassana-diarra"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Diarra przechodzi z Chelsea do Arsenalu latem 2007",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c5-0e6e7f76e706-c95866287959-1000--wenger-brings-in-diarra-from-chelsea/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "transfer": {
+        "year": 2007,
+        "detail": "Koniec letniego okna · transfer definitywny",
+        "from": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Arsenal",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-15-02"
+    },
+    {
+      "factKey": "arda-guler:2026-10-14:roma-three-corners-comeback",
+      "format": "fact",
+      "prompt": "Roma – Real, 14 października 2026 (3:4): kto wykonywał rzuty rożne, po których padły wszystkie trzy późne gole odwracające wynik?",
+      "answerParts": [
+        "Arda Güler"
+      ],
+      "subjects": [
+        "player:arda-guler"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-14",
+      "sources": [
+        {
+          "title": "Real Madryt — trzy gole po rzutach rożnych Gülera w Rzymie",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-roma-real-madrid-14-10-2026/",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        }
+      ],
+      "id": "2026-10-15-03"
+    },
+    {
+      "factKey": "bohemians-praha:crest-kangaroo-fragment",
+      "format": "crest",
+      "prompt": "Do jakiego klubu należy pokazany fragment z kangurem?",
+      "answerParts": [
+        "Bohemians Praga 1905 (Bohemians Praha 1905)"
+      ],
+      "subjects": [
+        "club:bohemians-praha"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "czechy"
+      ],
+      "sources": [
+        {
+          "title": "Bohemians Praha 1905 — oficjalny herb i nazwa klubu",
+          "url": "https://bohemians.cz/identita",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d15-bohemians.png",
+        "source": "https://bohemians.cz/identita",
+        "credit": "Bohemians Praha 1905",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://bohemians.cz/identita",
+        "changes": "Wersja PNG z oficjalnego SVG; kadrowanie bez retuszu.",
+        "width": 960,
+        "height": 960,
+        "crop": [
+          300,
+          225,
+          370,
+          520
+        ],
+        "alt": "Zielony kangur z fragmentu herbu; bez nazwy klubu."
+      },
+      "id": "2026-10-15-04"
+    },
+    {
+      "factKey": "orest-lenczyk:coach-link-mila-matusiak-kosowski",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził tych zawodników we wskazanych klubach?",
+      "answerParts": [
+        "Orest Lenczyk"
+      ],
+      "subjects": [
+        "coach:orest-lenczyk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trener",
+        "powiazania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Lenczyk i kapitan Mila mistrzami ze Śląskiem w 2012",
+          "url": "https://www.uefa.com/news-media/news/01fd-0ea463c9a021-12575836d344-1000--slask-land-second-polish-title/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        },
+        {
+          "title": "UEFA — Matusiak wraca pod opiekę Lenczyka w lutym 2008",
+          "url": "https://www.uefa.com/news-media/news/01ca-0e6ef52ab167-b47dc49e12a2-1000--belchatow-bring-matusiak-back-to-poland/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        },
+        {
+          "title": "PZPN — Lenczyk i Kosowski w meczu Wisły z Porto w 2000",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/fc-porto-wisla-krakow-30-09112000",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "clues": [
+        "Kamil Kosowski — Wisła Kraków, jesień 2000",
+        "Radosław Matusiak — GKS Bełchatów, początek 2008",
+        "Sebastian Mila — Śląsk Wrocław, sezon 2011/12"
+      ],
+      "id": "2026-10-15-05"
+    },
+    {
+      "factKey": "ldu-quito:2008-first-ecuador-libertadores",
+      "format": "fact",
+      "prompt": "Który klub pokonał Fluminense w finale Copa Libertadores 2008 i został pierwszym triumfatorem tych rozgrywek z Ekwadoru?",
+      "answerParts": [
+        "LDU Quito (Liga Deportiva Universitaria)"
+      ],
+      "subjects": [
+        "club:ldu-quito"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "CONMEBOL — pierwszy ekwadorski triumfator Copa Libertadores",
+          "url": "https://gol.conmebol.com/libertadores/es/news/breve-historia-de-los-clubes-universitarios-en-la-conmebol-libertadores",
+          "checkedAt": "2026-10-15T13:07:18.937Z"
+        }
+      ],
+      "id": "2026-10-15-06"
+    },
+    {
+      "factKey": "mladen-petric:selected-clubs-2007-2016",
+      "format": "career",
+      "prompt": "Rozpoznaj piłkarza po wybranych etapach kariery.",
+      "answerParts": [
+        "Mladen Petrić"
+      ],
+      "subjects": [
+        "player:mladen-petric"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "bundesliga",
+        "premier-league",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "DFB — pobyty Petricia w Borussii Dortmund i Hamburgerze SV",
+          "url": "https://datencenter.dfb.de/personen/mladen-petric/spieler",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        },
+        {
+          "title": "Fulham — Petrić w sezonie 2012/13",
+          "url": "https://www.fulhamfc.com/match/men/2012-13/g442001",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        },
+        {
+          "title": "Fulham — Petrić występuje również w lutym 2013",
+          "url": "https://www.fulhamfc.com/news/2013/02/first-team-2012_2013-league-away-norwich-city/",
+          "checkedAt": "2026-10-15T13:15:13.475Z"
+        },
+        {
+          "title": "Panathinaikos — przyjście Petricia w styczniu 2014",
+          "url": "https://www.pao.gr/en/transfer/1746-e8be5cf0-115d-4d37-be42-f53b25ca0b8f/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        },
+        {
+          "title": "Panathinaikos — ostatni domowy mecz Petricia w maju 2016",
+          "url": "https://www.pao.gr/en/match/34292/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Borussia Dortmund",
+          "media": {
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 961,
+            "alt": "Herb klubu"
+          },
+          "years": "2007–2008"
+        },
+        {
+          "club": "Hamburger SV",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 711,
+            "alt": "Herb klubu"
+          },
+          "years": "2008–2012"
+        },
+        {
+          "club": "Fulham",
+          "media": {
+            "path": "assets/badge-fulham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "credit": "Fulham F.C.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          },
+          "years": "2012–2013"
+        },
+        {
+          "club": "Panathinaikos",
+          "media": {
+            "path": "assets/d10-badge-panathinaikos.png",
+            "source": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "credit": "Panathinaikos",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2014–2016"
+        }
+      ],
+      "careerCaption": "Wybrane kluby pierwszych drużyn, 2007–2016; ścieżka nie obejmuje wszystkich etapów.",
+      "id": "2026-10-15-07"
+    },
+    {
+      "factKey": "zeljko-kopic:2026-10-09:wieczysta-head-coach",
+      "format": "coach",
+      "prompt": "Kto jest głównym trenerem Wieczystej Kraków? Stan na 9 października 2026.",
+      "answerParts": [
+        "Željko Kopić"
+      ],
+      "subjects": [
+        "coach:zeljko-kopic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-09",
+      "sources": [
+        {
+          "title": "Wieczysta — drużyna Kopicia przed spotkaniem z Wisłą Płock",
+          "url": "https://www.kswieczysta.com/po-trzech-tygodniach-pracy-czas-na-efekty-wieczysta-wraca-do-gry-o-punkty",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        },
+        {
+          "title": "Wieczysta — mecz z Wisłą Płock rozegrany 9 października 2026",
+          "url": "https://www.kswieczysta.com/pewne-zwyciestwo-z-wisla-plock",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        }
+      ],
+      "id": "2026-10-15-08"
+    },
+    {
+      "factKey": "kit:palermo-pre-1907-colours",
+      "format": "kit",
+      "prompt": "Jakie dwa kolory Palermo zastąpiło różowym i czarnym w 1907 roku?",
+      "answerParts": [
+        "Czerwony i niebieski."
+      ],
+      "subjects": [
+        "kit:palermo-before-1907"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "stroje",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "AS Cittadella — oficjalny program meczu z Palermo, strona 4: historia barw",
+          "url": "https://www.ascittadella.it/wp-content/uploads/2018/04/CITTADELLA_PALERMO.pdf",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        },
+        {
+          "title": "City Football Group — przyjęcie barw różowo-czarnych w 1907",
+          "url": "https://www.cityfootballgroup.com/clubs/palermo",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "id": "2026-10-15-09"
+    },
+    {
+      "factKey": "mido:as-roma-tottenham:2005",
+      "format": "transfer",
+      "prompt": "Czyje wypożyczenie ze stycznia 2005 pokazują te herby?",
+      "answerParts": [
+        "Mido (Ahmed Hossam)"
+      ],
+      "subjects": [
+        "player:mido"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — porozumienie w sprawie wypożyczenia Mido z Romy",
+          "url": "https://www.uefa.com/news-media/news/01a5-0f845e730aed-454dbeed3673-1000--tottenham-take-mido-on-loan/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Styczeń · wypożyczenie na 18 miesięcy",
+        "from": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-15-10"
+    },
+    {
+      "factKey": "denmark:1992-final:xi-lars-olsen-john-jensen",
+      "format": "lineup",
+      "prompt": "Dania w finale EURO 1992: uzupełnij dwa nazwiska w wyjściowej jedenastce.",
+      "answerParts": [
+        "Lars Olsen",
+        "John Jensen"
+      ],
+      "subjects": [
+        "player:lars-olsen",
+        "player:john-jensen"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "euro",
+        "sklad",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wyjściowy skład Danii w finale z Niemcami",
+          "url": "https://de.uefa.com/news/0253-0d7b2f4cc353-87f2e3caf7fc-1000--vom-nachrucker-zum-champion-danemark-gewinnt-euro-1992/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "lineup": {
+        "caption": "Finał z Niemcami, 26 czerwca 1992; rozmieszczenie poglądowe.",
+        "rows": [
+          [
+            {
+              "name": "Peter Schmeichel"
+            }
+          ],
+          [
+            {
+              "name": "Kim Christofte"
+            },
+            {
+              "name": "Kent Nielsen"
+            },
+            {
+              "name": "Torben Piechnik"
+            },
+            {
+              "name": "Lars Olsen",
+              "slot": 0
+            },
+            {
+              "name": "John Sivebæk"
+            }
+          ],
+          [
+            {
+              "name": "Kim Vilfort"
+            },
+            {
+              "name": "Henrik Larsen"
+            },
+            {
+              "name": "John Jensen",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Flemming Povlsen"
+            },
+            {
+              "name": "Brian Laudrup"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-15-11"
+    },
+    {
+      "factKey": "louis-ii:stadium-arches",
+      "format": "stadium",
+      "prompt": "Który stadion rozpoznajesz po tej elewacji?",
+      "answerParts": [
+        "Stade Louis-II (Monako)"
+      ],
+      "subjects": [
+        "stadium:louis-ii"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "architektura"
+      ],
+      "sources": [
+        {
+          "title": "Uhooep — fotografia łuków stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Arches_of_Stade_Louis_II.jpg",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        },
+        {
+          "title": "AS Monaco — stadion i jego charakterystyczne łuki",
+          "url": "https://billetterie.asmonaco.com/en/stade-louis-ii/presentation",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d15-louis-ii.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Arches_of_Stade_Louis_II.jpg",
+        "credit": "Uhooep",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Pomniejszenie przez Wikimedia Commons do 1920 px; kadrowanie bez retuszu.",
+        "width": 1920,
+        "height": 1280,
+        "crop": [
+          0,
+          93,
+          1000,
+          907
+        ],
+        "alt": "Jasne łuki elewacji stadionu i palmy; kadr bez flag, napisów i herbów."
+      },
+      "id": "2026-10-15-12"
+    },
+    {
+      "factKey": "matvey-safonov:2026-10-14:psg-goalkeeper-city",
+      "format": "fact",
+      "prompt": "Manchester City – PSG, 14 października 2026 (2:4): który bramkarz gości powstrzymał Haalanda przed skompletowaniem hat-tricka?",
+      "answerParts": [
+        "Matwiej Safonow (Matvey Safonov)"
+      ],
+      "subjects": [
+        "player:matvey-safonov"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-14",
+      "sources": [
+        {
+          "title": "Paris Saint-Germain — zwycięstwo w Manchesterze i interwencja Safonowa",
+          "url": "https://www.psg.fr/en/content/breathless-match-report-manchester-city-paris-saint-germain-uefa-champions-league-2026-2027",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        }
+      ],
+      "id": "2026-10-15-13"
+    },
+    {
+      "factKey": "piotr-swierczewski:bastia:1995-2001",
+      "format": "career-gap",
+      "prompt": "Piotr Świerczewski: uzupełnij brakujący francuski klub.",
+      "answerParts": [
+        "Bastia"
+      ],
+      "subjects": [
+        "club:bastia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "ligue-1",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — francuskie etapy kariery i wypożyczenie do Gamby Osaka",
+          "url": "https://www.uefa.com/news-media/news/018d-0f84475abc23-a12180137f25-1000--birmingham-seal-swierczewski-switch/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Saint-Étienne",
+          "media": {
+            "path": "assets/d15-badge-saint-etienne.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Saint-%C3%89tienne_logo.svg",
+            "credit": "Saint-Étienne",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Saint-%C3%89tienne_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          },
+          "years": "1993–1995"
+        },
+        {
+          "club": "Bastia",
+          "media": {
+            "path": "assets/d15-badge-bastia.png",
+            "source": "https://en.wikipedia.org/wiki/File:SC_Bastia_logo_2024.svg",
+            "credit": "Bastia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:SC_Bastia_logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 317,
+            "alt": "Herb klubu"
+          },
+          "years": "1995–2001",
+          "missing": 0
+        },
+        {
+          "club": "Olympique Marsylia",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2001–2003"
+        }
+      ],
+      "careerCaption": "Wybrane francuskie kluby; pominięto wypożyczenia do Gamby Osaka i Birmingham City.",
+      "id": "2026-10-15-14"
+    },
+    {
+      "factKey": "jan-furtok:1993-san-marino-handball-goal",
+      "format": "fact",
+      "prompt": "Kto zdobył ręką jedyną bramkę w meczu Polski z San Marino w eliminacjach mundialu 1994?",
+      "answerParts": [
+        "Jan Furtok"
+      ],
+      "subjects": [
+        "player:jan-furtok"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polska–San Marino 1993 i bramka zdobyta ręką",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-san-marino-10-28041993",
+          "checkedAt": "2026-10-15T13:07:18.937Z"
+        }
+      ],
+      "id": "2026-10-15-15"
+    },
+    {
+      "factKey": "demba-ba:chelsea-beşiktaş:2014",
+      "format": "transfer",
+      "prompt": "Kto latem 2014 przeszedł między tymi klubami?",
+      "answerParts": [
+        "Demba Ba"
+      ],
+      "subjects": [
+        "player:demba-ba"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Demba Ba jako nowy nabytek Beşiktaşu z Chelsea",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0218-0e15a71e1252-dc35f923cb81-1000/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Lato · transfer definitywny",
+        "from": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Beşiktaş",
+          "media": {
+            "path": "assets/d11-badge-besiktas.png",
+            "source": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 415,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-15-16"
+    },
+    {
+      "factKey": "giorgos-karagounis:portrait-2020",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego zawodnika widocznego na portrecie.",
+      "answerParts": [
+        "Giorgos Karagounis (Jorgos Karagunis)"
+      ],
+      "subjects": [
+        "player:giorgos-karagounis"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Gazzetta.gr — fotografia byłego reprezentanta z listopada 2020",
+          "url": "https://commons.wikimedia.org/wiki/File:Giorgos_Karagounis_(November_2020).png",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d15-karagounis.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Giorgos_Karagounis_(November_2020).png",
+        "credit": "Gazzetta.gr",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 942,
+        "height": 1020,
+        "crop": [
+          270,
+          15,
+          540,
+          580
+        ],
+        "alt": "Twarz byłego piłkarza w cywilnym stroju; bez oznaczeń drużyny."
+      },
+      "id": "2026-10-15-17"
+    },
+    {
+      "factKey": "parma:shared-adriano-mutu-nakata-2002-03",
+      "format": "shared-club",
+      "prompt": "Adriano, Adrian Mutu i Hidetoshi Nakata: w którym klubie grali razem w sezonie 2002/03?",
+      "answerParts": [
+        "Parma"
+      ],
+      "subjects": [
+        "club:parma"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "serie-a",
+        "wspolny-klub"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — mecz Parmy z Empoli z udziałem całej trójki, 18 stycznia 2003",
+          "url": "https://www.uefa.com/news-media/news/018d-0f8fb7f8b970-2ba5bc4affe3-1000--italy-round-up-parma-push-for-uefa-spot/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "id": "2026-10-15-18"
+    },
+    {
+      "factKey": "iberia-tbilisi:2026-08-27:jagiellonia-el-playoff-opponent",
+      "format": "fact",
+      "prompt": "Jagiellonia wygrała z nim 4:0 i 2:1 w barażu Ligi Europy 2026/27. Który gruziński klub trafił potem do Ligi Konferencji?",
+      "answerParts": [
+        "Iberia Tbilisi (Iberia 1999)"
+      ],
+      "subjects": [
+        "club:iberia-tbilisi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "polish",
+        "liga-europy",
+        "liga-konferencji",
+        "gruzja"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-27",
+      "sources": [
+        {
+          "title": "UEFA — oba wyniki dwumeczu Jagiellonii z Iberią",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02a6-20e5db0029dd-8241a8d00925-1000--europa-league-qualifying-all-the-results-how-it-worked/",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        },
+        {
+          "title": "UEFA — Iberia Tbilisi w fazie ligowej Ligi Konferencji 2026/27",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-21737138dae7-37bfb18d9aa7-1000--2026-27-conference-league-meet-the-teams/",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        }
+      ],
+      "id": "2026-10-15-19"
+    },
+    {
+      "factKey": "aris-thessaloniki:crest-ares-fragment",
+      "format": "crest",
+      "prompt": "Jaki klub reprezentuje ten wycinek żółto-czarnego herbu?",
+      "answerParts": [
+        "Aris Saloniki (Aris Thessaloniki FC)"
+      ],
+      "subjects": [
+        "club:aris-thessaloniki"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Aris FC — oficjalna tożsamość klubu i godło",
+          "url": "https://www.arisfc.gr/en/identity.html",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        },
+        {
+          "title": "Plik klubowego herbu i informacja o prawach",
+          "url": "https://en.wikipedia.org/wiki/File:Aris_Thessaloniki_F.C._logo.svg",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d15-aris.png",
+        "source": "https://en.wikipedia.org/wiki/File:Aris_Thessaloniki_F.C._logo.svg",
+        "credit": "ARIS F.C.",
+        "license": "Znak klubowy — bez wolnej licencji (non-free)",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Aris_Thessaloniki_F.C._logo.svg",
+        "changes": "Kadrowanie; bez retuszu.",
+        "width": 960,
+        "height": 1502,
+        "crop": [
+          190,
+          290,
+          650,
+          760
+        ],
+        "alt": "Fragment żółto-czarnego herbu z antyczną postacią; bez nazwy klubu."
+      },
+      "id": "2026-10-15-20"
+    },
+    {
+      "factKey": "darko-kovacevic:sheffield-sociedad-juventus-lazio-return",
+      "format": "career-riddle",
+      "prompt": "Z Sheffield Wednesday trafił do Realu Sociedad, potem do Juventusu. Po krótkim pobycie w Lazio wrócił do San Sebastián. Kto to?",
+      "answerParts": [
+        "Darko Kovačević"
+      ],
+      "subjects": [
+        "player:darko-kovacevic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "la-liga",
+        "serie-a"
+      ],
+      "sources": [
+        {
+          "title": "LALIGA — droga Kovačevicia przez Sheffield, Real Sociedad, Juventus i Lazio",
+          "url": "https://www.laliga.com/es-DE/noticias/jugadores-historicos-real-sociedad",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "id": "2026-10-15-21"
+    },
+    {
+      "factKey": "josip-simunic:2006-three-yellow-cards",
+      "format": "fact",
+      "prompt": "Chorwacja – Australia, mundial 2006: któremu zawodnikowi Graham Poll pokazał trzy żółte kartki w jednym meczu?",
+      "answerParts": [
+        "Josip Šimunić"
+      ],
+      "subjects": [
+        "player:josip-simunic"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Football Australia — mundial 2006 i trzy żółte kartki",
+          "url": "https://footballaustralia.com.au/history/socceroos",
+          "checkedAt": "2026-10-15T13:07:18.937Z"
+        }
+      ],
+      "id": "2026-10-15-22"
+    },
+    {
+      "factKey": "ever-banega:valencia-atlético-madryt:2008",
+      "format": "transfer",
+      "prompt": "Który piłkarz został wypożyczony w sierpniu 2008 między tymi klubami?",
+      "answerParts": [
+        "Éver Banega"
+      ],
+      "subjects": [
+        "player:ever-banega"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Banega wypożyczony z Valencii do Atlético",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01d0-0e6fbc8597fa-670f573b1c26-1000--banega-swaps-valencia-for-atletico/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Sierpień · wypożyczenie na sezon",
+        "from": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Atlético Madryt",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-15-23"
+    },
+    {
+      "factKey": "kostas-tsimikas:2026-10-14:first-competitive-liverpool-captain",
+      "format": "fact",
+      "prompt": "LASK – Liverpool, 14 października 2026 (3:6): kto po raz pierwszy rozpoczął oficjalny mecz Liverpoolu z opaską kapitana?",
+      "answerParts": [
+        "Kostas Tsimikas"
+      ],
+      "subjects": [
+        "player:kostas-tsimikas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-14",
+      "sources": [
+        {
+          "title": "Liverpool — pierwszy oficjalny mecz Tsimikasa w roli kapitana",
+          "url": "https://www.liverpoolfc.com/news/kostas-tsimikas-so-grateful-after-captaining-liverpool-at-lask",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        },
+        {
+          "title": "UEFA — terminarz i wyniki fazy ligowej 2026/27",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        }
+      ],
+      "id": "2026-10-15-24"
+    },
+    {
+      "factKey": "levski-sofia:gornik-1970-cwc-quarterfinal",
+      "format": "fact",
+      "prompt": "Który bułgarski klub Górnik Zabrze wyeliminował dzięki bramkom wyjazdowym w ćwierćfinale Pucharu Zdobywców Pucharów 1969/70?",
+      "answerParts": [
+        "Lewski Sofia (Levski Sofia)"
+      ],
+      "subjects": [
+        "club:levski-sofia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "bulgaria",
+        "pzp"
+      ],
+      "sources": [
+        {
+          "title": "Górnik Zabrze — droga do finału 1969/70: Lewski 3:2, Górnik 2:1",
+          "url": "https://www.gornikzabrze.pl/klub/historia",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "id": "2026-10-15-25"
+    },
+    {
+      "factKey": "aek-athens:uefa-cup-semifinal-1976-77",
+      "format": "fact",
+      "prompt": "Który grecki klub dotarł do półfinału Pucharu UEFA w sezonie 1976/77?",
+      "answerParts": [
+        "AEK Ateny (AEK Athens)"
+      ],
+      "subjects": [
+        "club:aek-athens"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "grecja",
+        "puchar-uefa",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — półfinał Pucharu UEFA 1976/77 w historii AEK",
+          "url": "https://www.uefa.com/uefaeuropaleague/history/clubs/50129--aek-athens/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "id": "2026-10-15-26"
+    },
+    {
+      "factKey": "allan-simonsen:1977-ballon-dor-gladbach",
+      "format": "fact",
+      "prompt": "Który piłkarz Borussii Mönchengladbach zdobył Złotą Piłkę w 1977 roku?",
+      "answerParts": [
+        "Allan Simonsen"
+      ],
+      "subjects": [
+        "player:allan-simonsen"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — laureaci Złotej Piłki z klubami i latami",
+          "url": "https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/",
+          "checkedAt": "2026-10-15T13:07:18.937Z"
+        }
+      ],
+      "id": "2026-10-15-27"
+    },
+    {
+      "factKey": "christopher-nkunku:2026-10-10:leipzig-first-half-hattrick",
+      "format": "fact",
+      "prompt": "Lipsk – Frankfurt, 10 października 2026 (6:0): kto skompletował hat-tricka jeszcze przed przerwą?",
+      "answerParts": [
+        "Christopher Nkunku"
+      ],
+      "subjects": [
+        "player:christopher-nkunku"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "sources": [
+        {
+          "title": "Eintracht — data meczu i trzy bramki Nkunku w pierwszej połowie",
+          "url": "https://profis.eintracht.de/bundesliga/spielplan/rb-leipzig-eintracht-frankfurt/spielbericht/",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        },
+        {
+          "title": "Bundesliga — powrót Nkunku i hat-trick przeciwko Frankfurtowi",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-christopher-nkunku-flourishing-after-return-club-39501",
+          "checkedAt": "2026-10-15T13:08:49.269Z"
+        }
+      ],
+      "id": "2026-10-15-28"
+    },
+    {
+      "factKey": "rosenborg:13-consecutive-league-titles-2004",
+      "format": "fact",
+      "prompt": "Który klub zakończył sezon 2004 z trzynastym z rzędu mistrzostwem Norwegii?",
+      "answerParts": [
+        "Rosenborg BK"
+      ],
+      "subjects": [
+        "club:rosenborg"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "norwegia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — trzynasty kolejny tytuł Rosenborga w 2004",
+          "url": "https://www.uefa.com/news-media/news/01a3-0e6b4765abcc-23826670876d-1000--lucky-13-for-rosenborg/",
+          "checkedAt": "2026-10-15T13:12:49.295Z"
+        }
+      ],
+      "id": "2026-10-15-29"
+    },
+    {
+      "factKey": "nigel-spink:1982-final-replaced-rimmer",
+      "format": "fact",
+      "prompt": "Który bramkarz zastąpił kontuzjowanego Jimmy’ego Rimmera na początku finału Pucharu Europy 1982 i zachował czyste konto dla Aston Villi?",
+      "answerParts": [
+        "Nigel Spink"
+      ],
+      "subjects": [
+        "player:nigel-spink"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "puchar-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Spink zmienia Rimmera w finale wygranym przez Aston Villę 1:0",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0254-0d7b1e154752-f2cfb521c62d-1000/",
+          "checkedAt": "2026-10-15T13:12:27.179Z"
+        }
+      ],
+      "id": "2026-10-15-30"
+    }
+  ]
+}
