@@ -1,0 +1,1175 @@
+{
+  "id": "2026-10-16",
+  "kind": "daily",
+  "title": "Trening głowy · 16 października 2026",
+  "date": "2026-10-16",
+  "publishAt": "2026-10-16T08:00:00+02:00",
+  "researchedAt": "2026-10-16T14:15:20.855Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-16"
+  },
+  "questions": [
+    {
+      "factKey": "hajduk-split:2026-10-15:ajax-conference-opening-win",
+      "format": "fact",
+      "prompt": "Który klub pokonał Ajax 2:1 na inaugurację Ligi Konferencji 2026/27, 15 października?",
+      "answerParts": [
+        "Hajduk Split"
+      ],
+      "subjects": [
+        "club:hajduk-split"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Ajax — zakończony mecz i porażka w Splicie",
+          "url": "https://www.ajax.nl/liveblogs/liveblog-hajduk-split-ajax-15-oktober/",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        },
+        {
+          "title": "Ajax — skrót meczu z datą 15 października 2026",
+          "url": "https://www.ajax.nl/artikelen/hajduk-split-ajax-in-twee-minuten/",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        }
+      ],
+      "id": "2026-10-16-01"
+    },
+    {
+      "factKey": "rapid-wien:crest-striped-shield-fragment",
+      "format": "crest",
+      "prompt": "Jaki klub ma ten fragment w swoim herbie?",
+      "answerParts": [
+        "Rapid Wiedeń (SK Rapid Wien)"
+      ],
+      "subjects": [
+        "club:rapid-wien"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria"
+      ],
+      "sources": [
+        {
+          "title": "SK Rapid — oficjalna identyfikacja i herb",
+          "url": "https://prod.skrapid.at/brand",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        },
+        {
+          "title": "Herb klubu — plik i informacja o statusie praw",
+          "url": "https://commons.wikimedia.org/wiki/File:SK_Rapid_Wien_Logo.svg",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "media": {
+        "width": 960,
+        "height": 1207,
+        "crop": [
+          190,
+          280,
+          570,
+          320
+        ],
+        "path": "assets/d16-rapid.png",
+        "source": "https://commons.wikimedia.org/wiki/File:SK_Rapid_Wien_Logo.svg",
+        "credit": "SK Rapid",
+        "license": "Znak klubowy — PD-textlogo na Commons (status sporny)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:SK_Rapid_Wien_Logo.svg",
+        "changes": "Wersja PNG z SVG; kadrowanie bez retuszu.",
+        "alt": "Zielono-biała tarcza i żółty wieniec; fragment bez liter."
+      },
+      "id": "2026-10-16-02"
+    },
+    {
+      "factKey": "mark-van-bommel:psv-barcelona:2005",
+      "format": "transfer",
+      "prompt": "Czyj wolny transfer z lata 2005 pokazano poniżej?",
+      "answerParts": [
+        "Mark van Bommel"
+      ],
+      "subjects": [
+        "player:mark-van-bommel"
+      ],
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Van Bommel przechodzi z PSV do Barcelony; umowa od 1 lipca",
+          "url": "https://www.uefa.com/news-media/news/01a9-0e6cd65623c4-264598dc1b3f-1000--van-bommel-bound-for-barca/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "transfer": {
+        "year": 2005,
+        "detail": "Lato · bez odstępnego",
+        "from": {
+          "club": "PSV",
+          "media": {
+            "path": "assets/d11-badge-psv.png",
+            "source": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "credit": "PSV",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 207,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "FC Barcelona",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-16-03"
+    },
+    {
+      "factKey": "tomasz-rzasa:portrait-2011",
+      "format": "photo",
+      "prompt": "Rozpoznajesz twarz byłego zawodnika na tej fotografii?",
+      "answerParts": [
+        "Tomasz Rząsa"
+      ],
+      "subjects": [
+        "player:tomasz-rzasa"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Roger Gorączniak — fotografia z 2011 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Tomasz_Rzasa_2011.jpg",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "media": {
+        "width": 602,
+        "height": 871,
+        "crop": [
+          95,
+          25,
+          390,
+          535
+        ],
+        "path": "assets/d16-rzasa.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tomasz_Rzasa_2011.jpg",
+        "credit": "Roger Gorączniak",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "alt": "Twarz byłego piłkarza w garniturze; kadr bez oznaczeń drużyny."
+      },
+      "id": "2026-10-16-04"
+    },
+    {
+      "factKey": "maciej-skorza:marcelo-manu-amaral-coach-link",
+      "format": "coach-link",
+      "prompt": "Kto prowadził całą trójkę w pokazanych klubach i sezonach?",
+      "answerParts": [
+        "Maciej Skorża"
+      ],
+      "subjects": [
+        "coach:maciej-skorza"
+      ],
+      "tags": [
+        "polish",
+        "trener",
+        "powiazania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Marcelo pracował w Wiśle pod kierunkiem Macieja Skorży",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01f5-0e7973d0eecf-52f7dc8700c9-1000--something-has-to-give-as-psv-host-legia/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        },
+        {
+          "title": "PZPN — program finału Pucharu Polski 2025, s. 88: Manu i trener Skorża w Legii 2010/11",
+          "url": "https://cdn.laczynaspilka.pl/cms2/prod/sites/default/files/2025-05/pp_2025.pdf",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        },
+        {
+          "title": "Lech — Amaral po powrocie latem 2021 w drużynie Macieja Skorży",
+          "url": "https://www.lechpoznan.pl/aktualnosci,2,amaral-liderem-klasyfikacji-kanadyjskiej,38671.html",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "clues": [
+        "Marcelo — Wisła Kraków, 2008/09",
+        "Manu — Legia Warszawa, 2010/11",
+        "João Amaral — Lech Poznań, 2021/22"
+      ],
+      "id": "2026-10-16-05"
+    },
+    {
+      "factKey": "music:handel-zadok-champions-league-anthem",
+      "format": "fact",
+      "prompt": "„Zadok the Priest” zainspirował hymn Ligi Mistrzów. Kto skomponował ten pierwowzór?",
+      "answerParts": [
+        "Georg Friedrich Händel (George Frideric Handel)"
+      ],
+      "subjects": [
+        "music:georg-friedrich-haendel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "muzyka",
+        "liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — utwór Händla jako inspiracja hymnu Ligi Mistrzów",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0266-1196e48c3e69-6dd16e300849-1000--anthem-tops-that-uclfeeling-vote/",
+          "checkedAt": "2026-10-16T14:09:09.171Z"
+        }
+      ],
+      "id": "2026-10-16-06"
+    },
+    {
+      "factKey": "bartosz-mazurek:2026-10-08:salzburg-september-player-award",
+      "format": "fact",
+      "prompt": "Kogo kibice Salzburga wybrali piłkarzem września 2026? Wyniki ogłoszono 8 października.",
+      "answerParts": [
+        "Bartosz Mazurek"
+      ],
+      "subjects": [
+        "player:bartosz-mazurek"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-08",
+      "sources": [
+        {
+          "title": "Salzburg — wyniki głosowania na piłkarza września 2026",
+          "url": "https://www.redbullsalzburg.at/de/aktuelles/abstimmung/spieler-des-monats-september-2026",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        }
+      ],
+      "id": "2026-10-16-07"
+    },
+    {
+      "factKey": "dennis-rommedahl:selected-psv-ajax-brondby",
+      "format": "career",
+      "prompt": "Kto pasuje do tych trzech wybranych etapów kariery?",
+      "answerParts": [
+        "Dennis Rommedahl"
+      ],
+      "subjects": [
+        "player:dennis-rommedahl"
+      ],
+      "tags": [
+        "kariera",
+        "eredivisie",
+        "dania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Rommedahl: PSV 1997–2004, Ajax 2007–2010 oraz pominięte wypożyczenia",
+          "url": "https://pt.uefa.com/uefaeuro/history/news/0254-0d7dc2292220-59e61927e63e-1000--reencontro-entre-holandeses-e-dinamarqueses/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        },
+        {
+          "title": "Brøndby — podpisanie umowy z Rommedahlem w sierpniu 2011",
+          "url": "https://brondby.com/klubben/historie/2011-12",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "career": [
+        {
+          "club": "PSV",
+          "media": {
+            "path": "assets/d11-badge-psv.png",
+            "source": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "credit": "PSV",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 207,
+            "alt": "Herb klubu"
+          },
+          "years": "1997–2004"
+        },
+        {
+          "club": "Ajax",
+          "media": {
+            "path": "assets/d13-badge-ajax.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "credit": "AFC Ajax",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2007–2010"
+        },
+        {
+          "club": "Brøndby",
+          "media": {
+            "path": "assets/d10-badge-brondby.png",
+            "source": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+            "credit": "Brøndby",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 304,
+            "alt": "Herb klubu"
+          },
+          "years": "od 2011"
+        }
+      ],
+      "careerCaption": "Wybrane kluby; pominięto pozostałe etapy i wypożyczenia.",
+      "id": "2026-10-16-08"
+    },
+    {
+      "factKey": "craig-johnston:adidas-predator-design",
+      "format": "fact",
+      "prompt": "Który były piłkarz Liverpoolu opracował buty adidas Predator?",
+      "answerParts": [
+        "Craig Johnston"
+      ],
+      "subjects": [
+        "player:craig-johnston"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "anglia",
+        "sprzet",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool FC — Craig Johnston i stworzenie butów adidas Predator",
+          "url": "https://www.liverpoolfc.com/news/first-team/124115-on-demand-johnston-60-mins",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "id": "2026-10-16-09"
+    },
+    {
+      "factKey": "nuri-sahin:real-liverpool:2012-loan",
+      "format": "transfer",
+      "prompt": "Rozpoznaj piłkarza wypożyczonego w sierpniu 2012.",
+      "answerParts": [
+        "Nuri Şahin"
+      ],
+      "subjects": [
+        "player:nuri-sahin"
+      ],
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — zakończone badania i wypożyczenie Şahina z Realu, 25 sierpnia 2012",
+          "url": "https://www.liverpoolfc.com/news/first-team/123717-sahin-squad-number-revealed",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "transfer": {
+        "year": 2012,
+        "detail": "Sierpień · wypożyczenie",
+        "from": {
+          "club": "Real Madryt",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-16-10"
+    },
+    {
+      "factKey": "poland-ecuador:2006:xi-radomski-sobolewski",
+      "format": "lineup",
+      "prompt": "Polska – Ekwador, mundial 2006: uzupełnij dwa nazwiska w wyjściowym składzie.",
+      "answerParts": [
+        "Arkadiusz Radomski",
+        "Radosław Sobolewski"
+      ],
+      "subjects": [
+        "player:arkadiusz-radomski",
+        "player:radoslaw-sobolewski"
+      ],
+      "tags": [
+        "polish",
+        "mundial",
+        "sklad"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polska – Ekwador, 9 czerwca 2006: pełna wyjściowa jedenastka",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-ekwador-02-09062006",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "lineup": {
+        "caption": "9 czerwca 2006, Gelsenkirchen; rozmieszczenie poglądowe.",
+        "rows": [
+          [
+            {
+              "name": "Artur Boruc"
+            }
+          ],
+          [
+            {
+              "name": "Marcin Baszczyński"
+            },
+            {
+              "name": "Mariusz Jop"
+            },
+            {
+              "name": "Jacek Bąk"
+            },
+            {
+              "name": "Michał Żewłakow"
+            }
+          ],
+          [
+            {
+              "name": "Arkadiusz Radomski",
+              "slot": 0
+            },
+            {
+              "name": "Radosław Sobolewski",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Euzebiusz Smolarek"
+            },
+            {
+              "name": "Mirosław Szymkowiak"
+            },
+            {
+              "name": "Jacek Krzynówek"
+            }
+          ],
+          [
+            {
+              "name": "Maciej Żurawski"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-16-11"
+    },
+    {
+      "factKey": "paris-brunner:2026-10-15:fati-winning-assist-sofia",
+      "format": "fact",
+      "prompt": "CSKA Sofia – Monaco, 15 października 2026 (1:2): kto asystował Ansu Fati przy zwycięskiej bramce?",
+      "answerParts": [
+        "Paris Brunner"
+      ],
+      "subjects": [
+        "player:paris-brunner"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Monaco — asysta Brunnera przy golu Fatiego w Sofii",
+          "url": "https://www.asmonaco.com/en/news/as-monaco-make-winning-start-to-uefa-conference-league-campaign-with-victory-in-sofia",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        }
+      ],
+      "id": "2026-10-16-12"
+    },
+    {
+      "factKey": "san-nicola:stadium-empty-bowl",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion po kształcie trybun i dachu.",
+      "answerParts": [
+        "Stadio San Nicola (Bari)"
+      ],
+      "subjects": [
+        "stadium:san-nicola"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "wlochy",
+        "architektura"
+      ],
+      "sources": [
+        {
+          "title": "Francesco Gernone — fotografia stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Stadio_San_Nicola_Bari.jpg",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        },
+        {
+          "title": "Regione Puglia — stadion i jego architektura",
+          "url": "https://interregaismart.regione.puglia.it/en/-/stadio-san-nicola-palazzi-storici-e-architetture-di-pregio-1",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "media": {
+        "width": 1920,
+        "height": 1280,
+        "crop": [
+          0,
+          320,
+          1500,
+          800
+        ],
+        "path": "assets/d16-san-nicola.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Stadio_San_Nicola_Bari.jpg",
+        "credit": "Francesco Gernone",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Pomniejszenie przez Wikimedia Commons do 1920 px; kadrowanie bez retuszu.",
+        "alt": "Puste trybuny stadionu z segmentowym dachem; bez flag, herbów i nazw klubu."
+      },
+      "id": "2026-10-16-13"
+    },
+    {
+      "factKey": "radoslaw-kaluzny:energie-cottbus:2001-2003",
+      "format": "career-gap",
+      "prompt": "Radosław Kałużny: uzupełnij brakujący etap kariery.",
+      "answerParts": [
+        "Energie Cottbus"
+      ],
+      "subjects": [
+        "club:energie-cottbus"
+      ],
+      "tags": [
+        "polish",
+        "kariera",
+        "bundesliga"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Kałużny w Wiśle 1998–2001, później w Energie i Bayerze",
+          "url": "https://www.uefa.com/news-media/news/01d1-0f84e5146ae5-3591b2456132-1000--two-time-polish-champion-kaluzny-retires/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        },
+        {
+          "title": "DFB — pobyt Kałużnego w Energie od lipca 2001 do stycznia 2003 i przejście do Bayeru",
+          "url": "https://datencenter.dfb.de/datencenter/personen/radoslaw-kaluzny/spieler",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        },
+        {
+          "title": "FC Energie — komunikat prasowy z 30 stycznia 2003, przedruk: początkowo wypożyczenie, wykup latem 2002",
+          "url": "https://www.transfermarkt.de/cottbus-stimmt-wechsel-von-radoslaw-kaluzny-zu/view/news/2434",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "career": [
+        {
+          "club": "Wisła Kraków",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          },
+          "years": "1998–2001"
+        },
+        {
+          "club": "Energie Cottbus",
+          "media": {
+            "path": "assets/d16-badge-energie-cottbus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_Energie_Cottbus.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_Energie_Cottbus.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 279,
+            "alt": "Herb klubu"
+          },
+          "years": "2001–2003",
+          "missing": 0
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "media": {
+            "path": "assets/d14-badge-leverkusen.png",
+            "source": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "credit": "Bayer Leverkusen",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 194,
+            "alt": "Herb klubu"
+          },
+          "years": "od 2003"
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby; pobyt w brakującym klubie zaczął się od wypożyczenia.",
+      "id": "2026-10-16-14"
+    },
+    {
+      "factKey": "zbigniew-boniek:1984-supercup-two-goals-january-1985",
+      "format": "fact",
+      "prompt": "Juventus – Liverpool 2:0, Superpuchar UEFA 1984 rozegrany w styczniu 1985: kto zdobył obie bramki?",
+      "answerParts": [
+        "Zbigniew Boniek"
+      ],
+      "subjects": [
+        "player:zbigniew-boniek"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "superpuchar-uefa"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — dwie bramki Bońka w Superpucharze edycji 1984",
+          "url": "https://www.uefa.com/uefasupercup/history/1984/",
+          "checkedAt": "2026-10-16T14:09:09.171Z"
+        }
+      ],
+      "id": "2026-10-16-15"
+    },
+    {
+      "factKey": "dani-guiza:portrait-training",
+      "format": "photo",
+      "prompt": "Jak nazywa się były zawodnik widoczny na zdjęciu?",
+      "answerParts": [
+        "Dani Güiza (Daniel González Güiza)"
+      ],
+      "subjects": [
+        "player:dani-guiza"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "Mikialbert — autorska fotografia piłkarza na treningu",
+          "url": "https://commons.wikimedia.org/wiki/File:Danig.jpg",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "media": {
+        "width": 256,
+        "height": 413,
+        "crop": [
+          10,
+          5,
+          225,
+          330
+        ],
+        "path": "assets/d16-guiza.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Danig.jpg",
+        "credit": "Mikialbert",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie; bez retuszu.",
+        "alt": "Twarz piłkarza; kadr bez herbu, sponsora i nazwy klubu."
+      },
+      "id": "2026-10-16-16"
+    },
+    {
+      "factKey": "emre-belozoglu:inter-newcastle:2005",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w lipcu 2005 w tym transferze?",
+      "answerParts": [
+        "Emre Belözoğlu"
+      ],
+      "subjects": [
+        "player:emre-belozoglu"
+      ],
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Emre przechodzi z Interu do Newcastle w lipcu 2005",
+          "url": "https://it.uefa.com/news-media/news/0254-0d7b89ec7a8a-fc62850d07a6-1000--emre-firma-per-il-newcastle/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "transfer": {
+        "year": 2005,
+        "detail": "Lipiec · transfer definitywny",
+        "from": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Newcastle United",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-16-17"
+    },
+    {
+      "factKey": "lille:cabaye-gervinho-hazard:2010-2011",
+      "format": "shared-club",
+      "prompt": "Yohan Cabaye, Gervinho i Eden Hazard: w którym klubie grali razem w sezonie 2010/11?",
+      "answerParts": [
+        "Lille (LOSC)"
+      ],
+      "subjects": [
+        "club:lille"
+      ],
+      "tags": [
+        "powiazania",
+        "ligue-1"
+      ],
+      "sources": [
+        {
+          "title": "LOSC — mecz z Sochaux w maju 2011, w relacji Cabaye, Gervinho i Hazard",
+          "url": "https://www.losc.fr/actualites-foot-lille/losc-fcsm-1-0-un-pas-d%C3%A9cisif-vers-le-titre",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "id": "2026-10-16-18"
+    },
+    {
+      "factKey": "carles-martinez:2026-10-15:bayer-coach-lech",
+      "format": "coach",
+      "prompt": "Lech – Bayer, 15 października 2026 (0:4): kto prowadził drużynę gości?",
+      "answerParts": [
+        "Carles Martínez"
+      ],
+      "subjects": [
+        "coach:carles-martinez"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "liga-europy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Bayer — oficjalna relacja ze zwycięstwa w Poznaniu",
+          "url": "https://www.bayer04.de/de-de/news/europa-league/4-0-bei-lech-posen-werkself-setzt-siegesserie-auch-international-fort",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        }
+      ],
+      "id": "2026-10-16-19"
+    },
+    {
+      "factKey": "vitesse:crest-eagle-fragment",
+      "format": "crest",
+      "prompt": "Którego klubu herb został tak wykadrowany?",
+      "answerParts": [
+        "Vitesse Arnhem (SBV Vitesse)"
+      ],
+      "subjects": [
+        "club:vitesse"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "Vitesse — oficjalna historia klubu",
+          "url": "https://vitesse.nl/club/historie",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        },
+        {
+          "title": "Klubowy herb — plik i warunki wykorzystania",
+          "url": "https://en.wikipedia.org/wiki/File:SBV_Vitesse_logo.svg",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "media": {
+        "width": 960,
+        "height": 1645,
+        "crop": [
+          40,
+          350,
+          880,
+          1070
+        ],
+        "path": "assets/d16-vitesse.png",
+        "source": "https://en.wikipedia.org/wiki/File:SBV_Vitesse_logo.svg",
+        "credit": "SBV Vitesse",
+        "license": "Znak klubowy — bez wolnej licencji (non-free)",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:SBV_Vitesse_logo.svg",
+        "changes": "Wersja PNG z SVG; kadrowanie bez retuszu.",
+        "alt": "Dwugłowy orzeł i piłka na żółto-czarnej tarczy; bez nazwy klubu."
+      },
+      "id": "2026-10-16-20"
+    },
+    {
+      "factKey": "frederic-piquionne:lyon-portsmouth-west-ham-portland",
+      "format": "career-riddle",
+      "prompt": "Z Lyonu wypożyczono go do Portsmouth, z którym dotarł do finału Pucharu Anglii 2010. Później grał w West Hamie i Portland Timbers oraz reprezentował Martynikę. Kto to?",
+      "answerParts": [
+        "Frédéric Piquionne"
+      ],
+      "subjects": [
+        "player:frederic-piquionne"
+      ],
+      "tags": [
+        "kariera",
+        "premier-league",
+        "mls"
+      ],
+      "sources": [
+        {
+          "title": "Portland Timbers — profil i historia kariery Piquionne’a",
+          "url": "https://www.timbers.com/players/frederic-piquionne/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "id": "2026-10-16-21"
+    },
+    {
+      "factKey": "tahiti:2012-ofc-champion-2013-confederations",
+      "format": "fact",
+      "prompt": "Która reprezentacja wygrała Puchar Narodów Oceanii 2012 i dzięki temu zagrała w Pucharze Konfederacji 2013?",
+      "answerParts": [
+        "Tahiti"
+      ],
+      "subjects": [
+        "national-team:tahiti"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "oceania",
+        "puchar-konfederacji"
+      ],
+      "sources": [
+        {
+          "title": "OFC — mistrzostwo Tahiti i awans na Puchar Konfederacji",
+          "url": "https://www.oceaniafootball.com/ofc-mens-nations-cup-2012/",
+          "checkedAt": "2026-10-16T14:09:09.171Z"
+        }
+      ],
+      "id": "2026-10-16-22"
+    },
+    {
+      "factKey": "diego:werder-juventus:2009",
+      "format": "transfer",
+      "prompt": "Kogo dotyczył transfer ogłoszony w maju 2009?",
+      "answerParts": [
+        "Diego (Diego Ribas da Cunha)"
+      ],
+      "subjects": [
+        "player:diego"
+      ],
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Diego podpisuje umowę z Juventusem po grze w Werderze",
+          "url": "https://www.uefa.com/news-media/news/01d9-0e723c4f9cd3-8246be9e822e-1000--diego-finalises-juventus-switch/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "transfer": {
+        "year": 2009,
+        "detail": "Maj · ogłoszenie transferu",
+        "from": {
+          "club": "Werder Bremen",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Juventus",
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-16-23"
+    },
+    {
+      "factKey": "alphadjo-cisse:2026-10-15:salzburg-perfect-hat-trick",
+      "format": "fact",
+      "prompt": "Salzburg – Milan, 15 października 2026 (0:4): kto skompletował hat-tricka lewą nogą, prawą nogą i głową?",
+      "answerParts": [
+        "Alphadjo Cissé"
+      ],
+      "subjects": [
+        "player:alphadjo-cisse"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Milan — relacja ze zwycięstwa w Salzburgu",
+          "url": "https://www.acmilan.com/en/news/articles/europa-league/2026-10-15/rossoneri-run-riot-in-salzburg",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        },
+        {
+          "title": "Milan — idealny hat-trick Cisségo i nagroda MVP",
+          "url": "https://www.acmilan.com/en/news/articles/awards/2026-10-16/cisse-is-the-mvp-from-salzburg-vs-ac-milan",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        }
+      ],
+      "id": "2026-10-16-24"
+    },
+    {
+      "factKey": "italy:blue-kit-savoy-origin",
+      "format": "kit",
+      "prompt": "Na cześć której dynastii reprezentacja Włoch przyjęła niebieskie koszulki w 1911 roku?",
+      "answerParts": [
+        "Dynastii sabaudzkiej (Sabaudów, Casa Savoia)."
+      ],
+      "subjects": [
+        "kit:italy-blue-savoy"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "wlochy",
+        "stroje",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIGC — stulecie niebieskiej koszulki i hołd dla dynastii sabaudzkiej",
+          "url": "https://www.figc.it/it/federazione/news/la-maglia-azzurra-compie-cento-anni-tra-emozioni-ricordi-e-successi-e9kvkapk",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "id": "2026-10-16-25"
+    },
+    {
+      "factKey": "austria-salzburg:uefa-cup-final:1994",
+      "format": "fact",
+      "prompt": "Który austriacki klub przegrał oba mecze finału Pucharu UEFA 1994 z Interem po 0:1?",
+      "answerParts": [
+        "Austria Salzburg (wtedy Casino Salzburg)"
+      ],
+      "subjects": [
+        "club:austria-salzburg-1994"
+      ],
+      "tags": [
+        "austria",
+        "liga-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Salzburg w finale Pucharu UEFA 1993/94 i jego droga przez Eintracht oraz Karlsruhe",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0126-0e6a122e9b86-07c6c6e05d2c-1000--1993-94-inter-reclaim-uefa-cup/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "id": "2026-10-16-26"
+    },
+    {
+      "factKey": "hans-jorg-butt:juventus-three-clubs-ucl-penalties",
+      "format": "fact",
+      "prompt": "Który bramkarz strzelał Juventusowi z karnych w Lidze Mistrzów w barwach HSV, Leverkusen i Bayernu?",
+      "answerParts": [
+        "Hans-Jörg Butt"
+      ],
+      "subjects": [
+        "player:hans-jorg-butt"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — karne Butta przeciwko Juventusowi dla trzech klubów",
+          "url": "https://www.uefa.com/uefachampionsleague/news/024e-0e99726362ca-a1a2549de021-1000--champions-league-penalties-who-has-scored-the-most-top-conve/",
+          "checkedAt": "2026-10-16T14:09:09.171Z"
+        }
+      ],
+      "id": "2026-10-16-27"
+    },
+    {
+      "factKey": "ibrahim-osman:2026-10-15:two-rutter-assists-kauno",
+      "format": "fact",
+      "prompt": "Brighton – Kauno Žalgiris, 15 października 2026 (4:0): kto asystował przy obu golach Georginio Ruttera?",
+      "answerParts": [
+        "Ibrahim Osman"
+      ],
+      "subjects": [
+        "player:ibrahim-osman"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Brighton — oba gole Ruttera po podaniach Osmana",
+          "url": "https://www.brightonandhovealbion.com/media-article/mft-match-report-albion-v-kauno-zalgiris-conference-league",
+          "checkedAt": "2026-10-16T14:10:31.804Z"
+        }
+      ],
+      "id": "2026-10-16-28"
+    },
+    {
+      "factKey": "lks-lodz:gorski-consultant-1974",
+      "format": "fact",
+      "prompt": "W którym polskim klubie Kazimierz Górski pracował jako trener konsultant podczas mundialu 1974?",
+      "answerParts": [
+        "ŁKS Łódź"
+      ],
+      "subjects": [
+        "club:lks-lodz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "historia",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "ŁKS — przerwa na mundial 1974 i ówczesna funkcja Kazimierza Górskiego",
+          "url": "https://lkslodz.pl/aktualnosci/jak-nie-epidemia-to-wojna-igrzyska-lub-mundial/",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        },
+        {
+          "title": "ŁKS — Górski łączył funkcję selekcjonera z pracą w klubie",
+          "url": "https://lkslodz.pl/aktualnosci/od-strasburga-do-petersburga-lks-na-mundialu/",
+          "checkedAt": "2026-10-16T14:11:14.035Z"
+        }
+      ],
+      "id": "2026-10-16-29"
+    },
+    {
+      "factKey": "theodoros-zagorakis:euro2004-player-of-tournament",
+      "format": "fact",
+      "prompt": "Kto otrzymał nagrodę UEFA dla najlepszego piłkarza EURO 2004?",
+      "answerParts": [
+        "Theodoros Zagorakis (Teodoros Zagorakis)"
+      ],
+      "subjects": [
+        "player:theodoros-zagorakis"
+      ],
+      "tags": [
+        "euro",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Zagorakis najlepszym piłkarzem EURO 2004",
+          "url": "https://www.uefa.com/uefaeuro/history/news/025a-0ebef0f75f67-835dd959282d-1000--euro-2004-all-you-need-to-know/",
+          "checkedAt": "2026-10-16T14:11:51Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "id": "2026-10-16-30"
+    }
+  ]
+}
