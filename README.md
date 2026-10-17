@@ -26,7 +26,7 @@ Public site: https://kovson.github.io/football-quiz-trainer/
 
 The `Publish training` workflow validates and builds the app on pushes to `main`, manual runs, and daily at 07:00 Europe/Warsaw, including daylight-saving changes. GitHub's scheduler can run late. Only released daily sessions appear on the public site; local samples are excluded. The reviewed replacement sample was promoted to the first session, dated 8 October 2026.
 
-Follow [question-authoring rules](docs/question-authoring.md). Author new Polish content on the Mac, save a complete dated JSON file under `content/sessions/` with `publishAt` at 07:00 Warsaw time, run `npm test` and `npm run build`, then commit and push. An early push keeps tomorrow's session hidden until its release; a late push publishes eligible content immediately. Previous sessions remain in the archive.
+Follow [question-authoring rules](docs/question-authoring.md). Author new Polish content on the Mac, save a complete dated JSON file under `content/sessions/` with the intended `publishAt` instant, run `npm test` and `npm run build`, then commit and push. For a scheduled morning release, use 07:00 Warsaw time. An early push keeps the session hidden until that instant; a late push publishes eligible content immediately. If the owner requests immediate publication of a future-dated set, use the current release instant while retaining its training date. The app opens the newest released set. Previous sessions remain in the archive.
 
 ## Project status
 

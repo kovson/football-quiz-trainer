@@ -6,7 +6,7 @@
   const today = () => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(new Date());
   const dateLabel = date => new Intl.DateTimeFormat('pl-PL', { day:'numeric', month:'long', year:'numeric', timeZone:'Europe/Warsaw' }).format(new Date(`${date}T12:00:00Z`));
   const formats = { career:'Ścieżka kariery', 'career-gap':'Luka w karierze', 'career-riddle':'Zagadka kariery', 'coach-link':'Wspólny trener', photo:'Kto jest na zdjęciu?', lineup:'Brakujące ogniwa', fact:'Piłkarskie fakty', result:'Wynik meczu', coach:'Na ławce', 'shared-club':'Wspólny klub', transfer:'Rynek transferowy', 'club-riddle':'Jaki to klub?', crest:'Rozpoznaj herb', country:'Piłkarska geografia', stadium:'Stadiony', 'true-false':'Prawda czy fałsz?', kit:'Barwy klubowe' };
-  let session = sessions.find(s => s.kind === 'daily' && s.date === today()) ?? sessions[0];
+  let session = sessions[0];
   let state, persistent = true;
   function storageProblem() { persistent = false; el('storage-warning').hidden = false; el('local-note').textContent = 'Postęp jest teraz przechowywany tylko do zamknięcia lub odświeżenia strony.'; }
   function fresh() { return { index:0, revealed:[], complete:false }; }

@@ -13,7 +13,6 @@ const nonempty = value => typeof value === 'string' && value.trim().length > 0;
 const validDate = value => /^\d{4}-\d{2}-\d{2}$/.test(value) && new Date(`${value}T12:00:00Z`).toISOString().slice(0, 10) === value;
 const instant = value => nonempty(value) && /(?:Z|[+-]\d{2}:\d{2})$/.test(value) && Number.isFinite(Date.parse(value));
 const day = date => Date.parse(`${date}T12:00:00Z`) / 86400000;
-const warsawDate = date => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(date);
 const formats = new Set(['career', 'career-gap', 'career-riddle', 'coach-link', 'photo', 'lineup', 'fact', 'result', 'coach', 'shared-club', 'transfer', 'club-riddle', 'crest', 'country', 'stadium', 'true-false', 'kit']);
 
 async function load(directory) {
@@ -25,7 +24,7 @@ async function load(directory) {
 function validate(sessions) {
   const sessionIds = new Set(), dates = new Set(), ids = new Set(), facts = new Set(), prompts = new Set(), subjects = new Map();
   for (const s of [...sessions].sort((a, b) => a.date.localeCompare(b.date))) {
-    if (!nonempty(s.id) || !nonempty(s.title) || !validDate(s.date) || !instant(s.publishAt) || warsawDate(new Date(s.publishAt)) !== s.date || !instant(s.researchedAt) || !['sample', 'daily'].includes(s.kind)) fail(`Invalid session metadata: ${s.id}`);
+    if (!nonempty(s.id) || !nonempty(s.title) || !validDate(s.date) || !instant(s.publishAt) || !instant(s.researchedAt) || !['sample', 'daily'].includes(s.kind)) fail(`Invalid session metadata: ${s.id}`);
     if (sessionIds.has(s.id) || dates.has(`${s.kind}:${s.date}`)) fail(`Duplicate session: ${s.id}`);
     sessionIds.add(s.id); dates.add(`${s.kind}:${s.date}`);
     if (s.kind === 'daily' && (!s.eventWindow || !validDate(s.eventWindow.start) || !validDate(s.eventWindow.end) || s.eventWindow.start > s.eventWindow.end || s.eventWindow.end > s.date)) fail(`Missing or invalid event window: ${s.id}`);
