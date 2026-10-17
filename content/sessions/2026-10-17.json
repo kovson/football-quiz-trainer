@@ -1,0 +1,1211 @@
+{
+  "id": "2026-10-17",
+  "kind": "daily",
+  "title": "Trening głowy · 17 października 2026",
+  "date": "2026-10-17",
+  "publishAt": "2026-10-17T02:12:00+02:00",
+  "researchedAt": "2026-10-17T00:21:21.216Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-17"
+  },
+  "questions": [
+    {
+      "factKey": "piotr-wlodarczyk:portrait-banquet-2016",
+      "format": "photo",
+      "prompt": "Podaj imię i nazwisko piłkarza przedstawionego na fotografii.",
+      "answerParts": [
+        "Piotr Włodarczyk"
+      ],
+      "subjects": [
+        "player:piotr-wlodarczyk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Grzegorz Gołębiowski — fotografia Piotra Włodarczyka z bankietu w 2016 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Piotr_W%C5%82odarczyk.jpg",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d17-wlodarczyk.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Piotr_W%C5%82odarczyk.jpg",
+        "credit": "Grzegorz Gołębiowski",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Portret byłego piłkarza w garniturze, bez oznaczeń klubu.",
+        "width": 833,
+        "height": 970,
+        "crop": [
+          80,
+          50,
+          660,
+          900
+        ]
+      },
+      "id": "2026-10-17-01"
+    },
+    {
+      "factKey": "efthymios-koulouris:2026-10-16:semedo-assist-handball-penalty",
+      "format": "fact",
+      "prompt": "Wieczysta – Raków, 16 października 2026 (1:2): kto najpierw asystował Semedo, a potem sprokurował karnego zagraniem ręką?",
+      "answerParts": [
+        "Efthymios Koulouris (Efthymis Koulouris)"
+      ],
+      "subjects": [
+        "player:efthymios-koulouris"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-16",
+      "sources": [
+        {
+          "title": "Wieczysta — asysta Koulourisa i jego zagranie ręką przed karnym",
+          "url": "https://www.kswieczysta.com/wieczysta-przegrywa-z-rakowem-dwie-bramki-w-koncowce-odebraly-punkty",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        }
+      ],
+      "id": "2026-10-17-02"
+    },
+    {
+      "factKey": "christian-poulsen:transfer:2008:Sevilla:Juventus",
+      "format": "transfer",
+      "prompt": "Kto przeniósł się między tymi klubami w lipcu 2008?",
+      "answerParts": [
+        "Christian Poulsen"
+      ],
+      "subjects": [
+        "player:christian-poulsen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Poulsen przenosi się z Sevilli do Juventusu, 14 lipca 2008",
+          "url": "https://www.uefa.com/news-media/news/01cf-0e6f783aed54-e4a12ee12f94-1000--juve-pounce-for-determined-poulsen/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Sevilla",
+          "media": {
+            "path": "assets/d10-badge-sevilla.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "credit": "Sevilla",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 305,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Juventus",
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-17-03"
+    },
+    {
+      "factKey": "gent:crest-native-american-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu należy przedstawiony fragment herbu?",
+      "answerParts": [
+        "KAA Gent"
+      ],
+      "subjects": [
+        "club:gent"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "belgia"
+      ],
+      "sources": [
+        {
+          "title": "KAA Gent — oficjalna historia i wizerunek herbu",
+          "url": "https://website-2021.kaagent.be/nl/onze-club/logo",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d17-gent.png",
+        "source": "https://en.wikipedia.org/wiki/File:KAA_Gent_logo.svg",
+        "credit": "KAA Gent",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:KAA_Gent_logo.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Fragment klubowego herbu bez nazwy i numeru rejestracyjnego.",
+        "width": 960,
+        "height": 960,
+        "crop": [
+          215,
+          235,
+          570,
+          560
+        ]
+      },
+      "id": "2026-10-17-04"
+    },
+    {
+      "factKey": "pickles:1966-jules-rimet-trophy-recovery",
+      "format": "fact",
+      "prompt": "Jak wabił się pies, który odnalazł skradziony Puchar Jules’a Rimeta w 1966 roku?",
+      "answerParts": [
+        "Pickles"
+      ],
+      "subjects": [
+        "animal:pickles"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — pies, który odnalazł skradziony Puchar Świata",
+          "url": "https://inside.fifa.com/news/pickles-and-the-stolen-world-cup-2771152",
+          "checkedAt": "2026-10-17T00:15:21.106Z"
+        }
+      ],
+      "id": "2026-10-17-05"
+    },
+    {
+      "factKey": "leo-beenhakker:coach-link-butragueno-dudek-guerreiro",
+      "format": "coach-link",
+      "prompt": "Kto prowadził każdego z tych zawodników w podanych zespołach?",
+      "clues": [
+        "Emilio Butragueño — Real Madryt, 1986–1989",
+        "Jerzy Dudek — Feyenoord, mistrzowski sezon 1998/99",
+        "Roger Guerreiro — reprezentacja Polski, EURO 2008"
+      ],
+      "answerParts": [
+        "Leo Beenhakker"
+      ],
+      "subjects": [
+        "coach:leo-beenhakker"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "trenerzy",
+        "hiszpania",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Real Beenhakkera i pokolenie Butragueño",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0252-0cda50144f6d-2135881a2c4e-1000--beenhakker-s-madrid-v-luis-enrique-s-barcelona/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "Feyenoord — mistrzostwo 1999 Beenhakkera z Dudkiem",
+          "url": "https://www.feyenoord.com/nl/de-club/organisatie/historie",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "PZPN — Beenhakker i Roger Guerreiro na EURO 2008",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/euro-2008",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "id": "2026-10-17-06"
+    },
+    {
+      "factKey": "real-betis:2026-10-16:third-laliga-19points",
+      "format": "fact",
+      "prompt": "LaLiga 2026/27, tabela po 16 października: który klub był trzeci z 19 punktami, między Atlético a Realem Madryt?",
+      "answerParts": [
+        "Real Betis Balompié"
+      ],
+      "subjects": [
+        "club:real-betis"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "la-liga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-16",
+      "sources": [
+        {
+          "title": "LaLiga — tabela sezonu 2026/27, stan po 16 października",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/standing",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        }
+      ],
+      "id": "2026-10-17-07"
+    },
+    {
+      "factKey": "christian-panucci:selected-club-path-1997-2002",
+      "format": "career",
+      "prompt": "Kto łączy te wybrane przystanki kariery z trzech krajów?",
+      "answerParts": [
+        "Christian Panucci"
+      ],
+      "subjects": [
+        "player:christian-panucci"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Real Madryt — Panucci w latach 1997–1999 i przejście do Interu",
+          "url": "https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/christian-panucci",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "Inter — Panucci w sezonie 1999/2000",
+          "url": "https://www.inter.it/it/archivio_giocatore/G0473",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "Chelsea — wypożyczenie Panucciego latem 2000",
+          "url": "https://www.chelseafc.com/en/news/article/red-black-and-blue-a-combined-chelsea-and-ac-milan-team",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "UEFA — Panucci spędził część sezonu 2000/01 na wypożyczeniu w Chelsea",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c5-0e6e932aa6dd-51194a34bb17-1000--united-look-forward-to-roma-return/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "UEFA — Panucci w Romie początkowo na wypożyczeniu w sezonie 2001/02",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eab0e015dfb-c3a09d2cc0dd-1000--jarni-and-forlan-among-new-names/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "AS Roma — osiem sezonów Panucciego, 2001–2009",
+          "url": "https://www.asroma.com/it/notizie/54919/la-top-10-dei-calciatori-della-roma-con-piu-presenze-nella-nazionale",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Real Madryt",
+          "years": "1997–1999",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Inter Mediolan",
+          "years": "1999/2000",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Chelsea",
+          "years": "2000/01 · wyp.",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "AS Roma",
+          "years": "2001/02 · wyp.",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane etapy; „wyp.” oznacza wypożyczenie. Chelsea tylko przez część sezonu; pominięto pozostałe kluby.",
+      "id": "2026-10-17-08"
+    },
+    {
+      "factKey": "ernest-wilimowski:four-goals-brazil-world-cup-1938",
+      "format": "fact",
+      "prompt": "Który Polak zdobył cztery gole w przegranym 5:6 po dogrywce meczu z Brazylią na mundialu 1938?",
+      "answerParts": [
+        "Ernest Wilimowski"
+      ],
+      "subjects": [
+        "player:ernest-wilimowski"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polska – Brazylia 5:6 po dogrywce na mundialu 1938",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-brazylia-56-05061938/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "id": "2026-10-17-09"
+    },
+    {
+      "factKey": "mateja-kezman:transfer:2005:Chelsea:Atlético Madryt",
+      "format": "transfer",
+      "prompt": "Rozpoznaj zawodnika, którego transfer ogłoszono w czerwcu 2005.",
+      "answerParts": [
+        "Mateja Kežman (Mateja Kezman)"
+      ],
+      "subjects": [
+        "player:mateja-kezman"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Kežman przechodzi z Chelsea do Atlético, 29 czerwca 2005",
+          "url": "https://www.uefa.com/news-media/news/0254-0d7b8af05f3b-21b2ceb2f128-1000--kezman-completes-atletico-switch/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Czerwiec",
+        "from": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Atlético Madryt",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-17-10"
+    },
+    {
+      "factKey": "adi-hutter:2026-10-16:frankfurt-koeln-response-after-leipzig",
+      "format": "coach",
+      "prompt": "Po porażce 0:6 w Lipsku jego Eintracht pokonał Köln 1:0, 16 października 2026. Kto prowadził gospodarzy?",
+      "answerParts": [
+        "Adi Hütter"
+      ],
+      "subjects": [
+        "coach:adi-hutter"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-16",
+      "sources": [
+        {
+          "title": "Eintracht — trener Hütter po zwycięstwie nad Köln i reakcji na porażkę w Lipsku",
+          "url": "https://profis.eintracht.de/news/die-situation-angenommen-stimmen-nach-dem-spiel-179820/",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        }
+      ],
+      "id": "2026-10-17-11"
+    },
+    {
+      "factKey": "czechia:euro1996-final:xi-rada-bejbl",
+      "format": "lineup",
+      "prompt": "Czechy w finale EURO 1996: uzupełnij dwa nazwiska w wyjściowym składzie.",
+      "answerParts": [
+        "Karel Rada",
+        "Radek Bejbl"
+      ],
+      "subjects": [
+        "player:karel-rada",
+        "player:radek-bejbl"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "euro",
+        "historia",
+        "składy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — finał EURO 1996 i pełny wyjściowy skład Czech",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0253-0d7b2f43dce4-36bc8c73471c-1000--bierhoff-the-hero-of-germany-s-euro-96-final-win-against-czech-/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "lineup": {
+        "caption": "30 czerwca 1996 · Czechy – Niemcy · rozmieszczenie umowne",
+        "rows": [
+          [
+            {
+              "name": "Petr Kouba"
+            }
+          ],
+          [
+            {
+              "name": "Jan Suchopárek"
+            },
+            {
+              "name": "Miroslav Kadlec"
+            },
+            {
+              "name": "Michal Horňák"
+            }
+          ],
+          [
+            {
+              "name": "Jiří Němec"
+            },
+            {
+              "name": "Karel Rada",
+              "slot": 0
+            },
+            {
+              "name": "Radek Bejbl",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Patrik Berger"
+            },
+            {
+              "name": "Pavel Nedvěd"
+            },
+            {
+              "name": "Karel Poborský"
+            }
+          ],
+          [
+            {
+              "name": "Pavel Kuka"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-17-12"
+    },
+    {
+      "factKey": "ataturk-olympic-stadium:photo-interior",
+      "format": "stadium",
+      "prompt": "Jak nazywa się stadion widoczny w tym kadrze?",
+      "answerParts": [
+        "Stadion Olimpijski im. Atatürka w Stambule (Atatürk Olimpiyat Stadı)"
+      ],
+      "subjects": [
+        "stadium:ataturk-olympic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "turcja",
+        "liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "Валерий Дед — fotografia Stadionu Olimpijskiego im. Atatürka",
+          "url": "https://commons.wikimedia.org/wiki/File:Istanbul_Atat%C3%BCrk_Olympic_Stadium_1.jpg",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        },
+        {
+          "title": "UEFA — prezentacja obiektu finału Ligi Mistrzów 2023",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0271-142ef4c4d9e4-ba6d9cd2db69-1000--2023-uefa-champions-league-final-istanbul-manchester-cit/",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d17-ataturk.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Atat%C3%BCrk_Olympic_Stadium_1.jpg",
+        "credit": "Валерий Дед",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Widok trybun, bieżni i boiska; bez herbu klubu, tablicy wyników i flag przy prawej krawędzi.",
+        "width": 1500,
+        "height": 863,
+        "crop": [
+          45,
+          80,
+          1070,
+          660
+        ]
+      },
+      "id": "2026-10-17-13"
+    },
+    {
+      "factKey": "tomasz-waldoch:last-club-2007-jagiellonia",
+      "format": "career-gap",
+      "prompt": "Tomasz Wałdoch: w którym klubie zagrał jeszcze w 2007 roku?",
+      "answerParts": [
+        "Jagiellonia Białystok"
+      ],
+      "subjects": [
+        "club:jagiellonia-bialystok"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Wałdoch dołączył do Jagiellonii pod koniec sezonu 2006/07",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/10-maja-1971",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "Schalke — Wałdoch w Bochum 1994–1999, pożegnanie z Schalke w 2006",
+          "url": "https://schalke04.de/inside/tomasz-waldoch-50-geburtstag/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "DFB — daty kariery Wałdocha w Bochum i Schalke",
+          "url": "https://datencenter.dfb.de/en/people/tomasz-waldoch/player/matches-in-season/bundesliga/1997-1998/vfl-bochum",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "VfL Bochum",
+          "years": "1994–1999",
+          "media": {
+            "path": "assets/d11-badge-bochum.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "credit": "VfL Bochum",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 264,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Schalke 04",
+          "years": "1999–2006",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng This W3C-unspecified vector image was created with Inkscape .",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Jagiellonia Białystok",
+          "years": "2007",
+          "missing": 0,
+          "media": {
+            "path": "assets/d17-badge-jagiellonia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Jagiellonia_Bia%C5%82ystok_logo.svg",
+            "credit": "Jagiellonia Białystok",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Jagiellonia_Bia%C5%82ystok_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 403,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Końcowe etapy kariery w pierwszych drużynach; pominięto zespoły młodzieżowe i rezerwy.",
+      "id": "2026-10-17-14"
+    },
+    {
+      "factKey": "herve-renard:afcon-zambia-2012-ivory-coast-2015",
+      "format": "coach",
+      "prompt": "Który trener zdobył Puchar Narodów Afryki z Zambią w 2012 i Wybrzeżem Kości Słoniowej w 2015?",
+      "answerParts": [
+        "Hervé Renard"
+      ],
+      "subjects": [
+        "coach:herve-renard"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "pna",
+        "afryka"
+      ],
+      "sources": [
+        {
+          "title": "CAF — dwa afrykańskie tytuły Renarda z różnymi reprezentacjami",
+          "url": "https://www.cafonline.com/caf-africa-cup-of-nations/news/afcon-records-le-roy-and-renard-stand-out",
+          "checkedAt": "2026-10-17T00:15:21.106Z"
+        }
+      ],
+      "id": "2026-10-17-15"
+    },
+    {
+      "factKey": "mohamed-sissoko:transfer:2005:Valencia:Liverpool",
+      "format": "transfer",
+      "prompt": "Którego zawodnika sprowadzono w tym ruchu latem 2005?",
+      "answerParts": [
+        "Mohamed Sissoko (Momo Sissoko)"
+      ],
+      "subjects": [
+        "player:mohamed-sissoko"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Sissoko przenosi się z Valencii do Liverpoolu, lipiec 2005",
+          "url": "https://fr.uefa.com/uefachampionsleague/news/025a-0ea9ff454ee0-945a275c1719-1000--benitez-va-chercher-sissoko/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        },
+        {
+          "title": "Liverpool — wywiad z Sissoko i potwierdzenie transferu z Valencii w lipcu 2005",
+          "url": "https://www.liverpoolfc.com/news/first-team/363947-momo-sissoko-interview-liverpool-support-makes-me-emotional",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-17-16"
+    },
+    {
+      "factKey": "steed-malbranque:portrait-2016",
+      "format": "photo",
+      "prompt": "Kogo przedstawia ten portret byłego piłkarza?",
+      "answerParts": [
+        "Steed Malbranque"
+      ],
+      "subjects": [
+        "player:steed-malbranque"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "S. Plaine — fotografia Steeda Malbranque’a z 30 lipca 2016 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:SM_Caen_vs_UNFP,_July_30th_2016_-_Steed_Malbranque_1.jpg",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d17-malbranque.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SM_Caen_vs_UNFP,_July_30th_2016_-_Steed_Malbranque_1.jpg",
+        "credit": "Photo by S. Plaine / CC-BY-SA-4.0",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Twarz byłego piłkarza; herb i oznaczenia stroju pozostają poza kadrem.",
+        "width": 1380,
+        "height": 1864,
+        "crop": [
+          180,
+          60,
+          960,
+          1260
+        ]
+      },
+      "id": "2026-10-17-17"
+    },
+    {
+      "factKey": "maurice-krattenmacher:2026-09:bundesliga-rookie-award",
+      "format": "fact",
+      "prompt": "Który zawodnik Elversbergu otrzymał nagrodę Rookie of the Month Bundesligi za wrzesień 2026?",
+      "answerParts": [
+        "Maurice Krattenmacher"
+      ],
+      "subjects": [
+        "player:maurice-krattenmacher"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "bundesliga",
+        "nagrody"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-25",
+      "sources": [
+        {
+          "title": "Bundesliga — Krattenmacher debiutantem września 2026",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/vote-rookie-of-the-month-2026-27-winners-sorare-39298",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        }
+      ],
+      "id": "2026-10-17-18"
+    },
+    {
+      "factKey": "deportivo-la-coruna:shared-club-valeron-makaay-tristan-2002-03",
+      "format": "shared-club",
+      "prompt": "Juan Carlos Valerón, Roy Makaay i Diego Tristán: w którym klubie grali razem w sezonie 2002/03?",
+      "answerParts": [
+        "Deportivo La Coruña"
+      ],
+      "subjects": [
+        "club:deportivo-la-coruna"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "hiszpania",
+        "historia",
+        "wspólny-klub"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Valerón, Tristán i Makaay w Deportivo, sezon 2002/03",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaaec2b0a28-8fa9dca0db1a-1000--depor-look-to-valeron/",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "id": "2026-10-17-19"
+    },
+    {
+      "factKey": "fenerbahce:crest-leaf-fragment",
+      "format": "crest",
+      "prompt": "Rozpoznaj klub po widocznym fragmencie jego herbu.",
+      "answerParts": [
+        "Fenerbahçe"
+      ],
+      "subjects": [
+        "club:fenerbahce"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "Fenerbahçe — oficjalny raport klubowy z herbem",
+          "url": "https://media.fenerbahce.org/getmedia/595c574c-13f2-469b-afb2-884c1913e9c7/FENER-2021-4-C-YK-FR.pdf",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        },
+        {
+          "title": "Herb Fenerbahçe — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d17-fenerbahce.png",
+        "source": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+        "credit": "Fenerbahçe Spor Kulübü",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Fragment herbu z motywem roślinnym, bez nazwy klubu i daty.",
+        "width": 960,
+        "height": 960,
+        "crop": [
+          300,
+          370,
+          390,
+          365
+        ]
+      },
+      "id": "2026-10-17-20"
+    },
+    {
+      "factKey": "sidney-govou:lyon-panathinaikos-evian-riddle",
+      "format": "career-riddle",
+      "prompt": "Zdobył siedem kolejnych mistrzostw Francji z Lyonem. W 2010 wybrał Panathinaikos, a rok później Évian Thonon-Gaillard. Kto to?",
+      "answerParts": [
+        "Sidney Govou"
+      ],
+      "subjects": [
+        "player:sidney-govou"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "francja",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Francuska federacja — kariera Govou i siedem mistrzostw z Lyonem",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/9807-govou-sidney/fiche.html",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "id": "2026-10-17-21"
+    },
+    {
+      "factKey": "kazimierz-deyna:1974-ballon-dor-third",
+      "format": "fact",
+      "prompt": "Złota Piłka 1974: kto uzupełnia podium za Johanem Cruyffem i Franzem Beckenbauerem?",
+      "answerParts": [
+        "Kazimierz Deyna"
+      ],
+      "subjects": [
+        "player:kazimierz-deyna"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "zlota-pilka"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Deyna trzeci w plebiscycie Złotej Piłki w 1974 roku",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/od-lubanskiego-do-lewego",
+          "checkedAt": "2026-10-17T00:16:27.130Z"
+        }
+      ],
+      "id": "2026-10-17-22"
+    },
+    {
+      "factKey": "emmanuel-adebayor:transfer:2011:Manchester City:Real Madryt",
+      "format": "transfer",
+      "prompt": "Czyje wypożyczenie ze stycznia 2011 przedstawiają te herby?",
+      "answerParts": [
+        "Emmanuel Adebayor"
+      ],
+      "subjects": [
+        "player:emmanuel-adebayor"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Manchester City — wypożyczenie Adebayora do Realu w styczniu 2011",
+          "url": "https://www.mancity.com/news/first-team/first-team-news/archive/2011/january/adebayor-joins-real-madrid-on-loan",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Real Madryt",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-17-23"
+    },
+    {
+      "factKey": "antonio-raimondo:2026-10-16:sassuolo-hat-trick",
+      "format": "fact",
+      "prompt": "Frosinone – Sassuolo, 16 października 2026 (4:2): kto zdobył hat-tricka dla gospodarzy?",
+      "answerParts": [
+        "Antonio Raimondo"
+      ],
+      "subjects": [
+        "player:antonio-raimondo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-16",
+      "sources": [
+        {
+          "title": "Frosinone — wynik, skład i trzy gole Raimonda przeciwko Sassuolo",
+          "url": "https://www.frosinonecalcio.com/frosinone-sassuolo-4-2/",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        }
+      ],
+      "id": "2026-10-17-24"
+    },
+    {
+      "factKey": "carlos-caszely:1974-first-world-cup-red-card",
+      "format": "fact",
+      "prompt": "Kto na mundialu 1974 jako pierwszy w historii mistrzostw świata zobaczył czerwoną kartkę?",
+      "answerParts": [
+        "Carlos Caszely"
+      ],
+      "subjects": [
+        "player:carlos-caszely"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "DFB — Carlos Caszely i pierwsza czerwona kartka na mundialu",
+          "url": "https://www.dfb.de/news/detail/heute-vor-50-jahren-weltmeister-dahoam-262984",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "id": "2026-10-17-25"
+    },
+    {
+      "factKey": "rfc-liege:bosman-employer-dispute-1990",
+      "format": "fact",
+      "prompt": "Z którym belgijskim klubem toczył spór Jean-Marc Bosman, zanim zapadł słynny wyrok w 1995 roku?",
+      "answerParts": [
+        "RFC Liège (Royal Club Liégeois)"
+      ],
+      "subjects": [
+        "club:rfc-liege"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "belgia",
+        "historia",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Trybunał Sprawiedliwości — sprawa Bosmana, fakty dotyczące RC Liège (pkt 28–31)",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex:61993CJ0415",
+          "checkedAt": "2026-10-17T00:18:01Z"
+        }
+      ],
+      "id": "2026-10-17-26"
+    },
+    {
+      "factKey": "roger-milla:1994-goal-aged-42",
+      "format": "fact",
+      "prompt": "Który piłkarz zdobył bramkę na mundialu 1994, mając 42 lata?",
+      "answerParts": [
+        "Roger Milla"
+      ],
+      "subjects": [
+        "player:roger-milla"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "kamerun"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Milla o rekordowej bramce przeciwko Rosji w 1994",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/1990italy/news/roger-milla-my-record-will-be-very-difficult-to-beat",
+          "checkedAt": "2026-10-17T00:15:21.106Z"
+        },
+        {
+          "title": "FIFA — gol Milli w wieku 42 lat i 39 dni",
+          "url": "https://www.fifa.com/en/articles/roger-milla-goal-cameroon-russia-record",
+          "checkedAt": "2026-10-17T00:15:21.106Z"
+        }
+      ],
+      "id": "2026-10-17-27"
+    },
+    {
+      "factKey": "mateusz-stolarski:2026-09-13:widzew-debut-legia-draw",
+      "format": "coach",
+      "prompt": "Który trener zadebiutował w Widzewie remisem 1:1 z Legią 13 września 2026?",
+      "answerParts": [
+        "Mateusz Stolarski"
+      ],
+      "subjects": [
+        "coach:mateusz-stolarski"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-13",
+      "sources": [
+        {
+          "title": "Legia — wypowiedź Stolarskiego po pierwszym meczu w Widzewie, 13 września 2026",
+          "url": "https://legia.com/en/articles/mateusz-stolarski-szanuje-ten-remis",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        },
+        {
+          "title": "Ekstraklasa — debiut Stolarskiego w Widzewie i remis z Legią w 8. kolejce",
+          "url": "https://ekstraklasa.org/aktualnosci/podsumowanie-8-kolejki-20262027/",
+          "checkedAt": "2026-10-17T00:15:50Z"
+        }
+      ],
+      "id": "2026-10-17-28"
+    },
+    {
+      "factKey": "polonia-warsaw:1952-cup-and-relegation",
+      "format": "fact",
+      "prompt": "Który klub w 1952 roku zdobył Puchar Polski, a jednocześnie spadł z najwyższej ligi?",
+      "answerParts": [
+        "Polonia Warszawa"
+      ],
+      "subjects": [
+        "club:polonia-warsaw"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "puchar-polski",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Polonia Warszawa — Puchar Polski i spadek w 1952 roku",
+          "url": "https://kspolonia.pl/polonia-warszawa-swietuje-112-lat/",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "id": "2026-10-17-29"
+    },
+    {
+      "factKey": "aberdeen:1983-super-cup-hamburg",
+      "format": "fact",
+      "prompt": "Który klub zdobył Superpuchar Europy 1983 po remisie 0:0 i zwycięstwie 2:0 z Hamburgerem SV?",
+      "answerParts": [
+        "Aberdeen FC"
+      ],
+      "subjects": [
+        "club:aberdeen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szkocja",
+        "superpuchar-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Aberdeen — historia obu meczów Superpucharu Europy 1983",
+          "url": "https://www.afc.co.uk/en/news/super-cup-story",
+          "checkedAt": "2026-10-17T00:17:31.126Z"
+        }
+      ],
+      "id": "2026-10-17-30"
+    }
+  ]
+}
