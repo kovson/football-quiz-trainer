@@ -1,0 +1,1228 @@
+{
+  "id": "2026-10-18",
+  "kind": "daily",
+  "title": "Trening głowy · 18 października 2026",
+  "date": "2026-10-18",
+  "publishAt": "2026-10-18T07:00:00+02:00",
+  "researchedAt": "2026-10-17T21:41:49.061Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-18"
+  },
+  "questions": [
+    {
+      "factKey": "tomasz-iwan:portrait-ski-2012",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego reprezentanta Polski na tym portrecie.",
+      "answerParts": [
+        "Tomasz Iwan"
+      ],
+      "subjects": [
+        "player:tomasz-iwan"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Ja Fryta — portret Tomasza Iwana z 2012 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Tomasz_Iwan.jpg",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d18-iwan.jpg",
+        "width": 496,
+        "height": 647,
+        "crop": [
+          95,
+          30,
+          350,
+          410
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Tomasz_Iwan.jpg",
+        "credit": "Ja Fryta",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Twarz byłego piłkarza w cywilnym stroju; bez oznaczeń klubu."
+      },
+      "id": "2026-10-18-01"
+    },
+    {
+      "factKey": "ado-den-haag:2026-10-17:first-season-win-psv",
+      "format": "fact",
+      "prompt": "Który klub Eredivisie odniósł pierwszą wygraną sezonu 2026/27, pokonując PSV 2:1 17 października?",
+      "answerParts": [
+        "ADO Den Haag"
+      ],
+      "subjects": [
+        "club:ado-den-haag"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "eredivisie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "ADO Den Haag — pierwsza wygrana sezonu, 2:1 z mistrzem PSV po golu w doliczonym czasie",
+          "url": "https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/ado-den-haag-psv-1330",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        }
+      ],
+      "id": "2026-10-18-02"
+    },
+    {
+      "factKey": "christian-ziege:transfer:2000:Middlesbrough:Liverpool",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym transferze latem 2000 roku?",
+      "answerParts": [
+        "Christian Ziege"
+      ],
+      "subjects": [
+        "player:christian-ziege"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — transfer Christiana Ziegego z Middlesbrough latem 2000",
+          "url": "https://www.liverpoolfc.com/info/christian-ziege",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "transfer": {
+        "year": 2000,
+        "detail": "Lato",
+        "from": {
+          "club": "Middlesbrough",
+          "media": {
+            "path": "assets/d11-badge-middlesbrough.png",
+            "source": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+            "credit": "Middlesbrough",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-18-03"
+    },
+    {
+      "factKey": "olympiacos:crest-laurel-face-fragment",
+      "format": "crest",
+      "prompt": "Jaki klub rozpoznajesz po tym fragmencie herbu?",
+      "answerParts": [
+        "Olympiacos Pireus"
+      ],
+      "subjects": [
+        "club:olympiacos"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Olympiacos — oficjalna historia i motyw młodzieńca w wieńcu laurowym",
+          "url": "https://www.olympiacos.org/en/olympiacos-history/",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        },
+        {
+          "title": "Herb Olympiacosu — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d18-olympiacos.png",
+        "width": 1920,
+        "height": 2494,
+        "crop": [
+          500,
+          1050,
+          580,
+          800
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+        "credit": "Olympiacos SFP",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Fragment czerwono-białego herbu z wieńcem laurowym; bez liter i dat."
+      },
+      "id": "2026-10-18-04"
+    },
+    {
+      "factKey": "christian-vieri:childhood-in-australia",
+      "format": "country",
+      "prompt": "W jakim kraju Christian Vieri spędził większość dzieciństwa przed powrotem do Włoch?",
+      "answerParts": [
+        "Australia"
+      ],
+      "subjects": [
+        "player:christian-vieri"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "australia",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Australijska federacja — Christian Vieri wychował się w Sydney",
+          "url": "https://www.socceroos.com.au/news/vieri-very-happy-call-australia-home",
+          "checkedAt": "2026-10-17T21:37:20.321Z"
+        },
+        {
+          "title": "Inter — dzieciństwo Vieriego w Australii i powrót do włoskiej piłki",
+          "url": "https://www.inter.it/en/club/hall-of-fame/christian-vieri",
+          "checkedAt": "2026-10-17T21:37:20.321Z"
+        }
+      ],
+      "id": "2026-10-18-05"
+    },
+    {
+      "factKey": "jan-urban:coach-link-ljuboja-lovrencsics-podolski",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził całą trójkę w podanych klubach i sezonach?",
+      "answerParts": [
+        "Jan Urban"
+      ],
+      "subjects": [
+        "coach:jan-urban"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "trenerzy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Legia — Urban i Ljuboja w sezonie 2012/13",
+          "url": "https://legia.com/historia-2011-2019",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "Lech — Urban i Lovrencsics w zwycięskim meczu we Florencji, 22 października 2015",
+          "url": "https://www.lechpoznan.pl/pl/aktualnosci%2C2%2Clech-zdobyl-florencje%2C2035.html",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "Górnik — pierwsza kadencja Urbana rozpoczęła się w lipcu 2021",
+          "url": "https://www.gornikzabrze.pl/aktualnosci/wydarzenia/jan-urban-selekcjonerem-reprezentacji-polski-gratulacje-i-powodzenia",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "Górnik — Podolski dołączył do klubu w lipcu 2021",
+          "url": "https://www.gornikzabrze.pl/klub/historia",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "clues": [
+        "Danijel Ljuboja — Legia Warszawa, 2012/13",
+        "Gergő Lovrencsics — Lech Poznań, 2015/16",
+        "Lukas Podolski — Górnik Zabrze, 2021/22"
+      ],
+      "id": "2026-10-18-06"
+    },
+    {
+      "factKey": "florian-wirtz:2026-10-17:brentford-nine-open-play-chances",
+      "format": "fact",
+      "prompt": "Brentford – Liverpool 1:2, 17 października 2026: kto stworzył kolegom dziewięć okazji z gry, bez stałych fragmentów?",
+      "answerParts": [
+        "Florian Wirtz"
+      ],
+      "subjects": [
+        "player:florian-wirtz"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "Liverpool — dziewięć okazji stworzonych przez Wirtza z otwartej gry przeciwko Brentford",
+          "url": "https://www.liverpoolfc.com/news/florian-wirtz-achieves-chance-creation-figure-unseen-in-premier-league-for-15-years",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        }
+      ],
+      "id": "2026-10-18-07"
+    },
+    {
+      "factKey": "boudewijn-zenden:barcelona-chelsea-middlesbrough-liverpool-1998-2007",
+      "format": "career",
+      "prompt": "Nazwij zawodnika, którego kolejne etapy kariery przedstawiają te herby.",
+      "answerParts": [
+        "Boudewijn Zenden (Bolo Zenden)"
+      ],
+      "subjects": [
+        "player:boudewijn-zenden"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "hiszpania",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "FC Barcelona — Zenden w klubie w latach 1998–2001",
+          "url": "https://www.fcbarcelona.cat/ca/futbol/primer-equip/noticies/2911823/entrevistes-mundials-boudewijn-zenden-ii",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "UEFA — z Chelsea do Middlesbrough na wypożyczenie w 2003",
+          "url": "https://www.uefa.com/news-media/news/0194-0f8450905938-fcb98f27c306-1000--zenden-seals-middlesbrough-move/",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "UEFA — wypożyczenie Zendena 2003/04 i transfer definitywny 2004/05",
+          "url": "https://www.uefa.com/newsfiles/461350.pdf",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "Liverpool — Zenden w latach 2005–2007",
+          "url": "https://www.liverpoolfc.com/info/bolo-zenden/",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "FC Barcelona",
+          "years": "1998–2001",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Chelsea",
+          "years": "2001–2003",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Middlesbrough",
+          "years": "2003–2005",
+          "media": {
+            "path": "assets/d11-badge-middlesbrough.png",
+            "source": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+            "credit": "Middlesbrough",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Middlesbrough_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Liverpool",
+          "years": "2005–2007",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Kolejne etapy gry w pierwszych drużynach, 1998–2007. W Middlesbrough: sezon 2003/04 na wypożyczeniu, następny po transferze definitywnym.",
+      "id": "2026-10-18-08"
+    },
+    {
+      "factKey": "independiente-del-valle:sudamericana-2019-2022",
+      "format": "club-riddle",
+      "prompt": "Który ekwadorski klub zdobył Copa Sudamericana w 2019 i 2022 roku?",
+      "answerParts": [
+        "Independiente del Valle"
+      ],
+      "subjects": [
+        "club:independiente-del-valle"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "ekwador",
+        "copa-sudamericana"
+      ],
+      "sources": [
+        {
+          "title": "CONMEBOL — triumfy Independiente del Valle w Copa Sudamericana 2019 i 2022",
+          "url": "https://gol.conmebol.com/libertadores/en/news/independiente-del-valle-en-la-conmebol-libertadores-2026-resultados-plantel-y-calendario",
+          "checkedAt": "2026-10-17T21:37:20.321Z"
+        }
+      ],
+      "id": "2026-10-18-09"
+    },
+    {
+      "factKey": "john-carew:transfer:2003:Valencia:AS Roma",
+      "format": "transfer",
+      "prompt": "Czyje wypożyczenie z sierpnia 2003 pokazują te dwa herby?",
+      "answerParts": [
+        "John Carew"
+      ],
+      "subjects": [
+        "player:john-carew"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — John Carew wypożyczony z Valencii do Romy, 30 sierpnia 2003",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/025a-0eaada6b7724-0c17ac8575d1-1000--carew-completes-roma-switch/",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "transfer": {
+        "year": 2003,
+        "detail": "Sierpień · wypożyczenie",
+        "from": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-18-10"
+    },
+    {
+      "factKey": "mariusz-liberda:2003-dyskobolia-manchester-city-clean-sheet",
+      "format": "fact",
+      "prompt": "Dyskobolia – Manchester City 0:0, Puchar UEFA 2003/04: kto stał w bramce gospodarzy?",
+      "answerParts": [
+        "Mariusz Liberda"
+      ],
+      "subjects": [
+        "player:mariusz-liberda"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "puchar-uefa",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Liberda w bramce Dyskobolii i remis 0:0 z Manchesterem City, 27 listopada 2003",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0197-0e6a7947fdcd-7d98b6b1ea6c-1000--groclin-extend-dream-debut/",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "id": "2026-10-18-11"
+    },
+    {
+      "factKey": "martin-demichelis:2026-10-17:leipzig-coach-bayern-return",
+      "format": "coach",
+      "prompt": "Bayern – RB Leipzig 6:1, 17 października 2026: który były obrońca gospodarzy prowadził gości?",
+      "answerParts": [
+        "Martín Demichelis"
+      ],
+      "subjects": [
+        "coach:martin-demichelis"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "Bayern — wynik 6:1 i trenerzy Kompany oraz Demichelis, 17 października 2026",
+          "url": "https://fcbayern.com/de/news/spielberichte/2026/10/spielbericht-bundesliga-fc-bayern-rb-leipzig",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        },
+        {
+          "title": "Bayern — Demichelis jako były obrońca i trener rezerw, obecnie szkoleniowiec Lipska",
+          "url": "https://fcbayern.com/en/news/2026/10/interview-with-martin-demichelis-ahead-of-rb-leipzig-clash",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        },
+        {
+          "title": "RB Leipzig — oficjalna relacja po porażce 1:6 i nazwisko trenera gości",
+          "url": "https://rbleipzig.com/en/match-news/match-report-fc-bayern-vs-rb-leipzig-bundesliga-17th-october-2026",
+          "checkedAt": "2026-10-17T21:39:03.904Z"
+        }
+      ],
+      "id": "2026-10-18-12"
+    },
+    {
+      "factKey": "san-siro:exterior-spiral-towers-photo",
+      "format": "stadium",
+      "prompt": "Podaj nazwę stadionu rozpoznanego po jego konstrukcji.",
+      "answerParts": [
+        "San Siro (Stadio Giuseppe Meazza), Mediolan"
+      ],
+      "subjects": [
+        "stadium:san-siro"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Prelvini — fotografia stadionu Giuseppe Meazzy z 2021 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        },
+        {
+          "title": "San Siro — oficjalna prezentacja stadionu i jego konstrukcji",
+          "url": "https://sansirostadium.com/?lang=en",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d18-san-siro.jpg",
+        "width": 1920,
+        "height": 1280,
+        "crop": [
+          90,
+          40,
+          1750,
+          930
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
+        "credit": "Prelvini",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Zewnętrzna konstrukcja stadionu z betonowymi wieżami i czerwonymi belkami; bez nazw i herbów."
+      },
+      "id": "2026-10-18-13"
+    },
+    {
+      "factKey": "mariusz-kukielka:career-gap:dynamo-dresden-2005-06",
+      "format": "career-gap",
+      "prompt": "Mariusz Kukiełka: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "Dynamo Drezno"
+      ],
+      "subjects": [
+        "club:dynamo-dresden"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "niemcy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "1. FC Nürnberg — Kukiełka odszedł z Wisły do Dynama pod koniec 2004, następnie grał w Energie",
+          "url": "https://www.fcn.de/clubmaenner/archiv/2007-2008/club-spiele/4-spieltag/vorschau/",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "DFB — Kukiełka w Dreźnie od stycznia 2005 do czerwca 2006, w Cottbus 2006–2009",
+          "url": "https://datencenter.dfb.de/en/data-center/people/mariusz-kukielka/player",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Wisła Kraków",
+          "years": "2004",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Dynamo Drezno",
+          "years": "2005–2006",
+          "media": {
+            "path": "assets/d18-badge-dynamo-dresden.png",
+            "source": "https://en.wikipedia.org/wiki/File:Dynamo_Dresden_crest.svg",
+            "credit": "Dynamo Drezno",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Dynamo_Dresden_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 212,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Energie Cottbus",
+          "years": "2006–2009",
+          "media": {
+            "path": "assets/d16-badge-energie-cottbus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_Energie_Cottbus.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_Energie_Cottbus.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 279,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery w pierwszych drużynach. Przejście do środkowego klubu nastąpiło w zimowym oknie 2004/05.",
+      "id": "2026-10-18-14"
+    },
+    {
+      "factKey": "obdulio-varela:uruguay-captain-maracanazo1950",
+      "format": "fact",
+      "prompt": "Kto był kapitanem Urugwaju podczas „Maracanazo”, zwycięstwa nad Brazylią na mundialu 1950?",
+      "answerParts": [
+        "Obdulio Varela"
+      ],
+      "subjects": [
+        "player:obdulio-varela"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "urugwaj",
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Obdulio Varela odbiera Puchar Jules’a Rimeta po Maracanazo",
+          "url": "https://inside.fifa.com/es/tournaments/mens/worldcup/1950brazil/news/la-caotica-coronacion-de-uruguay-en-maracana-2783356",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "id": "2026-10-18-15"
+    },
+    {
+      "factKey": "edin-dzeko:transfer:2011:VfL Wolfsburg:Manchester City",
+      "format": "transfer",
+      "prompt": "Kogo sprowadzono w styczniu 2011 w przedstawionym transferze?",
+      "answerParts": [
+        "Edin Džeko (Edin Dzeko)"
+      ],
+      "subjects": [
+        "player:edin-dzeko"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Manchester City — Džeko przeszedł z Wolfsburga w styczniu 2011",
+          "url": "https://es.mancity.com/noticias/primer-equipo/first-team-news/2016/september/manchester-derby-icons-part-five-edin-dzeko",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Styczeń",
+        "from": {
+          "club": "VfL Wolfsburg",
+          "media": {
+            "path": "assets/14.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 960,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-18-16"
+    },
+    {
+      "factKey": "sebastien-squillaci:portrait-2010",
+      "format": "photo",
+      "prompt": "Podaj nazwisko piłkarza widocznego na tym zdjęciu.",
+      "answerParts": [
+        "Sébastien Squillaci"
+      ],
+      "subjects": [
+        "player:sebastien-squillaci"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Ronnie Macdonald — fotografia Sébastiena Squillaciego z 16 października 2010",
+          "url": "https://commons.wikimedia.org/wiki/File:Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d18-squillaci.jpg",
+        "width": 1920,
+        "height": 2880,
+        "crop": [
+          745,
+          410,
+          480,
+          550
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg",
+        "credit": "Ronnie Macdonald",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Twarz piłkarza z profilu; herb, sponsor i barwy koszulki pozostają poza kadrem."
+      },
+      "id": "2026-10-18-17"
+    },
+    {
+      "factKey": "donyell-malen:2026-08-09:serie-a-player-of-month",
+      "format": "fact",
+      "prompt": "Kto otrzymał nagrodę piłkarza miesiąca Serie A za sierpień–wrzesień 2026?",
+      "answerParts": [
+        "Donyell Malen"
+      ],
+      "subjects": [
+        "player:donyell-malen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "serie-a",
+        "nagrody"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-01",
+      "sources": [
+        {
+          "title": "Lega Serie A — Malen piłkarzem sierpnia i września 2026",
+          "url": "https://en.legaseriea.it/serie-a/news/donyell-malen-ea-sports-fc-player-of-the-month-for-august-september",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        }
+      ],
+      "id": "2026-10-18-18"
+    },
+    {
+      "factKey": "aj-auxerre:shared-club-mexes-kapo-cisse-2003-04",
+      "format": "shared-club",
+      "prompt": "Philippe Mexès, Olivier Kapo i Djibril Cissé: który klub łączy ich w sezonie 2003/04?",
+      "answerParts": [
+        "AJ Auxerre"
+      ],
+      "subjects": [
+        "club:aj-auxerre"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "historia",
+        "wspólny-klub"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Mexès, Kapo i Cissé w Auxerre w marcu 2004",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/019b-0e6acf9db56f-501901451126-1000--roux-s-auxerre-on-revenge-trail/",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "id": "2026-10-18-19"
+    },
+    {
+      "factKey": "wolfsberger-ac:crest-wolf-fragment",
+      "format": "crest",
+      "prompt": "Który klub ma w herbie tego wilka?",
+      "answerParts": [
+        "Wolfsberger AC (WAC)"
+      ],
+      "subjects": [
+        "club:wolfsberger-ac"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria"
+      ],
+      "sources": [
+        {
+          "title": "Wolfsberger AC — oficjalna strona klubu i herb",
+          "url": "https://rzpelletswac.at/",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        },
+        {
+          "title": "Herb Wolfsberger AC — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Wolfsberger_AC_logo.svg",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d18-wolfsberger.png",
+        "width": 1920,
+        "height": 2110,
+        "crop": [
+          560,
+          290,
+          1060,
+          520
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Wolfsberger_AC_logo.svg",
+        "credit": "Wolfsberger AC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Wolfsberger_AC_logo.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Fragment herbu z głową wilka, bez nazwy i skrótów klubu."
+      },
+      "id": "2026-10-18-20"
+    },
+    {
+      "factKey": "florin-raducioiu:career-riddle-five-leagues",
+      "format": "career-riddle",
+      "prompt": "Z Brescii trafił do Milanu, potem do Espanyolu. Grał też w West Hamie, Stuttgarcie i Monaco. Kto to?",
+      "answerParts": [
+        "Florin Răducioiu (Florin Raducioiu)"
+      ],
+      "subjects": [
+        "player:florin-raducioiu"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "rumunia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Rumuńska federacja — podręcznik trenerski, kariera Răducioiu, strony 109–110",
+          "url": "https://anf.frf.ro/wp-content/uploads/2022/01/Manual-de-cultura-fotbalistica.pdf",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        },
+        {
+          "title": "West Ham — kariera Răducioiu we Włoszech, Hiszpanii, Anglii, Niemczech i Francji",
+          "url": "https://www.whufc.com/news/articles/2009/march/17-march/day-17-march",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "id": "2026-10-18-21"
+    },
+    {
+      "factKey": "bartosz-grzelak:2026-27:cracovia-aik-fehervar-ujpest",
+      "format": "coach",
+      "prompt": "Sezon 2026/27: który trener Cracovii wcześniej prowadził AIK, Fehérvár i Újpest?",
+      "answerParts": [
+        "Bartosz Grzelak"
+      ],
+      "subjects": [
+        "coach:bartosz-grzelak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-16",
+      "sources": [
+        {
+          "title": "Legia — Grzelak trenerem Cracovii; wcześniejsza praca w AIK, Fehérvár i Újpest",
+          "url": "https://legia.com/articles/pko-bank-polski-ekstraklasa-cracovia-legia-warszawa-liczby-i-ciekawostki",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        },
+        {
+          "title": "Cracovia — profil pierwszego trenera Bartosza Grzelaka",
+          "url": "https://www.cracovia.pl/players/bartosz-grzelak/247",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        }
+      ],
+      "id": "2026-10-18-22"
+    },
+    {
+      "factKey": "diego-lugano:transfer:2011:Fenerbahçe:Paris Saint-Germain",
+      "format": "transfer",
+      "prompt": "Kogo dotyczy ten transfer z sierpnia 2011 roku?",
+      "answerParts": [
+        "Diego Lugano"
+      ],
+      "subjects": [
+        "player:diego-lugano"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Lugano przeniósł się z Fenerbahçe do PSG latem 2011",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0254-0d7d546e9268-33fe93ed937b-1000--uefa-europa-league-transfer-round-up/",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Fenerbahçe",
+          "media": {
+            "path": "assets/d11-badge-fenerbahce.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+            "credit": "Fenerbahçe",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-18-23"
+    },
+    {
+      "factKey": "yacine-bourhane:2026-10-17:motor-slask-stoppage-time-winner",
+      "format": "fact",
+      "prompt": "Motor – Śląsk 3:2, 17 października 2026: kto rozstrzygnął mecz w 90+2. minucie?",
+      "answerParts": [
+        "Yacine Bourhane"
+      ],
+      "subjects": [
+        "player:yacine-bourhane"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "Ekstraklasa — zwycięski gol Bourhane’a w doliczonym czasie meczu Motor – Śląsk",
+          "url": "https://ekstraklasa.org/mecz/ce6eb6fc-433f-4187-bbc5-59e1729773bd/motor-lublin-slask-wroclaw/przeglad/",
+          "checkedAt": "2026-10-17T21:37:26.080Z"
+        }
+      ],
+      "id": "2026-10-18-24"
+    },
+    {
+      "factKey": "torino:1949-superga-air-disaster",
+      "format": "fact",
+      "prompt": "Którego klubu dotyczy katastrofa lotnicza na wzgórzu Superga z 4 maja 1949?",
+      "answerParts": [
+        "Torino FC (Grande Torino)"
+      ],
+      "subjects": [
+        "club:torino"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wlochy",
+        "historia",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Torino FC — klubowa historia katastrofy pod Supergą z 4 maja 1949",
+          "url": "https://www.torinofc.it/storia/la-tragedia-di-superga",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "id": "2026-10-18-25"
+    },
+    {
+      "factKey": "andres-palop:2007-shakhtar-stoppage-time-header",
+      "format": "fact",
+      "prompt": "Który bramkarz Sevilli strzelił głową Szachtarowi w doliczonym czasie, ratując dogrywkę w Pucharze UEFA 2007?",
+      "answerParts": [
+        "Andrés Palop"
+      ],
+      "subjects": [
+        "player:andres-palop"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "hiszpania",
+        "puchar-uefa"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — gol Palopa uratował Sevillę w Doniecku, 15 marca 2007",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01bf-0ea8a69ccaf9-ab162f9059d4-1000--sevilla-saved-by-last-gasp-palop/",
+          "checkedAt": "2026-10-17T21:37:20.321Z"
+        }
+      ],
+      "id": "2026-10-18-26"
+    },
+    {
+      "factKey": "ball:jobulani:2010-world-cup-final",
+      "format": "fact",
+      "prompt": "Jak nazywała się złota odmiana piłki przygotowana na finał mundialu 2010?",
+      "answerParts": [
+        "Jo’bulani"
+      ],
+      "subjects": [
+        "ball:jobulani"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "mundial",
+        "kultura",
+        "rpa"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — historia piłek mundialowych i złota Jo’bulani na finał 2010",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ball-balls-history?searchOverlay=1",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        },
+        {
+          "title": "adidas — oficjalna informacja o piłce finału Jo’bulani",
+          "url": "https://www.prnewswire.com/news-releases/adidas-extends-soccer-legacy-equips-athletes-and-unites-fans-through-2010-fifa-world-cup-south-africatm-95801704.html",
+          "checkedAt": "2026-10-17T21:37:42.273Z"
+        }
+      ],
+      "id": "2026-10-18-27"
+    },
+    {
+      "factKey": "poland-portugal:worldcup1986:xi-komornicki-smolarek",
+      "format": "lineup",
+      "prompt": "Polska – Portugalia na mundialu 1986: uzupełnij dwa nazwiska w wyjściowej jedenastce.",
+      "answerParts": [
+        "Ryszard Komornicki",
+        "Włodzimierz Smolarek"
+      ],
+      "subjects": [
+        "player:ryszard-komornicki",
+        "player:wlodzimierz-smolarek"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "polish",
+        "mundial",
+        "składy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polska – Portugalia 1:0, 7 czerwca 1986, pełny wyjściowy skład",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-portugalia-10-07061986",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "lineup": {
+        "caption": "7 czerwca 1986 · Polska – Portugalia 1:0 · rozmieszczenie umowne",
+        "rows": [
+          [
+            {
+              "name": "Józef Młynarczyk"
+            }
+          ],
+          [
+            {
+              "name": "Krzysztof Pawlak"
+            },
+            {
+              "name": "Roman Wójcicki"
+            },
+            {
+              "name": "Stefan Majewski"
+            },
+            {
+              "name": "Marek Ostrowski"
+            }
+          ],
+          [
+            {
+              "name": "Dariusz Dziekanowski"
+            },
+            {
+              "name": "Waldemar Matysik"
+            },
+            {
+              "name": "Ryszard Komornicki",
+              "slot": 0
+            }
+          ],
+          [
+            {
+              "name": "Jan Urban"
+            },
+            {
+              "name": "Zbigniew Boniek"
+            },
+            {
+              "name": "Włodzimierz Smolarek",
+              "slot": 1
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-18-28"
+    },
+    {
+      "factKey": "atletico-mineiro:ronaldinho-libertadores2013",
+      "format": "fact",
+      "prompt": "Z którym klubem Ronaldinho wygrał Copa Libertadores w 2013 roku?",
+      "answerParts": [
+        "Atlético Mineiro"
+      ],
+      "subjects": [
+        "club:atletico-mineiro"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "brazylia",
+        "libertadores",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Ronaldinho zdobył Copa Libertadores 2013 z Atlético Mineiro",
+          "url": "https://inside.fifa.com/en/news/ronaldinho-calls-time-on-mesmerising-career-2926508",
+          "checkedAt": "2026-10-17T21:38:23.600Z"
+        }
+      ],
+      "id": "2026-10-18-29"
+    },
+    {
+      "factKey": "oleg-salenko:1994-six-goals-group-stage-golden-boot",
+      "format": "fact",
+      "prompt": "Który współkról strzelców mundialu 1994 zdobył wszystkie swoje sześć bramek w fazie grupowej?",
+      "answerParts": [
+        "Oleg Salenko"
+      ],
+      "subjects": [
+        "player:oleg-salenko"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "mundial",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — sześć goli Salenki i wspólna korona ze Stoiczkowem mimo odpadnięcia po grupie",
+          "url": "https://www.fifa.com/en/articles/fontaine-mbappe-ronaldo-and-more-every-world-cup-top-scorer",
+          "checkedAt": "2026-10-17T21:37:20.321Z"
+        },
+        {
+          "title": "FIFA — pięć goli z Kamerunem i wcześniejszy gol ze Szwecją",
+          "url": "https://inside.fifa.com/news/5-days-to-go-salenko-goalscoring-exploits-2954092",
+          "checkedAt": "2026-10-17T21:37:20.321Z"
+        }
+      ],
+      "id": "2026-10-18-30"
+    }
+  ]
+}
