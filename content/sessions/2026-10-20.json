@@ -1,0 +1,1211 @@
+{
+  "id": "2026-10-20",
+  "kind": "daily",
+  "title": "Trening głowy · 20 października 2026",
+  "date": "2026-10-20",
+  "publishAt": "2026-10-19T23:14:00+02:00",
+  "researchedAt": "2026-10-19T21:14:55.178Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-20"
+  },
+  "questions": [
+    {
+      "factKey": "dariusz-wdowczyk:portrait-civilian-2013",
+      "format": "photo",
+      "prompt": "Który polski trener znajduje się na tym portrecie?",
+      "answerParts": [
+        "Dariusz Wdowczyk"
+      ],
+      "subjects": [
+        "coach:dariusz-wdowczyk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Roger Gor — fotografia Dariusza Wdowczyka",
+          "url": "https://commons.wikimedia.org/wiki/File:Dariusz_Wdowczyk_2013.jpg",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d20-wdowczyk.jpg",
+        "width": 1600,
+        "height": 1067,
+        "crop": [
+          470,
+          30,
+          620,
+          730
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Dariusz_Wdowczyk_2013.jpg",
+        "credit": "Roger Gor",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Portret mężczyzny w cywilnej kurtce; bez herbu, sponsora i oznaczeń klubowych."
+      },
+      "id": "2026-10-20-01"
+    },
+    {
+      "factKey": "davide-nicola:2026-10-14:venezia-appointment",
+      "format": "coach",
+      "prompt": "Czyje zatrudnienie Venezia ogłosiła 14 października 2026, powierzając mu walkę o utrzymanie w Serie A?",
+      "answerParts": [
+        "Davide Nicola"
+      ],
+      "subjects": [
+        "coach:davide-nicola"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-14",
+      "sources": [
+        {
+          "title": "Venezia — oficjalne ogłoszenie zatrudnienia Davide Nicoli 14 października 2026",
+          "url": "https://en.veneziafc.it/news/davide-nicola-appointed-venezia-fc-first-team-head-coach",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        }
+      ],
+      "id": "2026-10-20-02"
+    },
+    {
+      "factKey": "emmanuel-eboue:transfer-2011-arsenal-galatasaray",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym transferze z sierpnia 2011?",
+      "answerParts": [
+        "Emmanuel Eboué"
+      ],
+      "subjects": [
+        "player:emmanuel-eboue"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "Galatasaray — oficjalny komunikat o transferze Eboué z Arsenalu, 16 sierpnia 2011",
+          "url": "https://www.galatasaray.org/haber/gs-sportif-a-s/emmanuel-eboue-galatasarayda/10562",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Arsenal",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Galatasaray",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-20-03"
+    },
+    {
+      "factKey": "henri-delaunay:euro-trophy-namesake",
+      "format": "fact",
+      "prompt": "Czyje imię i nazwisko nosi puchar za zwycięstwo w EURO?",
+      "answerParts": [
+        "Henri Delaunay"
+      ],
+      "subjects": [
+        "official:henri-delaunay"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "euro",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — trofeum EURO nazwano na cześć Henriego Delaunaya",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0258-0e51de1a172f-12472925ce41-1000/",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "id": "2026-10-20-04"
+    },
+    {
+      "factKey": "cfr-cluj:crest-locomotive-fragment",
+      "format": "crest",
+      "prompt": "Który klub rozpoznajesz po tej części herbu z lokomotywą?",
+      "answerParts": [
+        "CFR Cluj"
+      ],
+      "subjects": [
+        "club:cfr-cluj"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "rumunia"
+      ],
+      "sources": [
+        {
+          "title": "CFR Cluj — oficjalna strona klubu z herbem",
+          "url": "https://cfr1907.ro/",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        },
+        {
+          "title": "Herb CFR Cluj — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:CFR_Cluj_badge.svg",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d20-cfr-cluj.png",
+        "width": 1920,
+        "height": 2457,
+        "crop": [
+          360,
+          1430,
+          1200,
+          860
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:CFR_Cluj_badge.svg",
+        "credit": "CFR 1907 Cluj",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:CFR_Cluj_badge.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Bordowo-biały fragment herbu z przodem lokomotywy; bez liter, nazwy i daty."
+      },
+      "id": "2026-10-20-05"
+    },
+    {
+      "factKey": "gornik-zabrze:2026-10-19:ekstraklasa-leader-26-points",
+      "format": "fact",
+      "prompt": "Stan na 19 października 2026: który klub prowadził w Ekstraklasie z 26 punktami po 11 meczach?",
+      "answerParts": [
+        "Górnik Zabrze"
+      ],
+      "subjects": [
+        "club:gornik-zabrze"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-19",
+      "sources": [
+        {
+          "title": "Ekstraklasa — tabela po 11. kolejce: Górnik liderem z 26 punktami",
+          "url": "https://ekstraklasa.org/",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        }
+      ],
+      "id": "2026-10-20-06"
+    },
+    {
+      "factKey": "daisuke-matsui:career-riddle-lechia-jubilo-odra",
+      "format": "career-riddle",
+      "prompt": "Po Lechii Gdańsk trafił do Júbilo Iwata. W 2017 wrócił do Polski, tym razem do Odry Opole. Kto to?",
+      "answerParts": [
+        "Daisuke Matsui"
+      ],
+      "subjects": [
+        "player:daisuke-matsui"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "japonia"
+      ],
+      "sources": [
+        {
+          "title": "Júbilo — Matsui w latach 2014–2017, poprzedni klub Lechia Gdańsk",
+          "url": "https://jubilo-iwata.co.jp/files/staff/20251107.pdf",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "J.League — transfer Matsuiego z Júbilo do Odry Opole w 2017",
+          "url": "https://www.jleague.jp/news/article/9847/",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "id": "2026-10-20-07"
+    },
+    {
+      "factKey": "mahamadou-diarra:career-vitesse-lyon-real-1999-2011",
+      "format": "career",
+      "prompt": "Kto przeszedł te kolejne etapy kariery w latach 1999–2011?",
+      "answerParts": [
+        "Mahamadou Diarra"
+      ],
+      "subjects": [
+        "player:mahamadou-diarra"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "holandia",
+        "francja",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — kariera Diarry: Vitesse od 1999, Lyon od 2002, Real od 2006",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/ITT/uefaorg/General/01/53/55/89/1535589_DOWNLOAD.pdf",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "Real Madryt — Mahamadou Diarra w klubie w latach 2006–2011",
+          "url": "https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/mahamadou-diarra",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Vitesse",
+          "years": "1999–2002",
+          "media": {
+            "width": 960,
+            "height": 1645,
+            "path": "assets/d16-vitesse.png",
+            "source": "https://en.wikipedia.org/wiki/File:SBV_Vitesse_logo.svg",
+            "credit": "SBV Vitesse",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:SBV_Vitesse_logo.svg",
+            "changes": "Wersja PNG herbu z pliku SVG; bez retuszu.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Olympique Lyon",
+          "years": "2002–2006",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Real Madryt",
+          "years": "2006–2011",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy w pierwszych drużynach, 1999–2011. Pominięto wcześniejsze i późniejsze kluby.",
+      "id": "2026-10-20-08"
+    },
+    {
+      "factKey": "senegal:2018-world-cup-fair-play-elimination",
+      "format": "fact",
+      "prompt": "Która reprezentacja odpadła z mundialu 2018 przez gorszy bilans fair play, ustępując Japonii?",
+      "answerParts": [
+        "Senegal"
+      ],
+      "subjects": [
+        "national-team:senegal"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "afryka"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Japonia wyprzedza Senegal dzięki klasyfikacji fair play, 28 czerwca 2018",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/jun-28-round-up-2973227",
+          "checkedAt": "2026-10-19T21:12:05.537Z"
+        }
+      ],
+      "id": "2026-10-20-09"
+    },
+    {
+      "factKey": "niclas-fullkrug:2026-08-18:third-werder-spell-west-ham-loan",
+      "format": "fact",
+      "prompt": "Który napastnik latem 2026 rozpoczął trzeci pobyt w Werderze, tym razem na wypożyczeniu z West Hamu?",
+      "answerParts": [
+        "Niclas Füllkrug"
+      ],
+      "subjects": [
+        "player:niclas-fullkrug"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "bundesliga",
+        "powroty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-18",
+      "sources": [
+        {
+          "title": "Bundesliga — Füllkrug po raz trzeci w Werderze, na rocznym wypożyczeniu z West Hamu",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-strengthen-attack-west-ham-niclas-fullkrug-38653",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        }
+      ],
+      "id": "2026-10-20-10"
+    },
+    {
+      "factKey": "tomasz-hajto:career-gap-nurnberg-2004-2005",
+      "format": "career-gap",
+      "prompt": "Tomasz Hajto: jaki klub kryje się między tymi dwoma etapami?",
+      "answerParts": [
+        "1. FC Nürnberg"
+      ],
+      "subjects": [
+        "club:nurnberg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "niemcy",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Hajto odchodzi latem 2004 z Schalke do Nürnbergu",
+          "url": "https://www.uefa.com/news-media/news/019d-0f8456e2da0f-bb53d453d687-1000--hajto-swaps-schalke-for-nurnberg/",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "Nürnberg — Hajto odchodzi do Southampton, 28 lipca 2005",
+          "url": "https://www.fcn.de/home/news-archiv/news-2005/072005/tomasz-hajto-wechselt-zum-fc-southampton/",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "DFB — daty gry Hajty w Schalke, 2000–2004",
+          "url": "https://datencenter.dfb.de/en/data-center/people/tomasz-hajto/player",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Schalke 04",
+          "years": "2000–2004",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "1. FC Nürnberg",
+          "years": "2004–2005",
+          "media": {
+            "path": "assets/d20-badge-nurnberg.png",
+            "source": "https://commons.wikimedia.org/wiki/File:1._FC_N%C3%BCrnberg_logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FC_N%C3%BCrnberg_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Southampton",
+          "years": "2005",
+          "media": {
+            "path": "assets/d19-badge-southampton.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "credit": "Southampton",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 286,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery, 2000–2005. Ostatni klub pokazano w roku dołączenia.",
+      "id": "2026-10-20-11"
+    },
+    {
+      "factKey": "fulham:europa-league-final2010:xi-baird-etuhu",
+      "format": "lineup",
+      "prompt": "Fulham w finale Ligi Europy 2010: uzupełnij dwa nazwiska.",
+      "answerParts": [
+        "Chris Baird",
+        "Dickson Etuhu"
+      ],
+      "subjects": [
+        "player:chris-baird",
+        "player:dickson-etuhu"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "składy",
+        "liga-europy",
+        "historia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wyjściowe składy finału Atlético – Fulham, 12 maja 2010",
+          "url": "https://www.uefa.com/newsfiles/uefacup/2010/2000967_LU.pdf",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "lineup": {
+        "caption": "12 maja 2010 · Atlético – Fulham 2:1 po dogrywce · rozmieszczenie umowne",
+        "rows": [
+          [
+            {
+              "name": "Mark Schwarzer"
+            }
+          ],
+          [
+            {
+              "name": "Chris Baird",
+              "slot": 0
+            },
+            {
+              "name": "Aaron Hughes"
+            },
+            {
+              "name": "Brede Hangeland"
+            },
+            {
+              "name": "Paul Konchesky"
+            }
+          ],
+          [
+            {
+              "name": "Damien Duff"
+            },
+            {
+              "name": "Dickson Etuhu",
+              "slot": 1
+            },
+            {
+              "name": "Danny Murphy"
+            },
+            {
+              "name": "Simon Davies"
+            }
+          ],
+          [
+            {
+              "name": "Zoltán Gera"
+            }
+          ],
+          [
+            {
+              "name": "Bobby Zamora"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-20-12"
+    },
+    {
+      "factKey": "letzigrund:empty-interior-floating-roof-2009",
+      "format": "stadium",
+      "prompt": "Co to za stadion z niskimi trybunami i charakterystycznym dachem? Podaj nazwę i miasto.",
+      "answerParts": [
+        "Letzigrund, Zurych"
+      ],
+      "subjects": [
+        "stadium:letzigrund"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szwajcaria",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Raymondlafourchette — panorama wnętrza stadionu Letzigrund",
+          "url": "https://commons.wikimedia.org/wiki/File:Zurich_Letzigrund_by_Raymond_Lafourchette.jpg",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        },
+        {
+          "title": "Stadion Letzigrund — oficjalna historia obiektu w Zurychu",
+          "url": "https://stadionletzigrund.com/stadion-letzigrund/geschichte/",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d20-letzigrund.jpg",
+        "width": 1280,
+        "height": 418,
+        "crop": [
+          170,
+          35,
+          1110,
+          383
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Zurich_Letzigrund_by_Raymond_Lafourchette.jpg",
+        "credit": "Raymondlafourchette",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Pusty stadion z bieżnią, czerwonymi trybunami i niskim owalnym dachem; bez nazw klubów i herbów."
+      },
+      "id": "2026-10-20-13"
+    },
+    {
+      "factKey": "bruno-genesio:2026-10-18:marseille-coach-angers-five-two",
+      "format": "coach",
+      "prompt": "Angers – Marsylia 2:5, 18 października 2026: który trener prowadził zwycięski zespół?",
+      "answerParts": [
+        "Bruno Genesio"
+      ],
+      "subjects": [
+        "coach:bruno-genesio"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "ligue-1",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Olympique Marsylia — pomeczowa wypowiedź trenera Bruno Genesio po zwycięstwie 5:2 w Angers",
+          "url": "https://www.om.fr/fr/actualites/angers-sco-2-5-om-la-reaction-de-bruno-genesio",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        },
+        {
+          "title": "Olympique Marsylia — oficjalne zatrudnienie Bruno Genesio przed sezonem 2026/27",
+          "url": "https://www.om.fr/fr/actualites/communique-officiel-260701",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        }
+      ],
+      "id": "2026-10-20-14"
+    },
+    {
+      "factKey": "bafetimbi-gomis:transfer-2014-lyon-swansea",
+      "format": "transfer",
+      "prompt": "Czyj wolny transfer ogłoszono w czerwcu 2014?",
+      "answerParts": [
+        "Bafétimbi Gomis"
+      ],
+      "subjects": [
+        "player:bafetimbi-gomis"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Swansea — Gomis podpisuje czteroletni kontrakt po odejściu z Lyonu, 27 czerwca 2014",
+          "url": "https://www.swanseacity.com/news/its-go-go-go-gomis",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Czerwiec · bez odstępnego",
+        "from": {
+          "club": "Olympique Lyon",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Swansea City",
+          "media": {
+            "path": "assets/d10-badge-swansea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+            "credit": "Swansea City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 229,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-20-15"
+    },
+    {
+      "factKey": "everton:anfield-before-liverpool-1892",
+      "format": "fact",
+      "prompt": "Który klub grał na Anfield, zanim w 1892 roku powstał Liverpool?",
+      "answerParts": [
+        "Everton FC"
+      ],
+      "subjects": [
+        "club:everton"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "anglia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool FC — Everton na Anfield przed powstaniem Liverpoolu w 1892 roku",
+          "url": "https://www.liverpoolfc.com/info/how-liverpool-fc-was-founded-1892?hl=en-GB",
+          "checkedAt": "2026-10-19T21:12:05.537Z"
+        }
+      ],
+      "id": "2026-10-20-16"
+    },
+    {
+      "factKey": "vikash-dhorasoo:portrait-civilian-2020",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego piłkarza na tym cywilnym portrecie.",
+      "answerParts": [
+        "Vikash Dhorasoo"
+      ],
+      "subjects": [
+        "player:vikash-dhorasoo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Manuel Menal — portret Vikasha Dhorasoo",
+          "url": "https://commons.wikimedia.org/wiki/File:Vikash_Dhorasoo.jpg",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d20-dhorasoo.jpg",
+        "width": 1730,
+        "height": 2789,
+        "crop": [
+          470,
+          270,
+          1220,
+          1700
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Vikash_Dhorasoo.jpg",
+        "credit": "Manuel Menal",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Czytelna twarz mężczyzny w cywilnym stroju; bez koszulki piłkarskiej, herbu i sponsora."
+      },
+      "id": "2026-10-20-17"
+    },
+    {
+      "factKey": "carlo-ancelotti:coach-link-tomasson-pastore-james",
+      "format": "coach-link",
+      "prompt": "Kto prowadził tych piłkarzy w podanych klubach i sezonach?",
+      "answerParts": [
+        "Carlo Ancelotti"
+      ],
+      "subjects": [
+        "coach:carlo-ancelotti"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "historia",
+        "wlochy",
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Milan — Ancelotti wystawia Tomassona przeciwko Sampdorii, 26 października 2003",
+          "url": "https://www.acmilan.com/it/news/articoli/storia/2021-08-21/sampdoria-milan-il-precedente",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "UEFA — Pastore i trener Ancelotti w protokole meczu Barcelona – PSG, 10 kwietnia 2013",
+          "url": "https://www.uefa.com/newsfiles/UCL/2013/2009604_FR.pdf",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "Premier League — James Rodríguez ponownie u Ancelottiego w Evertonie, sezon 2020/21",
+          "url": "https://www.premierleague.com/en/news/1815040",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "clues": [
+        "Jon Dahl Tomasson — Milan, 2003/04",
+        "Javier Pastore — PSG, 2012/13",
+        "James Rodríguez — Everton, 2020/21"
+      ],
+      "id": "2026-10-20-18"
+    },
+    {
+      "factKey": "jurica-prsir:2026-10-19:maiden-wisla-goal-radomiak",
+      "format": "fact",
+      "prompt": "Wisła Płock – Radomiak 1:0, 19 października 2026: kto rozstrzygnął mecz swoim pierwszym golem dla Nafciarzy?",
+      "answerParts": [
+        "Jurica Pršir"
+      ],
+      "subjects": [
+        "player:jurica-prsir"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-19",
+      "sources": [
+        {
+          "title": "Wisła Płock — pierwszy gol Juricy Pršira dał zwycięstwo nad Radomiakiem",
+          "url": "https://wisla-plock.pl/aktualnosci/wisla-wygrywa-z-radomiakiem-debiutancki-gol-juricy-prsira/",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        }
+      ],
+      "id": "2026-10-20-19"
+    },
+    {
+      "factKey": "thomas-nkono:buffon-inspiration-italia1990",
+      "format": "fact",
+      "prompt": "Który kameruński bramkarz na mundialu 1990 zainspirował Gianluigiego Buffona do wyboru tej pozycji?",
+      "answerParts": [
+        "Thomas N’Kono"
+      ],
+      "subjects": [
+        "player:thomas-nkono"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "mundial",
+        "historia",
+        "bramkarze",
+        "kamerun"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — N’Kono inspirował Buffona podczas mundialu we Włoszech w 1990",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/1990italy/news/nkono-i-knew-which-way-lineker-would-shoot-2779768",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "id": "2026-10-20-20"
+    },
+    {
+      "factKey": "arkadiusz-glowacki:transfer-2010-wisla-trabzonspor",
+      "format": "transfer",
+      "prompt": "Kto przeniósł się między tymi klubami latem 2010?",
+      "answerParts": [
+        "Arkadiusz Głowacki"
+      ],
+      "subjects": [
+        "player:arkadiusz-glowacki"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "polska",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "TFF — kontrakt Głowackiego w Trabzonsporze rozpoczął się 15 czerwca 2010",
+          "url": "https://tff.org/Default.aspx?kisiId=1343672&pageId=526",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        },
+        {
+          "title": "UEFA — powrót Głowackiego do Wisły po odejściu do Trabzonsporu w 2010",
+          "url": "https://de.uefa.com/uefaeuro/history/news/0254-0d7e05741fe8-cf379bde80ee-1000--wisla-holt-polnischen-verteidiger-glowacki-zuruck/",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Lato",
+        "from": {
+          "club": "Wisła Kraków",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Trabzonspor",
+          "media": {
+            "path": "assets/d09-trabzon.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Trabzonspor_logosu.svg",
+            "credit": "Arda Tuğra SESLİ",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 433,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-20-21"
+    },
+    {
+      "factKey": "szombierki-bytom:polish-champions1980-hubert-kostka",
+      "format": "fact",
+      "prompt": "Który klub Hubert Kostka poprowadził do mistrzostwa Polski w 1980 roku?",
+      "answerParts": [
+        "Szombierki Bytom"
+      ],
+      "subjects": [
+        "club:szombierki-bytom"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Szombierki Bytom — oficjalna historia mistrzowskiej drużyny Huberta Kostki",
+          "url": "https://www.szombierkibytom.com/index.php?va=viewpage&vaid=30",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        },
+        {
+          "title": "Szombierki Bytom — zestawienie osiągnięć i fotografia mistrzów Polski 1980",
+          "url": "https://www.szombierkibytom.com/index.php?va=viewpage&vaid=59",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "id": "2026-10-20-22"
+    },
+    {
+      "factKey": "jocelyn-angloma:2007-guadeloupe-gold-cup",
+      "format": "country",
+      "prompt": "Po występach dla Francji Jocelyn Angloma zagrał w Złotym Pucharze 2007. W barwach której drużyny?",
+      "answerParts": [
+        "Gwadelupa"
+      ],
+      "subjects": [
+        "player:jocelyn-angloma"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "zloty-puchar",
+        "concacaf",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "CONCACAF — Angloma we Francji w latach 1990–1996 i Gwadelupie na Złotym Pucharze 2007",
+          "url": "https://www.concacaf.com/news/angloma-appointed-guadeloupe-head-coach",
+          "checkedAt": "2026-10-19T21:12:05.537Z"
+        }
+      ],
+      "id": "2026-10-20-23"
+    },
+    {
+      "factKey": "real-madrid:1968-69-opening-nine-wins:barcelona-equalled-2026-10-17",
+      "format": "fact",
+      "prompt": "Dziewięć zwycięstw na start LaLigi 2026/27: rekord którego klubu Barcelona wyrównała 17 października?",
+      "answerParts": [
+        "Real Madryt"
+      ],
+      "subjects": [
+        "club:real-madrid"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "laliga",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "FC Barcelona — wyrównanie rekordu Realu Madryt: dziewięć zwycięstw na początek ligi",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4593710/fc-barcelona-equal-record-for-best-league-start",
+          "checkedAt": "2026-10-19T21:11:40.704Z"
+        }
+      ],
+      "id": "2026-10-20-24"
+    },
+    {
+      "factKey": "unirea-urziceni:dan-petrescu-ibrox4-1-2009",
+      "format": "fact",
+      "prompt": "Który klub Dana Petrescu pokonał Rangers 4:1 na Ibrox w Lidze Mistrzów 2009/10?",
+      "answerParts": [
+        "Unirea Urziceni"
+      ],
+      "subjects": [
+        "club:unirea-urziceni"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "rumunia",
+        "liga-mistrzów",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Unirea Dana Petrescu wygrała 4:1 z Rangers na Ibrox, 20 października 2009",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01de-0e73155669ce-d1ca8ba2b568-1000--unirea-rejoice-in-ibrox-triumph/",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "id": "2026-10-20-25"
+    },
+    {
+      "factKey": "julio-baptista:loan-2006-real-arsenal",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono w tym ruchu latem 2006?",
+      "answerParts": [
+        "Júlio Baptista"
+      ],
+      "subjects": [
+        "player:julio-baptista"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "hiszpania",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Baptista trafił latem 2006 z Realu do Arsenalu na wypożyczenie",
+          "url": "https://www.uefa.com/news-media/news/01bd-0e6e1cacfdba-c4c23ace5a71-1000--liverpool-bow-to-the-beast/",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Lato · wypożyczenie",
+        "from": {
+          "club": "Real Madryt",
+          "media": {
+            "path": "assets/badge-real-madrid.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "credit": "Real Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Madrid_CF.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 337,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Arsenal",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-20-26"
+    },
+    {
+      "factKey": "stuttgart:shared-club-hleb-kuranyi-lahm2003-04",
+      "format": "shared-club",
+      "prompt": "Alaksandr Hleb, Kevin Kurányi i Philipp Lahm: w którym klubie grali razem w sezonie 2003/04?",
+      "answerParts": [
+        "VfB Stuttgart"
+      ],
+      "subjects": [
+        "club:stuttgart"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wspolny-klub",
+        "historia",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "DFB — kadra Stuttgartu w sezonie 2003/04: Lahm, Hleb i Kurányi",
+          "url": "https://datencenter.dfb.de/competitions/bundesliga/seasons/2003-2004/teams/vfb-stuttgart",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "id": "2026-10-20-27"
+    },
+    {
+      "factKey": "daniel-amokachi:first-champions-league-group-goal1992",
+      "format": "fact",
+      "prompt": "Kto zdobył pierwszego gola fazy grupowej Ligi Mistrzów, dla Club Brugge przeciwko CSKA w listopadzie 1992?",
+      "answerParts": [
+        "Daniel Amokachi"
+      ],
+      "subjects": [
+        "player:daniel-amokachi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-mistrzow",
+        "historia",
+        "belgia",
+        "rekordy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pierwsza bramka Ligi Mistrzów: Daniel Amokachi, 25 listopada 1992",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/Publications/01/53/55/84/1535584_DOWNLOAD.pdf",
+          "checkedAt": "2026-10-19T21:13:39.820Z"
+        }
+      ],
+      "id": "2026-10-20-28"
+    },
+    {
+      "factKey": "western-sydney-wanderers:2014-asian-champions-league-title",
+      "format": "fact",
+      "prompt": "Który australijski klub wygrał azjatycką Ligę Mistrzów w 2014 roku?",
+      "answerParts": [
+        "Western Sydney Wanderers"
+      ],
+      "subjects": [
+        "club:western-sydney-wanderers"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "australia",
+        "azja",
+        "azjatycka-liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "AFC — Western Sydney Wanderers, zwycięzcy azjatyckiej Ligi Mistrzów 2014",
+          "url": "https://www.the-afc.com/en/about_afc/afc_annual_awards/news/afc_club_of_the_year_western_sydney_wanderers.html",
+          "checkedAt": "2026-10-19T21:12:05.537Z"
+        }
+      ],
+      "id": "2026-10-20-29"
+    },
+    {
+      "factKey": "nk-osijek:crest-drava-bridge-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu należy ten fragment herbu z mostem i wieżą?",
+      "answerParts": [
+        "NK Osijek"
+      ],
+      "subjects": [
+        "club:nk-osijek"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "chorwacja"
+      ],
+      "sources": [
+        {
+          "title": "NK Osijek — oficjalny opis mostu na Drawie i wieży w herbie",
+          "url": "https://nk-osijek.hr/klub/identitet/grb/",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        },
+        {
+          "title": "LeoVinkovic — plik herbu NK Osijek z potwierdzeniem licencji",
+          "url": "https://commons.wikimedia.org/wiki/File:NK-Osijek_Logo.svg",
+          "checkedAt": "2026-10-19T21:13:53.838Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d20-osijek.png",
+        "width": 1920,
+        "height": 1920,
+        "crop": [
+          430,
+          640,
+          1060,
+          1090
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:NK-Osijek_Logo.svg",
+        "credit": "LeoVinkovic",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Biało-niebieski fragment tarczy z mostem, wieżą i rzeką; bez nazwy klubu i liter."
+      },
+      "id": "2026-10-20-30"
+    }
+  ]
+}
