@@ -1,0 +1,1242 @@
+{
+  "id": "2026-10-19",
+  "kind": "daily",
+  "title": "Trening głowy · 19 października 2026",
+  "date": "2026-10-19",
+  "publishAt": "2026-10-19T08:00:00+02:00",
+  "researchedAt": "2026-10-19T08:02:28.682Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-19"
+  },
+  "questions": [
+    {
+      "factKey": "patrik-schick:2026-10-18:first-leverkusen-opening-six-matchdays",
+      "format": "fact",
+      "prompt": "Stan na 18 października 2026: kto jako pierwszy piłkarz Bayeru strzelił w każdej z pierwszych sześciu kolejek Bundesligi?",
+      "answerParts": [
+        "Patrik Schick"
+      ],
+      "subjects": [
+        "player:patrik-schick"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Bundesliga — Schick z rekordem Bayeru: gol w każdej z pierwszych sześciu kolejek sezonu",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/patrik-schick-bayer-leverkusen-history-record-goal-six-matchdays-freiburg-maza-39633",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        }
+      ],
+      "id": "2026-10-19-01"
+    },
+    {
+      "factKey": "marcin-kus:portrait-istanbul-2011",
+      "format": "photo",
+      "prompt": "Którego byłego reprezentanta Polski widzisz w tym kadrze?",
+      "answerParts": [
+        "Marcin Kuś"
+      ],
+      "subjects": [
+        "player:marcin-kus"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "AntalyasporFC — fotografia Marcina Kusia",
+          "url": "https://commons.wikimedia.org/wiki/File:Marcin_Ku%C5%9B.jpg",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d19-kus.jpg",
+        "width": 1335,
+        "height": 2046,
+        "crop": [
+          560,
+          220,
+          225,
+          310
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Marcin_Ku%C5%9B.jpg",
+        "credit": "AntalyasporFC",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Twarz byłego piłkarza z profilu; bez herbu, sponsora i innych oznaczeń klubowych."
+      },
+      "id": "2026-10-19-02"
+    },
+    {
+      "factKey": "helder-postiga:loan-jan2006:porto-saint-etienne",
+      "format": "transfer",
+      "prompt": "Czyje wypożyczenie ze stycznia 2006 pokazują te herby?",
+      "answerParts": [
+        "Hélder Postiga (Helder Postiga)"
+      ],
+      "subjects": [
+        "player:helder-postiga"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "portugalia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Postiga z Porto do Saint-Étienne na wypożyczenie od stycznia 2006",
+          "url": "https://fr.uefa.com/news-media/news/01b0-0f902bcddd07-8d6ff193e390-1000--helder-postiga-prete-a-l-asse/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "UEFA — potwierdzenie sezonu wypożyczenia Postigi do Saint-Étienne: 2005/06",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01c9-0ea94dcbd9aa-11dd1cb17239-1000--panathinaikos-take-on-porto-s-postiga/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "FC Porto",
+          "media": {
+            "path": "assets/d19-badge-porto.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "credit": "FC Porto",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Saint-Étienne",
+          "media": {
+            "path": "assets/d15-badge-saint-etienne.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Saint-%C3%89tienne_logo.svg",
+            "credit": "Saint-Étienne",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Saint-%C3%89tienne_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-19-03"
+    },
+    {
+      "factKey": "ken-aston:traffic-light-inspiration-yellow-red-cards",
+      "format": "fact",
+      "prompt": "Co zainspirowało Kena Astona do używania żółtych i czerwonych kartek?",
+      "answerParts": [
+        "Sygnalizacja świetlna na skrzyżowaniu"
+      ],
+      "subjects": [
+        "referee:ken-aston"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "przepisy",
+        "kultura",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "EFL — Ken Aston zaczerpnął pomysł kolorowych kartek z sygnalizacji świetlnej",
+          "url": "https://www.efl.com/news/2026/october/05/red-and-yellow-cards--50-years-of-english-football-s-most-famous-colours/",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "id": "2026-10-19-04"
+    },
+    {
+      "factKey": "brondby-if:crest-well-fragment",
+      "format": "crest",
+      "prompt": "Do jakiego klubu należy ten herb ze studnią?",
+      "answerParts": [
+        "Brøndby IF"
+      ],
+      "subjects": [
+        "club:brondby-if"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania"
+      ],
+      "sources": [
+        {
+          "title": "Brøndby IF — oficjalny opis historii klubowego znaku ze studnią",
+          "url": "https://brondby.com/nyheder/herrer/2013/december/50-ar-jubilaeumslogo-har-set-dagens-lys",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        },
+        {
+          "title": "Brøndby IF — powrót do historycznego logo w 2026 roku",
+          "url": "https://brondby.com/nyheder/herrer/2026/juni/brondby-if-vender-tilbage-til-originalt-b-i-f-logo",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        },
+        {
+          "title": "Herb Brøndby IF — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d19-brondby.png",
+        "width": 1920,
+        "height": 2329,
+        "crop": [
+          400,
+          400,
+          1100,
+          1320
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+        "credit": "Brøndby IF",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Brondby_IF_logo.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Fragment niebiesko-żółtego herbu ze studnią; bez liter, nazwy i daty."
+      },
+      "id": "2026-10-19-05"
+    },
+    {
+      "factKey": "jerzy-engel:coach-link-dziekanowski-frankowski-olisadebe",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził tych trzech piłkarzy we wskazanych zespołach?",
+      "answerParts": [
+        "Jerzy Engel"
+      ],
+      "subjects": [
+        "coach:jerzy-engel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Legia — Engel od lipca 1985, Dziekanowski od sierpnia 1985 w jego drużynie",
+          "url": "https://legia.com/historia-1981-1990",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "UEFA — Frankowski w Wiśle prowadzonej przez Engela, 9 sierpnia 2005",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0ea9f9392c49-440153dfc23f-1000--wisla-seal-classy-comeback-win/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "UEFA — Olisadebe w reprezentacji Engela podczas eliminacji mundialu 2002",
+          "url": "https://www.uefa.com/news/0205-0e82d584182c-678de83fd7f1-1000--olisadebe-proud-to-reflect-on-poland-success/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "clues": [
+        "Dariusz Dziekanowski — Legia Warszawa, 1985/86",
+        "Tomasz Frankowski — Wisła Kraków, sierpień 2005",
+        "Emmanuel Olisadebe — Polska, eliminacje mundialu 2002"
+      ],
+      "id": "2026-10-19-06"
+    },
+    {
+      "factKey": "eder-militao:2026-10-18:injury-return-sevilla",
+      "format": "fact",
+      "prompt": "Real – Sevilla 4:1, 18 października 2026: który obrońca wrócił na boisko po niemal sześciu miesiącach przerwy?",
+      "answerParts": [
+        "Éder Militão"
+      ],
+      "subjects": [
+        "player:eder-militao"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "laliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Real Madryt — powrót Militão w 85. minucie meczu z Sevillą",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-real-madrid-sevilla-j9-liga-18-10-2026",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        },
+        {
+          "title": "Real Madryt — kontuzja Militão w spotkaniu z Alavés 21 kwietnia 2026",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/real-madrid-alaves-21-04-2026/",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        }
+      ],
+      "id": "2026-10-19-07"
+    },
+    {
+      "factKey": "edouard-cisse:career-westham-monaco-psg-besiktas-marseille-2002-11",
+      "format": "career",
+      "prompt": "Rozpoznaj pomocnika po kolejnych klubach z lat 2002–2011.",
+      "answerParts": [
+        "Édouard Cissé (Edouard Cisse)"
+      ],
+      "subjects": [
+        "player:edouard-cisse"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "francja",
+        "turcja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "FFF — dokładne daty etapów kariery Cisségo: West Ham, Monaco, PSG, Beşiktaş i Marsylia",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/9892-cisse-edouard/fiche.html",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "UEFA — Cissé na kolejnym wypożyczeniu z PSG, po West Hamie do Monaco w lipcu 2003",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0193-0e6a69e5968d-7fefe956558d-1000--monaco-move-for-cisse/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "West Ham United",
+          "media": {
+            "path": "assets/badge-west-ham.png",
+            "source": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+            "credit": "West Ham United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 280,
+            "alt": "Herb klubu"
+          },
+          "years": "2002/03 · wyp."
+        },
+        {
+          "club": "AS Monaco",
+          "media": {
+            "path": "assets/d19-badge-monaco.png",
+            "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "credit": "AS Monaco",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 434,
+            "alt": "Herb klubu"
+          },
+          "years": "2003/04 · wyp."
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          },
+          "years": "2004–2007"
+        },
+        {
+          "club": "Beşiktaş",
+          "media": {
+            "path": "assets/d11-badge-besiktas.png",
+            "source": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 415,
+            "alt": "Herb klubu"
+          },
+          "years": "2007–2009"
+        },
+        {
+          "club": "Olympique Marsylia",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2009–2011"
+        }
+      ],
+      "careerCaption": "Kolejne etapy gry w pierwszych drużynach, 2002–2011. Dwa pierwsze kluby: wypożyczenia z PSG. „Wyp.” oznacza wypożyczenie.",
+      "id": "2026-10-19-08"
+    },
+    {
+      "factKey": "neven-subotic:usa-under17-under20-representation",
+      "format": "country",
+      "prompt": "Neven Subotić: w reprezentacjach U-17 i U-20 którego kraju występował?",
+      "answerParts": [
+        "Stany Zjednoczone (USA)"
+      ],
+      "subjects": [
+        "player:neven-subotic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "reprezentacje",
+        "usa",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "MLS — były trener Suboticia o jego dziesięciu występach w USA U-17 i dwóch w U-20",
+          "url": "https://www.mlssoccer.com/news/toronto-fcs-thomas-rongen-reflects-rise-borussia-dortmunds-neven-subotic-and-us-",
+          "checkedAt": "2026-10-19T08:00:11.792Z"
+        }
+      ],
+      "id": "2026-10-19-09"
+    },
+    {
+      "factKey": "paulo-bernardo:celtic-gornik:2026-loan",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono w tym ruchu latem 2026?",
+      "answerParts": [
+        "Paulo Bernardo"
+      ],
+      "subjects": [
+        "player:paulo-bernardo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "polish",
+        "ekstraklasa",
+        "scottish-premiership"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-04",
+      "transfer": {
+        "year": 2026,
+        "detail": "Sierpień · wypożyczenie z opcją wykupu",
+        "from": {
+          "club": "Celtic",
+          "media": {
+            "path": "assets/d19-badge-celtic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "credit": "Celtic",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Górnik Zabrze",
+          "media": {
+            "path": "assets/d19-badge-gornik-zabrze.png",
+            "source": "https://en.wikipedia.org/wiki/File:G%C3%B3rnik_Zabrze_crest.svg",
+            "credit": "Górnik Zabrze",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:G%C3%B3rnik_Zabrze_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 346,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "Górnik Zabrze — wypożyczenie Paulo Bernardo po grze w Celticu, z opcją wykupu",
+          "url": "https://www.gornikzabrze.pl/aktualnosci/wzmacniamy-srodek-pola-paulo-bernardo-dolacza-do-gornika-zabrze",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        }
+      ],
+      "id": "2026-10-19-10"
+    },
+    {
+      "factKey": "fc-twente:mcclaren-2009-10-eredivisie-title",
+      "format": "fact",
+      "prompt": "Z którym klubem Steve McClaren zdobył mistrzostwo Holandii w sezonie 2009/10?",
+      "answerParts": [
+        "FC Twente"
+      ],
+      "subjects": [
+        "club:fc-twente"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "holandia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pierwsze mistrzostwo Twente pod wodzą McClarena, 2 maja 2010",
+          "url": "https://www.uefa.com/news/01e5-0e7473bf0895-9c57b41b00f4-1000--twente-claim-maiden-eredivisie-title/",
+          "checkedAt": "2026-10-19T08:00:11.792Z"
+        }
+      ],
+      "id": "2026-10-19-11"
+    },
+    {
+      "factKey": "poland-usa:worldcup2002:xi-zielinski-murawski",
+      "format": "lineup",
+      "prompt": "Polska – USA na mundialu 2002: uzupełnij dwa nazwiska w wyjściowym składzie.",
+      "answerParts": [
+        "Jacek Zieliński",
+        "Maciej Murawski"
+      ],
+      "subjects": [
+        "player:jacek-zielinski",
+        "player:maciej-murawski"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "polish",
+        "składy",
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polska – USA 3:1, 14 czerwca 2002, wyjściowy skład i fotografia jedenastki",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-usa-31-14062002",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "lineup": {
+        "caption": "14 czerwca 2002 · Polska – USA 3:1 · rozmieszczenie umowne",
+        "rows": [
+          [
+            {
+              "name": "Radosław Majdan"
+            }
+          ],
+          [
+            {
+              "name": "Tomasz Kłos"
+            },
+            {
+              "name": "Arkadiusz Głowacki"
+            },
+            {
+              "name": "Jacek Zieliński",
+              "slot": 0
+            },
+            {
+              "name": "Marek Koźmiński"
+            }
+          ],
+          [
+            {
+              "name": "Cezary Kucharski"
+            },
+            {
+              "name": "Maciej Murawski",
+              "slot": 1
+            },
+            {
+              "name": "Jacek Krzynówek"
+            }
+          ],
+          [
+            {
+              "name": "Maciej Żurawski"
+            },
+            {
+              "name": "Paweł Kryszałowicz"
+            },
+            {
+              "name": "Emmanuel Olisadebe"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-19-12"
+    },
+    {
+      "factKey": "parken:external-architecture-southwest-2005",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion po jego zewnętrznej konstrukcji. Podaj nazwę i miasto.",
+      "answerParts": [
+        "Parken, Kopenhaga"
+      ],
+      "subjects": [
+        "stadium:parken"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania"
+      ],
+      "sources": [
+        {
+          "title": "Thue — Parken, duński stadion narodowy, widok od południowego zachodu",
+          "url": "https://commons.wikimedia.org/wiki/File:Parken_1.jpg",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d19-parken.jpg",
+        "width": 1811,
+        "height": 1207,
+        "crop": [
+          100,
+          330,
+          1650,
+          600
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Parken_1.jpg",
+        "credit": "Thue",
+        "license": "Domena publiczna",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Parken_1.jpg",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Zewnętrzna konstrukcja stadionu widziana od strony parku; bez nazw klubu i obiektu."
+      },
+      "id": "2026-10-19-13"
+    },
+    {
+      "factKey": "brighton:2026-10-18:palace-five-nil-derby",
+      "format": "fact",
+      "prompt": "Który klub 18 października 2026 rozbił Crystal Palace 5:0, odnosząc najwyższe zwycięstwo nad tym rywalem od 70 lat?",
+      "answerParts": [
+        "Brighton & Hove Albion"
+      ],
+      "subjects": [
+        "club:brighton"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Premier League — Brighton pokonał Crystal Palace 5:0, najwyżej od 70 lat",
+          "url": "https://www.premierleague.com/en/news/4737530/what-weve-learned-from-sundays-matches",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        },
+        {
+          "title": "Brighton — oficjalny wynik i data zakończonego meczu z Crystal Palace",
+          "url": "https://www.brightonandhovealbion.com/match-centre-stats?gameId=2645257",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        }
+      ],
+      "id": "2026-10-19-14"
+    },
+    {
+      "factKey": "marek-saganowski:career-gap:troyes-2006-07",
+      "format": "career-gap",
+      "prompt": "Marek Saganowski: który klub jest ukryty między tymi dwoma etapami?",
+      "answerParts": [
+        "Troyes"
+      ],
+      "subjects": [
+        "club:troyes"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "francja",
+        "portugalia"
+      ],
+      "sources": [
+        {
+          "title": "Legia — Saganowski z Vítorii trafił do Troyes, a w styczniu 2007 na wypożyczenie do Southampton",
+          "url": "https://legia.com/en/articles/historia-kalendarium-legii-31-pazdziernika-sagan-waleczne-serce-z-lazienkowskiej",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "UEFA — Saganowski zawodnikiem Troyes już w sierpniu 2006",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7b9a22475e-d1f372584755-1000--bilic-and-beenhakker-all-set/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Vitória Guimarães",
+          "media": {
+            "path": "assets/d19-badge-vitoria-guimaraes.png",
+            "source": "https://en.wikipedia.org/wiki/File:Vit%C3%B3ria_Guimar%C3%A3es.svg",
+            "credit": "Vitória Guimarães",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Vit%C3%B3ria_Guimar%C3%A3es.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 338,
+            "alt": "Herb klubu"
+          },
+          "years": "2005/06"
+        },
+        {
+          "club": "Troyes",
+          "media": {
+            "path": "assets/d19-badge-troyes.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ESTAC_Troyes_Logo.svg",
+            "credit": "Espérance Sportive Troyes Aube Champagne",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ESTAC_Troyes_Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 306,
+            "alt": "Herb klubu"
+          },
+          "years": "2006/07",
+          "missing": 0
+        },
+        {
+          "club": "Southampton",
+          "media": {
+            "path": "assets/d19-badge-southampton.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "credit": "Southampton",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 286,
+            "alt": "Herb klubu"
+          },
+          "years": "2007 · wyp."
+        }
+      ],
+      "careerCaption": "Kolejne etapy gry za granicą, 2005–2007. Do ostatniego klubu trafił w styczniu 2007 na wypożyczenie. „Wyp.” oznacza wypożyczenie.",
+      "id": "2026-10-19-15"
+    },
+    {
+      "factKey": "hugo-almeida:transfer-announced-dec2010:werder-besiktas",
+      "format": "transfer",
+      "prompt": "Kogo dotyczyła umowa ogłoszona w grudniu 2010?",
+      "answerParts": [
+        "Hugo Almeida"
+      ],
+      "subjects": [
+        "player:hugo-almeida"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "niemcy",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — podpisanie przez Hugo Almeidę kontraktu z Beşiktaşem w grudniu 2010",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01ec-0e76bdfc6edc-9fb246519fcf-1000--besiktas-bolster-further-with-hugo-almeida/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "Werder — potwierdzenie odejścia Almeidy, 26 grudnia 2010",
+          "url": "https://www.werder.de/news/maenner/2010-2011/almeida-wechsel",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Grudzień · ogłoszenie",
+        "from": {
+          "club": "Werder Bremen",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Beşiktaş",
+          "media": {
+            "path": "assets/d11-badge-besiktas.png",
+            "source": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 415,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-19-16"
+    },
+    {
+      "factKey": "standard-liege:shared-club-defour-witsel-fellaini-2007-08",
+      "format": "shared-club",
+      "prompt": "Steven Defour, Axel Witsel i Marouane Fellaini: w którym klubie grali razem w sezonie 2007/08?",
+      "answerParts": [
+        "Standard Liège"
+      ],
+      "subjects": [
+        "club:standard-liege"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "belgia",
+        "historia",
+        "wspólny-klub"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Defour, Witsel i Fellaini w mistrzowskim Standardzie 2007/08",
+          "url": "https://www.uefa.com/news-media/news/01cc-0f84d76d933c-75e805296590-1000--preud-homme-enjoys-standard-glory/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "id": "2026-10-19-17"
+    },
+    {
+      "factKey": "fabio-simplicio:portrait-civilian",
+      "format": "photo",
+      "prompt": "Rozpoznaj piłkarza na tym zbliżeniu twarzy.",
+      "answerParts": [
+        "Fábio Simplício (Fabio Simplicio)"
+      ],
+      "subjects": [
+        "player:fabio-simplicio"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "wlochy",
+        "brazylia"
+      ],
+      "sources": [
+        {
+          "title": "Salvo da Palermo — portret Fábia Simplícia",
+          "url": "https://commons.wikimedia.org/wiki/File:Fabio_Simplicio.jpg",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d19-simplicio.jpg",
+        "width": 813,
+        "height": 978,
+        "crop": [
+          275,
+          145,
+          380,
+          565
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Fabio_Simplicio.jpg",
+        "credit": "Salvo da Palermo",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Twarz mężczyzny w cywilnym stroju; bez logo, sponsora i herbu."
+      },
+      "id": "2026-10-19-18"
+    },
+    {
+      "factKey": "ararat-armenia:2026-10-15:jagiellonia-first-league-phase-win",
+      "format": "fact",
+      "prompt": "Z kim Jagiellonia wygrała 3:1, odnosząc 15 października 2026 pierwsze zwycięstwo w fazie ligowej Ligi Europy?",
+      "answerParts": [
+        "Ararat-Armenia Erywań"
+      ],
+      "subjects": [
+        "club:ararat-armenia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "europa-league",
+        "armenia"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Jagiellonia — historyczne zwycięstwo w fazie ligowej Ligi Europy nad Araratem-Armenia",
+          "url": "https://jagiellonia.pl/aktualnosci/pierwsza-wygrana-w-lidze-europy-jagiellonia-araratarmenia-31-1792105202295/",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        }
+      ],
+      "id": "2026-10-19-19"
+    },
+    {
+      "factKey": "american-samoa:australia31-0-worldcupqualifier2001",
+      "format": "fact",
+      "prompt": "Która reprezentacja przegrała z Australią 0:31 w eliminacjach mundialu w 2001 roku?",
+      "answerParts": [
+        "Samoa Amerykańskie"
+      ],
+      "subjects": [
+        "national-team:american-samoa"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "oceania",
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Australia – Samoa Amerykańskie 31:0, 11 kwietnia 2001",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/2002korea-japan/news/the-story-behind-an-unlikely-world-record",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "id": "2026-10-19-20"
+    },
+    {
+      "factKey": "ewerthon:career-riddle-dortmund-title-zaragoza-loans",
+      "format": "career-riddle",
+      "prompt": "Z Borussią Dortmund zdobył mistrzostwo Niemiec w 2002. Z Saragossy wypożyczano go do Stuttgartu i Espanyolu. Kto to?",
+      "answerParts": [
+        "Ewerthon"
+      ],
+      "subjects": [
+        "player:ewerthon"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "niemcy",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "Borussia Dortmund — Ewerthon mistrzem Niemiec w 2002",
+          "url": "https://www.bvb.de/de/en/borussia-dortmund/history/decades/1999.html",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        },
+        {
+          "title": "UEFA — Ewerthon z Saragossy na wypożyczenia do Stuttgartu i Espanyolu",
+          "url": "https://www.uefa.com/news-media/news/01c9-0f84cbdeb4f0-ebac5ee20a6b-1000--ewerthon-back-in-spain-with-espanyol/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "id": "2026-10-19-21"
+    },
+    {
+      "factKey": "cska-moscow:uefacup-final2005-sporting-own-stadium",
+      "format": "fact",
+      "prompt": "Który klub w finale Pucharu UEFA 2005 pokonał Sporting 3:1 na jego własnym stadionie?",
+      "answerParts": [
+        "CSKA Moskwa"
+      ],
+      "subjects": [
+        "club:cska-moscow"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "puchar-uefa",
+        "historia",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — CSKA pokonało Sporting 3:1 w finale Pucharu UEFA na stadionie José Alvalade w maju 2005",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0250-0c50f27eee6f-f4e1d5595be3-1000--resilient-cska-sink-sporting/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "id": "2026-10-19-22"
+    },
+    {
+      "factKey": "jakub-wawrzyniak:loan-jan2009:legia-panathinaikos",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono w tym ruchu ze stycznia 2009 roku?",
+      "answerParts": [
+        "Jakub Wawrzyniak"
+      ],
+      "subjects": [
+        "player:jakub-wawrzyniak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Legia — porozumienie z Panathinaikosem o półrocznym wypożyczeniu Wawrzyniaka w styczniu 2009",
+          "url": "https://legia.com/articles/historia-kalendarium-legii-2-lutego-jakub-wawrzyniak-legionista-i-obiezyswiat-oraz-sylwetka-wieslawa-gilera",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Legia Warszawa",
+          "media": {
+            "path": "assets/d19-badge-legia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "credit": "Legia Warsaw",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Panathinaikos",
+          "media": {
+            "path": "assets/d10-badge-panathinaikos.png",
+            "source": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "credit": "Panathinaikos",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-19-23"
+    },
+    {
+      "factKey": "marco-rose:2026-10-18:first-premier-league-win",
+      "format": "coach",
+      "prompt": "Bournemouth – Sunderland 2:0, 18 października 2026: który trener odniósł swoje pierwsze zwycięstwo w Premier League?",
+      "answerParts": [
+        "Marco Rose"
+      ],
+      "subjects": [
+        "coach:marco-rose"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Premier League — pierwsze zwycięstwo Marco Rosego w lidze angielskiej",
+          "url": "https://www.premierleague.com/en/news/4737530/what-weve-learned-from-sundays-matches",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        },
+        {
+          "title": "Premier League — wynik i data meczu Bournemouth – Sunderland",
+          "url": "https://www.premierleague.com/es/news/4737981/matchweek-7-var-decisions-explained",
+          "checkedAt": "2026-10-19T07:59:41.024Z"
+        }
+      ],
+      "id": "2026-10-19-24"
+    },
+    {
+      "factKey": "boavista:portuguese-champions2000-01",
+      "format": "fact",
+      "prompt": "Który klub zdobył mistrzostwo Portugalii w sezonie 2000/01?",
+      "answerParts": [
+        "Boavista FC"
+      ],
+      "subjects": [
+        "club:boavista"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "portugalia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Boavista — oficjalna historia mistrzostwa Portugalii 2000/01",
+          "url": "https://boavistafc.pt/historia/",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "id": "2026-10-19-25"
+    },
+    {
+      "factKey": "pavel-nedved:last-cup-winners-cup-goal-1999",
+      "format": "fact",
+      "prompt": "Kto strzelił ostatniego gola w historii Pucharu Zdobywców Pucharów, rozstrzygając finał Lazio – Mallorca w 1999?",
+      "answerParts": [
+        "Pavel Nedvěd"
+      ],
+      "subjects": [
+        "player:pavel-nedved"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "puchar-zdobywcow-pucharow",
+        "wlochy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Nedvěd strzelcem zwycięskiego i ostatniego gola tych rozgrywek w finale 1999",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0191-0e6a60448e80-a87834522439-1000--juventus-fc-key-player/",
+          "checkedAt": "2026-10-19T08:00:11.792Z"
+        }
+      ],
+      "id": "2026-10-19-26"
+    },
+    {
+      "factKey": "jerzy-jastrzebowski:lechia-third-tier-polish-cup1983",
+      "format": "coach",
+      "prompt": "Kto poprowadził trzecioligową Lechię do triumfu w Pucharze Polski 1983?",
+      "answerParts": [
+        "Jerzy Jastrzębowski"
+      ],
+      "subjects": [
+        "coach:jerzy-jastrzebowski"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "polish",
+        "puchar-polski",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Lechia — trzecioligowy sezon 1982/83, Puchar Polski i trener Jerzy Jastrzębowski",
+          "url": "https://lechia.pl/40-lat-minelo-jak-jeden-dzien-i-40-rocznica-zdobycia-pucharu-polski-w-1983-roku/",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "id": "2026-10-19-27"
+    },
+    {
+      "factKey": "jens-lehmann:riquelme-penalty-save-ucl-semifinal2006",
+      "format": "fact",
+      "prompt": "Który bramkarz obronił karnego Riquelmego w rewanżowym półfinale Ligi Mistrzów 2006?",
+      "answerParts": [
+        "Jens Lehmann"
+      ],
+      "subjects": [
+        "player:jens-lehmann"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "liga-mistrzów",
+        "historia",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Lehmann obronił karnego Riquelmego w rewanżu z Villarrealem, kwiecień 2006",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01b4-0e6d82692bb3-36da0a39f06c-1000--lehmann-saves-arsenal-s-day/",
+          "checkedAt": "2026-10-19T07:58:11.000Z"
+        }
+      ],
+      "id": "2026-10-19-28"
+    },
+    {
+      "factKey": "new-zealand:2010-world-cup-three-draws-unbeaten",
+      "format": "fact",
+      "prompt": "Która reprezentacja zakończyła mundial 2010 bez porażki, mimo odpadnięcia po trzech remisach w grupie?",
+      "answerParts": [
+        "Nowa Zelandia"
+      ],
+      "subjects": [
+        "national-team:new-zealand"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "oceania"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Nowa Zelandia nie przegrała na mundialu 2010, remisując wszystkie trzy mecze",
+          "url": "https://www.fifa.com/en/articles/the-ten-nations-seeking-a-first-finals-win",
+          "checkedAt": "2026-10-19T08:00:11.792Z"
+        },
+        {
+          "title": "Nowozelandzka federacja — niepokonana drużyna z mundialu 2010 i trzy remisy",
+          "url": "https://www.nzfootball.co.nz/newsarticle/166039?newsfeedId=569425",
+          "checkedAt": "2026-10-19T08:00:11.792Z"
+        }
+      ],
+      "id": "2026-10-19-29"
+    },
+    {
+      "factKey": "hibernian:crest-harp-ship-castle-fragment",
+      "format": "crest",
+      "prompt": "Wskaż klub po harfie, statku i zamku w tym fragmencie herbu.",
+      "answerParts": [
+        "Hibernian FC"
+      ],
+      "subjects": [
+        "club:hibernian"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szkocja"
+      ],
+      "sources": [
+        {
+          "title": "Hibernian — oficjalny folder klubu z herbem zawierającym harfę, statek i zamek",
+          "url": "https://images.gc.hibsfcservices.co.uk/b06986e0-39ac-11f1-9251-fd75ef7ebfb1.pdf",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        },
+        {
+          "title": "Herb Hibernian — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Hibernian_FC_2026_crest.svg",
+          "checkedAt": "2026-10-19T08:01:44.830Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d19-hibernian.png",
+        "width": 1920,
+        "height": 2029,
+        "crop": [
+          505,
+          550,
+          900,
+          1040
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Hibernian_FC_2026_crest.svg",
+        "credit": "Hibernian Football Club",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Hibernian_FC_2026_crest.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja do PNG; bez retuszu.",
+        "alt": "Zielono-biały fragment herbu z harfą, statkiem i zamkiem; bez liter i dat."
+      },
+      "id": "2026-10-19-30"
+    }
+  ]
+}
