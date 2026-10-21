@@ -1,0 +1,1178 @@
+{
+  "id": "2026-10-21",
+  "kind": "daily",
+  "title": "Trening głowy · 21 października 2026",
+  "date": "2026-10-21",
+  "publishAt": "2026-10-21T08:00:00+02:00",
+  "researchedAt": "2026-10-21T18:43:23.461Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-21"
+  },
+  "questions": [
+    {
+      "factKey": "rio-ngumoha:2026-10-20:youngest-liverpool-european-assist",
+      "format": "fact",
+      "prompt": "Liverpool – Villarreal, 20 października 2026: kto został najmłodszym asystentem The Reds w europejskich pucharach, poprawiając rekord Michaela Owena?",
+      "answerParts": [
+        "Rio Ngumoha"
+      ],
+      "subjects": [
+        "player:rio-ngumoha"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-20",
+      "sources": [
+        {
+          "title": "Liverpool — Ngumoha najmłodszym asystentem klubu w europejskich pucharach",
+          "url": "https://www.liverpoolfc.com/news/rio-ngumoha-sets-new-liverpool-assist-record-in-european-competition",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        },
+        {
+          "title": "Liverpool — oficjalna relacja ze zwycięstwa 4:3 nad Villarreal",
+          "url": "https://www.liverpoolfc.com/news/liverpool-villarreal-champions-league-match-report",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        }
+      ],
+      "id": "2026-10-21-01"
+    },
+    {
+      "factKey": "boguslaw-kaczmarek:portrait2011",
+      "format": "photo",
+      "prompt": "Który polski trener znajduje się na zdjęciu?",
+      "answerParts": [
+        "Bogusław Kaczmarek"
+      ],
+      "subjects": [
+        "coach:boguslaw-kaczmarek"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Zbigniew Luchciński — fotografia Bogusława Kaczmarka",
+          "url": "https://commons.wikimedia.org/wiki/File:Bogus%C5%82aw_Kaczmarek.jpg",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d21-kaczmarek.jpg",
+        "width": 1920,
+        "height": 2856,
+        "crop": [
+          480,
+          0,
+          930,
+          1230
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Bogus%C5%82aw_Kaczmarek.jpg",
+        "credit": "Zbigniew Luchciński / ksppolonia.pl",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Wyraźny portret mężczyzny; cała twarz i włosy, bez herbu, sponsora i znaków producenta."
+      },
+      "id": "2026-10-21-02"
+    },
+    {
+      "factKey": "michal-zewlakow:transfer2006-anderlecht-olympiacos",
+      "format": "transfer",
+      "prompt": "Kto przeniósł się między tymi klubami latem 2006?",
+      "answerParts": [
+        "Michał Żewłakow"
+      ],
+      "subjects": [
+        "player:michal-zewlakow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "belgia",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Żewłakow odszedł z Anderlechtu do Olympiacosu latem 2006",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01dd-0e72f4905be9-808aad52053e-1000--olympiacos-seek-the-same-standard/",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Lato",
+        "from": {
+          "club": "Anderlecht",
+          "media": {
+            "path": "assets/d11-badge-anderlecht.png",
+            "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "credit": "Anderlecht",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Olympiacos",
+          "media": {
+            "path": "assets/d18-olympiacos.png",
+            "width": 1920,
+            "height": 2494,
+            "source": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "credit": "Olympiacos SFP",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "changes": "Rasteryzacja do PNG; bez retuszu. Pełny herb.",
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-21-03"
+    },
+    {
+      "factKey": "enzo-francescoli:zidane-eldest-son-namesake",
+      "format": "fact",
+      "prompt": "Na cześć którego urugwajskiego piłkarza Zinédine Zidane nazwał swojego najstarszego syna Enzo?",
+      "answerParts": [
+        "Enzo Francescoli"
+      ],
+      "subjects": [
+        "player:enzo-francescoli"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "urugwaj",
+        "francja",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Francescoli wspomina spotkanie z Zidanem i jego synem Enzo",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/2006germany/news/francescoli-assesses-zidane-s-moment-of-madness-2811402",
+          "checkedAt": "2026-10-21T18:37:31.156Z"
+        }
+      ],
+      "id": "2026-10-21-04"
+    },
+    {
+      "factKey": "rio-ave:crest-caravel-fragment",
+      "format": "crest",
+      "prompt": "Który klub rozpoznajesz po tym fragmencie herbu ze statkiem?",
+      "answerParts": [
+        "Rio Ave FC"
+      ],
+      "subjects": [
+        "club:rio-ave"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portugalia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Rio Ave — klub nazywa swój herb emblematem z karawelą",
+          "url": "https://rioavefc.pt/noticias/geral/fiz-parte-dos-momentos-aureos-do-rio-ave/",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        },
+        {
+          "title": "Herb Rio Ave — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Rio_Ave_FC_logo.svg",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d21-rio-ave.png",
+        "width": 1920,
+        "height": 2315,
+        "crop": [
+          410,
+          640,
+          1100,
+          1080
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Rio_Ave_FC_logo.svg",
+        "credit": "Rio Ave Futebol Clube",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Rio_Ave_FC_logo.svg",
+        "changes": "Kadrowanie do fragmentu herbu i rasteryzacja SVG do PNG; bez retuszu.",
+        "alt": "Fragment herbu z żółtymi żaglami, czerwonym kadłubem i zielono-białymi falami; bez nazwy i liter."
+      },
+      "id": "2026-10-21-05"
+    },
+    {
+      "factKey": "robert-kolendowicz:2026-10:korona-coach-player-return",
+      "format": "coach",
+      "prompt": "Październik 2026: kto objął Koronę Kielce, wracając do klubu dwie dekady po występach w nim jako piłkarz?",
+      "answerParts": [
+        "Robert Kolendowicz"
+      ],
+      "subjects": [
+        "coach:robert-kolendowicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Kolendowicz wraca do Korony jako trener po występach w klubie od 2005 roku",
+          "url": "https://ekstraklasa.org/aktualnosci/powroty-po-2-i-20-latach-nowi-trenerzy-rakowa-i-korony/",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        }
+      ],
+      "id": "2026-10-21-06"
+    },
+    {
+      "factKey": "pawel-abbott:career-riddle-huddersfield-swansea-darlington-poland",
+      "format": "career-riddle",
+      "prompt": "Z Huddersfield trafił do Swansea, potem do Darlington. Później grał w Ruchu Chorzów, Zawiszy Bydgoszcz i Arce Gdynia. Kto to?",
+      "answerParts": [
+        "Paweł Abbott"
+      ],
+      "subjects": [
+        "player:pawel-abbott"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "anglia",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Swansea — kariera Abbotta: Huddersfield, Swansea, Darlington oraz późniejsze polskie kluby",
+          "url": "https://www.swanseacity.com/swansea-city-v-huddersfield-2023-24-programme",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "id": "2026-10-21-07"
+    },
+    {
+      "factKey": "tomas-ujfalusi:career-hamburg-fiorentina-atletico-galatasaray",
+      "format": "career",
+      "prompt": "Kto łączy te cztery kolejne przystanki kariery?",
+      "answerParts": [
+        "Tomáš Ujfaluši"
+      ],
+      "subjects": [
+        "player:tomas-ujfalusi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "niemcy",
+        "wlochy",
+        "hiszpania",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Ujfaluši w Hamburgu od 2000, Fiorentinie od 2004 i Atlético od 2008; podręcznik statystyczny 2009/10, strona 61",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/Publications/uefaorg/Publications/01/44/79/55/1447955_DOWNLOAD.pdf",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        },
+        {
+          "title": "Galatasaray — Ujfaluši przybył z Atlético w 2011 i po dwóch sezonach odszedł do Sparty w 2013",
+          "url": "https://www.galatasaray.org/haber/futbol/super-lig/tomas-ujfalusi-turk-telekom-arenadaydi/5672",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Hamburger SV",
+          "years": "2000–2004",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 711,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Fiorentina",
+          "years": "2004–2008",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Atlético Madryt",
+          "years": "2008–2011",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Galatasaray",
+          "years": "2011–2013",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Cztery kolejne etapy w pierwszych drużynach, 2000–2013. Pominięto wcześniejsze i późniejsze kluby.",
+      "id": "2026-10-21-08"
+    },
+    {
+      "factKey": "kazuyoshi-miura:futsal-world-cup2012-japan",
+      "format": "fact",
+      "prompt": "Która legenda japońskiej piłki zagrała na mistrzostwach świata w futsalu w 2012 roku?",
+      "answerParts": [
+        "Kazuyoshi Miura"
+      ],
+      "subjects": [
+        "player:kazuyoshi-miura"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "japonia",
+        "futsal",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "Japońska federacja — udział Kazuyoshiego Miury w mundialu w futsalu w 2012 roku",
+          "url": "https://www.jfa.jp/eng/news/00000787/",
+          "checkedAt": "2026-10-21T18:37:31.156Z"
+        }
+      ],
+      "id": "2026-10-21-09"
+    },
+    {
+      "factKey": "paris-saint-germain:2026-10-20:barcelona-first-season-defeat",
+      "format": "fact",
+      "prompt": "Który klub 20 października 2026 wygrał z Barceloną 4:2 w Lidze Mistrzów, zadając jej pierwszą porażkę sezonu?",
+      "answerParts": [
+        "Paris Saint-Germain"
+      ],
+      "subjects": [
+        "club:paris-saint-germain"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "francja"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-20",
+      "sources": [
+        {
+          "title": "FC Barcelona — pierwsza porażka sezonu 2026/27, 2:4 z Paris Saint-Germain",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4596285/paris-saint-germain-4-2-fc-barcelona-first-defeat",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        },
+        {
+          "title": "Paris Saint-Germain — oficjalna relacja ze zwycięstwa 4:2 nad Barceloną",
+          "url": "https://www.psg.fr/en/content/paris-triumph-in-instant-classic-match-report-paris-saint-germain-fc-barcelona-uefa-champions-league-2026-2027",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        }
+      ],
+      "id": "2026-10-21-10"
+    },
+    {
+      "factKey": "lukasz-gargula:career-gap-miedz2015",
+      "format": "career-gap",
+      "prompt": "Łukasz Garguła: do jakiego klubu trafił po odejściu z Wisły w 2015 roku?",
+      "answerParts": [
+        "Miedź Legnica"
+      ],
+      "subjects": [
+        "club:miedz-legnica"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — siedem sezonów Garguły w Bełchatowie i przejście do Wisły od lipca 2009",
+          "url": "https://www.uefa.com/news-media/news/01d5-0f85a4965b3a-dbf77c069005-1000--wisla-win-race-for-poland-s-gargula/",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        },
+        {
+          "title": "Miedź — wywiad Garguły po podpisaniu kontraktu, 10 lipca 2015; poprzedni klub Wisła Kraków",
+          "url": "https://miedzlegnica.eu/aktualnosci/lukasz-gargula-wygrywanie-wciaz-sprawia-mi-frajde-3160",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "GKS Bełchatów",
+          "years": "2002–2009",
+          "media": {
+            "path": "assets/d10-badge-belchatow.png",
+            "source": "https://en.wikipedia.org/wiki/File:GKS_Be%C5%82chat%C3%B3w.png",
+            "credit": "GKS Bełchatów",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:GKS_Be%C5%82chat%C3%B3w.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 327,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Wisła Kraków",
+          "years": "2009–2015",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Miedź Legnica",
+          "years": "2015",
+          "media": {
+            "path": "assets/d21-badge-miedz.png",
+            "source": "https://en.wikipedia.org/wiki/File:Mied%C5%BA_Legnica_crest.png",
+            "credit": "Miedź Legnica",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Mied%C5%BA_Legnica_crest.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 313,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery, 2002–2015. Ostatni klub pokazano w roku dołączenia.",
+      "id": "2026-10-21-11"
+    },
+    {
+      "factKey": "arthur-wharton:first-black-professional-england-rotherham1889",
+      "format": "fact",
+      "prompt": "Kto został pierwszym czarnoskórym zawodowym piłkarzem w Anglii po dołączeniu do Rotherham Town w 1889 roku?",
+      "answerParts": [
+        "Arthur Wharton"
+      ],
+      "subjects": [
+        "player:arthur-wharton"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "anglia",
+        "historia",
+        "pionierzy"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — Arthur Wharton, Rotherham Town i początki zawodowej kariery w 1889 roku",
+          "url": "https://www.premierleague.com/en/news/4149575",
+          "checkedAt": "2026-10-21T18:37:31.156Z"
+        }
+      ],
+      "id": "2026-10-21-12"
+    },
+    {
+      "factKey": "estadio-algarve:aerial-roof-euro2004",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion zbudowany na EURO 2004.",
+      "answerParts": [
+        "Estádio Algarve (Estádio do Algarve)"
+      ],
+      "subjects": [
+        "stadium:estadio-algarve"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portugalia",
+        "euro",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Arne Müseler — fotografia lotnicza Estádio Algarve",
+          "url": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Algarve.jpg",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        },
+        {
+          "title": "Zarządca Estádio Algarve — obiekt zbudowany na EURO 2004",
+          "url": "https://estadioalgarve.pt/estadio-algarve-2/",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d21-algarve.jpg",
+        "width": 1920,
+        "height": 1079,
+        "crop": [
+          0,
+          0,
+          1920,
+          1079
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Algarve.jpg",
+        "credit": "Arne Müseler / www.arne-mueseler.com",
+        "license": "CC BY-SA 3.0 DE",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+        "changes": "Zmniejszenie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Widok stadionu z powietrza: biała membranowa konstrukcja dachów i spiralne rampy; bez nazw i herbów."
+      },
+      "id": "2026-10-21-13"
+    },
+    {
+      "factKey": "taras-romanczuk:2026-10-20:368-one-club-appearances-brychczy",
+      "format": "fact",
+      "prompt": "Stan na 20 października 2026: który piłkarz Jagiellonii zrównał się z Lucjanem Brychczym liczbą ekstraklasowych występów dla jednego klubu?",
+      "answerParts": [
+        "Taras Romanczuk"
+      ],
+      "subjects": [
+        "player:taras-romanczuk"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-20",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Romanczuk zrównał się z Brychczym po 368 występach dla jednego klubu",
+          "url": "https://ekstraklasa.org/aktualnosci/lech-goni-lidera-podsumowanie-11-kolejki-20262027/",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        }
+      ],
+      "id": "2026-10-21-14"
+    },
+    {
+      "factKey": "christian-maggio:transfer2008-sampdoria-napoli",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym transferze latem 2008?",
+      "answerParts": [
+        "Christian Maggio"
+      ],
+      "subjects": [
+        "player:christian-maggio"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Napoli — Maggio przybył z Sampdorii latem 2008",
+          "url": "https://sscnapoli.it/napolis-legacy-linchino-di-christian-maggio/",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Lato",
+        "from": {
+          "club": "Sampdoria",
+          "media": {
+            "path": "assets/d21-badge-sampdoria.png",
+            "source": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "credit": "Sampdoria",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 318,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Napoli",
+          "media": {
+            "path": "assets/d09-napoli.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "credit": "Eric Duff",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-21-15"
+    },
+    {
+      "factKey": "dyskobolia:radolsky-hertha-mancity-uefacup2003",
+      "format": "fact",
+      "prompt": "Który klub Dušana Radolskiego wyeliminował Herthę i Manchester City w Pucharze UEFA 2003/04?",
+      "answerParts": [
+        "Dyskobolia Grodzisk Wielkopolski (Groclin)"
+      ],
+      "subjects": [
+        "club:dyskobolia-grodzisk"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "puchar-uefa",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Groclin wyeliminował Manchester City po wcześniejszym pokonaniu Herthy",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0197-0e6a7947fdcd-7d98b6b1ea6c-1000--groclin-extend-dream-debut/",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "id": "2026-10-21-16"
+    },
+    {
+      "factKey": "nuno-gomes:portrait-websummit2017",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego piłkarza na tym portrecie.",
+      "answerParts": [
+        "Nuno Gomes"
+      ],
+      "subjects": [
+        "player:nuno-gomes"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portugalia",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Cody Glenn / Web Summit — fotografia Nuno Gomesa w Lizbonie",
+          "url": "https://commons.wikimedia.org/wiki/File:Web_Summit_2017_-_SportsTrade_CG1_7194_(24373526808)_(cropped).jpg",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d21-nuno-gomes.jpg",
+        "width": 1474,
+        "height": 1808,
+        "crop": [
+          100,
+          0,
+          1280,
+          1740
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Web_Summit_2017_-_SportsTrade_CG1_7194_(24373526808)_(cropped).jpg",
+        "credit": "Cody Glenn / Web Summit via Sportsfile",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Portret mężczyzny w marynarce; pełna twarz, bez piłkarskiej koszulki, herbu i sponsora klubowego."
+      },
+      "id": "2026-10-21-17"
+    },
+    {
+      "factKey": "rudi-garcia:coach-link-gervinho-dzeko-luiz-gustavo",
+      "format": "coach-link",
+      "prompt": "Kto prowadził tę trójkę w Lille, Romie i Marsylii we wskazanych sezonach?",
+      "answerParts": [
+        "Rudi Garcia"
+      ],
+      "subjects": [
+        "coach:rudi-garcia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "historia",
+        "francja",
+        "wlochy",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Garcia i jego zawodnicy z Lille w sezonie 2010/11, w tym Gervinho",
+          "url": "https://www.uefa.com/news-media/news/01f8-0f8ef6918454-6adbc469db7b-1000--rudi-garcia-my-team-of-2011/",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        },
+        {
+          "title": "Roma — wypowiedzi Garcii o Džeko po meczu z Genoą, 20 grudnia 2015",
+          "url": "https://www.asroma.com/en/news/45627/garcia-we-showed-spirit-and-personality",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        },
+        {
+          "title": "UEFA — Luiz Gustavo i trener Rudi Garcia w składzie Marsylii na finał Ligi Europy, 16 maja 2018",
+          "url": "https://www.uefa.com/newsfiles/uefacup/2018/2022218_LU.pdf",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "clues": [
+        "Gervinho — Lille, 2010/11",
+        "Edin Džeko — Roma, 2015/16",
+        "Luiz Gustavo — Marsylia, 2017/18"
+      ],
+      "id": "2026-10-21-18"
+    },
+    {
+      "factKey": "sv-elversberg:2026-10-21:debut-bundesliga-season-sixth-ten-points",
+      "format": "fact",
+      "prompt": "Stan na 21 października 2026: który klub, grający pierwszy sezon w Bundeslidze, zajmował szóste miejsce z dziesięcioma punktami?",
+      "answerParts": [
+        "SV Elversberg"
+      ],
+      "subjects": [
+        "club:sv-elversberg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "beniaminkowie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Bundesliga — tabela sezonu 2026/27: Elversberg szósty z 10 punktami po sześciu meczach",
+          "url": "https://www.bundesliga.com/en/bundesliga/table",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        },
+        {
+          "title": "Bundesliga — pierwszy w historii sezon Elversbergu w najwyższej lidze",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/elversberg-2026-27-season-preview-promoted-vincent-wagner-futkeu-campbell-petkov-38774",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        }
+      ],
+      "id": "2026-10-21-19"
+    },
+    {
+      "factKey": "tp-mazembe:first-african-club-world-cup-final2010",
+      "format": "fact",
+      "prompt": "Który klub jako pierwszy z Afryki zagrał w finale klubowych MŚ, w 2010 roku przeciwko Interowi?",
+      "answerParts": [
+        "TP Mazembe"
+      ],
+      "subjects": [
+        "club:tp-mazembe"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "afryka",
+        "dr-konga",
+        "klubowe-mistrzostwa-swiata"
+      ],
+      "sources": [
+        {
+          "title": "TP Mazembe — oficjalna historia pierwszego afrykańskiego finalisty klubowych MŚ 2010",
+          "url": "https://www.tpmazembe.com/en/the-club/history",
+          "checkedAt": "2026-10-21T18:37:31.156Z"
+        }
+      ],
+      "id": "2026-10-21-20"
+    },
+    {
+      "factKey": "nicolas-anelka:transfer2002-psg-manchester-city",
+      "format": "transfer",
+      "prompt": "Czyj transfer z maja 2002 pokazują te herby?",
+      "answerParts": [
+        "Nicolas Anelka"
+      ],
+      "subjects": [
+        "player:nicolas-anelka"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Manchester City — Anelka dołączył w maju 2002 za rekordowe dla klubu 13 mln funtów",
+          "url": "https://www.mancity.com/news/first-team/first-team-news/2016/april/psg-v-city-played-for-both-anelka",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        },
+        {
+          "title": "UEFA — porozumienie w sprawie transferu Anelki z PSG do Manchesteru City, 23 maja 2002",
+          "url": "https://www.uefa.com/news-media/news/025e-0f906f84bbbc-735596fe13ff-1000--city-agree-20-5m-anelka-move/",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "transfer": {
+        "year": 2002,
+        "detail": "Maj · rekord klubowy: 13 mln funtów",
+        "from": {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-21-21"
+    },
+    {
+      "factKey": "gornik-roma1970:coin-toss-semifinal-resolution",
+      "format": "fact",
+      "prompt": "Górnik i Roma zremisowały trzy półfinałowe mecze PZP w 1970 roku. Co ostatecznie rozstrzygnęło awans?",
+      "answerParts": [
+        "Losowanie"
+      ],
+      "subjects": [
+        "rule:coin-toss"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "historia",
+        "puchar-zdobywcow-pucharow",
+        "przepisy"
+      ],
+      "sources": [
+        {
+          "title": "Roma — po trzech remisach awans Górnika do finału PZP 1970 rozstrzygnął rzut monetą",
+          "url": "https://www.asroma.com/en/news/58061/50-years-on-a-cup-final-missed-on-a-coin-toss",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "id": "2026-10-21-22"
+    },
+    {
+      "factKey": "panathinaikos:puskas-wembley-europeancup-final1971",
+      "format": "fact",
+      "prompt": "Który klub Ferenc Puskás doprowadził do finału Pucharu Europy na Wembley w 1971 roku?",
+      "answerParts": [
+        "Panathinaikos Ateny"
+      ],
+      "subjects": [
+        "club:panathinaikos"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "grecja",
+        "puchar-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Panathinaikos — oficjalne wspomnienie finału Pucharu Europy 1971 i trenera Puskása",
+          "url": "https://www.pao.gr/en/fc/55-years-since-wembleys-epic-era/",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "id": "2026-10-21-23"
+    },
+    {
+      "factKey": "peter-gulacsi:2026-08-03:villarreal-arrival-eleven-leipzig-seasons",
+      "format": "fact",
+      "prompt": "Który były bramkarz Liverpoolu rozpoczął sezon 2026/27 w Villarreal, przychodząc po jedenastu sezonach spędzonych w RB Leipzig?",
+      "answerParts": [
+        "Péter Gulácsi"
+      ],
+      "subjects": [
+        "player:peter-gulacsi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "laliga",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-03",
+      "sources": [
+        {
+          "title": "Villarreal — Gulácsi dołącza z Lipska po jedenastu sezonach; wcześniej grał w Liverpoolu",
+          "url": "https://villarrealcf.es/en/peter-gulacsi-new-villarreal-cf-goalkeeper/",
+          "checkedAt": "2026-10-21T18:38:14Z"
+        }
+      ],
+      "id": "2026-10-21-24"
+    },
+    {
+      "factKey": "royal-antwerp:cupwinnerscup-final-parma1993",
+      "format": "fact",
+      "prompt": "Który belgijski klub przegrał z Parmą finał Pucharu Zdobywców Pucharów w 1993 roku?",
+      "answerParts": [
+        "Royal Antwerp FC"
+      ],
+      "subjects": [
+        "club:royal-antwerp"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "belgia",
+        "puchar-zdobywców-pucharów",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Parma pokonała Royal Antwerp 3:1 w finale na Wembley w 1993 roku",
+          "url": "https://www.uefa.com/news-media/news/0253-0d7eeed1a306-16e0666a6e0c-1000--parma-mark-100th-anniversary-in-style/",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "id": "2026-10-21-25"
+    },
+    {
+      "factKey": "roque-santa-cruz:loan2011-city-blackburn",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono w tym ruchu ze stycznia 2011?",
+      "answerParts": [
+        "Roque Santa Cruz"
+      ],
+      "subjects": [
+        "player:roque-santa-cruz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Santa Cruz wypożyczony z Manchesteru City do Blackburn do końca sezonu 2010/11",
+          "url": "https://pt.uefa.com/news-media/news/01ed-0f8616d0509f-b88e2e0097f7-1000--resumo-das-transferencias-santa-cruz-regressa-ao-blackburn/",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Blackburn Rovers",
+          "media": {
+            "path": "assets/d21-badge-blackburn.png",
+            "source": "https://en.wikipedia.org/wiki/File:Blackburn_Rovers.svg",
+            "credit": "Blackburn Rovers",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Blackburn_Rovers.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 259,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-21-26"
+    },
+    {
+      "factKey": "bolton:shared-club-okocha-djorkaeff-campo",
+      "format": "shared-club",
+      "prompt": "Jay-Jay Okocha, Youri Djorkaeff i Iván Campo: w którym klubie grali razem?",
+      "answerParts": [
+        "Bolton Wanderers"
+      ],
+      "subjects": [
+        "club:bolton-wanderers"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wspolny-klub",
+        "historia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Bolton — Okocha wspomina grę w jednym zespole z Djorkaeffem i Campo",
+          "url": "https://www.bwfc.co.uk/news/2017/november/jay-jay-okocha-proud-of-wanderers-legacy",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "id": "2026-10-21-27"
+    },
+    {
+      "factKey": "chapecoense:sudamericana2016-awarded-atletico-nacional-request",
+      "format": "fact",
+      "prompt": "Któremu klubowi przyznano Copa Sudamericana 2016 na wniosek Atlético Nacional?",
+      "answerParts": [
+        "Chapecoense"
+      ],
+      "subjects": [
+        "club:chapecoense"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "brazylia",
+        "copa-sudamericana"
+      ],
+      "sources": [
+        {
+          "title": "CONMEBOL — tytuł Copa Sudamericana 2016 przyznano Chapecoense na wniosek Atlético Nacional; podsumowanie, strona 6",
+          "url": "https://www.conmebol.com/wp-content/uploads/2022/01/Suplemento-6-An%CC%83os-Conmebol_Esp.pdf",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "id": "2026-10-21-28"
+    },
+    {
+      "factKey": "vittorio-pozzo:italy-worldcup1934-1938-olympics1936",
+      "format": "fact",
+      "prompt": "Który trener zdobył z Włochami mistrzostwa świata 1934 i 1938 oraz olimpijskie złoto w 1936 roku?",
+      "answerParts": [
+        "Vittorio Pozzo"
+      ],
+      "subjects": [
+        "coach:vittorio-pozzo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "historia",
+        "mundial",
+        "igrzyska",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "FIGC — Vittorio Pozzo: tytuły mistrza świata 1934 i 1938 oraz złoto olimpijskie 1936",
+          "url": "https://www.figc.it/it/full-html?path=%2Fmuseo-del-calcio%2Fhall-of-fame%2Friconoscimenti-alla-memoria%2Fvittorio-pozzo",
+          "checkedAt": "2026-10-21T18:41:34.855Z"
+        }
+      ],
+      "id": "2026-10-21-29"
+    },
+    {
+      "factKey": "asteras-tripolis:crest-mounted-warrior-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu należy ten fragment herbu z jeźdźcem?",
+      "answerParts": [
+        "Asteras Tripolis (Asteras Aktor)"
+      ],
+      "subjects": [
+        "club:asteras-tripolis"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "grecja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Asteras Tripolis — oficjalna strona klubu z herbem",
+          "url": "https://www.asterastripolis.gr/",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        },
+        {
+          "title": "Herb Asterasu Tripolis — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Asteras_Tripolis_FC_logo.svg",
+          "checkedAt": "2026-10-21T18:40:49.127Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d21-asteras.png",
+        "width": 1920,
+        "height": 1920,
+        "crop": [
+          550,
+          550,
+          850,
+          730
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Asteras_Tripolis_FC_logo.svg",
+        "credit": "Asteras Tripolis FC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Asteras_Tripolis_FC_logo.svg",
+        "changes": "Kadrowanie do fragmentu herbu i rasteryzacja SVG do PNG; bez retuszu.",
+        "alt": "Niebiesko-żółty fragment tarczy z wojownikiem na wspiętym koniu; bez liter i nazwy."
+      },
+      "id": "2026-10-21-30"
+    }
+  ]
+}
