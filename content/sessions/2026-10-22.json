@@ -1,0 +1,1162 @@
+{
+  "id": "2026-10-22",
+  "kind": "daily",
+  "title": "Trening głowy · 22 października 2026",
+  "date": "2026-10-22",
+  "publishAt": "2026-10-22T08:00:00+02:00",
+  "researchedAt": "2026-10-22T08:30:30.371Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-22"
+  },
+  "questions": [
+    {
+      "factKey": "thomas-muller:2026-10-21:neuer-equals-german-ucl-appearance-record",
+      "format": "fact",
+      "prompt": "21 października 2026 Neuer rozegrał 163. mecz w Lidze Mistrzów. Z którym niemieckim rekordzistą się zrównał?",
+      "answerParts": [
+        "Thomas Müller"
+      ],
+      "subjects": [
+        "player:thomas-muller"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "FC Bayern — Neuer zrównał się z Müllerem po 163 występach w Lidze Mistrzów",
+          "url": "https://fcbayern.com/de/news/spielberichte/2026/10/spielbericht-champions-league-fc-bayern-fc-arsenal",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        }
+      ],
+      "id": "2026-10-22-01"
+    },
+    {
+      "factKey": "dariusz-zuraw:portrait2014",
+      "format": "photo",
+      "prompt": "Jak nazywa się polski trener na tym portrecie?",
+      "answerParts": [
+        "Dariusz Żuraw"
+      ],
+      "subjects": [
+        "coach:dariusz-zuraw"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Roger Gor — fotografia Dariusza Żurawia",
+          "url": "https://commons.wikimedia.org/wiki/File:Dariusz_%C5%BBuraw_2014.jpg",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d22-zuraw.jpg",
+        "width": 1920,
+        "height": 1553,
+        "crop": [
+          500,
+          30,
+          950,
+          1080
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Dariusz_%C5%BBuraw_2014.jpg",
+        "credit": "Roger Gor (Roger Gorączniak)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Portret mężczyzny w marynarce, z pełną twarzą, włosami i podbródkiem; bez herbu, koszulki i znaków sponsora."
+      },
+      "id": "2026-10-22-02"
+    },
+    {
+      "factKey": "marcin-mieciel:transfer2007-paok-bochum",
+      "format": "transfer",
+      "prompt": "Czyj transfer z lata 2007 pokazują te dwa herby?",
+      "answerParts": [
+        "Marcin Mięciel"
+      ],
+      "subjects": [
+        "player:marcin-mieciel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "grecja",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Legia — Mięciel po dwóch sezonach w PAOK przeszedł w 2007 roku do Bochum",
+          "url": "https://legia.com/en/articles/historia-kalendarium-legii-22-grudnia-marcina-mieciela-trzy-podejscia-do-legii",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "transfer": {
+        "year": 2007,
+        "detail": "Lato",
+        "from": {
+          "club": "PAOK",
+          "media": {
+            "path": "assets/d13-paok.png",
+            "source": "https://en.wikipedia.org/wiki/File:PAOK_emblem_2010.svg",
+            "credit": "P.A.O.K.",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PAOK_emblem_2010.svg",
+            "changes": "Pełny herb; bez kadrowania i retuszu.",
+            "width": 960,
+            "height": 1135,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "VfL Bochum",
+          "media": {
+            "path": "assets/d11-badge-bochum.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "credit": "VfL Bochum",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 264,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-22-03"
+    },
+    {
+      "factKey": "socrates:medical-degree-corinthians-democracy",
+      "format": "fact",
+      "prompt": "Który brazylijski piłkarz ukończył medycynę i był jednym z liderów ruchu Democracia Corinthiana?",
+      "answerParts": [
+        "Sócrates"
+      ],
+      "subjects": [
+        "player:socrates"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "brazylia",
+        "kultura",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Brazylijska federacja — dyplom lekarza Sócratesa i jego rola w Democracia Corinthiana",
+          "url": "https://www.cbf.com.br/selecao-brasileira/noticias/jogadores-imortais/os-41-anos-de-ronaldo/tbtdaamarelinha-o-doutor-socrates",
+          "checkedAt": "2026-10-22T08:25:34.455Z"
+        }
+      ],
+      "id": "2026-10-22-04"
+    },
+    {
+      "factKey": "heerenveen:crest-pompebleden-fragment",
+      "format": "crest",
+      "prompt": "Rozpoznaj klub po fragmencie herbu.",
+      "answerParts": [
+        "SC Heerenveen"
+      ],
+      "subjects": [
+        "club:heerenveen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "holandia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "SC Heerenveen — klubowe symbole pochodzące z flagi Fryzji",
+          "url": "https://www.sc-heerenveen.nl/club",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        },
+        {
+          "title": "Herb SC Heerenveen — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:SC_Heerenveen_logo.svg",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d22-heerenveen.png",
+        "width": 1920,
+        "height": 2029,
+        "crop": [
+          280,
+          110,
+          1250,
+          550
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:SC_Heerenveen_logo.svg",
+        "credit": "Sportclub Heerenveen",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:SC_Heerenveen_logo.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja SVG do PNG przez Wikimedia; bez retuszu.",
+        "alt": "Fragment niebiesko-białego herbu z czerwonymi liśćmi w kształcie serc; bez liter i nazwy."
+      },
+      "id": "2026-10-22-05"
+    },
+    {
+      "factKey": "cesc-fabregas:2026-10-21:como-united-4-1-coach",
+      "format": "coach",
+      "prompt": "Kto prowadził Como podczas zwycięstwa 4:1 z Manchesterem United w Lidze Mistrzów 21 października 2026?",
+      "answerParts": [
+        "Cesc Fàbregas"
+      ],
+      "subjects": [
+        "coach:cesc-fabregas"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "serie-a",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Como — oficjalna relacja z meczu z Manchesterem United, 21 października 2026",
+          "url": "https://www.comofootball.com/como-1907-manchester-united-4-1-match-report-uefa-champions-league/",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        }
+      ],
+      "id": "2026-10-22-06"
+    },
+    {
+      "factKey": "piotr-swierczewski:riddle-gamba-birmingham-lech",
+      "format": "career-riddle",
+      "prompt": "Grał w Bastii i Gambie Osaka. Po Marsylii zaliczył jeden występ w Birmingham, a w 2003 trafił do Lecha. Kto to?",
+      "answerParts": [
+        "Piotr Świerczewski"
+      ],
+      "subjects": [
+        "player:piotr-swierczewski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "francja",
+        "japonia",
+        "anglia",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Lech — Świerczewski: Bastia, Gamba, Marsylia, jeden mecz w Birmingham i dołączenie do Lecha w 2003",
+          "url": "https://www.lechpoznan.pl/aktualnosci,2,z-wielkiej-pilki-do-lecha,35367.html",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "id": "2026-10-22-07"
+    },
+    {
+      "factKey": "jiri-jarosik:selected-career-chelsea-celtic-zaragoza",
+      "format": "career",
+      "prompt": "Który piłkarz występował w tych trzech klubach we wskazanych latach?",
+      "answerParts": [
+        "Jiří Jarošík"
+      ],
+      "subjects": [
+        "player:jiri-jarosik"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "anglia",
+        "szkocja",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Jarošík dołączył do Chelsea w styczniu 2005, a w sierpniu odszedł na wypożyczenie",
+          "url": "https://www.uefa.com/news-media/news/01ac-0ea7e0dc0416-9c32160dc85f-1000--jarosik-says-farewell-to-chelsea/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        },
+        {
+          "title": "UEFA — Jarošík opuścił Celtic w styczniu 2008 po osiemnastu miesiącach",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c9-0e6ef4c32bb1-6372293d53ab-1000--robson-replaces-jarosik-at-celtic/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        },
+        {
+          "title": "UEFA — Jarošík grał w Realu Zaragoza od stycznia 2010 do maja 2011",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/025a-0ea9771136e9-f8004a191b7a-1000--athletic-target-winning-send-off/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Chelsea",
+          "years": "2005",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Celtic",
+          "years": "2006–2008",
+          "media": {
+            "path": "assets/d19-badge-celtic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "credit": "Celtic",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Real Zaragoza",
+          "years": "2010–2011",
+          "media": {
+            "path": "assets/d22-badge-zaragoza.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Zaragoza_logo.svg",
+            "credit": "Real Zaragoza",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Zaragoza_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 426,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane etapy gry w pierwszych drużynach. Pominięto inne kluby i wypożyczenia.",
+      "id": "2026-10-22-08"
+    },
+    {
+      "factKey": "helmuth-duckadam:four-saved-penalties-europeancup1986",
+      "format": "fact",
+      "prompt": "Który bramkarz Steauy obronił wszystkie cztery karne Barcelony w serii jedenastek finału Pucharu Europy 1986?",
+      "answerParts": [
+        "Helmuth Duckadam"
+      ],
+      "subjects": [
+        "player:helmuth-duckadam"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "rumunia",
+        "puchar-europy",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Duckadam obronił cztery karne Barcelony w finale Pucharu Europy 1986",
+          "url": "https://www.uefa.com/news-media/news/0294-1c7af2511906-5a1bd77ae860-1000--romanian-football-mourns-goalkeeping-hero-duckadam/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "id": "2026-10-22-09"
+    },
+    {
+      "factKey": "galatasaray:2026-10-21:first-ucl-points-comeback-lille",
+      "format": "fact",
+      "prompt": "Który klub 21 października 2026 zdobył pierwsze punkty w Lidze Mistrzów 2026/27, odwracając mecz w Lille z 1:2 na 4:2?",
+      "answerParts": [
+        "Galatasaray"
+      ],
+      "subjects": [
+        "club:galatasaray"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "turcja"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Galatasaray — pierwsze trzy punkty w Lidze Mistrzów po zwycięstwie 4:2 w Lille",
+          "url": "https://www.galatasaray.org/haber/futbol/sampiyonlar-ligi/lille-2-4-galatasaray/61191",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        }
+      ],
+      "id": "2026-10-22-10"
+    },
+    {
+      "factKey": "marcin-wasilewski:career-gap-leicester2013-2017",
+      "format": "career-gap",
+      "prompt": "Marcin Wasilewski: jaki klub wypełnia lukę między Anderlechtem a Wisłą Kraków?",
+      "answerParts": [
+        "Leicester City"
+      ],
+      "subjects": [
+        "club:leicester-city"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "belgia",
+        "anglia",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Wisła Kraków — Anderlecht od 2007, Leicester od 2013 do czerwca 2017, dołączenie do Wisły w listopadzie 2017",
+          "url": "https://archiwum.wisla.krakow.pl/pl/aktualnosci/wasyl_zawodnikiem_bialej_gwiazdy/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Anderlecht",
+          "years": "2007–2013",
+          "media": {
+            "path": "assets/d11-badge-anderlecht.png",
+            "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "credit": "Anderlecht",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Leicester City",
+          "years": "2013–2017",
+          "media": {
+            "path": "assets/d22-badge-leicester.png",
+            "source": "https://en.wikipedia.org/wiki/File:Leicester_City_crest.svg",
+            "credit": "Leicester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Leicester_City_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Wisła Kraków",
+          "years": "2017",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby; ostatni etap pokazano w roku dołączenia. Między dwoma ostatnimi klubami był wolnym zawodnikiem.",
+      "id": "2026-10-22-11"
+    },
+    {
+      "factKey": "iraq:asian-cup2007-final-saudi-arabia",
+      "format": "fact",
+      "prompt": "Która reprezentacja zdobyła Puchar Azji 2007, pokonując w finale Arabię Saudyjską?",
+      "answerParts": [
+        "Irak"
+      ],
+      "subjects": [
+        "national-team:iraq"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "azja",
+        "puchar-azji",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "AFC — triumf Iraku nad Arabią Saudyjską w finale Pucharu Azji 2007",
+          "url": "https://www.the-afc.com/en/more/news/throwback_thursday_iraq_triumph_at_the_2007_afc_asian_cup.html",
+          "checkedAt": "2026-10-22T08:25:34.455Z"
+        }
+      ],
+      "id": "2026-10-22-12"
+    },
+    {
+      "factKey": "ernst-happel-stadion:aerial-oval-roof",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion z lotu ptaka.",
+      "answerParts": [
+        "Ernst-Happel-Stadion (Praterstadion), Wiedeń"
+      ],
+      "subjects": [
+        "stadium:ernst-happel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Arne Müseler — fotografia lotnicza Ernst-Happel-Stadion",
+          "url": "https://commons.wikimedia.org/wiki/File:Ernst-happel-stadion_vienna.jpg",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        },
+        {
+          "title": "Miasto Wiedeń — informacje o Ernst-Happel-Stadion",
+          "url": "https://www.wien.gv.at/freizeit/ernst-happel-stadion",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d22-happel.jpg",
+        "width": 1920,
+        "height": 1280,
+        "crop": [
+          0,
+          0,
+          1920,
+          1280
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Ernst-happel-stadion_vienna.jpg",
+        "credit": "Arne Müseler / www.arne-mueseler.com",
+        "license": "CC BY-SA 3.0 DE",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+        "changes": "Zmniejszenie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Stadion widziany z powietrza: owalny biały dach, betonowa fasada i las wokół; bez nazw, herbów i czytelnych napisów."
+      },
+      "id": "2026-10-22-13"
+    },
+    {
+      "factKey": "karol-niemczycki:2026-10-17:motor-slask-eight-saves-penalty",
+      "format": "fact",
+      "prompt": "Motor – Śląsk, 17 października 2026: który bramkarz obronił karnego Karola Czubaka i zaliczył osiem interwencji mimo porażki 2:3?",
+      "answerParts": [
+        "Karol Niemczycki"
+      ],
+      "subjects": [
+        "player:karol-niemczycki"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Niemczycki w jedenastce 11. kolejki: osiem obron, w tym karny Czubaka",
+          "url": "https://ekstraklasa.org/aktualnosci/show-pilkarzy-kolejorza-jedenastka-11-kolejki-20262027/",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        },
+        {
+          "title": "Ekstraklasa — oficjalna data meczu Motor Lublin – Śląsk Wrocław",
+          "url": "https://ekstraklasa.org/kalendarz/?day=2026-10-17&month=10&year=2026",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        }
+      ],
+      "id": "2026-10-22-14"
+    },
+    {
+      "factKey": "giuseppe-rossi:transfer2013-villarreal-fiorentina",
+      "format": "transfer",
+      "prompt": "Kto wykonał ten transfer w styczniu 2013 roku?",
+      "answerParts": [
+        "Giuseppe Rossi"
+      ],
+      "subjects": [
+        "player:giuseppe-rossi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "hiszpania",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Rossi grał w Villarreal w latach 2007–2013 i odszedł do Fiorentiny w styczniu 2013",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0219-0e8c073f8fbe-2742d4f30883-1000--cerci-aims-to-join-italy-s-past-leading-lights-in-spain/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Villarreal",
+          "media": {
+            "path": "assets/d22-badge-villarreal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "credit": "Villarreal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Fiorentina",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-22-15"
+    },
+    {
+      "factKey": "gks-belchatow:lenczyk-runners-up2007",
+      "format": "fact",
+      "prompt": "Który klub Orest Lenczyk doprowadził do wicemistrzostwa Polski w 2007 roku?",
+      "answerParts": [
+        "GKS Bełchatów"
+      ],
+      "subjects": [
+        "club:gks-belchatow"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "historia",
+        "ekstraklasa"
+      ],
+      "sources": [
+        {
+          "title": "GKS Bełchatów — Orest Lenczyk twórcą wicemistrzostwa z 2007 roku",
+          "url": "https://gksbelchatow.com.pl/2025/07/30-lat-od-debiutu-gks-u-belchatow-w-ekstraklasie/",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "id": "2026-10-22-16"
+    },
+    {
+      "factKey": "jari-litmanen:portrait-helsinki-bookfair2015",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego piłkarza na portrecie.",
+      "answerParts": [
+        "Jari Litmanen"
+      ],
+      "subjects": [
+        "player:jari-litmanen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "finlandia",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Soppakanuuna — Jari Litmanen na targach książki w Helsinkach",
+          "url": "https://commons.wikimedia.org/wiki/File:Jari_Litmanen_2015.jpg",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d22-litmanen.jpg",
+        "width": 952,
+        "height": 1156,
+        "crop": [
+          65,
+          25,
+          820,
+          1100
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Jari_Litmanen_2015.jpg",
+        "credit": "Soppakanuuna",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Kadrowanie i optymalizacja kompresji JPEG; bez retuszu.",
+        "alt": "Wyraźny portret mężczyzny w marynarce; cała twarz i włosy, bez piłkarskiej koszulki, herbu i sponsora."
+      },
+      "id": "2026-10-22-17"
+    },
+    {
+      "factKey": "gerard-houllier:coach-link-gerrard-juninho-ginola",
+      "format": "coach-link",
+      "prompt": "Liverpool, Lyon i reprezentacja Francji: kto prowadził każdego z tych piłkarzy we wskazanym okresie?",
+      "answerParts": [
+        "Gérard Houllier"
+      ],
+      "subjects": [
+        "coach:gerard-houllier"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "historia",
+        "anglia",
+        "francja",
+        "reprezentacje"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Gerrard i trener Houllier w zwycięskim Liverpoolu z finału Pucharu UEFA 2001",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0253-0d8121f2775f-97a1a135d474-1000--snap-shot-liverpool-s-2001-uefa-cup-glory/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        },
+        {
+          "title": "UEFA — trener Houllier i jego zawodnik Juninho w marcu 2006",
+          "url": "https://www.uefa.com/news-media/news/01b3-0e6d7724d6f7-f27460f93562-1000--houllier-rallies-troops-over-juninho/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        },
+        {
+          "title": "FFF — Ginola wszedł na boisko w reprezentacji prowadzonej przez Houlliera, Francja–Bułgaria 17 listopada 1993",
+          "url": "https://www.fff.fr/selection/matchs/1591-france-bulgarie.html",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        },
+        {
+          "title": "FIFA — skład Francji z Ginolą i selekcjonerem Houllierem, 17 listopada 1993",
+          "url": "https://inside.fifa.com/fr/news/reve-americain-devenu-cauchemar-bulgare-760565",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "clues": [
+        "Steven Gerrard — Liverpool, 2000/01",
+        "Juninho Pernambucano — Lyon, 2005/06",
+        "David Ginola — Francja, 1993"
+      ],
+      "id": "2026-10-22-18"
+    },
+    {
+      "factKey": "rayo-vallecano:rainbow-away-sash2015-16",
+      "format": "kit",
+      "prompt": "Który hiszpański klub w sezonie 2015/16 nosił wyjazdową koszulkę z tęczowym ukośnym pasem?",
+      "answerParts": [
+        "Rayo Vallecano"
+      ],
+      "subjects": [
+        "club:rayo-vallecano"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "hiszpania",
+        "stroje",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "LaLiga — tęczowy pas na drugim stroju Rayo Vallecano w sezonie 2015/16",
+          "url": "https://www.laliga.com/noticias/la-franja-mas-solidaria",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "id": "2026-10-22-19"
+    },
+    {
+      "factKey": "once-caldas:libertadores2004-final-boca-juniors",
+      "format": "fact",
+      "prompt": "Który kolumbijski klub pokonał Boca Juniors w finale Copa Libertadores 2004?",
+      "answerParts": [
+        "Once Caldas"
+      ],
+      "subjects": [
+        "club:once-caldas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kolumbia",
+        "copa-libertadores",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Once Caldas — oficjalna historia zwycięstwa nad Boca Juniors w finale Libertadores 2004",
+          "url": "https://www.oncecaldas.com.co/nuestro-club",
+          "checkedAt": "2026-10-22T08:25:34.455Z"
+        }
+      ],
+      "id": "2026-10-22-20"
+    },
+    {
+      "factKey": "kim-kallstrom:transfer2012-lyon-spartak",
+      "format": "transfer",
+      "prompt": "Kto przeszedł między tymi klubami latem 2012 roku?",
+      "answerParts": [
+        "Kim Källström"
+      ],
+      "subjects": [
+        "player:kim-kallstrom"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "francja",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Källström przeniósł się z Lyonu do Spartaka latem 2012",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0211-0e889f697320-7b827082a912-1000--arsenal-agree-kallstrom-loan-deal/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "transfer": {
+        "year": 2012,
+        "detail": "Lato",
+        "from": {
+          "club": "Olympique Lyon",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Spartak Moskwa",
+          "media": {
+            "path": "assets/d22-badge-spartak.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Spartak_Moscow_crest.svg",
+            "credit": "Spartak Moskwa",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Spartak_Moscow_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 176,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-22-21"
+    },
+    {
+      "factKey": "howard-webb:2010-champions-league-world-cup-finals",
+      "format": "fact",
+      "prompt": "Który sędzia poprowadził w 2010 roku zarówno finał Ligi Mistrzów, jak i mundialu?",
+      "answerParts": [
+        "Howard Webb"
+      ],
+      "subjects": [
+        "referee:howard-webb"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "sedziowie",
+        "liga-mistrzow",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Howard Webb prowadził finały Ligi Mistrzów i mundialu w 2010 roku",
+          "url": "https://www.uefa.com/news-media/news/0250-0c5104acfe0e-e6d8a6d4d6d2-1000--how-referee-howard-webb-made-it-to-the-top/",
+          "checkedAt": "2026-10-22T08:25:34.455Z"
+        }
+      ],
+      "id": "2026-10-22-22"
+    },
+    {
+      "factKey": "udinese:shared-club-sanchez-handanovic-benatia2011",
+      "format": "shared-club",
+      "prompt": "Alexis Sánchez, Samir Handanović i Mehdi Benatia: w którym klubie grali razem w sezonie 2010/11?",
+      "answerParts": [
+        "Udinese"
+      ],
+      "subjects": [
+        "club:udinese"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "wspolny-klub",
+        "historia",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Udinese — skład w meczu z Palermo 27 lutego 2011 obejmuje Sáncheza, Handanovicia i Benatię",
+          "url": "https://www.udinese.it/news/magazine/on-this-day-palermo-0-7-udinese",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "id": "2026-10-22-23"
+    },
+    {
+      "factKey": "dawid-szwarga:2026-10-21:rakow-return-arka-gks",
+      "format": "coach",
+      "prompt": "Październik 2026: kto wrócił na ławkę Rakowa po pracy w Arce Gdynia i GKS-ie Katowice?",
+      "answerParts": [
+        "Dawid Szwarga"
+      ],
+      "subjects": [
+        "coach:dawid-szwarga"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Ekstraklasa — powrót Szwargi do Rakowa po pracy w Arce i GKS-ie Katowice",
+          "url": "https://ekstraklasa.org/aktualnosci/powroty-po-2-i-20-latach-nowi-trenerzy-rakowa-i-korony/",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        }
+      ],
+      "id": "2026-10-22-24"
+    },
+    {
+      "factKey": "yugoslavia:replaced-by-denmark-euro1992",
+      "format": "fact",
+      "prompt": "Którą wykluczoną reprezentację zastąpiła Dania na Euro 1992?",
+      "answerParts": [
+        "Jugosławia"
+      ],
+      "subjects": [
+        "national-team:yugoslavia"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "euro",
+        "reprezentacje"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — po zawieszeniu Jugosławii w maju 1992 jej miejsce w turnieju zajęła Dania",
+          "url": "https://www.uefa.com/uefaeuro/history/news/025a-0eb91faf9bf0-942d69c5a0a8-1000--uefaeuro1992-all-you-need-to-know/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "id": "2026-10-22-25"
+    },
+    {
+      "factKey": "adel-taarabt:loan2014-qpr-milan",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono między tymi klubami w styczniu 2014 roku?",
+      "answerParts": [
+        "Adel Taarabt"
+      ],
+      "subjects": [
+        "player:adel-taarabt"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Taarabt wypożyczony z QPR do Milanu do końca sezonu; wcześniej na wypożyczeniu w Fulham",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0211-0ea1062bee18-f266d910d5fb-1000--taarabt-eyes-balotelli-link-up-after-milan-move/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Queens Park Rangers",
+          "media": {
+            "path": "assets/d22-badge-qpr.png",
+            "source": "https://en.wikipedia.org/wiki/File:Queens_Park_Rangers_crest.svg",
+            "credit": "Queens Park Rangers Football Club",
+            "license": "Domena publiczna tylko w USA; znak klubowy",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Queens_Park_Rangers_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-22-26"
+    },
+    {
+      "factKey": "copenhagen:shared-firstteam-kb-b1903-1992",
+      "format": "fact",
+      "prompt": "Który duński klub powstał w 1992 roku jako wspólna pierwsza drużyna KB i B1903?",
+      "answerParts": [
+        "FC København (FC Kopenhaga)"
+      ],
+      "subjects": [
+        "club:fc-copenhagen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania",
+        "historia",
+        "powstanie-klubu"
+      ],
+      "sources": [
+        {
+          "title": "FC København — historia wspólnej pierwszej drużyny KB i B1903",
+          "url": "https://www.fck.dk/node/27621",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        },
+        {
+          "title": "FC København — data założenia i współpraca klubów macierzystych",
+          "url": "https://www.fck.dk/en/content/facts",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "id": "2026-10-22-27"
+    },
+    {
+      "factKey": "zion-suzuki:2026-08-19:aston-villa-parma-goalkeeper",
+      "format": "fact",
+      "prompt": "Sezon 2026/27: kim Aston Villa wzmocniła obsadę bramki, sięgając po dotychczasowego podstawowego golkipera Parmy?",
+      "answerParts": [
+        "Zion Suzuki"
+      ],
+      "subjects": [
+        "player:zion-suzuki"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "premier-league",
+        "serie-a",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-19",
+      "sources": [
+        {
+          "title": "Parma — Suzuki odchodzi do Aston Villi po dwóch sezonach jako podstawowy bramkarz",
+          "url": "https://www.parmacalcio1913.com/en/main-news/zion-suzuki-joins-aston-villa/",
+          "checkedAt": "2026-10-22T08:25:23.776Z"
+        }
+      ],
+      "id": "2026-10-22-28"
+    },
+    {
+      "factKey": "ipswich:uefacup1981-final-az",
+      "format": "fact",
+      "prompt": "Który angielski klub pokonał AZ Alkmaar 5:4 w dwumeczu finału Pucharu UEFA 1981?",
+      "answerParts": [
+        "Ipswich Town"
+      ],
+      "subjects": [
+        "club:ipswich-town"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "anglia",
+        "puchar-uefa"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Ipswich pokonało AZ 3:0 i przegrało 2:4; finał 1981 zakończył się 5:4 w dwumeczu",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/008a-0e6a0a02d996-129ab95150db-1000--1980-81-ipswich-thankful-for-thijssen/",
+          "checkedAt": "2026-10-22T08:29:31.006Z"
+        }
+      ],
+      "id": "2026-10-22-29"
+    },
+    {
+      "factKey": "samsunspor:crest-mounted-ataturk-fragment",
+      "format": "crest",
+      "prompt": "Który klub rozpoznajesz po czarnym jeźdźcu w tym fragmencie herbu?",
+      "answerParts": [
+        "Samsunspor"
+      ],
+      "subjects": [
+        "club:samsunspor"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "turcja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Samsunspor — klubowe wspomnienie z herbem Atatürka",
+          "url": "https://www.samsunspor.com.tr/samsunsporumuz-57-yasinda-0",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        },
+        {
+          "title": "Herb Samsunsporu — źródło pliku graficznego",
+          "url": "https://en.wikipedia.org/wiki/File:Samsunspor_crest.svg",
+          "checkedAt": "2026-10-22T08:28:58.056Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d22-samsunspor.png",
+        "width": 1920,
+        "height": 2402,
+        "crop": [
+          360,
+          660,
+          1080,
+          960
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Samsunspor_crest.svg",
+        "credit": "Samsunspor Futbol Kulübü",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Samsunspor_crest.svg",
+        "changes": "Kadrowanie do fragmentu herbu; rasteryzacja SVG do PNG przez Wikimedia; bez retuszu.",
+        "alt": "Fragment herbu z czarną sylwetką jeźdźca na wspiętym koniu; bez nazwy, liter i roku."
+      },
+      "id": "2026-10-22-30"
+    }
+  ]
+}
