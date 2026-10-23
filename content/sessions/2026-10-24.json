@@ -1,0 +1,1176 @@
+{
+  "id": "2026-10-24",
+  "kind": "daily",
+  "title": "Trening głowy · 24 października 2026",
+  "date": "2026-10-24",
+  "publishAt": "2026-10-24T00:00:00+02:00",
+  "researchedAt": "2026-10-23T22:12:39.441Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-24"
+  },
+  "questions": [
+    {
+      "factKey": "marcel-regula:2026-10-23:first-born2006-ten-ekstraklasa-goals",
+      "format": "fact",
+      "prompt": "23 października 2026: kto jako pierwszy piłkarz z rocznika 2006 osiągnął dziesięć goli w Ekstraklasie?",
+      "answerParts": [
+        "Marcel Reguła"
+      ],
+      "subjects": [
+        "player:marcel-regula"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-23",
+      "sources": [
+        {
+          "title": "Ekstraklasa — dziesiąty gol Reguły i pierwszeństwo wśród piłkarzy z rocznika 2006",
+          "url": "https://ekstraklasa.org/mecz/6b497895-2249-4414-8db9-7bc2972955c6/motor-lublin-zaglebie-lubin/przeglad/",
+          "checkedAt": "2026-10-23T22:06:02.443Z"
+        }
+      ],
+      "id": "2026-10-24-01"
+    },
+    {
+      "factKey": "piotr-celeban:portrait2013",
+      "format": "photo",
+      "prompt": "Którego polskiego piłkarza rozpoznajesz na tym portrecie?",
+      "answerParts": [
+        "Piotr Celeban"
+      ],
+      "subjects": [
+        "player:piotr-celeban"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Ja Fryta — portret Piotra Celebana z listopada 2013 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Piotr_Celeban.jpg",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d24-celeban.jpg",
+        "width": 1272,
+        "height": 1746,
+        "crop": [
+          320,
+          65,
+          640,
+          910
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Piotr_Celeban.jpg",
+        "credit": "Ja Fryta ze Strzegomia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Kadrowanie do pełnej głowy i podbródka, poza emblematy i napisy; bez retuszu.",
+        "alt": "Wyraźny portret mężczyzny z krótkimi włosami i zarostem; cała głowa i podbródek, bez herbu i czytelnych znaków stroju."
+      },
+      "id": "2026-10-24-02"
+    },
+    {
+      "factKey": "ludovic-giuly:transfer2004-monaco-barcelona",
+      "format": "transfer",
+      "prompt": "Czyj transfer z czerwca 2004 pokazują te dwa herby?",
+      "answerParts": [
+        "Ludovic Giuly"
+      ],
+      "subjects": [
+        "player:ludovic-giuly"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "francja",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Barcelona podpisała kontrakt z Giulym z Monaco 28 czerwca 2004",
+          "url": "https://www.uefa.com/uefachampionsleague/news/019e-0e6c21ddbbdf-3b5ae41b4f4a-1000--giuly-bound-for-barcelona/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "transfer": {
+        "year": 2004,
+        "detail": "Czerwiec",
+        "from": {
+          "club": "AS Monaco",
+          "media": {
+            "path": "assets/d19-badge-monaco.png",
+            "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "credit": "AS Monaco",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 434,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "FC Barcelona",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-24-03"
+    },
+    {
+      "factKey": "fevernova:worldcup2002-official-ball-name",
+      "format": "fact",
+      "prompt": "Jak nazywała się oficjalna piłka mundialu 2002 w Korei Południowej i Japonii?",
+      "answerParts": [
+        "Fevernova"
+      ],
+      "subjects": [
+        "ball:fevernova"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "sprzet",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "adidas — Fevernova, oficjalna piłka mundialu 2002",
+          "url": "https://www.adidas-group.com/en/magazine/innovation/how-adidas-has-shaped-the-history-of-world-cup-balls-from-1970-to-the-present-day",
+          "checkedAt": "2026-10-23T22:01:32.377Z"
+        }
+      ],
+      "id": "2026-10-24-04"
+    },
+    {
+      "factKey": "nk-maribor:embroidered-crest-violet-castle-fragment",
+      "format": "crest",
+      "prompt": "Który klub rozpoznajesz po fiołku i zamkowej bramie w tym fragmencie haftowanego herbu?",
+      "answerParts": [
+        "NK Maribor"
+      ],
+      "subjects": [
+        "club:nk-maribor"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "slowenia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "NK Maribor — oficjalne objaśnienie fiołka, zamku i pozostałych symboli",
+          "url": "https://www.nkmaribor.com/Club/Symbols",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        },
+        {
+          "title": "NK Maribor — oryginalny materiał z haftowanym herbem",
+          "url": "https://www.nkmaribor.com/images/club/banners/emblem.png",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d24-maribor.png",
+        "width": 1440,
+        "height": 680,
+        "crop": [
+          710,
+          300,
+          370,
+          250
+        ],
+        "source": "https://www.nkmaribor.com/images/club/banners/emblem.png",
+        "credit": "NK Maribor — materiał klubowy",
+        "license": "Znak i materiał klubowy — bez wolnej licencji",
+        "licenseUrl": "https://www.nkmaribor.com/Club/Symbols",
+        "changes": "Kadrowanie do haftowanego fragmentu bez nazwy i liter; bez retuszu.",
+        "alt": "Fioletowy kwiat na złotym tle z małą zamkową bramą pośrodku; bez liter, nazwy i roku."
+      },
+      "id": "2026-10-24-05"
+    },
+    {
+      "factKey": "axel-witsel:2026-10-05:nice-captain-girona-relegation-brazil-comparison",
+      "format": "fact",
+      "prompt": "Sezon 2026/27: który kapitan Nice porównał presję walki o utrzymanie w Gironie do mundialowego ćwierćfinału z Brazylią?",
+      "answerParts": [
+        "Axel Witsel"
+      ],
+      "subjects": [
+        "player:axel-witsel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "francja",
+        "hiszpania",
+        "kariera"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-05",
+      "sources": [
+        {
+          "title": "OGC Nice — kapitan Witsel o spadku z Gironą i porównaniu presji do mundialu",
+          "url": "https://www.ogcnice.com/en/article/130926/witsel-for-me-nice-will-be-my-last-club.html",
+          "checkedAt": "2026-10-23T22:06:02.443Z"
+        }
+      ],
+      "id": "2026-10-24-06"
+    },
+    {
+      "factKey": "marek-kozminski:riddle-ancona-paok-fathers-club",
+      "format": "career-riddle",
+      "prompt": "Z Brescii trafił do Ancony, potem do PAOK-u. Karierę zakończył w klubie, którego prezesem był jego ojciec. Kto to?",
+      "answerParts": [
+        "Marek Koźmiński"
+      ],
+      "subjects": [
+        "player:marek-kozminski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "wlochy",
+        "grecja",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Koźmiński: Udinese, Brescia, Ancona; zakończenie kariery w Górniku zarządzanym przez ojca",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/marek-kozminski",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "UEFA — Koźmiński w PAOK-u od lata 2002, po Anconie, przejście do Górnika w lutym 2003",
+          "url": "https://www.uefa.com/news-media/news/018e-0f8448958851-97a65182ec30-1000--kozminski-makes-surprise-switch/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "id": "2026-10-24-07"
+    },
+    {
+      "factKey": "ivan-zamorano:inter-shirt1-plus8",
+      "format": "kit",
+      "prompt": "Który piłkarz Interu nosił koszulkę z numerem zapisanym jako 1+8?",
+      "answerParts": [
+        "Iván Zamorano"
+      ],
+      "subjects": [
+        "player:ivan-zamorano"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wlochy",
+        "stroje",
+        "kultura",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Inter — Zamorano wyjaśnia historię numeru 1+8",
+          "url": "https://www.inter.it/en/news/2017-03-29-wisdomwednesday-ivan-zamorano",
+          "checkedAt": "2026-10-23T22:01:32.791Z"
+        }
+      ],
+      "id": "2026-10-24-08"
+    },
+    {
+      "factKey": "lukasz-tralka:transfer2009-lechia-polonia",
+      "format": "transfer",
+      "prompt": "Kogo sprowadzono w tym krajowym transferze zimą 2009 roku?",
+      "answerParts": [
+        "Łukasz Trałka"
+      ],
+      "subjects": [
+        "player:lukasz-tralka"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Lech — Trałka grał w Lechii do końca 2008, zimą sezonu 2008/09 przeszedł do Polonii",
+          "url": "https://www.lechpoznan.pl/news,2,lukasz-tralka-przedstawienie-zawodnika,9424.html",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Zima",
+        "from": {
+          "club": "Lechia Gdańsk",
+          "media": {
+            "path": "assets/d24-badge-lechia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Lechia_Gda%C5%84sk_logo.svg",
+            "credit": "Lechia Gdańsk",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Lechia_Gda%C5%84sk_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 182,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Polonia Warszawa",
+          "media": {
+            "path": "assets/d09-polonia.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "credit": "BallOnTelly",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 411,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-24-09"
+    },
+    {
+      "factKey": "michal-globisz:poland-u16silver1999-u18gold2001",
+      "format": "coach",
+      "prompt": "Kto prowadził Polskę do srebra ME U16 w 1999 i złota ME U18 w 2001 roku?",
+      "answerParts": [
+        "Michał Globisz"
+      ],
+      "subjects": [
+        "coach:michal-globisz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "historia",
+        "mlodziez",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Michał Globisz i juniorskie medale z lat 1999 oraz 2001",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/zlota-druzyna-nie-zbior-jednostek",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "id": "2026-10-24-10"
+    },
+    {
+      "factKey": "wael-mohya:2026-10-23:gladbach-stuttgart-motm-goal-assist",
+      "format": "fact",
+      "prompt": "Stuttgart – Gladbach 2:3, 23 października 2026: kto został piłkarzem meczu, zaliczając gola i asystę dla gości?",
+      "answerParts": [
+        "Wael Mohya"
+      ],
+      "subjects": [
+        "player:wael-mohya"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "pilkarz-meczu"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-23",
+      "sources": [
+        {
+          "title": "Bundesliga — Mohya strzelił, asystował i został piłkarzem meczu przy pierwszych punktach Gladbach",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-borussia-monchengladbach-match-report-highlights-matchday-7-39693",
+          "checkedAt": "2026-10-23T22:06:02.443Z"
+        }
+      ],
+      "id": "2026-10-24-11"
+    },
+    {
+      "factKey": "puskas-arena:aerial-exterior2019",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion po owalnym dachu i monumentalnej fasadzie. Podaj także miasto.",
+      "answerParts": [
+        "Puskás Aréna, Budapeszt"
+      ],
+      "subjects": [
+        "stadium:puskas-arena"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "wegry",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "OD Pictures — fotografia lotnicza Puskás Arény z października 2019",
+          "url": "https://commons.wikimedia.org/wiki/File:Pusk%C3%A1s_Ar%C3%A9na_05.jpg",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        },
+        {
+          "title": "UEFA — architektura i położenie Puskás Arény w Budapeszcie",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0281-1820d159f8b4-bf0231bd9d93-1000--pitch-perfect-puskas-arena/",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d24-puskas.jpg",
+        "width": 5472,
+        "height": 2877,
+        "crop": [
+          0,
+          0,
+          5472,
+          2877
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Pusk%C3%A1s_Ar%C3%A9na_05.jpg",
+        "credit": "OD Pictures",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Bez zmian w fotografii.",
+        "alt": "Stadion widziany z powietrza: szeroki owalny dach, wysokie betonowe podpory i ceglana budowla przed główną fasadą; bez nazwy i herbów."
+      },
+      "id": "2026-10-24-12"
+    },
+    {
+      "factKey": "hamburger-sv:shared-club-son-guerrero-vannistelrooy2011",
+      "format": "shared-club",
+      "prompt": "Son Heung-min, Paolo Guerrero i Ruud van Nistelrooy: w którym klubie grali razem w sezonie 2010/11?",
+      "answerParts": [
+        "Hamburger SV"
+      ],
+      "subjects": [
+        "club:hamburger-sv"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wspolny-klub",
+        "historia",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "DFB — Hamburg–Werder 19 lutego 2011: Son i Guerrero w składzie, van Nistelrooy w kadrze meczowej",
+          "url": "https://datencenter.dfb.de/datencenter/bundesliga/2010-2011/23-spieltag/hamburger-sv-sv-werder-bremen-191580",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "id": "2026-10-24-13"
+    },
+    {
+      "factKey": "radoslaw-gilewicz:career-gap-fc-tirol1999-2002",
+      "format": "career-gap",
+      "prompt": "Radosław Gilewicz: który klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "FC Tirol Innsbruck"
+      ],
+      "subjects": [
+        "club:fc-tirol-innsbruck"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "niemcy",
+        "austria"
+      ],
+      "sources": [
+        {
+          "title": "Austria Wiedeń — Gilewicz przeszedł z Karlsruhe do FC Tirol w styczniu 1999, a w 2002 do Austrii",
+          "url": "https://fk-austria.at/news/radoslav-gilewicz-ist-55",
+          "checkedAt": "2026-10-23T22:09:11.505Z"
+        },
+        {
+          "title": "DFB — Gilewicz zawodnikiem Karlsruhe od lipca 1997 do grudnia 1998",
+          "url": "https://datencenter.dfb.de/en/data-center/people/radoslaw-gilewicz/player",
+          "checkedAt": "2026-10-23T22:09:11.505Z"
+        },
+        {
+          "title": "Austria Wiedeń — Gilewicz występował w klubie w latach 2002–2005",
+          "url": "https://fk-austria.at/news/was-wurde-aus-rados%C5%82aw-gilewicz",
+          "checkedAt": "2026-10-23T22:09:11.505Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Karlsruher SC",
+          "years": "1997–1998",
+          "media": {
+            "path": "assets/d24-badge-karlsruhe.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Karlsruher_SC_Logo_2.svg",
+            "credit": "Karlsruher SC",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Karlsruher_SC_Logo_2.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "FC Tirol Innsbruck",
+          "years": "1999–2002",
+          "media": {
+            "path": "assets/d24-badge-tirol.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Tirol_Innsbruck.svg",
+            "credit": "Fußballclub Tirol Innsbruck",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Tirol_Innsbruck.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 341,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Austria Wiedeń",
+          "years": "2002–2005",
+          "media": {
+            "path": "assets/d24-badge-austria.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FK_Austria_Wien_Logo.png",
+            "credit": "FK Austria Wien",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby pierwszych drużyn.",
+      "id": "2026-10-24-14"
+    },
+    {
+      "factKey": "mascot-ciao:italy1990-stick-figure-football-head",
+      "format": "fact",
+      "prompt": "Jak nazywała się maskotka mundialu 1990 — trójkolorowy ludzik z piłką zamiast głowy?",
+      "answerParts": [
+        "Ciao"
+      ],
+      "subjects": [
+        "mascot:ciao-1990"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "wlochy",
+        "maskotki",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — historia maskotek i Ciao z mundialu we Włoszech",
+          "url": "https://www.fifa.com/en/articles/world-cup-mascots-in-history",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        },
+        {
+          "title": "FIFA — oficjalna galeria maskotek, Włochy 1990",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/from-1966-to-2014-looking-back-at-fifa-world-cup-mascots-2764879",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "id": "2026-10-24-15"
+    },
+    {
+      "factKey": "ibrahim-maza:2026-10-23:algeria-national-team-berlin-upbringing",
+      "format": "country",
+      "prompt": "Sezon 2026/27: w reprezentacji którego kraju gra wychowany w Berlinie Ibrahim Maza z Bayeru Leverkusen?",
+      "answerParts": [
+        "Algieria"
+      ],
+      "subjects": [
+        "player:ibrahim-maza"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "reprezentacje",
+        "algieria",
+        "bundesliga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-23",
+      "sources": [
+        {
+          "title": "Bundesliga — Maza o dorastaniu w Berlinie i reprezentowaniu Algierii",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/ibrahim-maza-interview-florian-wirtz-comparison-bayer-leverkusen-ambitions-39668",
+          "checkedAt": "2026-10-23T22:06:02.443Z"
+        }
+      ],
+      "id": "2026-10-24-16"
+    },
+    {
+      "factKey": "christian-wilhelmsson:transfer2006-anderlecht-nantes",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym ruchu latem 2006 roku?",
+      "answerParts": [
+        "Christian Wilhelmsson"
+      ],
+      "subjects": [
+        "player:christian-wilhelmsson"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "belgia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Wilhelmsson dołączył do Nantes latem 2006 z Anderlechtu, przed późniejszym wypożyczeniem do Romy",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01bd-0e6e2a636adf-9c407ceee11d-1000--wilhelmsson-wings-into-roma/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Lato",
+        "from": {
+          "club": "Anderlecht",
+          "media": {
+            "path": "assets/d11-badge-anderlecht.png",
+            "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "credit": "Anderlecht",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "FC Nantes",
+          "media": {
+            "path": "assets/d24-badge-nantes.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+            "credit": "FC Nantes",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 322,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-24-17"
+    },
+    {
+      "factKey": "ifk-goteborg:crest-lion-sword-three-crowns",
+      "format": "crest",
+      "prompt": "Który klub ma w herbie tego lwa z mieczem i tarczą z trzema koronami?",
+      "answerParts": [
+        "IFK Göteborg"
+      ],
+      "subjects": [
+        "club:ifk-goteborg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szwecja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "IFK Göteborg — klubowe objaśnienie herbu i barw",
+          "url": "https://ifkgoteborg.se/nyheter/foreningen/2020/klubbmarket-historiskt-kvalitetssakrat/",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        },
+        {
+          "title": "IFK Göteborg — oficjalny plik herbu",
+          "url": "https://ifkgoteborg.se/wp-content/uploads/2017/09/IFK-logo.png",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d24-goteborg.png",
+        "width": 800,
+        "height": 1221,
+        "crop": [
+          65,
+          400,
+          660,
+          710
+        ],
+        "source": "https://ifkgoteborg.se/wp-content/uploads/2017/09/IFK-logo.png",
+        "credit": "IFK Göteborg",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://ifkgoteborg.se/om-ifk-goteborg/kontakt/medieservice/",
+        "changes": "Kadrowanie do lwa i tarczy; bez retuszu.",
+        "alt": "Złoty lew z mieczem i białą tarczą z trzema koronami na niebiesko-białym tle; bez liter."
+      },
+      "id": "2026-10-24-18"
+    },
+    {
+      "factKey": "frank-rijkaard:coach-link-reiziger-iniesta-kewell",
+      "format": "coach-link",
+      "prompt": "Holandia, Barcelona i Galatasaray: kto prowadził tych zawodników w podanych okresach?",
+      "answerParts": [
+        "Frank Rijkaard"
+      ],
+      "subjects": [
+        "coach:frank-rijkaard"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "historia",
+        "reprezentacje",
+        "hiszpania",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Reiziger w jedenastce Holandii pod wodzą Rijkaarda przeciwko Czechom na EURO 2000",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0253-0d7b30966004-6b56cc87f189-1000--de-boer-on-the-spot-as-oranje-leave-it-late-in-euro-2000-gr/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "UEFA — Iniesta zastąpił Xaviego w Barcelonie Rijkaarda przeciwko Chelsea w październiku 2006",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01bb-0e6db740bb51-544e2c336c9c-1000--xavi-adds-to-barcelona-concerns/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "UEFA — Kewell opisuje współpracę z trenerem Rijkaardem po zwycięstwie Galatasaray w listopadzie 2009",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01df-0e734c923670-1a50c27d035a-1000--rijkaard-factor-lifts-galatasaray/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "clues": [
+        "Michael Reiziger — Holandia, EURO 2000",
+        "Andrés Iniesta — Barcelona, 2006/07",
+        "Harry Kewell — Galatasaray, 2009/10"
+      ],
+      "id": "2026-10-24-19"
+    },
+    {
+      "factKey": "kacper-urbanski:2026-10-23:widzew-gornik-equalizer",
+      "format": "fact",
+      "prompt": "Widzew – Górnik, 23 października 2026: kto odpowiedział na gola Świderskiego, zapewniając zabrzanom remis 1:1?",
+      "answerParts": [
+        "Kacper Urbański"
+      ],
+      "subjects": [
+        "player:kacper-urbanski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-23",
+      "sources": [
+        {
+          "title": "Górnik Zabrze — Urbański zdobył wyrównującą bramkę w zakończonym meczu z Widzewem",
+          "url": "https://www.gornikzabrze.pl/aktualnosci/mnostwo-szans-i-jeden-punkt-widzew-gornik-11",
+          "checkedAt": "2026-10-23T22:06:02.443Z"
+        }
+      ],
+      "id": "2026-10-24-20"
+    },
+    {
+      "factKey": "tore-andre-flo:portrait2018",
+      "format": "photo",
+      "prompt": "Zidentyfikuj byłego napastnika widocznego na fotografii.",
+      "answerParts": [
+        "Tore André Flo"
+      ],
+      "subjects": [
+        "player:tore-andre-flo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "norwegia",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Chelsea Debs — fotografia Tore André Flo z lutego 2018 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Tore_Andr%C3%A9_Flo_2018.jpg",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d24-flo.jpg",
+        "width": 799,
+        "height": 1037,
+        "crop": [
+          290,
+          30,
+          300,
+          350
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Tore_Andr%C3%A9_Flo_2018.jpg",
+        "credit": "@cfcunofficial (Chelsea Debs) London; wcześniejsze kadrowanie: FMSky i Dudek1337",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Dodatkowe kadrowanie do głowy i szyi; bez retuszu.",
+        "alt": "Mężczyzna z ciemnymi włosami, w cywilnym płaszczu i szaliku; pełna głowa i podbródek, bez piłkarskiej koszulki, herbu i sponsora."
+      },
+      "id": "2026-10-24-21"
+    },
+    {
+      "factKey": "magdeburg:cwc1974-milan",
+      "format": "fact",
+      "prompt": "Który klub z NRD pokonał Milan 2:0 w finale Pucharu Zdobywców Pucharów 1974?",
+      "answerParts": [
+        "1. FC Magdeburg"
+      ],
+      "subjects": [
+        "club:magdeburg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "niemcy",
+        "puchar-zdobywcow-pucharow"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Magdeburg pokonał Milan 2:0 w finale PZP 8 maja 1974",
+          "url": "https://www.uefa.com/news-media/news/019d-0f8fc052b1ca-8673f1409f8c-1000--magdeburg-s-happy-anniversary/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "id": "2026-10-24-22"
+    },
+    {
+      "factKey": "georgios-samaras:loan2008-mancity-celtic",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono między tymi klubami w styczniu 2008?",
+      "answerParts": [
+        "Georgios Samaras"
+      ],
+      "subjects": [
+        "player:georgios-samaras"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia",
+        "szkocja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Samaras wypożyczony z Manchesteru City do Celticu 29 stycznia 2008",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c9-0e6ee5e55f3e-04441cb9f66c-1000--celtic-capture-samaras-and-mizuno/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Celtic",
+          "media": {
+            "path": "assets/d19-badge-celtic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "credit": "Celtic",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-24-23"
+    },
+    {
+      "factKey": "tre-penne:first-sammarinese-uefa-win2013-shirak",
+      "format": "fact",
+      "prompt": "Który klub w 2013 jako pierwszy z San Marino wygrał mecz w rozgrywkach UEFA, pokonując Shirak 1:0?",
+      "answerParts": [
+        "Tre Penne"
+      ],
+      "subjects": [
+        "club:tre-penne"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "san-marino",
+        "liga-mistrzow",
+        "historia",
+        "eliminacje"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pierwsze zwycięstwo klubu z San Marino: Tre Penne nad Shirakiem w 2013",
+          "url": "https://www.uefa.com/nationalassociations/SMR/",
+          "checkedAt": "2026-10-23T22:01:32.553Z"
+        }
+      ],
+      "id": "2026-10-24-24"
+    },
+    {
+      "factKey": "benoit-pedretti:career-marseille-lyon-auxerre",
+      "format": "career",
+      "prompt": "Który piłkarz przeszedł przez te trzy kolejne etapy we Francji?",
+      "answerParts": [
+        "Benoît Pedretti"
+      ],
+      "subjects": [
+        "player:benoit-pedretti"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "FFF — kolejne kluby Pedrettiego: Marseille 2004–2005, Lyon 2005–2006, Auxerre 2006–2011",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/8698-pedretti-benoit/fiche.html",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "UEFA — po jednym sezonie w Marseille i Lyonie Pedretti przeszedł do Auxerre w 2006",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01b8-0e6da2c75da5-ba01296719f0-1000--pedretti-agrees-auxerre-switch/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "UEFA — Pedretti odszedł z Auxerre do Lille w czerwcu 2011",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01f2-0ea28276708f-712862710aa6-1000--rozehnal-pedretti-enyeama-join-new-look-lille/",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Olympique Marsylia",
+          "years": "2004–2005",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Olympique Lyon",
+          "years": "2005–2006",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "AJ Auxerre",
+          "years": "2006–2011",
+          "media": {
+            "path": "assets/d24-badge-auxerre.png",
+            "source": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+            "credit": "AJ Auxerre",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 316,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby pierwszych drużyn; pominięto wcześniejsze i późniejsze etapy.",
+      "id": "2026-10-24-25"
+    },
+    {
+      "factKey": "patrick-kluivert:curacao-headcoach2015-16",
+      "format": "country",
+      "prompt": "Którą reprezentację prowadził Patrick Kluivert w latach 2015–2016?",
+      "answerParts": [
+        "Curaçao"
+      ],
+      "subjects": [
+        "coach:patrick-kluivert"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "concacaf",
+        "geografia",
+        "trenerzy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Concacaf — Kluivert objął Curaçao w 2015, a Bicentini zastąpił go w maju 2016",
+          "url": "https://www.concacaf.com/news/the-rapid-rise-of-curacao-in-concacaf",
+          "checkedAt": "2026-10-23T22:01:47.717Z"
+        }
+      ],
+      "id": "2026-10-24-26"
+    },
+    {
+      "factKey": "tim-wiese:wwe-munich2016",
+      "format": "fact",
+      "prompt": "Który były bramkarz Werderu wystąpił w ringu WWE w Monachium w 2016 roku?",
+      "answerParts": [
+        "Tim Wiese"
+      ],
+      "subjects": [
+        "player:tim-wiese"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "niemcy",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "WWE — Wiese, były bramkarz Werderu, przyjął zaproszenie do treningów w czerwcu 2016",
+          "url": "https://www.wwe.com/worldwide/article/goalkeeper-tim-wiese-accepts-triple-hs-invitation-train-wwe-performance-center?sf28135294=1",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "WWE — fotografie Wiese z rzeczywistego występu w Monachium w listopadzie 2016",
+          "url": "https://www.wwe.com/worldwide/gallery/wwe-live-munich-germany-november-2016-photos",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        },
+        {
+          "title": "WWE — wypowiedź Wiese po jego meczu w monachijskiej Olympiahalle",
+          "url": "https://www.wwe.com/videos/what-tim-wiese-thought-of-himself-at-wwe-live-in-munich",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "id": "2026-10-24-27"
+    },
+    {
+      "factKey": "omonia:2026-27:club-anthem-lions-defence-cannons-attack",
+      "format": "fact",
+      "prompt": "Który cypryjski uczestnik Ligi Europy 2026/27 ma w hymnie lwy w obronie i armaty w ataku?",
+      "answerParts": [
+        "Omonia Nikozja"
+      ],
+      "subjects": [
+        "club:omonia"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "season",
+        "liga-europy",
+        "cypr",
+        "kultura",
+        "hymny"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "UEFA — Omonia w Lidze Europy i słowa jej klubowego hymnu",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02aa-21d759c80859-b16e8acf0870-1000--europa-league-matchday-3-briefing-tough-tasks-for-besikta/",
+          "checkedAt": "2026-10-23T22:06:02.443Z"
+        }
+      ],
+      "id": "2026-10-24-28"
+    },
+    {
+      "factKey": "hassan-shehata:egypt-afcon2006-2008-2010",
+      "format": "fact",
+      "prompt": "Który trener poprowadził Egipt do trzech kolejnych triumfów w Pucharze Narodów Afryki: 2006, 2008 i 2010?",
+      "answerParts": [
+        "Hassan Shehata"
+      ],
+      "subjects": [
+        "coach:hassan-shehata"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "egipt",
+        "reprezentacje",
+        "puchar-narodow-afryki"
+      ],
+      "sources": [
+        {
+          "title": "CAF — oficjalny przewodnik AFCON 2025, strony PDF 21 i 68: Shehata trenerem mistrzów w 2006, 2008 i 2010",
+          "url": "https://www.cafonline.com/media/05ebfeih/ultimate-media-guide-afcon25.pdf",
+          "checkedAt": "2026-10-23T22:07:20.480Z"
+        }
+      ],
+      "id": "2026-10-24-29"
+    },
+    {
+      "factKey": "st-pauli:fan-symbol-skull-crossbones-pirate-flag",
+      "format": "fact",
+      "prompt": "Z którym niemieckim klubem kojarzy się kibicowska piracka flaga z czaszką i piszczelami?",
+      "answerParts": [
+        "FC St. Pauli"
+      ],
+      "subjects": [
+        "club:st-pauli"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "niemcy",
+        "kibice",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Bundesliga — czaszka i piszczele jako symbol kibiców St. Pauli",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/st-pauli-club-by-club-historical-guide-hamburg-reeperbahn-kultclub-24198",
+          "checkedAt": "2026-10-23T22:05:17.095Z"
+        }
+      ],
+      "id": "2026-10-24-30"
+    }
+  ]
+}
