@@ -1,0 +1,1239 @@
+{
+  "id": "2026-10-23",
+  "kind": "daily",
+  "title": "Trening głowy · 23 października 2026",
+  "date": "2026-10-23",
+  "publishAt": "2026-10-23T08:00:00+02:00",
+  "researchedAt": "2026-10-23T18:21:10.677Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-23"
+  },
+  "questions": [
+    {
+      "factKey": "mikel-oyarzabal:2026-10-22:three-first-half-assists-lillestrom",
+      "format": "fact",
+      "prompt": "22 października 2026: kto asystował przy wszystkich trzech golach Realu Sociedad przed przerwą w zwycięstwie 6:0 nad Lillestrøm?",
+      "answerParts": [
+        "Mikel Oyarzabal"
+      ],
+      "subjects": [
+        "player:mikel-oyarzabal"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "hiszpania",
+        "asysty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "Real Sociedad — trzy asysty Oyarzabala w pierwszej połowie zwycięstwa 6:0",
+          "url": "https://www.realsociedad.eus/es/noticias/detalle/desatados-2",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        }
+      ],
+      "id": "2026-10-23-01"
+    },
+    {
+      "factKey": "mariusz-rumak:portrait2013",
+      "format": "photo",
+      "prompt": "Rozpoznaj polskiego szkoleniowca na tej fotografii.",
+      "answerParts": [
+        "Mariusz Rumak"
+      ],
+      "subjects": [
+        "coach:mariusz-rumak"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Roger Gor — portret Mariusza Rumaka z 2013 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Mariusz_Rumak_2013_(cropped).jpg",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d23-rumak.jpg",
+        "width": 559,
+        "height": 683,
+        "crop": [
+          50,
+          0,
+          450,
+          575
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Mariusz_Rumak_2013_(cropped).jpg",
+        "credit": "Roger Gor (Roger Gorączniak)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Kadrowanie do pełnej głowy i podbródka; bez retuszu.",
+        "alt": "Portret mężczyzny w płaszczu, z całą twarzą i włosami; bez herbu i czytelnych nazw klubu lub sponsora."
+      },
+      "id": "2026-10-23-02"
+    },
+    {
+      "factKey": "grzegorz-wojtkowiak:transfer2012-lech-1860",
+      "format": "transfer",
+      "prompt": "Kto wykonał ten ruch latem 2012 roku?",
+      "answerParts": [
+        "Grzegorz Wojtkowiak"
+      ],
+      "subjects": [
+        "player:grzegorz-wojtkowiak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "polska",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Lech — Wojtkowiak grał w Poznaniu do 2012, następnie w TSV 1860 Monachium",
+          "url": "https://www.lechpoznan.pl/news,38,sylwetka-szkoleniowca-rezerw,43925.html",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "PZPN — po EURO 2012 Wojtkowiak przeniósł się do TSV 1860 Monachium",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/grzegorz-wojtkowiak",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "transfer": {
+        "year": 2012,
+        "detail": "Lato",
+        "from": {
+          "club": "Lech Poznań",
+          "media": {
+            "path": "assets/d23-badge-lech.png",
+            "source": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "credit": "Lech Poznań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 380,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "1860 München",
+          "media": {
+            "path": "assets/d14-badge-1860.png",
+            "source": "https://commons.wikimedia.org/wiki/File:TSV_1860_M%C3%BCnchen.svg",
+            "credit": "TSV 1860 München",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:TSV_1860_M%C3%BCnchen.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-23-03"
+    },
+    {
+      "factKey": "rule:goalkeeper-eight-seconds-corner2026-27",
+      "format": "fact",
+      "prompt": "Jak wznawia się grę według Przepisów 2026/27, gdy bramkarz kontroluje piłkę rękami we własnym polu karnym ponad osiem sekund?",
+      "answerParts": [
+        "Rzutem rożnym dla drużyny przeciwnej"
+      ],
+      "subjects": [
+        "rule:goalkeeper-eight-seconds"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "przepisy",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "IFAB — przepis 17: rzut rożny po przekroczeniu ośmiu sekund",
+          "url": "https://theifab.com/laws/latest/the-corner-kick/",
+          "checkedAt": "2026-10-23T18:13:32.300Z"
+        }
+      ],
+      "id": "2026-10-23-04"
+    },
+    {
+      "factKey": "vojvodina:crest-blue-star",
+      "format": "crest",
+      "prompt": "Który serbski klub rozpoznajesz po niebieskiej gwieździe w tym fragmencie herbu?",
+      "answerParts": [
+        "FK Vojvodina Nowy Sad"
+      ],
+      "subjects": [
+        "club:vojvodina"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "serbia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "FK Napredak — sylwetka Vojvodiny i jej herb",
+          "url": "https://fknapredak.rs/club/vojvodina/",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        },
+        {
+          "title": "Herb FK Vojvodina — źródło grafiki i warunki użycia",
+          "url": "https://commons.wikimedia.org/wiki/File:Logo_FK_Vojvodina.svg",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d23-vojvodina.png",
+        "width": 1800,
+        "height": 2609,
+        "crop": [
+          0,
+          0,
+          1000,
+          720
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Logo_FK_Vojvodina.svg",
+        "credit": "FK Vojvodina; plik SVG: Wikijunkie",
+        "license": "Domena publiczna — prosty znak graficzny; znak klubowy",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_FK_Vojvodina.svg",
+        "changes": "Rasteryzacja SVG do PNG i kadrowanie do fragmentu bez liter; bez retuszu.",
+        "alt": "Niebieska pięcioramienna gwiazda na białym polu ze złotym obramowaniem; bez liter i nazwy."
+      },
+      "id": "2026-10-23-05"
+    },
+    {
+      "factKey": "lugano:2026-10-22:getafe-away-five-goals",
+      "format": "fact",
+      "prompt": "Który klub 22 października 2026 rozbił Getafe 5:2 na wyjeździe w Lidze Konferencji?",
+      "answerParts": [
+        "FC Lugano"
+      ],
+      "subjects": [
+        "club:lugano"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "szwajcaria"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "FC Lugano — historyczne pięć goli i wyjazdowe zwycięstwo nad Getafe",
+          "url": "https://fclugano.com/en/news/cinque-gol-per-una-notte-storica",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        }
+      ],
+      "id": "2026-10-23-06"
+    },
+    {
+      "factKey": "marek-zienczuk:riddle-amica-wisla-xanthi-ruch",
+      "format": "career-riddle",
+      "prompt": "Po Amice i Wiśle wyjechał do Skody Xanthi. Później grał w Lechii i Ruchu, zdobywając z nim wicemistrzostwo. Kto to?",
+      "answerParts": [
+        "Marek Zieńczuk"
+      ],
+      "subjects": [
+        "player:marek-zienczuk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "polska",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Ruch Chorzów — raport roczny 2015/16: Zieńczuk, Amica, Wisła, Xanthi, Lechia oraz wicemistrzostwo z Ruchem w 2012",
+          "url": "https://biznes.pap.pl/download/attachment/25819671/DOC.20161128.25819671.Raport_roczny_RCW_-_01.07.2015-30.06.2016_r.-0.pdf",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "id": "2026-10-23-07"
+    },
+    {
+      "factKey": "oleg-blokhin:ballondor1975-ukraine2006-quarterfinal",
+      "format": "fact",
+      "prompt": "Który zdobywca Złotej Piłki z 1975 roku doprowadził Ukrainę do ćwierćfinału mundialu 2006 jako selekcjoner?",
+      "answerParts": [
+        "Ołeh Błochin (Oleg Błochin)"
+      ],
+      "subjects": [
+        "player:oleg-blokhin"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "ukraina",
+        "mundial",
+        "zlota-pilka",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Złota Piłka Błochina i ćwierćfinał mundialu z Ukrainą",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0254-0d7da18fd9d2-333fbff7be60-1000--oleh-blokhin/",
+          "checkedAt": "2026-10-23T18:13:32.300Z"
+        }
+      ],
+      "id": "2026-10-23-08"
+    },
+    {
+      "factKey": "dennis-praet:transfer2019-sampdoria-leicester",
+      "format": "transfer",
+      "prompt": "Czyj transfer z sierpnia 2019 przedstawia ta para herbów?",
+      "answerParts": [
+        "Dennis Praet"
+      ],
+      "subjects": [
+        "player:dennis-praet"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "wlochy",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — Praet dołączył do Leicester z Sampdorii 8 sierpnia 2019",
+          "url": "https://www.premierleague.com/en/news/1303804",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "transfer": {
+        "year": 2019,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Sampdoria",
+          "media": {
+            "path": "assets/d21-badge-sampdoria.png",
+            "source": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "credit": "Sampdoria",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 318,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Leicester City",
+          "media": {
+            "path": "assets/d22-badge-leicester.png",
+            "source": "https://en.wikipedia.org/wiki/File:Leicester_City_crest.svg",
+            "credit": "Leicester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Leicester_City_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-23-09"
+    },
+    {
+      "factKey": "pogon-lwow:polonia-bytom-colours-crest-inheritance",
+      "format": "fact",
+      "prompt": "Do którego przedwojennego klubu nawiązują barwy i kształt herbu Polonii Bytom?",
+      "answerParts": [
+        "Pogoń Lwów"
+      ],
+      "subjects": [
+        "club:pogon-lwow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "historia",
+        "kultura",
+        "barwy"
+      ],
+      "sources": [
+        {
+          "title": "Polonia Bytom — księga znaku, geneza barw i herbu, strona 3",
+          "url": "https://bs.poloniabytom.com.pl/wp-content/uploads/2023/06/Polonia-Bytom-ksiega-znaku.pdf",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "id": "2026-10-23-10"
+    },
+    {
+      "factKey": "leo-bengtsson:2026-10-22:lech-first-league-phase-goal",
+      "format": "fact",
+      "prompt": "Który rezerwowy strzelił pierwszego gola Lecha w fazie ligowej Ligi Europy 2026/27, zapewniając remis z Sunderlandem 22 października?",
+      "answerParts": [
+        "Leo Bengtsson"
+      ],
+      "subjects": [
+        "player:leo-bengtsson"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "liga-europy",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Bengtsson zdobył pierwszą bramkę Lecha osiem minut po wejściu na boisko",
+          "url": "https://ekstraklasa.org/aktualnosci/le-czarny-kon-zremisowal-z-czarnymi-kotami/",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        },
+        {
+          "title": "UEFA — wyniki fazy ligowej Ligi Europy, w tym remis Lecha 22 października",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures/",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        }
+      ],
+      "id": "2026-10-23-11"
+    },
+    {
+      "factKey": "olympiastadion-munich:tent-roof-photo2012",
+      "format": "stadium",
+      "prompt": "Jak nazywa się stadion z tym namiotowym dachem i w jakim mieście stoi?",
+      "answerParts": [
+        "Olympiastadion (Stadion Olimpijski), Monachium"
+      ],
+      "subjects": [
+        "stadium:olympiastadion-munich"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "niemcy",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Diego Delso — zdjęcie Stadionu Olimpijskiego w Monachium z 2012 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Olympiastadion,_M%C3%BAnich,_Alemania_2012-04-28,_DD_01.JPG",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        },
+        {
+          "title": "Olympiapark München — stadion i charakterystyczny dach",
+          "url": "https://www.olympiapark.de/en/the-olympic-park/park-overview/olympic-stadium",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d23-munich.jpg",
+        "width": 3741,
+        "height": 1565,
+        "crop": [
+          0,
+          0,
+          3741,
+          1565
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Olympiastadion,_M%C3%BAnich,_Alemania_2012-04-28,_DD_01.JPG",
+        "credit": "Diego Delso, delso.photo",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Bez zmian w fotografii.",
+        "alt": "Panorama stadionu z zielonymi trybunami i falującym przezroczystym dachem na masztach; bez czytelnej nazwy i herbów."
+      },
+      "id": "2026-10-23-12"
+    },
+    {
+      "factKey": "malaga:shared-club-cazorla-isco-demichelis2012",
+      "format": "shared-club",
+      "prompt": "Santi Cazorla, Isco i Martín Demichelis: który klub łączy ich w sezonie 2011/12?",
+      "answerParts": [
+        "Málaga CF"
+      ],
+      "subjects": [
+        "club:malaga"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "wspolny-klub",
+        "historia",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "Málaga — pełna kadra 2011/12 obejmuje Cazorlę, Isco i Demichelisa",
+          "url": "https://www.malagacf.com/temporada-2011-2012",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "id": "2026-10-23-13"
+    },
+    {
+      "factKey": "kamil-kosowski:career-gap-apollon",
+      "format": "career-gap",
+      "prompt": "Kamil Kosowski: jaki herb powinien znaleźć się w pustym miejscu?",
+      "answerParts": [
+        "Apollon Limassol"
+      ],
+      "subjects": [
+        "club:apollon-limassol"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "historia",
+        "cypr",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Wisła — po APOEL-u Kosowski grał w Apollonie, a następnie w Bełchatowie",
+          "url": "https://archiwum.wisla.krakow.pl/pl/news/kamil_kosowski_returns_to_wisla/",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "Kosowski w rozmowie z Weszło — sezon 2010/11 w Apollonie",
+          "url": "https://weszlo.com/2020/09/23/kamil-kosowski-apollon-lech-poznan/",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "APOEL — Kosowski podpisał kontrakt w lipcu 2008",
+          "url": "https://apoelfc.com.cy/article/ypografi-symbolaioy",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "APOEL",
+          "years": "2008",
+          "media": {
+            "path": "assets/d23-badge-apoel.png",
+            "source": "https://commons.wikimedia.org/wiki/File:APOEL_(logo_with_stars).svg",
+            "credit": "APOEL F.C.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:APOEL_(logo_with_stars).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 300,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Apollon Limassol",
+          "years": "2010",
+          "media": {
+            "path": "assets/d23-badge-apollon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Apollon_Limassol_Logo.png",
+            "credit": "Apollon Limassol",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Apollon_Limassol_Logo.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "GKS Bełchatów",
+          "years": "2011",
+          "media": {
+            "path": "assets/d10-badge-belchatow.png",
+            "source": "https://en.wikipedia.org/wiki/File:GKS_Be%C5%82chat%C3%B3w.png",
+            "credit": "GKS Bełchatów",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:GKS_Be%C5%82chat%C3%B3w.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 327,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby. Daty oznaczają lata dołączenia, nie pełne okresy gry.",
+      "id": "2026-10-23-14"
+    },
+    {
+      "factKey": "eric-cantona:ken-loach2009-imaginary-postman-mentor",
+      "format": "fact",
+      "prompt": "Który były piłkarz zagrał samego siebie jako wyobrażony mentor listonosza w filmie Kena Loacha z 2009 roku?",
+      "answerParts": [
+        "Eric Cantona"
+      ],
+      "subjects": [
+        "player:eric-cantona"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "anglia",
+        "kultura",
+        "kino"
+      ],
+      "sources": [
+        {
+          "title": "Dystrybutor filmu „Looking for Eric” — Cantona grający samego siebie",
+          "url": "https://iconfilmdistribution.co.uk/our-films/looking-for-eric",
+          "checkedAt": "2026-10-23T18:13:32.300Z"
+        },
+        {
+          "title": "Festiwal w Cannes — film Loacha z 2009 roku i wyobrażone spotkania listonosza z Cantoną",
+          "url": "https://www.festival-cannes.com/en/2009/ken-loach-in-competition-again-with-looking-for-eric/",
+          "checkedAt": "2026-10-23T18:13:32.300Z"
+        }
+      ],
+      "id": "2026-10-23-15"
+    },
+    {
+      "factKey": "filipe-luis:2026-10-22:monaco-freiburg-coach",
+      "format": "coach",
+      "prompt": "Kto prowadził Monaco w wygranym 3:0 meczu z Freiburgiem w Lidze Konferencji 22 października 2026?",
+      "answerParts": [
+        "Filipe Luís"
+      ],
+      "subjects": [
+        "coach:filipe-luis"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "francja",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "AS Monaco — trener Filipe Luís w protokole zwycięstwa 3:0 z Freiburgiem",
+          "url": "https://www.asmonaco.com/en/news/as-monaco-ease-past-freiburg-to-secure-second-uefa-conference-league-victory",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        }
+      ],
+      "id": "2026-10-23-16"
+    },
+    {
+      "factKey": "poland:olympicfinal1992-xi-gesior-kobylanski",
+      "format": "lineup",
+      "prompt": "Polska w finale igrzysk olimpijskich 1992: uzupełnij dwa nazwiska w wyjściowym składzie.",
+      "answerParts": [
+        "Dariusz Gęsior",
+        "Andrzej Kobylański"
+      ],
+      "subjects": [
+        "player:dariusz-gesior",
+        "player:andrzej-kobylanski"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "polish",
+        "historia",
+        "reprezentacje",
+        "igrzyska-olimpijskie"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — wyjściowy skład Polski w finale z Hiszpanią 8 sierpnia 1992",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-hiszpania-23-08081992",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "DFB — jedenastka Polski: Gęsior i Kobylański od pierwszej minuty finału",
+          "url": "https://datencenter.dfb.de/datencenter/olympische-spiele/1992-in-barcelona/finale/polen-olympia-spanien-olympia-1735706",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "lineup": {
+        "caption": "8 sierpnia 1992 · Polska – Hiszpania 2:3 · Wyjściowy skład; układ nazwisk jest umowny.",
+        "rows": [
+          [
+            {
+              "name": "Andrzej Juskowiak"
+            },
+            {
+              "name": "Wojciech Kowalczyk"
+            }
+          ],
+          [
+            {
+              "name": "Marcin Jałocha"
+            },
+            {
+              "name": "Dariusz Gęsior",
+              "slot": 0
+            },
+            {
+              "name": "Jerzy Brzęczek"
+            },
+            {
+              "name": "Ryszard Staniek"
+            },
+            {
+              "name": "Andrzej Kobylański",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Tomasz Łapiński"
+            },
+            {
+              "name": "Tomasz Wałdoch"
+            },
+            {
+              "name": "Marek Koźmiński"
+            }
+          ],
+          [
+            {
+              "name": "Aleksander Kłak"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-23-17"
+    },
+    {
+      "factKey": "slovan-liberec:crest-jested-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu należy ten fragment herbu z czarną sylwetką wieży?",
+      "answerParts": [
+        "FC Slovan Liberec"
+      ],
+      "subjects": [
+        "club:slovan-liberec"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "czechy",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Slovan Liberec — oficjalna identyfikacja i klubowy znak",
+          "url": "https://www.fcslovanliberec.cz/",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        },
+        {
+          "title": "Slovan Liberec — autor nowej identyfikacji Vít Beránek",
+          "url": "https://www.fcslovanliberec.cz/cz/article/16092-Slovan-Liberec-ziskal-evropske-oceneni-za-nejlepsi-rebranding-sezony",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d23-slovan.png",
+        "width": 1025,
+        "height": 1025,
+        "crop": [
+          90,
+          110,
+          845,
+          700
+        ],
+        "source": "https://www.fcslovanliberec.cz/",
+        "credit": "FC Slovan Liberec; projekt identyfikacji: Vít Beránek",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://www.fcslovanliberec.cz/",
+        "changes": "Kadrowanie do fragmentu herbu; bez retuszu.",
+        "alt": "Czarna sylwetka wieży i niebiesko-białe pasy we fragmencie okrągłego herbu; bez liter."
+      },
+      "id": "2026-10-23-18"
+    },
+    {
+      "factKey": "loic-remy:transfer2014-qpr-chelsea",
+      "format": "transfer",
+      "prompt": "Który piłkarz zmienił londyński klub w tym transferze?",
+      "answerParts": [
+        "Loïc Rémy"
+      ],
+      "subjects": [
+        "player:loic-remy"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Chelsea pozyskała Rémy’ego z QPR 31 sierpnia 2014; poprzedni sezon spędził na wypożyczeniu w Newcastle",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0218-0e8bfd3dbfa3-b9123b21abba-1000--chelsea-recruit-remy-as-torres-replacement/",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Queens Park Rangers",
+          "media": {
+            "path": "assets/d22-badge-qpr.png",
+            "source": "https://en.wikipedia.org/wiki/File:Queens_Park_Rangers_crest.svg",
+            "credit": "Queens Park Rangers Football Club",
+            "license": "Domena publiczna tylko w USA; znak klubowy",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Queens_Park_Rangers_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-23-19"
+    },
+    {
+      "factKey": "dinamo-tbilisi:cwc1981-carlzeiss",
+      "format": "fact",
+      "prompt": "Który gruziński klub pokonał Carl Zeiss Jena 2:1 w finale Pucharu Zdobywców Pucharów 1981?",
+      "answerParts": [
+        "Dinamo Tbilisi"
+      ],
+      "subjects": [
+        "club:dinamo-tbilisi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "gruzja",
+        "puchar-zdobywcow-pucharow"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Dinamo Tbilisi wygrało finał PZP 1981 z Carl Zeiss Jena 2:1",
+          "url": "https://www.uefa.com/nationalassociations/GEO/",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "Archiwa Narodowe Gruzji — droga Dinama i skład finału 1981",
+          "url": "https://davais.archive.gov.ge/en/tbilisis-dinamo-uefa-s-tasebis-mflobelta-tasi-1",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "id": "2026-10-23-20"
+    },
+    {
+      "factKey": "morten-olsen:portrait2012",
+      "format": "photo",
+      "prompt": "Kogo przedstawia ten portret w okularach?",
+      "answerParts": [
+        "Morten Olsen"
+      ],
+      "subjects": [
+        "coach:morten-olsen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania",
+        "portret",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Biser Todorov — fotografia Mortena Olsena z 2012 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Morten_Olsen_2012_(cropped).jpg",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d23-olsen.jpg",
+        "width": 2232,
+        "height": 2974,
+        "crop": [
+          550,
+          50,
+          1070,
+          1240
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Morten_Olsen_2012_(cropped).jpg",
+        "credit": "Biser Todorov; wcześniejsze kadrowanie: NullReason",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Dodatkowe kadrowanie do głowy i ramion; bez retuszu.",
+        "alt": "Portret siwowłosego mężczyzny w okularach i marynarce, z pełną głową i podbródkiem; bez koszulki, herbu i sponsora."
+      },
+      "id": "2026-10-23-21"
+    },
+    {
+      "factKey": "rony-lopes:2026-09-01:motor-tondela-aiko-feio-riddle",
+      "format": "career-riddle",
+      "prompt": "W Tondeli grałem z Makanem Aïko u Gonçalo Feio. We wrześniu 2026 znów spotkałem Aïko w Motorze. Kim jestem?",
+      "answerParts": [
+        "Rony Lopes"
+      ],
+      "subjects": [
+        "player:rony-lopes"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "polish",
+        "ekstraklasa",
+        "portugalia",
+        "kariera-z-tekstu"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-09-01",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Rony Lopes dołączył do Motoru po grze w Tondeli z Aïko pod wodzą Feio",
+          "url": "https://ekstraklasa.org/aktualnosci/przetartym-szlakiem-rony-lopes-nowym-wzmocnieniem-motoru-lublin/",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        }
+      ],
+      "id": "2026-10-23-22"
+    },
+    {
+      "factKey": "bernd-schuster:coach-link-sneijder-quaresma-santacruz",
+      "format": "coach-link",
+      "prompt": "Real Madryt, Beşiktaş i Málaga: kto trenował tę trójkę we wskazanych sezonach?",
+      "answerParts": [
+        "Bernd Schuster"
+      ],
+      "subjects": [
+        "coach:bernd-schuster"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "historia",
+        "hiszpania",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Sneijder opisuje współpracę ze Schusterem w Realu w kwietniu 2008",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7bd4a25cf1-f7656d7a2a53-1000--dutch-masters-inspire-dead-ball-king/",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "Beşiktaş — Quaresma wszedł na boisko w meczu z CSKA Sofia pod wodzą Schustera we wrześniu 2010",
+          "url": "https://bjk.com.tr/en/news/28080/besiktas_1_cska_sofia_0.html",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "Málaga — Schuster trenerem, Santa Cruz napastnikiem zespołu 2013/14",
+          "url": "https://www.malagacf.com/temporada-2013-2014",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "clues": [
+        "Wesley Sneijder — Real Madryt, 2007/08",
+        "Ricardo Quaresma — Beşiktaş, 2010/11",
+        "Roque Santa Cruz — Málaga, 2013/14"
+      ],
+      "id": "2026-10-23-23"
+    },
+    {
+      "factKey": "coventry-city:chocolate-brown-away-kit1978",
+      "format": "kit",
+      "prompt": "Który angielski klub zasłynął czekoladowobrązowym strojem wyjazdowym Admirala z 1978 roku?",
+      "answerParts": [
+        "Coventry City"
+      ],
+      "subjects": [
+        "club:coventry-city"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "anglia",
+        "stroje",
+        "kultura",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Admiral — historia słynnych strojów Coventry i czekoladowobrązowej wersji",
+          "url": "https://admiralsports.com/blogs/journal/the-birth-of-the-hourglass-a-dive-into-coventry-citys-iconic-admiral-kit",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        },
+        {
+          "title": "Coventry City — oficjalna replika nawiązująca do brązowego stroju z 1978",
+          "url": "https://www.ccfcstore.com/replica-kits/worst-kit-all-time/mens/4180_coventry-city-1978-inspired-adult-shirt.html",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "id": "2026-10-23-24"
+    },
+    {
+      "factKey": "ibrahim-afellay:loan2012-barcelona-schalke",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono w tym ruchu w sierpniu 2012?",
+      "answerParts": [
+        "Ibrahim Afellay"
+      ],
+      "subjects": [
+        "player:ibrahim-afellay"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "hiszpania",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Afellay wypożyczony z Barcelony do Schalke 31 sierpnia 2012",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0ea9bc1bd844-b2a5a8bbcdc6-1000--schalke-sign-afellay-on-season-long-loan/",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "transfer": {
+        "year": 2012,
+        "detail": "Sierpień · wypożyczenie",
+        "from": {
+          "club": "FC Barcelona",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Schalke 04",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 964
+          }
+        }
+      },
+      "id": "2026-10-23-25"
+    },
+    {
+      "factKey": "bursaspor:turkish-title2009-10-fifth-champion",
+      "format": "fact",
+      "prompt": "Który klub w sezonie 2009/10 przełamał monopol Fenerbahçe, Galatasaray, Beşiktaşu i Trabzonsporu na mistrzostwo Turcji?",
+      "answerParts": [
+        "Bursaspor"
+      ],
+      "subjects": [
+        "club:bursaspor"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "turcja",
+        "historia",
+        "mistrzostwo"
+      ],
+      "sources": [
+        {
+          "title": "Turecka federacja — Bursaspor piątym klubem z mistrzostwem Turcji",
+          "url": "https://www.tff.org/default.aspx?ftxtID=9999&pageID=201",
+          "checkedAt": "2026-10-23T18:13:32.300Z"
+        }
+      ],
+      "id": "2026-10-23-26"
+    },
+    {
+      "factKey": "kevin-kuranyi:career-schalke-dynamo-hoffenheim",
+      "format": "career",
+      "prompt": "Kto zakończył seniorską karierę tymi trzema kolejnymi etapami?",
+      "answerParts": [
+        "Kevin Kurányi"
+      ],
+      "subjects": [
+        "player:kevin-kuranyi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "historia",
+        "niemcy",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "DFB — Kurányi: Schalke 2005–2010 oraz Hoffenheim 2015–2016",
+          "url": "https://datencenter.dfb.de/en/data-center/people/kevin-kuranyi/player",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        },
+        {
+          "title": "FIFA — Kurányi spędził pięć lat w Dynamie do pożegnania w 2015 i zakończył karierę w marcu 2017",
+          "url": "https://inside.fifa.com/tournaments/mens/confederationscup/russia2017/news/kuranyi-germany-favourites-but-russia-s-time-will-come-2881679",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Schalke 04",
+          "years": "2005–2010",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 964
+          }
+        },
+        {
+          "club": "Dynamo Moskwa",
+          "years": "2010–2015",
+          "media": {
+            "path": "assets/d23-badge-dynamo-moscow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Dynamo_Moscow_logo.svg",
+            "credit": "Dynamo Moskwa",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Dynamo_Moscow_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 381,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Hoffenheim",
+          "years": "2015–2016",
+          "media": {
+            "path": "assets/d23-badge-hoffenheim.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_TSG_Hoffenheim.svg",
+            "credit": "TSG 1899 Hoffenheim; autor grafiki niepodany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_TSG_Hoffenheim.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 299,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy ostatnie kolejne kluby pierwszych drużyn.",
+      "id": "2026-10-23-27"
+    },
+    {
+      "factKey": "egnatia:2026-27:conference-debut-roman-road-name",
+      "format": "fact",
+      "prompt": "Który albański debiutant fazy ligowej Ligi Konferencji 2026/27 zawdzięcza nazwę rzymskiej drodze przebiegającej przez Rrogozhinë?",
+      "answerParts": [
+        "Egnatia"
+      ],
+      "subjects": [
+        "club:egnatia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "liga-konferencji",
+        "albania",
+        "kultura",
+        "nazwy-klubow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "UEFA — debiutant Egnatia i pochodzenie nazwy od rzymskiej drogi Via Egnatia",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02aa-21d752908682-ff3294f4d833-1000--conference-league-matchday-2-briefing-ajax-atalanta-brig/",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        },
+        {
+          "title": "UEFA — zakończony debiut Egnatii w fazie ligowej, 15 października 2026",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--202627-conference-league-all-the-league-phase-fixtures/",
+          "checkedAt": "2026-10-23T18:14:20.991Z"
+        }
+      ],
+      "id": "2026-10-23-28"
+    },
+    {
+      "factKey": "guangzhou-evergrande:afccl2013-lippi",
+      "format": "fact",
+      "prompt": "Z którym chińskim klubem Marcello Lippi wygrał azjatycką Ligę Mistrzów w 2013 roku?",
+      "answerParts": [
+        "Guangzhou Evergrande"
+      ],
+      "subjects": [
+        "club:guangzhou-evergrande"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "chiny",
+        "azjatycka-liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "AFC — Lippi poprowadził Guangzhou Evergrande do tytułu w 2013 po finale z FC Seoul",
+          "url": "https://www.the-afc.com/en/club/afc_champions_league/news/winning_spirit_a_look_back_at_the_2013_afc_champions_league_final.html",
+          "checkedAt": "2026-10-23T18:20:13.649Z"
+        }
+      ],
+      "id": "2026-10-23-29"
+    },
+    {
+      "factKey": "san-lorenzo:forzosos-almagro-lorenzo-massa1908",
+      "format": "fact",
+      "prompt": "Który argentyński klub wywodzi się z Forzosos de Almagro, wspieranych przez księdza Lorenza Massę?",
+      "answerParts": [
+        "San Lorenzo de Almagro"
+      ],
+      "subjects": [
+        "club:san-lorenzo"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "argentyna",
+        "historia",
+        "kultura",
+        "powstanie-klubu"
+      ],
+      "sources": [
+        {
+          "title": "San Lorenzo — Forzosos de Almagro i zmiana nazwy w 1908 roku",
+          "url": "https://contenidos1.sanlorenzo.com.ar/futbol-profesional/noticias/1786717122_una-camiseta-que-nos-lleva-al-origen-de-nuestra-historia",
+          "checkedAt": "2026-10-23T18:15:02.886Z"
+        }
+      ],
+      "id": "2026-10-23-30"
+    }
+  ]
+}
