@@ -1,0 +1,1217 @@
+{
+  "id": "2026-10-25",
+  "kind": "daily",
+  "title": "Trening głowy · 25 października 2026",
+  "date": "2026-10-25",
+  "publishAt": "2026-10-25T08:00:00+01:00",
+  "researchedAt": "2026-10-25T22:23:30.157Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-25"
+  },
+  "questions": [
+    {
+      "factKey": "piotr-samiec-talar:2026-10-25:second-consecutive-two-assist-game",
+      "format": "fact",
+      "prompt": "Śląsk – Wieczysta, 25 października 2026: kto w drugim kolejnym meczu Ekstraklasy zaliczył dwie asysty?",
+      "answerParts": [
+        "Piotr Samiec-Talar"
+      ],
+      "subjects": [
+        "player:piotr-samiec-talar"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "asysty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Ekstraklasa — drugi kolejny mecz Samca-Talara z dwiema asystami",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-slask-20-wieczysta-dwie-asysty-kapitana/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        },
+        {
+          "title": "Ekstraklasa — zakończony mecz Śląska z Wieczystą i dorobek asyst Samca-Talara",
+          "url": "https://ekstraklasa.org/mecz/6bf139a0-2114-48af-81ba-b4755714599f/slask-wroclaw-wieczysta-krakow/przeglad/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-25-01"
+    },
+    {
+      "factKey": "andrzej-niedzielan:portrait2009",
+      "format": "photo",
+      "prompt": "Którego polskiego piłkarza przedstawia fotografia?",
+      "answerParts": [
+        "Andrzej Niedzielan"
+      ],
+      "subjects": [
+        "player:andrzej-niedzielan"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Stradovius — fotografia Andrzeja Niedzielana; opis i warunki ponownego użycia",
+          "url": "https://commons.wikimedia.org/wiki/File:Niedzielan.jpg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d25-niedzielan.jpg",
+        "width": 1452,
+        "height": 2841,
+        "crop": [
+          130,
+          60,
+          460,
+          520
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Niedzielan.jpg",
+        "credit": "Stradovius; wcześniejsze kadrowanie: Oleola",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Skalowanie i kadrowanie do pełnej głowy oraz podbródka, poza emblematy i napisy; bez retuszu.",
+        "alt": "Portret mężczyzny z ciemnymi włosami, widzianego z boku; pełna głowa i podbródek, bez herbu i czytelnych znaków stroju."
+      },
+      "id": "2026-10-25-02"
+    },
+    {
+      "factKey": "artur-boruc:transfer2010-celtic-fiorentina",
+      "format": "transfer",
+      "prompt": "Kto wykonał ten transfer latem 2010 roku?",
+      "answerParts": [
+        "Artur Boruc"
+      ],
+      "subjects": [
+        "player:artur-boruc"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "szkocja",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Boruc przeszedł z Celticu do Fiorentiny w lipcu 2010",
+          "url": "https://es.uefa.com/news-media/news/01e7-0f85f8313aba-683033b89acb-1000--boruc-cambia-el-celtic-por-la-fiorentina/",
+          "checkedAt": "2026-10-25T22:17:25.807Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Celtic",
+          "media": {
+            "path": "assets/d19-badge-celtic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "credit": "Celtic",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Fiorentina",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-25-03"
+    },
+    {
+      "factKey": "mazinho:father-thiago-rafinha-worldchampion1994",
+      "format": "fact",
+      "prompt": "Który mistrz świata z Brazylią z 1994 roku jest ojcem Thiaga i Rafinhi Alcântarów?",
+      "answerParts": [
+        "Mazinho"
+      ],
+      "subjects": [
+        "player:mazinho"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "brazylia",
+        "rodzina",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Mazinho, mistrz świata 1994, i jego synowie Thiago oraz Rafinha",
+          "url": "https://inside.fifa.com/en/news/international-day-of-families-success-family-affair-3072657",
+          "checkedAt": "2026-10-25T22:08:26.288Z"
+        }
+      ],
+      "id": "2026-10-25-04"
+    },
+    {
+      "factKey": "dinamo-zagreb:crest-checkerboard-gold-blue-fragment",
+      "format": "crest",
+      "prompt": "Który klub rozpoznajesz po tym fragmencie okrągłego herbu?",
+      "answerParts": [
+        "Dinamo Zagrzeb"
+      ],
+      "subjects": [
+        "club:dinamo-zagreb"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "chorwacja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "GNK Dinamo — statut opisujący okrągły herb, szachownicę, błękit i złote linie",
+          "url": "https://gnkdinamo.hr/Content/izbori/statut.pdf",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Wikimedia Commons — plik herbu i warunki użycia",
+          "url": "https://commons.wikimedia.org/wiki/File:Logo_GNK_Dinamo_Zagreb_(2019).svg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d25-dinamo.png",
+        "width": 1920,
+        "height": 2365,
+        "crop": [
+          70,
+          470,
+          1500,
+          900
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Logo_GNK_Dinamo_Zagreb_(2019).svg",
+        "credit": "GNK Dinamo Zagreb; autor rysunku nieznany",
+        "license": "Domena publiczna — prosty znak; znak towarowy",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_GNK_Dinamo_Zagreb_(2019).svg",
+        "changes": "Rasteryzacja SVG i kadrowanie do fragmentu; bez retuszu.",
+        "alt": "Czerwono-biała szachownica ze złotymi liniami i fragmentem niebieskiego pola w okrągłym obramowaniu; bez nazwy klubu."
+      },
+      "id": "2026-10-25-05"
+    },
+    {
+      "factKey": "sebastian-mila:riddle-austria-valerenga-lks",
+      "format": "career-riddle",
+      "prompt": "Z Grodziska wyjechał do Austrii Wiedeń, potem do Vålerengi. Po powrocie do Polski grał w ŁKS-ie. Kto to?",
+      "answerParts": [
+        "Sebastian Mila"
+      ],
+      "subjects": [
+        "player:sebastian-mila"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "austria",
+        "norwegia",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Mila: wypożyczenie z Groclinu do Austrii, następnie Vålerenga i powrót w 2008 do ŁKS-u",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/legia-warszawa-austria-wieden-11-14092006",
+          "checkedAt": "2026-10-25T22:17:27.358Z"
+        },
+        {
+          "title": "Austria Wiedeń — ogłoszenie odejścia Mili do Vålerengi Oslo",
+          "url": "https://fk-austria.at/en/news/%C3%BCberraschend-hat-der-fc-superfund-das-testspiel-das-heute-erst",
+          "checkedAt": "2026-10-25T22:17:27.360Z"
+        }
+      ],
+      "id": "2026-10-25-06"
+    },
+    {
+      "factKey": "viking:2026-10-13:first-champions-league-phase-point-bayern-draw",
+      "format": "fact",
+      "prompt": "Liga Mistrzów, 13 października 2026: który norweski debiutant fazy ligowej zremisował z Bayernem 3:3?",
+      "answerParts": [
+        "Viking FK (Stavanger)"
+      ],
+      "subjects": [
+        "club:viking"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "norwegia",
+        "przelamania"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "UEFA — debiutujący Viking zdobył pierwszy punkt po remisie z Bayernem",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21d340ce86b7-f3206bdb68d3-1000--in-the-zone-how-spirited-viking-matched-bayern-munchen/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        },
+        {
+          "title": "Viking — oficjalny terminarz potwierdza datę i wynik spotkania z Bayernem",
+          "url": "https://www.vikingfotball.no/resultater",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-25-07"
+    },
+    {
+      "factKey": "jermaine-pennant:transfer2009-liverpool-zaragoza",
+      "format": "transfer",
+      "prompt": "Czyj transfer pokazują te dwa herby?",
+      "answerParts": [
+        "Jermaine Pennant"
+      ],
+      "subjects": [
+        "player:jermaine-pennant"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — Pennant po wypożyczeniu do Portsmouth odszedł latem 2009 definitywnie do Realu Zaragoza",
+          "url": "https://www.liverpoolfc.com/info/jermaine-pennant/",
+          "checkedAt": "2026-10-25T22:17:25.810Z"
+        }
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Lato · transfer definitywny",
+        "from": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Real Zaragoza",
+          "media": {
+            "path": "assets/d22-badge-zaragoza.png",
+            "source": "https://en.wikipedia.org/wiki/File:Real_Zaragoza_logo.svg",
+            "credit": "Real Zaragoza",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Real_Zaragoza_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 426,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-25-08"
+    },
+    {
+      "factKey": "notts-county:juventus-blackwhite-shirts1903",
+      "format": "fact",
+      "prompt": "Który angielski klub był pierwowzorem czarno-białych strojów Juventusu, przyjętych w 1903 roku?",
+      "answerParts": [
+        "Notts County"
+      ],
+      "subjects": [
+        "club:notts-county"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "anglia",
+        "wlochy",
+        "stroje",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Juventus — Tom Savage sprowadza w 1903 roku barwy Notts County",
+          "url": "https://www.juventus.com/en/news/articles/black-and-white-brothers-unite-in-the-name-of-tom-savage",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "id": "2026-10-25-09"
+    },
+    {
+      "factKey": "mateusz-klich:career-gap-utrecht-loan2018",
+      "format": "career-gap",
+      "prompt": "Mateusz Klich: gdzie spędził wypożyczenie między tymi okresami w Leeds?",
+      "answerParts": [
+        "FC Utrecht"
+      ],
+      "subjects": [
+        "club:fc-utrecht"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "anglia",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "FC Utrecht — Klich wypożyczony z Leeds 22 stycznia 2018 do końca sezonu",
+          "url": "https://www.fcutrecht.nl/nieuws/2018/01/middenvelder-mateusz-klich-naar-fc-utrecht/",
+          "checkedAt": "2026-10-25T22:17:27.353Z"
+        },
+        {
+          "title": "Leeds — Klich przybył w 2017, wrócił z Utrechtu latem 2018 i odszedł w styczniu 2023",
+          "url": "https://www.leedsunited.com/en/news/mateusz-klich-to-leave-leeds-united",
+          "checkedAt": "2026-10-25T22:17:27.357Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Leeds United",
+          "years": "2017–2018",
+          "media": {
+            "path": "assets/d25-badge-leeds.png",
+            "source": "https://en.wikipedia.org/wiki/File:Leeds_United_F.C._logo.svg",
+            "credit": "Leeds United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Leeds_United_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu. Pełny herb.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "FC Utrecht",
+          "years": "2018 · wyp.",
+          "media": {
+            "path": "assets/d25-badge-utrecht.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Utrecht.svg",
+            "credit": "FC Utrecht",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Utrecht.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu. Pełny herb.",
+            "width": 250,
+            "height": 278,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Leeds United",
+          "years": "2018–2023",
+          "media": {
+            "path": "assets/d25-badge-leeds.png",
+            "source": "https://en.wikipedia.org/wiki/File:Leeds_United_F.C._logo.svg",
+            "credit": "Leeds United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Leeds_United_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu. Pełny herb.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Etapy przed, w trakcie i po półrocznym wypożyczeniu wiosną 2018; wcześniejsze i późniejsze kluby pominięto.",
+      "id": "2026-10-25-10"
+    },
+    {
+      "factKey": "markus-krosche:2026-10-18:eintracht-sporting-director-departure",
+      "format": "fact",
+      "prompt": "Który dyrektor sportowy odszedł z Eintrachtu 18 października 2026 po pięciu latach i triumfie w Lidze Europy?",
+      "answerParts": [
+        "Markus Krösche"
+      ],
+      "subjects": [
+        "official:markus-krosche"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "niemcy",
+        "bundesliga",
+        "dzialacze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Bundesliga — Krösche odszedł z Eintrachtu na własną prośbę ze skutkiem natychmiastowym",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/eintracht-frankfurt-board-member-for-sport-markus-krosche-leaves-role-39635",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-25-11"
+    },
+    {
+      "factKey": "poljud:aerial-shell-roof2024",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion po dachu w kształcie muszli. Podaj także miasto.",
+      "answerParts": [
+        "Poljud, Split"
+      ],
+      "subjects": [
+        "stadium:poljud"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "chorwacja",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Hajduk — stadion Poljud w Splicie i jego muszlowa konstrukcja",
+          "url": "https://hajduk.hr/eng/article/poljud-stadium-declared-protected-cultural-heritage/4592",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Quintin Soloviev — oryginalna fotografia lotnicza stadionu w 2024 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Poljud_Stadium_in_2024.jpg",
+          "checkedAt": "2026-10-25T22:15:49.936Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d25-poljud.jpg",
+        "width": 1920,
+        "height": 1390,
+        "crop": [
+          720,
+          320,
+          1160,
+          850
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Poljud_Stadium_in_2024.jpg",
+        "credit": "Quintin Soloviev",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Skalowanie i kadrowanie poza mozaikę herbu na dalszej trybunie; bez retuszu.",
+        "alt": "Stadion z lotu ptaka: duży łukowaty dach, białe trybuny, bieżnia i część boiska; bez czytelnej nazwy i herbu."
+      },
+      "id": "2026-10-25-12"
+    },
+    {
+      "factKey": "middlesbrough:shared-club-mendieta-hasselbaink-viduka2004",
+      "format": "shared-club",
+      "prompt": "Gaizka Mendieta, Jimmy Floyd Hasselbaink i Mark Viduka: w którym klubie grali razem w sezonie 2004/05?",
+      "answerParts": [
+        "Middlesbrough"
+      ],
+      "subjects": [
+        "club:middlesbrough"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Viduka i Hasselbaink w ataku Middlesbrough, Mendieta wymieniony jako kontuzjowany gracz tego zespołu we wrześniu 2004",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01a1-0e6b16fc5150-f49a80943d28-1000--boro-forwards-find-their-range/",
+          "checkedAt": "2026-10-25T22:17:29.850Z"
+        }
+      ],
+      "id": "2026-10-25-13"
+    },
+    {
+      "factKey": "poland-czech2012:starting-xi-boenisch-wasilewski",
+      "format": "lineup",
+      "prompt": "Polska przeciw Czechom na Euro 2012: uzupełnij dwa nazwiska w wyjściowym składzie.",
+      "answerParts": [
+        "Sebastian Boenisch",
+        "Marcin Wasilewski"
+      ],
+      "subjects": [
+        "player:sebastian-boenisch",
+        "player:marcin-wasilewski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "reprezentacje",
+        "euro",
+        "sklady",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — wyjściowy skład Polski w meczu z Czechami, 16 czerwca 2012",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-czechy-01-16062012",
+          "checkedAt": "2026-10-25T22:08:27.937Z"
+        }
+      ],
+      "lineup": {
+        "caption": "16 czerwca 2012 · Polska – Czechy 0:1 · Wyjściowa jedenastka; rozmieszczenie umowne.",
+        "rows": [
+          [
+            {
+              "name": "Przemysław Tytoń"
+            }
+          ],
+          [
+            {
+              "name": "Łukasz Piszczek"
+            },
+            {
+              "name": "Marcin Wasilewski",
+              "slot": 1
+            },
+            {
+              "name": "Damien Perquis"
+            },
+            {
+              "name": "Sebastian Boenisch",
+              "slot": 0
+            }
+          ],
+          [
+            {
+              "name": "Rafał Murawski"
+            },
+            {
+              "name": "Dariusz Dudka"
+            },
+            {
+              "name": "Eugen Polanski"
+            }
+          ],
+          [
+            {
+              "name": "Jakub Błaszczykowski"
+            },
+            {
+              "name": "Ludovic Obraniak"
+            }
+          ],
+          [
+            {
+              "name": "Robert Lewandowski"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-25-14"
+    },
+    {
+      "factKey": "eduardo-vargas:loan2014-napoli-valencia",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono między tymi klubami w styczniu 2014?",
+      "answerParts": [
+        "Eduardo Vargas"
+      ],
+      "subjects": [
+        "player:eduardo-vargas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "wlochy",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "LaLiga — Vargas wypożyczony z Napoli do Valencii do końca czerwca 2014",
+          "url": "https://www.laliga.com/en-GB/news/vargas-valencias-new-striker",
+          "checkedAt": "2026-10-25T22:17:25.811Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Napoli",
+          "media": {
+            "path": "assets/d09-napoli.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "credit": "The original uploader was Eric Duff at Portuguese Wikipedia.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-25-15"
+    },
+    {
+      "factKey": "panetolikos:crest-titormos-fragment",
+      "format": "crest",
+      "prompt": "Który grecki klub ma w herbie tego siłacza z głazem?",
+      "answerParts": [
+        "Panetolikos Agrinio"
+      ],
+      "subjects": [
+        "club:panetolikos"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "grecja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Panetolikos — oficjalne przedstawienie nowego herbu i Titormosa",
+          "url": "https://panetolikos.gr/%CE%BB%CE%B9%CE%B3%CE%BF-%CF%88%CE%B7%CE%BB%CE%BF%CF%84%CE%B5%CF%81%CE%B1/",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Plik rzeczywistego herbu Panetolikos",
+          "url": "https://en.wikipedia.org/wiki/File:Panetolikos_F.C._logo.svg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d25-panetolikos.png",
+        "width": 1920,
+        "height": 2457,
+        "crop": [
+          360,
+          310,
+          1080,
+          1550
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Panetolikos_F.C._logo.svg",
+        "credit": "Panetolikos FC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://panetolikos.gr/",
+        "changes": "Rasteryzacja SVG i kadrowanie poza napisy i rok; bez retuszu.",
+        "alt": "Niebieska sylwetka brodatego mężczyzny trzymającego głaz na żółtym tle, bez liter i roku."
+      },
+      "id": "2026-10-25-16"
+    },
+    {
+      "factKey": "bournemouth:2026-10-22:europa-milan-three-goals-two-penalties-red-card",
+      "format": "fact",
+      "prompt": "Liga Europy, 22 października 2026: który angielski klub pokonał Milan 3:0 po dwóch karnych i czerwonej kartce Maignana?",
+      "answerParts": [
+        "AFC Bournemouth"
+      ],
+      "subjects": [
+        "club:bournemouth"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "anglia",
+        "przelamania"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "UEFA — Bournemouth pokonało Milan 3:0; dwa karne przed przerwą i czerwona kartka Maignana",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "checkedAt": "2026-10-25T22:12:09.455Z"
+        }
+      ],
+      "id": "2026-10-25-17"
+    },
+    {
+      "factKey": "claudio-ranieri:coach-link-mendieta-makelele-james",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził tych trzech piłkarzy w podanych klubach i okresach?",
+      "answerParts": [
+        "Claudio Ranieri"
+      ],
+      "subjects": [
+        "coach:claudio-ranieri"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "hiszpania",
+        "anglia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Lucarelli wspomina Valencię 1998/99 z Mendietą i trenerem Ranierim",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01bc-0ea8949ae4d0-ec01d6149987-1000--livorno-spread-their-wings/",
+          "checkedAt": "2026-10-25T22:17:27.363Z"
+        },
+        {
+          "title": "UEFA — Makélélé grał w Chelsea Ranieriego w rewanżu z Arsenalem w kwietniu 2004",
+          "url": "https://www.uefa.com/uefachampionsleague/news/019c-0e6c11c78a9b-9f881023002b-1000--bridge-breaks-arsenal-s-hearts/",
+          "checkedAt": "2026-10-25T22:17:29.846Z"
+        },
+        {
+          "title": "UEFA — wypowiedź Ranieriego jako trenera Jamesa Rodrígueza w Monaco ze stycznia 2014",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0250-0c5105396ef5-45406fdc5e95-1000--world-cup-star-james-rodriguez-joins-madrid/",
+          "checkedAt": "2026-10-25T22:17:29.848Z"
+        }
+      ],
+      "clues": [
+        "Gaizka Mendieta — Valencia, 1998/99",
+        "Claude Makélélé — Chelsea, 2003/04",
+        "James Rodríguez — Monaco, 2013/14"
+      ],
+      "id": "2026-10-25-18"
+    },
+    {
+      "factKey": "anorthosis:first-cypriot-ucl-group2008",
+      "format": "fact",
+      "prompt": "Który klub w 2008 roku jako pierwszy z Cypru awansował do fazy grupowej Ligi Mistrzów?",
+      "answerParts": [
+        "Anorthosis Famagusta"
+      ],
+      "subjects": [
+        "club:anorthosis-famagusta"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "cypr",
+        "liga-mistrzow",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Anorthosis pierwszym cypryjskim klubem w fazie grupowej, sierpień 2008",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01d0-0e6fba84e606-44cdb01cbbf8-1000--beqaj-brilliance-sparks-cypriot-joy/",
+          "checkedAt": "2026-10-25T22:08:26.201Z"
+        }
+      ],
+      "id": "2026-10-25-19"
+    },
+    {
+      "factKey": "yossi-benayoun:portrait2015",
+      "format": "photo",
+      "prompt": "Jak nazywa się piłkarz na portrecie?",
+      "answerParts": [
+        "Yossi Benayoun"
+      ],
+      "subjects": [
+        "player:yossi-benayoun"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "izrael",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Botend — Yossi Benayoun na fotografii z 2015 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Benayoun_Haifa_(2a).jpg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d25-benayoun.jpg",
+        "width": 1920,
+        "height": 3064,
+        "crop": [
+          850,
+          80,
+          470,
+          550
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Benayoun_Haifa_(2a).jpg",
+        "credit": "Botend",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Skalowanie i dodatkowe kadrowanie do głowy i szyi; bez retuszu.",
+        "alt": "Mężczyzna z ciemnymi włosami na tle szarej ściany; pełna głowa i podbródek, bez herbu, numeru i sponsora."
+      },
+      "id": "2026-10-25-20"
+    },
+    {
+      "factKey": "david-jarolim:transfer2003-nurnberg-hamburg",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym ruchu z 2003 roku?",
+      "answerParts": [
+        "David Jarolím"
+      ],
+      "subjects": [
+        "player:david-jarolim"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "DFB — Jarolím w Nürnbergu do 31 sierpnia 2003, w HSV od 1 września",
+          "url": "https://datencenter.dfb.de/datencenter/personen/david-jarolim/spieler",
+          "checkedAt": "2026-10-25T22:17:25.813Z"
+        }
+      ],
+      "transfer": {
+        "year": 2003,
+        "detail": "Wrzesień",
+        "from": {
+          "club": "1. FC Nürnberg",
+          "media": {
+            "path": "assets/d20-badge-nurnberg.png",
+            "source": "https://commons.wikimedia.org/wiki/File:1._FC_N%C3%BCrnberg_logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FC_N%C3%BCrnberg_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Hamburger SV",
+          "media": {
+            "id": "04",
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 711
+          }
+        }
+      },
+      "id": "2026-10-25-21"
+    },
+    {
+      "factKey": "glenn-hoddle:diamond-lights-duet-waddle",
+      "format": "fact",
+      "prompt": "Kto nagrał z Chrisem Waddle’em piosenkę „Diamond Lights”?",
+      "answerParts": [
+        "Glenn Hoddle"
+      ],
+      "subjects": [
+        "player:glenn-hoddle"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "anglia",
+        "muzyka",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — Chris Waddle wspomina duet z Glennem Hoddle’em",
+          "url": "https://www.tottenhamhotspur.com/news/1032068/hall-of-fame-special-on-spurs-tv-online",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "id": "2026-10-25-22"
+    },
+    {
+      "factKey": "karim-adeyemi:2026-27:barcelona-signing-flick-germany-debut-salzburg",
+      "format": "fact",
+      "prompt": "Który letni nabytek Barcelony 2026/27 debiutował w reprezentacji Niemiec za Flicka jeszcze jako gracz Salzburga?",
+      "answerParts": [
+        "Karim Adeyemi"
+      ],
+      "subjects": [
+        "player:karim-adeyemi"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "hiszpania",
+        "niemcy",
+        "trenerzy",
+        "kariera"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-07-23",
+      "sources": [
+        {
+          "title": "FC Barcelona — Adeyemi dołączył latem 2026; za Flicka debiutował w kadrze jako zawodnik Salzburga",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4541406/fc-barcelona-sign-karim-adeyemi",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-25-23"
+    },
+    {
+      "factKey": "benoit-cheyrou:career-auxerre-marseille-toronto",
+      "format": "career",
+      "prompt": "Którego piłkarza pokazują te trzy kolejne kluby?",
+      "answerParts": [
+        "Benoît Cheyrou"
+      ],
+      "subjects": [
+        "player:benoit-cheyrou"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "francja",
+        "mls",
+        "kanada"
+      ],
+      "sources": [
+        {
+          "title": "Toronto FC — pełna historia Cheyrou: Auxerre od 2004, Marseille od 2007, Toronto od 2015 do 2017",
+          "url": "https://www.torontofc.ca/news/beno-t-cheyrou-announces-retirement",
+          "checkedAt": "2026-10-25T22:17:25.814Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "AJ Auxerre",
+          "years": "2004–2007",
+          "media": {
+            "path": "assets/d24-badge-auxerre.png",
+            "source": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+            "credit": "AJ Auxerre",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 316,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Olympique Marsylia",
+          "years": "2007–2014",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Toronto FC",
+          "years": "2015–2017",
+          "media": {
+            "path": "assets/d25-badge-toronto.png",
+            "source": "https://en.wikipedia.org/wiki/File:Toronto_FC_Logo.svg",
+            "credit": "Toronto FC",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Toronto_FC_Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu. Pełny herb.",
+            "width": 250,
+            "height": 234,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby pierwszych drużyn; wcześniejsze etapy pominięto.",
+      "id": "2026-10-25-24"
+    },
+    {
+      "factKey": "santiago-canizares:missed-worldcup2002-aftershave-injury",
+      "format": "fact",
+      "prompt": "Który bramkarz stracił mundial 2002 po przecięciu ścięgna stopy odłamkiem butelki wody po goleniu?",
+      "answerParts": [
+        "Santiago Cañizares"
+      ],
+      "subjects": [
+        "player:santiago-canizares"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "hiszpania",
+        "mundial",
+        "nietypowe-fakty",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — kontuzja Cañizaresa po upuszczeniu butelki wykluczyła go z mundialu 2002",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaaee5d310a-b2a13a11c255-1000--canizares-absent-for-arsenal-trip/",
+          "checkedAt": "2026-10-25T22:08:25.890Z"
+        }
+      ],
+      "id": "2026-10-25-25"
+    },
+    {
+      "factKey": "polonia-bytom:rappan-interliga1965",
+      "format": "fact",
+      "prompt": "Który polski klub zdobył w 1965 zarówno Puchar Karla Rappana, jak i Puchar Ameryki (Interligi)?",
+      "answerParts": [
+        "Polonia Bytom"
+      ],
+      "subjects": [
+        "club:polonia-bytom"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "polska",
+        "puchar-rappana",
+        "interliga"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polonia Bytom zdobywcą Pucharu Karla Rappana oraz Pucharu Ameryki w 1965",
+          "url": "https://www.laczynaspilka.pl/biblioteka/ppns/artykuly/2-liga-polonia-bytom",
+          "checkedAt": "2026-10-25T22:17:29.852Z"
+        }
+      ],
+      "id": "2026-10-25-26"
+    },
+    {
+      "factKey": "eintracht-braunschweig:jagermeister-stag-crest-advertising-loophole",
+      "format": "fact",
+      "prompt": "Który klub obchodził zakaz reklam na koszulkach, umieszczając jelenia Jägermeister w swoim herbie?",
+      "answerParts": [
+        "Eintracht Brunszwik (Braunschweig)"
+      ],
+      "subjects": [
+        "club:eintracht-braunschweig"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "niemcy",
+        "stroje",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Bundesliga — Eintracht Braunschweig i reklamowy herb z jeleniem",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/eintracht-braunschweig-club-by-club-historical-guide-paul-breitner-24174",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "id": "2026-10-25-27"
+    },
+    {
+      "factKey": "kacper-duda:2026-10-24:100th-minute-winner-rakow",
+      "format": "fact",
+      "prompt": "Wisła – Raków, 24 października 2026: kto zapewnił krakowianom zwycięstwo 2:1 w 100. minucie?",
+      "answerParts": [
+        "Kacper Duda"
+      ],
+      "subjects": [
+        "player:kacper-duda"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "doliczony-czas"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-24",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Duda zdobył zwycięską bramkę w dziesiątej doliczonej minucie",
+          "url": "https://ekstraklasa.org/mecz/e568cd83-5f01-40f7-a2ae-073c5a5810b8/wisla-krakow-rakow-czestochowa/przeglad/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-25-28"
+    },
+    {
+      "factKey": "corinthians:player-voting-democracy1980s",
+      "format": "fact",
+      "prompt": "W którym klubie Sócrates i koledzy w latach 80. głosowali m.in. nad obowiązkiem przedmeczowych zgrupowań?",
+      "answerParts": [
+        "Corinthians"
+      ],
+      "subjects": [
+        "club:corinthians"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "brazylia",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Sócrates i Wladimir — wspomnienia o demokratycznych decyzjach piłkarzy Corinthians i zniesieniu obowiązkowych zgrupowań",
+          "url": "https://ge.globo.com/ESP/Noticia/Arquivo/0%2C%2CAA1493890-4402%2C00.html",
+          "checkedAt": "2026-10-25T22:17:29.853Z"
+        }
+      ],
+      "id": "2026-10-25-29"
+    },
+    {
+      "factKey": "sweden:boca-juniors-colours-ship-flag",
+      "format": "kit",
+      "prompt": "Flaga statku z którego kraju miała zainspirować niebiesko-żółte barwy Boca Juniors?",
+      "answerParts": [
+        "Szwecja"
+      ],
+      "subjects": [
+        "club:boca-juniors"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "argentyna",
+        "stroje",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "CONMEBOL — archiwalny magazyn, s. 73: barwy Boca Juniors według flagi szwedzkiego statku",
+          "url": "https://www.spfcpedia.com.br/ebooks/2021-05-07_revista-conmebol_064.pdf",
+          "checkedAt": "2026-10-25T22:17:31.621Z"
+        }
+      ],
+      "id": "2026-10-25-30"
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+{
+  "id": "2026-10-26",
+  "kind": "daily",
+  "title": "Trening głowy · 26 października 2026",
+  "date": "2026-10-26",
+  "publishAt": "2026-10-26T07:00:00+01:00",
+  "researchedAt": "2026-10-25T22:23:30.215Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-25"
+  },
+  "questions": [
+    {
+      "factKey": "dariusz-sztylka:portrait-coaching",
+      "format": "photo",
+      "prompt": "Kogo rozpoznajesz na tym portrecie?",
+      "answerParts": [
+        "Dariusz Sztylka"
+      ],
+      "subjects": [
+        "player:dariusz-sztylka"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Matviey — fotografia Dariusza Sztylki; opis i warunki użycia",
+          "url": "https://commons.wikimedia.org/wiki/File:DariuszSztylkaPolishFootballCoach.jpg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d26-sztylka.jpg",
+        "width": 1920,
+        "height": 2560,
+        "crop": [
+          990,
+          180,
+          410,
+          580
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:DariuszSztylkaPolishFootballCoach.jpg",
+        "credit": "Matviey",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Skalowanie i kadrowanie do pełnej głowy oraz szyi, poza znaki stroju; bez retuszu.",
+        "alt": "Mężczyzna z krótkimi jasnymi włosami na zielonym tle; pełna głowa i podbródek, bez herbu i sponsora."
+      },
+      "id": "2026-10-26-01"
+    },
+    {
+      "factKey": "kamil-grosicki:2026-10-24:first-polish-player-brace-after38",
+      "format": "fact",
+      "prompt": "24 października 2026: kto został pierwszym Polakiem, który strzelił dublet w Ekstraklasie po 38. urodzinach?",
+      "answerParts": [
+        "Kamil Grosicki"
+      ],
+      "subjects": [
+        "player:kamil-grosicki"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-24",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Grosicki pierwszym Polakiem z dubletem po ukończeniu 38 lat",
+          "url": "https://ekstraklasa.org/mecz/405bd504-7ce1-4ccb-b317-ae4446b9967e/pogon-szczecin-radomiak-radom/przeglad/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-26-02"
+    },
+    {
+      "factKey": "tomasz-bandrowski:buyout2008-cottbus-lech",
+      "format": "transfer",
+      "prompt": "Kogo wykupiono latem 2008 po wcześniejszym wypożyczeniu?",
+      "answerParts": [
+        "Tomasz Bandrowski"
+      ],
+      "subjects": [
+        "player:tomasz-bandrowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "niemcy",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Lech — Bandrowski wypożyczony zimą i wykupiony latem 2008 z Energie Cottbus",
+          "url": "https://www.lechpoznan.pl/aktualnosci,2,z-lecha-do-kadry-tomasz-bandrowski,19467.html",
+          "checkedAt": "2026-10-25T22:17:31.622Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Lato · wykupienie po wypożyczeniu",
+        "from": {
+          "club": "Energie Cottbus",
+          "media": {
+            "path": "assets/d16-badge-energie-cottbus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_Energie_Cottbus.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_Energie_Cottbus.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 279,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Lech Poznań",
+          "media": {
+            "path": "assets/d23-badge-lech.png",
+            "source": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "credit": "Lech Poznań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 380,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-26-03"
+    },
+    {
+      "factKey": "cienciano:sudamericana2003-recopa2004",
+      "format": "fact",
+      "prompt": "Który klub z Peru zdobył Copa Sudamericana 2003, a rok później Recopa po pokonaniu Boca Juniors?",
+      "answerParts": [
+        "Cienciano"
+      ],
+      "subjects": [
+        "club:cienciano"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "peru",
+        "copa-sudamericana",
+        "recopa"
+      ],
+      "sources": [
+        {
+          "title": "Cienciano — wspomnienie triumfów w Copa Sudamericana 2003 oraz Recopa Sudamericana 2004",
+          "url": "https://cienciano.com/2025/09/07/hoy-se-conmemoran-21-anos-del-titulo-de-la-recopa-sudamericana/",
+          "checkedAt": "2026-10-25T22:17:48.693Z"
+        }
+      ],
+      "id": "2026-10-26-04"
+    },
+    {
+      "factKey": "rapid-bucuresti:crest-eagle-railway-fragment",
+      "format": "crest",
+      "prompt": "Który klub ma w herbie tego orła z piłką i kolejowym symbolem?",
+      "answerParts": [
+        "Rapid Bukareszt"
+      ],
+      "subjects": [
+        "club:rapid-bucuresti"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "rumunia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "FC Rapid — oficjalna strona z klubowym herbem",
+          "url": "https://www.fcrapid.ro/",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Rzeczywisty plik herbu Rapid Bukareszt",
+          "url": "https://en.wikipedia.org/wiki/File:FC_Rapid_Bucuresti_logo.svg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d26-rapid.png",
+        "width": 1920,
+        "height": 1603,
+        "crop": [
+          10,
+          395,
+          1900,
+          670
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:FC_Rapid_Bucuresti_logo.svg",
+        "credit": "FC Rapid București",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://www.fcrapid.ro/",
+        "changes": "Rasteryzacja SVG i kadrowanie do skrzydeł i centralnej tarczy poza nazwę klubu; bez retuszu.",
+        "alt": "Fragment orła z rozpostartymi skrzydłami i tarczą z piłką oraz czerwonym uskrzydlonym symbolem kolejowym; bez nazwy."
+      },
+      "id": "2026-10-26-05"
+    },
+    {
+      "factKey": "jablonec:2026-10-22:conference-brighton-goalless-first-point",
+      "format": "fact",
+      "prompt": "Liga Konferencji, 22 października 2026: który czeski klub zatrzymał rozpędzone Brighton, zdobywając pierwszy punkt po remisie 0:0?",
+      "answerParts": [
+        "FK Jablonec"
+      ],
+      "subjects": [
+        "club:jablonec"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "czechy",
+        "przelamania"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "UEFA — Jablonec bezbramkowo zremisował z Brighton i zdobył pierwszy punkt fazy ligowej",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02aa-21e40e257e01-64251de1d99e-1000--uefa-conference-league-matchday-2-highlights-and-round-up-tr/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-26-06"
+    },
+    {
+      "factKey": "pawel-golanski:riddle-steaua-korona-lks-loan",
+      "format": "career-riddle",
+      "prompt": "Z Korony odszedł do Steauy. Po powrocie do Kielc zaliczył wypożyczenie do ŁKS-u. Kto to?",
+      "answerParts": [
+        "Paweł Golański"
+      ],
+      "subjects": [
+        "player:pawel-golanski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "polska",
+        "rumunia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Golański przeszedł z Korony do Steauy w lipcu 2007",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c3-0e6e649545fa-a56a3c163a06-1000--steaua-go-for-defender-golanski/",
+          "checkedAt": "2026-10-25T22:17:47.139Z"
+        },
+        {
+          "title": "Paweł Golański — wywiad o powrocie ze Steauy do Korony i późniejszym wypożyczeniu do ŁKS-u",
+          "url": "https://weszlo.com/2016/01/21/golanski-najwiekszym-problemem-jest-to-ze-pilkarz-nie-ufa-trenerowi/",
+          "checkedAt": "2026-10-25T22:17:47.141Z"
+        }
+      ],
+      "id": "2026-10-26-07"
+    },
+    {
+      "factKey": "japan:copaamerica1999-asian-invitee",
+      "format": "country",
+      "prompt": "Która azjatycka reprezentacja wystąpiła gościnnie w Copa América 1999 w Paragwaju?",
+      "answerParts": [
+        "Japonia"
+      ],
+      "subjects": [
+        "national-team:japan"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "copa-america",
+        "reprezentacje",
+        "azja",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "JFA — oficjalny przewodnik z meczami Japonii na Copa América 1999",
+          "url": "https://www.jfa.jp/samuraiblue/copaamerica2019/copaamerica2019_jpn_MediaGuide.pdf",
+          "checkedAt": "2026-10-25T22:09:08.060Z"
+        }
+      ],
+      "id": "2026-10-26-08"
+    },
+    {
+      "factKey": "tomasz-zdebel:career-gap-genclerbirligi2000-03",
+      "format": "career-gap",
+      "prompt": "Tomasz Zdebel: który klub kryje się przed dwoma niemieckimi etapami?",
+      "answerParts": [
+        "Gençlerbirliği"
+      ],
+      "subjects": [
+        "club:genclerbirligi"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "turcja",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "TFF — Zdebel w Gençlerbirliği od czerwca 2000 do maja 2003",
+          "url": "https://www.tff.org/Default.aspx?kisiID=29676&pageID=30",
+          "checkedAt": "2026-10-25T22:17:34.684Z"
+        },
+        {
+          "title": "UEFA — Zdebel przechodzi z Gençlerbirliği do Bochum latem 2003",
+          "url": "https://www.uefa.com/news-media/news/0190-0f844b6d71a4-21be833ede77-1000--zdebel-bound-for-bochum/",
+          "checkedAt": "2026-10-25T22:17:34.685Z"
+        },
+        {
+          "title": "DFB — Zdebel: Bochum 2003–2009, Bayer Leverkusen 2009–2010",
+          "url": "https://datencenter.dfb.de/datencenter/personen/thomas-zdebel/spieler",
+          "checkedAt": "2026-10-25T22:17:34.687Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Gençlerbirliği",
+          "years": "2000–2003",
+          "media": {
+            "path": "assets/d26-badge-genclerbirligi.png",
+            "source": "https://www.genclerbirligi.org.tr/en/basin-kiti",
+            "credit": "Gençlerbirliği Spor Kulübü",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://www.genclerbirligi.org.tr/en/basin-kiti",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu. Pełny herb.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "VfL Bochum",
+          "years": "2003–2009",
+          "media": {
+            "path": "assets/d11-badge-bochum.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "credit": "VfL Bochum",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 264,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "years": "2009–2010",
+          "media": {
+            "path": "assets/d14-badge-leverkusen.png",
+            "source": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "credit": "Bayer Leverkusen",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 194,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby pierwszych drużyn; wcześniejsze i późniejsze etapy pominięto.",
+      "id": "2026-10-26-09"
+    },
+    {
+      "factKey": "mane-garrincha:interior-red-seats-circular-roof",
+      "format": "stadium",
+      "prompt": "Jak nazywa się ten stadion z czerwonymi trybunami i kolistym dachem? Podaj także miasto.",
+      "answerParts": [
+        "Estádio Nacional Mané Garrincha, Brasília"
+      ],
+      "subjects": [
+        "stadium:mane-garrincha"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "brazylia",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Danilo Borges / Portal da Copa — wnętrze Estádio Nacional w Brasílii",
+          "url": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Nacional_Bras%C3%ADlia.jpg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Oficjalny przewodnik turystyczny Brasílii — Estádio Nacional Mané Garrincha",
+          "url": "https://www.turismo.df.gov.br/documents/5622729/8427770/Guia-Roteiros-Brasilia-Portugues_.pdf",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d26-brasilia.jpg",
+        "width": 1920,
+        "height": 1280,
+        "crop": [
+          800,
+          0,
+          1120,
+          1280
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Nacional_Bras%C3%ADlia.jpg",
+        "credit": "Danilo Borges / Portal da Copa",
+        "license": "CC BY 3.0 BR",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/",
+        "changes": "Skalowanie i kadrowanie poza tablice z nazwami; bez retuszu.",
+        "alt": "Wnętrze stadionu z czerwonymi krzesełkami, wysokimi trybunami i kolistym otworem w jasnym dachu; bez nazw i herbów."
+      },
+      "id": "2026-10-26-10"
+    },
+    {
+      "factKey": "andrej-kramaric:2026-10-25:hoffenheim1000th-bundesliga-goal",
+      "format": "fact",
+      "prompt": "25 października 2026: kto zdobył tysięcznego gola Hoffenheim w Bundeslidze, wchodząc z ławki przeciwko Bayerowi?",
+      "answerParts": [
+        "Andrej Kramarić"
+      ],
+      "subjects": [
+        "player:andrej-kramaric"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "rekordy",
+        "zmiennicy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Bundesliga — rezerwowy Kramarić strzelcem tysięcznej bramki Hoffenheim w rozgrywkach",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/hoffenheim-bayer-leverkusen-match-report-highlights-matchday-7-39725",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-26-11"
+    },
+    {
+      "factKey": "hector-castro:el-manco-world-champion1930",
+      "format": "fact",
+      "prompt": "Który mistrz świata z 1930 roku nosił przydomek El Manco z powodu utraty przedramienia?",
+      "answerParts": [
+        "Héctor Castro"
+      ],
+      "subjects": [
+        "player:hector-castro"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "urugwaj",
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — przydomek El Manco i wypadek Héctora Castro",
+          "url": "https://inside.fifa.com/de/tournaments/mens/worldcup/1930uruguay/news/zahlen-und-fakten-zu-uruguay-1930-2865148",
+          "checkedAt": "2026-10-25T22:14:54.824Z"
+        },
+        {
+          "title": "FIFA — Héctor Castro, mistrz świata znany jako El Manco",
+          "url": "https://www.fifa.com/de/articles/angeberwissen-faszinierende-fakten-wm-1930-uruguay",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "id": "2026-10-26-12"
+    },
+    {
+      "factKey": "andreas-hinkel:transfer2008-sevilla-celtic",
+      "format": "transfer",
+      "prompt": "Kto wykonał ten transfer w styczniu 2008 roku?",
+      "answerParts": [
+        "Andreas Hinkel"
+      ],
+      "subjects": [
+        "player:andreas-hinkel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "hiszpania",
+        "szkocja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Hinkel podpisał umowę z Celtikiem po odejściu z Sevilli 4 stycznia 2008",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c9-0e6ee5e56504-d953b613bd3c-1000--celtic-switch-thrills-hinkel/",
+          "checkedAt": "2026-10-25T22:17:31.624Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Sevilla",
+          "media": {
+            "path": "assets/d10-badge-sevilla.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "credit": "Sevilla",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 305,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Celtic",
+          "media": {
+            "path": "assets/d19-badge-celtic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "credit": "Celtic",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-26-13"
+    },
+    {
+      "factKey": "dnipro:europaleague-final2015-warsaw-sevilla",
+      "format": "fact",
+      "prompt": "Który ukraiński klub Myrona Markewycza przegrał z Sevillą 2:3 w warszawskim finale Ligi Europy 2015?",
+      "answerParts": [
+        "Dnipro Dniepropetrowsk"
+      ],
+      "subjects": [
+        "club:dnipro-dnipropetrovsk"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "ukraina",
+        "liga-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — finał w Warszawie: Dnipro Markewycza przegrało z Sevillą 2:3",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0221-0e90e6fca8ef-a1811c0e7d3d-1000--sevilla-defeat-dnipro-to-land-record-fourth-title/",
+          "checkedAt": "2026-10-25T22:08:25.955Z"
+        }
+      ],
+      "id": "2026-10-26-14"
+    },
+    {
+      "factKey": "shunsuke-nakamura:portrait2008",
+      "format": "photo",
+      "prompt": "Którego piłkarza rozpoznajesz na tym portrecie?",
+      "answerParts": [
+        "Shunsuke Nakamura"
+      ],
+      "subjects": [
+        "player:shunsuke-nakamura"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "japonia",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Neier — portret Shunsuke Nakamury z czerwca 2008 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Shunsuke2_20080622.png",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d26-nakamura.png",
+        "width": 965,
+        "height": 1426,
+        "crop": [
+          160,
+          15,
+          560,
+          580
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Shunsuke2_20080622.png",
+        "credit": "Neier",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Kadrowanie do pełnej głowy i podbródka, poza herb, numer, producenta oraz pasy na ramieniu; bez retuszu.",
+        "alt": "Portret mężczyzny z dłuższymi ciemnymi włosami; pełna głowa i podbródek, bez herbu, numeru i sponsora."
+      },
+      "id": "2026-10-26-15"
+    },
+    {
+      "factKey": "gordon-strachan:coach-link-svensson-gravesen-snodgrass",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził tych zawodników w podanych zespołach i okresach?",
+      "answerParts": [
+        "Gordon Strachan"
+      ],
+      "subjects": [
+        "coach:gordon-strachan"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "anglia",
+        "szkocja",
+        "reprezentacje"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Anders Svensson grał w Southampton Strachana przeciw Wolves w marcu 2003",
+          "url": "https://www.uefa.com/news-media/news/025e-0f90850620c1-950af7e922be-1000--leeds-derailed-in-yorkshire-derby/",
+          "checkedAt": "2026-10-25T22:17:47.143Z"
+        },
+        {
+          "title": "UEFA — Gravesen grał w Celtiku Strachana przeciw Manchesterowi United w listopadzie 2006",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01bb-0e6dbdc5e17f-a3c132ec7d82-1000--celtic-celebrate-first-qualification/",
+          "checkedAt": "2026-10-25T22:17:47.145Z"
+        },
+        {
+          "title": "Szkocka federacja — Snodgrass w reprezentacji Strachana przeciw Malcie 4 września 2016",
+          "url": "https://www.scottishfa.co.uk/en/news/scotland-hit-five-in-malta",
+          "checkedAt": "2026-10-25T22:17:47.147Z"
+        }
+      ],
+      "clues": [
+        "Anders Svensson — Southampton, 2002/03",
+        "Thomas Gravesen — Celtic, 2006/07",
+        "Robert Snodgrass — Szkocja, 2016"
+      ],
+      "id": "2026-10-26-16"
+    },
+    {
+      "factKey": "olivier-dacourt:transfer2006-roma-inter",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym transferze latem 2006 roku?",
+      "answerParts": [
+        "Olivier Dacourt"
+      ],
+      "subjects": [
+        "player:olivier-dacourt"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Dacourt dołączył latem 2006 do Interu z Romy na zasadzie wolnego transferu",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01bb-0e6dc0619370-de9983cd2244-1000--dacourt-to-miss-munich-summit/",
+          "checkedAt": "2026-10-25T22:17:31.625Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Lato · wolny transfer",
+        "from": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-26-17"
+    },
+    {
+      "factKey": "fc-thun:crest-star1898-redwhite-fragment",
+      "format": "crest",
+      "prompt": "Jaki szwajcarski klub rozpoznajesz po złotej gwieździe i roku 1898 w tym fragmencie herbu?",
+      "answerParts": [
+        "FC Thun"
+      ],
+      "subjects": [
+        "club:fc-thun"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szwajcaria",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "FC Thun — oficjalny serwis klubu",
+          "url": "https://www.fcthun.ch/",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Wikimedia Commons — herb FC Thun z 2011 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:FC_Thun_Logo_2011.svg",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d26-thun.png",
+        "width": 1920,
+        "height": 2210,
+        "crop": [
+          230,
+          1010,
+          1440,
+          770
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:FC_Thun_Logo_2011.svg",
+        "credit": "FC Thun; autor rysunku nieznany",
+        "license": "Domena publiczna — prosty znak; znak towarowy",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Thun_Logo_2011.svg",
+        "changes": "Rasteryzacja SVG i kadrowanie poza nazwę klubu; bez retuszu.",
+        "alt": "Czerwono-biały fragment tarczy ze złotą gwiazdą i rokiem 1898; bez nazwy klubu."
+      },
+      "id": "2026-10-26-18"
+    },
+    {
+      "factKey": "andoni-iraola:2026-27:liverpool-head-coach-aek-supercup-connection",
+      "format": "fact",
+      "prompt": "Który trener Liverpoolu w sezonie 2026/27 wcześniej zdobył Superpuchar Cypru z AEK Larnaka?",
+      "answerParts": [
+        "Andoni Iraola"
+      ],
+      "subjects": [
+        "coach:andoni-iraola"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "anglia",
+        "cypr",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-08-21",
+      "sources": [
+        {
+          "title": "Liverpool — nowy trener Iraola wcześniej wygrał Superpuchar Cypru z AEK Larnaka",
+          "url": "https://www.liverpoolfc.com/news/liverpool-fc-appoint-andoni-iraola-new-head-coach",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        },
+        {
+          "title": "Liverpool — konferencja Iraoli z 21 sierpnia przed pierwszym ligowym meczem sezonu 2026/27",
+          "url": "https://lfcbeta.liverpoolfc.com/news/andoni-iraola-press-conference-newcastle-v-liverpool-first-game-excitement-transfers-and-more",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-26-19"
+    },
+    {
+      "factKey": "real-sociedad:shared-club-karpin-alonso-depedro2004",
+      "format": "shared-club",
+      "prompt": "Valeri Karpin, Xabi Alonso i Javier de Pedro: w którym klubie grali razem w sezonie 2003/04?",
+      "answerParts": [
+        "Real Sociedad"
+      ],
+      "subjects": [
+        "club:real-sociedad"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Karpin, Xabi Alonso i De Pedro w Realu Sociedad przeciw Lyonowi 9 marca 2004",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaacb178416-6345e4dc9598-1000--juninho-joy-sends-lyon-through/",
+          "checkedAt": "2026-10-25T22:17:48.690Z"
+        }
+      ],
+      "id": "2026-10-26-20"
+    },
+    {
+      "factKey": "shakhtar:uefacupfinal2009-startingxi-kucher-ilsinho",
+      "format": "lineup",
+      "prompt": "Szachtar w finale Pucharu UEFA 2009: uzupełnij dwa nazwiska w wyjściowej jedenastce.",
+      "answerParts": [
+        "Ołeksandr Kuczer",
+        "Ilsinho"
+      ],
+      "subjects": [
+        "player:oleksandr-kucher",
+        "player:ilsinho"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "ukraina",
+        "puchar-uefa",
+        "liga-europy",
+        "sklady",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — oficjalny arkusz składów finału Szachtar – Werder, 20 maja 2009",
+          "url": "https://www.uefa.com/newsfiles/uefacup/2009/302827_LU.pdf",
+          "checkedAt": "2026-10-25T22:08:25.651Z"
+        }
+      ],
+      "lineup": {
+        "caption": "20 maja 2009 · Szachtar – Werder 2:1 po dogrywce · Wyjściowa jedenastka; rozmieszczenie umowne.",
+        "rows": [
+          [
+            {
+              "name": "Andrij Piatow"
+            }
+          ],
+          [
+            {
+              "name": "Darijo Srna"
+            },
+            {
+              "name": "Ołeksandr Kuczer",
+              "slot": 0
+            },
+            {
+              "name": "Dmytro Czyhrynski"
+            },
+            {
+              "name": "Răzvan Raț"
+            }
+          ],
+          [
+            {
+              "name": "Mariusz Lewandowski"
+            },
+            {
+              "name": "Fernandinho"
+            }
+          ],
+          [
+            {
+              "name": "Ilsinho",
+              "slot": 1
+            },
+            {
+              "name": "Jadson"
+            },
+            {
+              "name": "Willian"
+            }
+          ],
+          [
+            {
+              "name": "Luiz Adriano"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-26-21"
+    },
+    {
+      "factKey": "olivier-kapo:career-auxerre-juventus-monaco",
+      "format": "career",
+      "prompt": "Który piłkarz zaliczył te trzy etapy na początku XXI wieku?",
+      "answerParts": [
+        "Olivier Kapo"
+      ],
+      "subjects": [
+        "player:olivier-kapo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "francja",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "FFF — Kapo: Auxerre 1999–2004, Juventus 2004–2005, Monaco 2005–2006",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/8596-kapo-olivier/fiche.html",
+          "checkedAt": "2026-10-25T22:16:23.414Z"
+        },
+        {
+          "title": "UEFA — Kapo przeniósł się w 2005 z Juventusu do Monaco na roczne wypożyczenie",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaa08d449ce-3322ca67ae54-1000--kapo-captured-by-monaco/",
+          "checkedAt": "2026-10-25T22:17:34.682Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "AJ Auxerre",
+          "years": "1999–2004",
+          "media": {
+            "path": "assets/d24-badge-auxerre.png",
+            "source": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+            "credit": "AJ Auxerre",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AJAuxerreLogo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 316,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Juventus",
+          "years": "2004–2005",
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "AS Monaco",
+          "years": "2005–06",
+          "media": {
+            "path": "assets/d19-badge-monaco.png",
+            "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "credit": "AS Monaco",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 434,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy gry w pierwszych drużynach, nie okresy kontraktów. Monaco: wypożyczenie z Juventusu. Dalszą karierę pominięto.",
+      "id": "2026-10-26-22"
+    },
+    {
+      "factKey": "denis-compton:england-cricket-arsenal-leslie-brother",
+      "format": "fact",
+      "prompt": "Który słynny krykiecista reprezentacji Anglii grał także w Arsenalu, podobnie jak jego brat Leslie?",
+      "answerParts": [
+        "Denis Compton"
+      ],
+      "subjects": [
+        "player:denis-compton"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "anglia",
+        "inne-sporty",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Lord’s — Denis Compton, reprezentant Anglii i skrzydłowy Arsenalu",
+          "url": "https://www.lords.org/lords/our-history/honours-boards/d-c-s-compton/116",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        },
+        {
+          "title": "Arsenal — bracia Leslie i Denis Compton",
+          "url": "https://www.arsenal.com/men/leslie-compton-ahEkk4b0EGqw",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "id": "2026-10-26-23"
+    },
+    {
+      "factKey": "luis-palma:2026-10-25:winner-ends-legia15-unbeaten",
+      "format": "fact",
+      "prompt": "Legia – Lech, 25 października 2026: kto strzelił zwycięskiego gola, kończąc serię 15 meczów Legii bez porażki?",
+      "answerParts": [
+        "Luis Palma"
+      ],
+      "subjects": [
+        "player:luis-palma"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Palma strzelił w 87. minucie; porażka zakończyła serię 15 nieprzegranych meczów Legii",
+          "url": "https://ekstraklasa.org/mecz/72289ea6-f744-4e8b-8919-76212264610a/legia-warszawa-lech-poznan/przeglad/",
+          "checkedAt": "2026-10-25T22:08:46.257Z"
+        }
+      ],
+      "id": "2026-10-26-24"
+    },
+    {
+      "factKey": "jermaine-jenas:loan2012-tottenham-forest",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono między tymi klubami w 2012 roku?",
+      "answerParts": [
+        "Jermaine Jenas"
+      ],
+      "subjects": [
+        "player:jermaine-jenas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — przedłużenie wypożyczenia Jenasa do Nottingham Forest w listopadzie 2012",
+          "url": "https://www.tottenhamhotspur.com/news/1047901/jj-forest-loan-extended",
+          "checkedAt": "2026-10-25T22:17:31.627Z"
+        }
+      ],
+      "transfer": {
+        "year": 2012,
+        "detail": "Wypożyczenie",
+        "from": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Nottingham Forest",
+          "media": {
+            "path": "assets/d11-badge-nottingham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Nottingham_Forest_F.C._logo.svg",
+            "credit": "Nottingham Forest",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Nottingham_Forest_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 532,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-26-25"
+    },
+    {
+      "factKey": "palestino:chile-champions1955-1978-middleeast-diaspora",
+      "format": "fact",
+      "prompt": "Który chilijski mistrz z 1955 i 1978 roku powstał wśród imigrantów z Bliskiego Wschodu?",
+      "answerParts": [
+        "CD Palestino"
+      ],
+      "subjects": [
+        "club:palestino"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "chile",
+        "historia",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Palestino — historia klubu założonego przez palestyńską społeczność Chile i tytuły 1955 oraz 1978",
+          "url": "https://palestino.cl/club/",
+          "checkedAt": "2026-10-25T22:13:32.317Z"
+        }
+      ],
+      "id": "2026-10-26-26"
+    },
+    {
+      "factKey": "wendell-lira:puskas2015-to-professional-fifa-gamer",
+      "format": "fact",
+      "prompt": "Który zdobywca Nagrody Puskása za 2015 rok później został zawodowym graczem serii FIFA?",
+      "answerParts": [
+        "Wendell Lira"
+      ],
+      "subjects": [
+        "player:wendell-lira"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "brazylia",
+        "nagrody",
+        "esport",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Wendell Lira o przejściu z boiska do zawodowej gry w FIFA",
+          "url": "https://inside.fifa.com/news/wendell-lira-i-want-to-reach-the-next-grand-final",
+          "checkedAt": "2026-10-25T22:08:25.990Z"
+        },
+        {
+          "title": "FIFA — zwycięzca Nagrody Puskása za 2015 rok, ogłoszony w styczniu 2016",
+          "url": "https://inside.fifa.com/news/wendell-lira-it-s-like-a-dream-2755172-x2450",
+          "checkedAt": "2026-10-25T22:08:26.272Z"
+        }
+      ],
+      "id": "2026-10-26-27"
+    },
+    {
+      "factKey": "trabzonspor:2026-10-22:salah150th-uefa-appearance-club",
+      "format": "fact",
+      "prompt": "W barwach którego klubu Mohamed Salah rozegrał 150. mecz w rozgrywkach UEFA, przeciwko Hearts 22 października 2026?",
+      "answerParts": [
+        "Trabzonspor"
+      ],
+      "subjects": [
+        "club:trabzonspor"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "turcja",
+        "jubileusze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "UEFA — Salah rozegrał 150. mecz w rozgrywkach federacji w barwach Trabzonsporu przeciwko Hearts",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02aa-21e40e257e01-64251de1d99e-1000--uefa-conference-league-matchday-2-highlights-and-round-up-tr/",
+          "checkedAt": "2026-10-25T22:12:09.455Z"
+        }
+      ],
+      "id": "2026-10-26-28"
+    },
+    {
+      "factKey": "vaduz:first-liechtenstein-european-group2022",
+      "format": "fact",
+      "prompt": "Który klub w 2022 jako pierwszy z Liechtensteinu awansował do fazy grupowej europejskich pucharów?",
+      "answerParts": [
+        "FC Vaduz"
+      ],
+      "subjects": [
+        "club:vaduz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "liechtenstein",
+        "liga-konferencji",
+        "historia-rozgrywek"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Vaduz pierwszym klubem z Liechtensteinu w europejskiej fazie grupowej, Liga Konferencji 2022/23",
+          "url": "https://www.uefa.com/news-media/mediaservices/informationkits/competitions/uefaconferenceleague/2023/match/2035924/",
+          "checkedAt": "2026-10-25T22:17:48.694Z"
+        }
+      ],
+      "id": "2026-10-26-29"
+    },
+    {
+      "factKey": "mwepu-ilunga:1974-free-kick-runout",
+      "format": "fact",
+      "prompt": "Który obrońca Zairu na mundialu 1974 wybiegł z muru i wykopał piłkę, zanim Brazylijczycy wykonali wolny?",
+      "answerParts": [
+        "Mwepu Ilunga"
+      ],
+      "subjects": [
+        "player:mwepu-ilunga"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "mundial",
+        "zair",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Ilunga Mwepu wybiegł z muru podczas meczu Zair–Brazylia 22 czerwca 1974",
+          "url": "https://inside.fifa.com/fr/tournaments/mens/worldcup/2014brazil/news/le-zaire-entre-dans-l-histoire-et-en-sort-sans-gloire-2380908",
+          "checkedAt": "2026-10-25T22:17:48.696Z"
+        }
+      ],
+      "id": "2026-10-26-30"
+    }
+  ]
+}
