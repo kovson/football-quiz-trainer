@@ -1,0 +1,1189 @@
+{
+  "id": "2026-10-27",
+  "kind": "daily",
+  "title": "Trening głowy · 27 października 2026",
+  "date": "2026-10-27",
+  "publishAt": "2026-10-27T08:00:00+01:00",
+  "researchedAt": "2026-10-27T09:02:53.769Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-27"
+  },
+  "questions": [
+    {
+      "factKey": "harry-kane:2026-10-26:ballon-dor-winner",
+      "format": "fact",
+      "prompt": "Kto zdobył Złotą Piłkę 2026 podczas gali 26 października w Londynie?",
+      "answerParts": [
+        "Harry Kane"
+      ],
+      "subjects": [
+        "player:harry-kane"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "nagrody",
+        "niemcy",
+        "anglia"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "UEFA — Kane laureatem Złotej Piłki 2026, przed Mbappé i Yamalem",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21ec47378e70-b29defb43769-1000--harry-kane-wins-2026-men-s-ballon-d-or/",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        }
+      ],
+      "id": "2026-10-27-01"
+    },
+    {
+      "factKey": "piotr-reiss:portrait2011",
+      "format": "photo",
+      "prompt": "Podaj nazwisko piłkarza widocznego z profilu.",
+      "answerParts": [
+        "Piotr Reiss"
+      ],
+      "subjects": [
+        "player:piotr-reiss"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Roger Gorączniak — Piotr Reiss na oryginalnej fotografii z 2011 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Piotr_Reiss_2011.jpg",
+          "checkedAt": "2026-10-27T08:56:35.595Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d27-reiss.jpg",
+        "width": 1067,
+        "height": 1600,
+        "crop": [
+          0,
+          20,
+          750,
+          900
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Piotr_Reiss_2011.jpg",
+        "credit": "Roger Gorączniak",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Kadrowanie do pełnej głowy i podbródka, poza herb, producenta stroju i napis na mikrofonie; bez retuszu.",
+        "alt": "Profil mężczyzny z krótkimi jasnymi włosami; cała głowa i podbródek, bez herbu i czytelnych napisów."
+      },
+      "id": "2026-10-27-02"
+    },
+    {
+      "factKey": "dawid-janczyk:transfer2007-legia-cska",
+      "format": "transfer",
+      "prompt": "Kogo pokazuje ten transfer z lipca 2007 roku?",
+      "answerParts": [
+        "Dawid Janczyk"
+      ],
+      "subjects": [
+        "player:dawid-janczyk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "polish",
+        "polska",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Janczyk przeszedł z Legii do CSKA w lipcu 2007",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0254-0d7bad2cbbce-215fe58f933f-1000--janczyk-checks-in-at-cska/",
+          "checkedAt": "2026-10-27T08:57:00.601Z"
+        }
+      ],
+      "transfer": {
+        "year": 2007,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Legia Warszawa",
+          "media": {
+            "path": "assets/d19-badge-legia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "credit": "Legia Warsaw",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "CSKA Moskwa",
+          "media": {
+            "path": "assets/d27-badge-cska.png",
+            "source": "https://en.wikipedia.org/wiki/File:PFK_CSKA_Logo.svg",
+            "credit": "CSKA Moskwa",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PFK_CSKA_Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 341,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-27-03"
+    },
+    {
+      "factKey": "paraguay:copa-america2011-final-five-draws",
+      "format": "fact",
+      "prompt": "Która reprezentacja awansowała do finału Copa América 2011 po pięciu remisach i dwóch wygranych seriach karnych?",
+      "answerParts": [
+        "Paragwaj"
+      ],
+      "subjects": [
+        "national-team:paraguay"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "copa-america",
+        "reprezentacje",
+        "ameryka-poludniowa"
+      ],
+      "sources": [
+        {
+          "title": "AUF — Paragwaj dotarł do finału Copa América 2011 po pięciu kolejnych remisach",
+          "url": "https://www.auf.org.uy/a-7-a-ntilde-os-de-la-copa-am-eacute-rica-2011/",
+          "checkedAt": "2026-10-27T09:02:19.515Z"
+        }
+      ],
+      "id": "2026-10-27-04"
+    },
+    {
+      "factKey": "fc-midtjylland:crest-wolf-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu należy ten wilczy fragment herbu?",
+      "answerParts": [
+        "FC Midtjylland"
+      ],
+      "subjects": [
+        "club:fc-midtjylland"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "FC Midtjylland — oficjalna strona klubu z wilczym symbolem",
+          "url": "https://www.fcm.dk/",
+          "checkedAt": "2026-10-27T08:55:06.383Z"
+        },
+        {
+          "title": "Rzeczywisty herb FC Midtjylland i warunki użycia",
+          "url": "https://en.wikipedia.org/wiki/File:FC_Midtjylland_logo.svg",
+          "checkedAt": "2026-10-27T08:56:35.595Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d27-midtjylland.png",
+        "width": 1200,
+        "height": 1200,
+        "crop": [
+          205,
+          350,
+          780,
+          630
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:FC_Midtjylland_logo.svg",
+        "credit": "FC Midtjylland",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Midtjylland_logo.svg",
+        "changes": "Rasteryzacja SVG i kadrowanie poza nazwę oraz rok; bez retuszu.",
+        "alt": "Biały geometryczny łeb wilka na czerwonym polu z fragmentem czarnego okręgu; bez liter."
+      },
+      "id": "2026-10-27-05"
+    },
+    {
+      "factKey": "grzegorz-piechna:riddle-torpedo-widzew-polonia-doxa",
+      "format": "career-riddle",
+      "prompt": "Po Torpedo Moskwa grał w Widzewie i Polonii Warszawa. Później spróbował Grecji w Doxie Kranoulas. Kto to?",
+      "answerParts": [
+        "Grzegorz Piechna"
+      ],
+      "subjects": [
+        "player:grzegorz-piechna"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "rosja",
+        "polska",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "Grzegorz Piechna — wywiad o Torpedo, Widzewie, Polonii Warszawa i greckiej Doxie Kranoulas",
+          "url": "https://przegladsportowy.onet.pl/pilka-nozna/grzegorz-piechna-i-tylko-ksiazki-nie-zdazylem-napisac/cd7jc9g",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "id": "2026-10-27-06"
+    },
+    {
+      "factKey": "mika-godts:2026-10-26:first-psg-goal-substitute-lyon",
+      "format": "fact",
+      "prompt": "PSG – Lyon 2:0, 26 października 2026: który rezerwowy zdobył swojego pierwszego gola dla paryżan?",
+      "answerParts": [
+        "Mika Godts"
+      ],
+      "subjects": [
+        "player:mika-godts"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "francja",
+        "ligue-1",
+        "debiutanckie-gole",
+        "zmiennicy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "PSG — Godts strzelił pierwszego gola dla klubu, pieczętując zwycięstwo nad Lyonem",
+          "url": "https://www.psg.fr/en/content/brilliant-second-half-seals-golden-win-over-lyon-ligue-1-match-report-paris-saint-germain-olympique-lyonnais-ligue-1-2026-2027",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        }
+      ],
+      "id": "2026-10-27-07"
+    },
+    {
+      "factKey": "mathieu-bodmer:transfer2010-lyon-psg",
+      "format": "transfer",
+      "prompt": "Podaj piłkarza, który latem 2010 przeszedł między tymi klubami.",
+      "answerParts": [
+        "Mathieu Bodmer"
+      ],
+      "subjects": [
+        "player:mathieu-bodmer"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Bodmer po trzech sezonach w Lyonie podpisał kontrakt z PSG w lipcu 2010",
+          "url": "https://fr.uefa.com/uefaeuropaleague/news/01e7-0e74cfafdbbc-c0f87905ba4a-1000--bodmer-au-psg-le-choix-du-c%C5%93ur/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Olympique Lyon",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-27-08"
+    },
+    {
+      "factKey": "fc-united-of-manchester:fan-owned-foundation2005",
+      "format": "fact",
+      "prompt": "Jaki klub założyli w 2005 roku kibice Manchesteru United sprzeciwiający się przejęciu przez Glazerów?",
+      "answerParts": [
+        "FC United of Manchester"
+      ],
+      "subjects": [
+        "club:fc-united-of-manchester"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "anglia",
+        "kultura",
+        "kibice"
+      ],
+      "sources": [
+        {
+          "title": "FC United — własna historia powstania i przyczyny protestu w 2005 roku",
+          "url": "https://fc-utd.co.uk/history",
+          "checkedAt": "2026-10-27T08:55:03.080Z"
+        }
+      ],
+      "id": "2026-10-27-09"
+    },
+    {
+      "factKey": "pawel-kryszalowicz:career-gap-eintracht2000-03",
+      "format": "career-gap",
+      "prompt": "Paweł Kryszałowicz: jaki klub rozdziela te dwa pobyty w Amice?",
+      "answerParts": [
+        "Eintracht Frankfurt"
+      ],
+      "subjects": [
+        "club:eintracht-frankfurt"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "polska",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Eintracht — Kryszałowicz uzyskał zgodę na transfer z Amiki w grudniu 2000",
+          "url": "https://profis.eintracht.de/news/polen-stuermer-kryszalowicz-erhielt-freigabe-2959/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "UEFA — Kryszałowicz wrócił z Eintrachtu do Amiki latem 2003",
+          "url": "https://www.uefa.com/news-media/news/0196-0f8edd52e54d-93c547c4cedf-1000--kryszalowicz-clear-for-amica/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "PZPN — pierwszy pobyt w Amice od 1995 i powrót na sezony 2003/04–2004/05",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/krysztalowy-jubileusz",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Amica Wronki",
+          "years": "1995–2000",
+          "media": {
+            "path": "assets/d27-badge-amica.png",
+            "source": "https://en.wikipedia.org/wiki/File:Amica_Wronki_2007_Logo.png",
+            "credit": "Amica Wronki",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Amica_Wronki_2007_Logo.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Eintracht Frankfurt",
+          "years": "2000–2003",
+          "media": {
+            "path": "assets/d27-badge-eintracht.png",
+            "source": "https://en.wikipedia.org/wiki/File:Eintracht_Frankfurt_crest.svg",
+            "credit": "Eintracht Frankfurt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Eintracht_Frankfurt_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Amica Wronki",
+          "years": "2003–2005",
+          "media": {
+            "path": "assets/d27-badge-amica.png",
+            "source": "https://en.wikipedia.org/wiki/File:Amica_Wronki_2007_Logo.png",
+            "credit": "Amica Wronki",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Amica_Wronki_2007_Logo.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery pierwszej drużyny. Zagraniczny pobyt rozpoczął się w grudniu 2000; pozostałe kluby pominięto.",
+      "id": "2026-10-27-10"
+    },
+    {
+      "factKey": "wisla-krakow:2026-10-26:only-six-home-wins-perfect-record",
+      "format": "fact",
+      "prompt": "Ekstraklasa, 26 października 2026: który klub wygrał wszystkie sześć domowych meczów sezonu?",
+      "answerParts": [
+        "Wisła Kraków"
+      ],
+      "subjects": [
+        "club:wisla-krakow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Ekstraklasa — po 12. kolejce tylko Wisła miała komplet domowych zwycięstw",
+          "url": "https://ekstraklasa.org/aktualnosci/bez-niepokonanych-podsumowanie-12-kolejki-20262027/",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        },
+        {
+          "title": "Ekstraklasa — Wisła wygrała szósty z sześciu domowych meczów sezonu",
+          "url": "https://ekstraklasa.org/aktualnosci/grosicki-z-rekordem-dziekonski-zatrzymal-nowaka-jedenastka-12-kolejki-20262027/",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        }
+      ],
+      "id": "2026-10-27-11"
+    },
+    {
+      "factKey": "wroclaw-municipal-stadium:aerial2019",
+      "format": "stadium",
+      "prompt": "Jaki stadion widzisz z lotu ptaka? Podaj też miasto.",
+      "answerParts": [
+        "Stadion Miejski (Tarczyński Arena), Wrocław"
+      ],
+      "subjects": [
+        "stadium:wroclaw-municipal"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Arne Müseler — fotografia stadionu we Wrocławiu z 2019 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Wroclaw_Munincipal_Stadium_2019_(cropped).jpg",
+          "checkedAt": "2026-10-27T08:56:35.595Z"
+        },
+        {
+          "title": "Operator stadionu — Tarczyński Arena Wrocław, fakty i architektura",
+          "url": "https://tarczynskiarenawroclaw.pl/stadion/fakty-i-liczby/",
+          "checkedAt": "2026-10-27T08:55:07.887Z"
+        },
+        {
+          "title": "Miasto Wrocław — nadanie stadionowi nazwy Tarczyński Arena w 2021 roku",
+          "url": "https://www.wroclaw.pl/sport/tarczynski-arena-wroclaw-sponsor-stadionu",
+          "checkedAt": "2026-10-27T08:55:08.214Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d27-wroclaw.jpg",
+        "width": 1920,
+        "height": 1348,
+        "source": "https://commons.wikimedia.org/wiki/File:Wroclaw_Munincipal_Stadium_2019_(cropped).jpg",
+        "credit": "Arne Müseler / www.arne-mueseler.com",
+        "license": "CC BY-SA 3.0 DE",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+        "changes": "Skalowanie wcześniejszego kadru; bez dodatkowego kadrowania i bez retuszu.",
+        "alt": "Owalny stadion z jasną, półprzezroczystą fasadą i zielonymi krzesełkami, widziany z lotu ptaka; bez nazwy i herbu."
+      },
+      "id": "2026-10-27-12"
+    },
+    {
+      "factKey": "birmingham-city:shared-club-hleb-zigic-martins2011",
+      "format": "shared-club",
+      "prompt": "Alaksandr Hleb, Nikola Žigić i Obafemi Martins: w którym klubie grali razem w sezonie 2010/11?",
+      "answerParts": [
+        "Birmingham City"
+      ],
+      "subjects": [
+        "club:birmingham-city"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — Hleb w Birmingham w sezonie 2010/11",
+          "url": "https://www.premierleague.com/news/694198",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "UEFA — Žigić i Martins w drużynie Birmingham, zwycięzcy finału Pucharu Ligi w lutym 2011",
+          "url": "https://www.uefa.com/news/01ee-0e7751ed5623-5477d62828dd-1000--birmingham-stun-arsenal-to-lift-league-cup/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "id": "2026-10-27-13"
+    },
+    {
+      "factKey": "alexia-putellas:current-club-snapshot2026-10-26",
+      "format": "fact",
+      "prompt": "W którym angielskim klubie grała 26 października 2026 Alexia Putellas, zdobywczyni Złotej Piłki?",
+      "answerParts": [
+        "London City Lionesses"
+      ],
+      "subjects": [
+        "player:alexia-putellas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "anglia",
+        "pilka-kobieca",
+        "kluby"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "UEFA — Alexia Putellas przed sezonem 2026/27 przeniosła się do London City Lionesses",
+          "url": "https://www.uefa.com/womenschampionsleague/news/02aa-21ec463bf005-96f0689e3106-1000--alexia-putellas-wins-2026-women-s-ballon-d-or/",
+          "checkedAt": "2026-10-27T09:02:19.515Z"
+        }
+      ],
+      "id": "2026-10-27-14"
+    },
+    {
+      "factKey": "oleguer-presas:transfer2008-barcelona-ajax",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w tym ruchu z 2008 roku?",
+      "answerParts": [
+        "Oleguer Presas"
+      ],
+      "subjects": [
+        "player:oleguer-presas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "hiszpania",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Oleguer przeszedł z Barcelony do Ajaksu w lipcu 2008",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01cf-0e6f83e067bf-c15288414067-1000--oleguer-to-join-ajax-from-barcelona/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "UEFA — sezonowy przewodnik potwierdza transfer Oleguera z Barcelony do Ajaksu w 2008",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/ITT/uefaorg/General/01/53/55/89/1535589_DOWNLOAD.pdf",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Lipiec",
+        "from": {
+          "club": "FC Barcelona",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Ajax",
+          "media": {
+            "path": "assets/d13-badge-ajax.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "credit": "AFC Ajax",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-27-15"
+    },
+    {
+      "factKey": "botev-plovdiv:crest-yellowblack-shield-red-circle-fragment",
+      "format": "crest",
+      "prompt": "Który bułgarski klub ma taki fragment herbu?",
+      "answerParts": [
+        "Botew Płowdiw (Botev Plovdiv)"
+      ],
+      "subjects": [
+        "club:botev-plovdiv"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "bulgaria",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Botew Płowdiw — oficjalna strona i znak klubu",
+          "url": "https://botevplovdiv.bg/",
+          "checkedAt": "2026-10-27T08:55:06.955Z"
+        },
+        {
+          "title": "Wikimedia Commons — rzeczywisty herb Botewu obowiązujący od 2010 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:PFC_Botev_Plovdiv_logo.svg",
+          "checkedAt": "2026-10-27T08:56:35.595Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d27-botev.png",
+        "width": 1920,
+        "height": 1818,
+        "crop": [
+          450,
+          0,
+          950,
+          580
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:PFC_Botev_Plovdiv_logo.svg",
+        "credit": "PFC Botev Plovdiv; autor rysunku nieznany",
+        "license": "Domena publiczna — prosty znak; znak towarowy",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:PFC_Botev_Plovdiv_logo.svg",
+        "changes": "Rasteryzacja SVG i kadrowanie do górnej tarczy oraz fragmentu okręgu; bez retuszu.",
+        "alt": "Złoto obramowana tarcza z ukośnymi żółto-czarnymi pasami na tle czerwonego okręgu; bez nazwy i roku."
+      },
+      "id": "2026-10-27-16"
+    },
+    {
+      "factKey": "darko-brasanac:2026-10-13:retires-after-malaga-promotion-joins-arrasate-staff",
+      "format": "fact",
+      "prompt": "Po awansie z Málagą zakończył karierę, dołączając w październiku 2026 do sztabu Arrasatego w Osasunie. Kto to?",
+      "answerParts": [
+        "Darko Brašanac"
+      ],
+      "subjects": [
+        "player:darko-brasanac"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "trenerzy",
+        "zakonczenie-kariery"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "Osasuna — Brašanac zakończył karierę i dołączył do sztabu Arrasatego po awansie z Málagą",
+          "url": "https://www.osasuna.es/jagoba-arrasate-osasuna-rueda-prensa-presentacion-13-10-2026",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        }
+      ],
+      "id": "2026-10-27-17"
+    },
+    {
+      "factKey": "walter-mazzarri:coach-link-cassano-lavezzi-deeney",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził tych trzech zawodników w podanych zespołach i sezonach?",
+      "answerParts": [
+        "Walter Mazzarri"
+      ],
+      "subjects": [
+        "coach:walter-mazzarri"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "wlochy",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Sampdoria — Cassano w składzie drużyny Mazzarriego w derbach 17 lutego 2008",
+          "url": "https://www.sampdoria.it/news/archivio/2008/02/17/spettacolo-blucerchiato-maggio-regala-il-derby-alla-samp/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "UEFA — Lavezzi w Napoli Mazzarriego przeciw Manchesterowi City 22 listopada 2011",
+          "url": "https://www.uefa.com/newsfiles/UCL/2012/2007633_FR.pdf",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "Premier League — Deeney w Watford Mazzarriego w sezonie 2016/17",
+          "url": "https://www.premierleague.com/en/news/116817",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "clues": [
+        "Antonio Cassano — Sampdoria, 2007/08",
+        "Ezequiel Lavezzi — Napoli, 2011/12",
+        "Troy Deeney — Watford, 2016/17"
+      ],
+      "id": "2026-10-27-18"
+    },
+    {
+      "factKey": "blerim-dzemaili:birthplace-present-day-north-macedonia",
+      "format": "country",
+      "prompt": "W którym dzisiejszym państwie urodził się reprezentant Szwajcarii Blerim Džemaili?",
+      "answerParts": [
+        "Macedonia Północna"
+      ],
+      "subjects": [
+        "player:blerim-dzemaili"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "geografia",
+        "szwajcaria",
+        "macedonia-polnocna"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Džemaili urodził się na terenie dzisiejszej Macedonii Północnej",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01f3-0e78ccb5fcd5-d1e4b51622c2-1000--dzemaili-excited-after-leaving-parma-for-napoli/",
+          "checkedAt": "2026-10-27T09:02:19.515Z"
+        }
+      ],
+      "id": "2026-10-27-19"
+    },
+    {
+      "factKey": "lars-ricken:portrait2014",
+      "format": "photo",
+      "prompt": "Którego byłego piłkarza przedstawia ten portret?",
+      "answerParts": [
+        "Lars Ricken"
+      ],
+      "subjects": [
+        "player:lars-ricken"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "niemcy",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Kerstin Tietje — Lars Ricken podczas Tag der Legenden w 2014 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:10._Tag_der_Legenden_2014_56.jpg",
+          "checkedAt": "2026-10-27T08:56:35.595Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d27-ricken.jpg",
+        "width": 1920,
+        "height": 2484,
+        "crop": [
+          500,
+          80,
+          1000,
+          1200
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:10._Tag_der_Legenden_2014_56.jpg",
+        "credit": "Die Bildermacherei Cuxhaven, Kerstin Tietje",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Skalowanie i kadrowanie do pełnej głowy, podbródka oraz gładkiego swetra; bez retuszu.",
+        "alt": "Mężczyzna z zaczesanymi do tyłu włosami i zarostem w granatowym swetrze; bez stroju sportowego i czytelnych napisów."
+      },
+      "id": "2026-10-27-20"
+    },
+    {
+      "factKey": "giovani-dos-santos:loan2010-tottenham-galatasaray",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono między tymi klubami w styczniu 2010?",
+      "answerParts": [
+        "Giovani dos Santos"
+      ],
+      "subjects": [
+        "player:giovani-dos-santos"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfery",
+        "historia",
+        "anglia",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Giovani dos Santos wypożyczony z Tottenhamu do Galatasaray do końca sezonu 2009/10",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01e1-0e73b8f98faa-3149458203fc-1000--dos-santos-adds-to-galatasaray-options/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Galatasaray",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-27-21"
+    },
+    {
+      "factKey": "bob-marley:ajax-thirdkit2021-22-tribute",
+      "format": "fact",
+      "prompt": "Któremu muzykowi poświęcono trzeci strój Ajaksu 2021/22 z trzema ptakami i czerwono-żółto-zielonymi detalami?",
+      "answerParts": [
+        "Bob Marley"
+      ],
+      "subjects": [
+        "music:bob-marley"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "holandia",
+        "stroje",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Ajax — oficjalna prezentacja stroju poświęconego Bobowi Marleyowi, 20 sierpnia 2021",
+          "url": "https://www.ajax.nl/artikelen/ajax-en-adidas-presenteren-derde-tenue",
+          "checkedAt": "2026-10-27T08:55:03.330Z"
+        }
+      ],
+      "id": "2026-10-27-22"
+    },
+    {
+      "factKey": "michael-carrick:2026-10-25:fernandes-unused-bench-bournemouth-loss",
+      "format": "fact",
+      "prompt": "Manchester United – Bournemouth 0:3, 25 października 2026: który trener pozostawił Bruno Fernandesa na ławce przez cały mecz?",
+      "answerParts": [
+        "Michael Carrick"
+      ],
+      "subjects": [
+        "coach:michael-carrick"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "anglia",
+        "premier-league",
+        "trenerzy",
+        "decyzje-kadrowe"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Premier League — decyzja Carricka o pominięciu Fernandesa i ósmy mecz United bez zwycięstwa",
+          "url": "https://www.premierleague.com/en/news/4744555/what-we-learned-from-sundays-premier-league-matches",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        },
+        {
+          "title": "Premier League — Fernandes nie wszedł na boisko w przegranym meczu z Bournemouth",
+          "url": "https://www.premierleague.com/es/news/4743073/munbou-web",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        }
+      ],
+      "id": "2026-10-27-23"
+    },
+    {
+      "factKey": "edmilson:career-lyon-barcelona-villarreal",
+      "format": "career",
+      "prompt": "Który piłkarz zaliczył te trzy kolejne etapy kariery?",
+      "answerParts": [
+        "Edmílson"
+      ],
+      "subjects": [
+        "player:edmilson"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "francja",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Edmílson w Lyonie od 2000, następnie cztery sezony w Barcelonie i transfer do Villarreal w 2008",
+          "url": "https://www.uefa.com/news-media/news/01cd-0f84dc910dea-a600b4099218-1000--edmilson-opts-for-villarreal-role/",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "Barcelona — Edmílson grał w klubie od 2004 do 2008",
+          "url": "https://www.fcbarcelona.com/en/football/barca-legends/jugadores/1196699/edmilson",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        },
+        {
+          "title": "DFB — pobyt Edmílsona w Villarreal zakończył się 21 stycznia 2009",
+          "url": "https://datencenter.dfb.de/competitions/champions-league/seasons/2008-2009/teams/fc-villarreal?datacenter_name=datencenter",
+          "checkedAt": "2026-10-27T08:57:00.606Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Olympique Lyon",
+          "years": "2000–2004",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "FC Barcelona",
+          "years": "2004–2008",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Villarreal",
+          "years": "2008–2009",
+          "media": {
+            "path": "assets/d22-badge-villarreal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "credit": "Villarreal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby pierwszych drużyn. Ostatni etap zakończył się w styczniu 2009; wcześniejsze i późniejsze pominięto.",
+      "id": "2026-10-27-24"
+    },
+    {
+      "factKey": "al-ain:club-world-cup-final2018",
+      "format": "fact",
+      "prompt": "Który klub ze Zjednoczonych Emiratów Arabskich zagrał z Realem w finale klubowego mundialu 2018?",
+      "answerParts": [
+        "Al-Ain"
+      ],
+      "subjects": [
+        "club:al-ain"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "klubowe-mistrzostwa-swiata",
+        "zea"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Al-Ain niespodziewanym finalistą klubowych mistrzostw świata 2018",
+          "url": "https://inside.fifa.com/en/news/real-madrid-make-history-in-unexpected-final",
+          "checkedAt": "2026-10-27T09:02:19.515Z"
+        }
+      ],
+      "id": "2026-10-27-25"
+    },
+    {
+      "factKey": "apoel:first-cypriot-ucl-quarterfinal2012",
+      "format": "fact",
+      "prompt": "Który klub w 2012 jako pierwszy z Cypru dotarł do ćwierćfinału Ligi Mistrzów?",
+      "answerParts": [
+        "APOEL Nikozja"
+      ],
+      "subjects": [
+        "club:apoel"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "cypr",
+        "liga-mistrzow",
+        "historia-rozgrywek"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — APOEL pierwszym cypryjskim ćwierćfinalistą Ligi Mistrzów po wyeliminowaniu Lyonu w marcu 2012",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01fb-0e7c45b518ae-ac0e681fa832-1000--apoel-aglow-after-lyon-shoot-out-win/",
+          "checkedAt": "2026-10-27T08:57:00.607Z"
+        }
+      ],
+      "id": "2026-10-27-26"
+    },
+    {
+      "factKey": "vinnie-jones:juggernaut-xmen-laststand2006",
+      "format": "fact",
+      "prompt": "Który były piłkarz zagrał Juggernauta w filmie „X-Men: Ostatni bastion” z 2006 roku?",
+      "answerParts": [
+        "Vinnie Jones"
+      ],
+      "subjects": [
+        "player:vinnie-jones"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "walia",
+        "kino",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Celebrity Speakers — biografia Vinniego Jonesa, byłego piłkarza i odtwórcy roli Juggernauta",
+          "url": "https://www.speakers.co.uk/speakers/vinnie-jones/",
+          "checkedAt": "2026-10-27T08:55:04.104Z"
+        },
+        {
+          "title": "20th Century Studios — oficjalna obsada i data premiery filmu",
+          "url": "https://www.20thcenturystudios.com/movies/x-men-the-last-stand",
+          "checkedAt": "2026-10-27T08:55:05.141Z"
+        }
+      ],
+      "id": "2026-10-27-27"
+    },
+    {
+      "factKey": "wiktor-dlugosz:2026-10-26:all-three-mena-goals-assists",
+      "format": "fact",
+      "prompt": "Ekstraklasa, 26 października 2026: kto asystował przy wszystkich trzech sezonowych golach Camilo Meny dla Korony?",
+      "answerParts": [
+        "Wiktor Długosz"
+      ],
+      "subjects": [
+        "player:wiktor-dlugosz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "asysty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Długosz autorem siedmiu asyst, w tym przy wszystkich trzech golach Meny",
+          "url": "https://ekstraklasa.org/aktualnosci/grosicki-z-rekordem-dziekonski-zatrzymal-nowaka-jedenastka-12-kolejki-20262027/",
+          "checkedAt": "2026-10-27T08:54:44.599Z"
+        }
+      ],
+      "id": "2026-10-27-28"
+    },
+    {
+      "factKey": "kasabian:king-power-title-concerts2016",
+      "format": "fact",
+      "prompt": "Który zespół rockowy zagrał dwa koncerty na King Power Stadium po mistrzostwie Leicester w 2016?",
+      "answerParts": [
+        "Kasabian"
+      ],
+      "subjects": [
+        "music:kasabian"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "anglia",
+        "muzyka",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "Leicester City — Kasabian zagrali dwa koncerty na King Power Stadium po mistrzowskim sezonie 2015/16",
+          "url": "https://www.lcfc.com/media-article/Leicester-City-Announce-Collaboration-With-Kasabian",
+          "checkedAt": "2026-10-27T08:57:00.607Z"
+        }
+      ],
+      "id": "2026-10-27-29"
+    },
+    {
+      "factKey": "graham-poll:three-yellows-simunic2006",
+      "format": "fact",
+      "prompt": "Który sędzia pokazał Josipowi Šimuniciowi trzy żółte kartki w meczu Chorwacja–Australia na mundialu 2006?",
+      "answerParts": [
+        "Graham Poll"
+      ],
+      "subjects": [
+        "referee:graham-poll"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "mundial",
+        "sedziowie",
+        "australia",
+        "chorwacja"
+      ],
+      "sources": [
+        {
+          "title": "Australijska federacja — Poll pokazał Šimuniciowi trzy żółte kartki w meczu MŚ 2006",
+          "url": "https://socceroos.com.au/news/stories-australias-world-cup-qualification-2005",
+          "checkedAt": "2026-10-27T08:57:00.607Z"
+        }
+      ],
+      "id": "2026-10-27-30"
+    }
+  ]
+}
