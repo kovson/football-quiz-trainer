@@ -1,0 +1,1278 @@
+{
+  "id": "2026-10-28",
+  "kind": "daily",
+  "title": "Trening głowy · 28 października 2026",
+  "date": "2026-10-28",
+  "publishAt": "2026-10-28T08:00:00+01:00",
+  "researchedAt": "2026-10-28T15:21:46.203Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-28"
+  },
+  "questions": [
+    {
+      "factKey": "gornik-leczna:2026-10-27:eliminates-gks-katowice",
+      "format": "fact",
+      "prompt": "Puchar Polski, 27 października 2026: który drugoligowiec wyeliminował GKS Katowice, wygrywając 1:0?",
+      "answerParts": [
+        "Górnik Łęczna"
+      ],
+      "subjects": [
+        "club:gornik-leczna"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "niespodzianki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-27",
+      "sources": [
+        {
+          "title": "Górnik Łęczna — zwycięstwo 1:0 nad GKS Katowice i awans do 1/8 finału",
+          "url": "https://www.gornikleczna.pl/posts/gieksa-ograna-gornik-w-18-finalu-sts-pucharu-polski/6588",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        },
+        {
+          "title": "Górnik Łęczna — zapowiedź potwierdzająca ligowy kontekst pucharowego meczu",
+          "url": "https://www.gornikleczna.pl/posts/czas-na-pucharowe-granie/6582",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        },
+        {
+          "title": "GKS Katowice — oficjalny terminarz i wynik meczu z 27 października",
+          "url": "https://www.gkskatowice.eu/terminarz/pilkarze",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        },
+        {
+          "title": "Górnik Łęczna — oficjalny terminarz Betclic 2 Ligi",
+          "url": "https://www.gornikleczna.pl/",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        }
+      ],
+      "id": "2026-10-28-01"
+    },
+    {
+      "factKey": "bartosz-karwan:portrait2007",
+      "format": "photo",
+      "prompt": "Jak nazywa się zawodnik na zdjęciu z 2007 roku?",
+      "answerParts": [
+        "Bartosz Karwan"
+      ],
+      "subjects": [
+        "player:bartosz-karwan"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Sławek Skonieczny — oryginalny portret Bartosza Karwana z 2007 roku",
+          "url": "https://commons.wikimedia.org/wiki/File:Bartosz_Karwan.jpg",
+          "checkedAt": "2026-10-28T15:19:38.778Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d28-karwan.jpg",
+        "width": 217,
+        "height": 337,
+        "crop": [
+          15,
+          0,
+          155,
+          190
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Bartosz_Karwan.jpg",
+        "credit": "Sławek Skonieczny (Sławek / Flickr)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Kadrowanie do całej głowy i podbródka, poza herb oraz napis na ubraniu; bez retuszu.",
+        "alt": "Mężczyzna z krótkimi ciemnymi włosami i gładko ogoloną twarzą, w ciemnym wnętrzu; cała głowa i podbródek, bez herbu i czytelnych napisów."
+      },
+      "id": "2026-10-28-02"
+    },
+    {
+      "factKey": "tomasz-dawidowski:amica-wisla-transfer2004",
+      "format": "transfer",
+      "prompt": "Który napastnik przeszedł tę drogę transferową w 2004 roku?",
+      "answerParts": [
+        "Tomasz Dawidowski"
+      ],
+      "subjects": [
+        "player:tomasz-dawidowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfery",
+        "polish",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Tomasz Dawidowski przeszedł z Amiki do Wisły w czerwcu 2004",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaac08a627d-847009b20c87-1000--wisla-place-faith-in-dawidowski/",
+          "checkedAt": "2026-10-28T15:16:53.085Z"
+        }
+      ],
+      "transfer": {
+        "year": 2004,
+        "detail": "Czerwiec",
+        "from": {
+          "club": "Amica Wronki",
+          "media": {
+            "path": "assets/d27-badge-amica.png",
+            "source": "https://en.wikipedia.org/wiki/File:Amica_Wronki_2007_Logo.png",
+            "credit": "Amica Wronki",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Amica_Wronki_2007_Logo.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Wisła Kraków",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-28-03"
+    },
+    {
+      "factKey": "stephanie-frappart:first-woman-mens-worldcup-referee2022",
+      "format": "fact",
+      "prompt": "Która sędzia jako pierwsza poprowadziła mecz męskiego mundialu w 2022 roku?",
+      "answerParts": [
+        "Stéphanie Frappart"
+      ],
+      "subjects": [
+        "referee:stephanie-frappart"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "mundial",
+        "sedziowie",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Frappart pierwszą kobietą jako sędzia główna na męskim mundialu w 2022",
+          "url": "https://www.uefa.com/news-media/news/027f-17a5d2c47909-281d67e2bafd-1000--referee-frappart-set-for-finalissima-first/",
+          "checkedAt": "2026-10-28T15:17:31.099Z"
+        }
+      ],
+      "id": "2026-10-28-04"
+    },
+    {
+      "factKey": "kilmarnock:crest-squirrels-hand-ball-fragment",
+      "format": "crest",
+      "prompt": "Który szkocki klub rozpoznajesz po tym fragmencie herbu?",
+      "answerParts": [
+        "Kilmarnock FC"
+      ],
+      "subjects": [
+        "club:kilmarnock"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szkocja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Kilmarnock — oficjalna strona klubu i rzeczywisty herb",
+          "url": "https://kilmarnockfc.co.uk/",
+          "checkedAt": "2026-10-28T15:18:09.709Z"
+        },
+        {
+          "title": "Rzeczywisty herb Kilmarnock oraz warunki jego użycia",
+          "url": "https://en.wikipedia.org/wiki/File:Kilmarnock_FC_crest.svg",
+          "checkedAt": "2026-10-28T15:19:38.778Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d28-kilmarnock.png",
+        "width": 1200,
+        "height": 1428,
+        "crop": [
+          45,
+          315,
+          1110,
+          800
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Kilmarnock_FC_crest.svg",
+        "credit": "Kilmarnock Football Club",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Kilmarnock_FC_crest.svg",
+        "changes": "Rasteryzacja SVG i kadrowanie poza obie wstęgi z napisami; bez retuszu.",
+        "alt": "Dwie brązowe wiewiórki przy czarno-białej piłce, fragment dłoni oraz niebiesko-biały wałek; bez napisów."
+      },
+      "id": "2026-10-28-05"
+    },
+    {
+      "factKey": "dariusz-wosz:career-riddle-halle-bochum-hertha",
+      "format": "career-riddle",
+      "prompt": "Rozpoznaj zawodnika po jego karierze w Niemczech.",
+      "answerParts": [
+        "Dariusz Wosz"
+      ],
+      "subjects": [
+        "player:dariusz-wosz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Hertha — Wosz przeszedł z Bochum do Berlina w 1998 i wrócił do Bochum w 2001",
+          "url": "https://www.herthabsc.com/de/nachrichten/2016/06/10736-happy-birthday-dariusz-wosz",
+          "checkedAt": "2026-10-28T15:16:53.640Z"
+        },
+        {
+          "title": "Hertha — kariera Wosza: Halle, Bochum, Hertha, powrót i praca trenerska",
+          "url": "https://www.herthabsc.com/de/nachrichten/2012/10/1348-was-macht-eigentlich-dariusz-wosz",
+          "checkedAt": "2026-10-28T15:16:53.642Z"
+        },
+        {
+          "title": "DFB — klubowe etapy kariery Dariusza Wosza",
+          "url": "https://datencenter.dfb.de/personen/dariusz-wosz/spieler",
+          "checkedAt": "2026-10-28T15:16:54.445Z"
+        }
+      ],
+      "clues": [
+        "Z Halle trafił do Bochum, a w 1998 do Herthy.",
+        "Po trzech latach w Berlinie wrócił do Bochum; później prowadził tam także pierwszą drużynę."
+      ],
+      "id": "2026-10-28-06"
+    },
+    {
+      "factKey": "ireland-women:2026-10-13:poland-world-cup-playoff-final-opponent",
+      "format": "fact",
+      "prompt": "Po wyeliminowaniu Belgii 13 października 2026 na kogo trafiły Polki w finale baraży o mundial?",
+      "answerParts": [
+        "Irlandia"
+      ],
+      "subjects": [
+        "national-team:ireland"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "reprezentacje",
+        "pilka-kobieca",
+        "mundial-2027"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "Biblioteka PZPN — Polska wyeliminowała Belgię, w finale baraży czekała Irlandia",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-belgia-32-k-4-3-13102026",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        }
+      ],
+      "id": "2026-10-28-07"
+    },
+    {
+      "factKey": "juan-pablo-sorin:villarreal-hamburg-transfer2006",
+      "format": "transfer",
+      "prompt": "Kogo pokazuje ten transfer z 2006 roku?",
+      "answerParts": [
+        "Juan Pablo Sorín"
+      ],
+      "subjects": [
+        "player:juan-pablo-sorin"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfery",
+        "hiszpania",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Juan Pablo Sorín przeszedł z Villarreal do Hamburga w sierpniu 2006",
+          "url": "https://es.uefa.com/uefachampionsleague/news/01b8-0e6da27a86ae-b1f4c374f9b8-1000--sorin-se-va-al-hamburgo/",
+          "checkedAt": "2026-10-28T15:16:53.017Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Villarreal",
+          "media": {
+            "path": "assets/d22-badge-villarreal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "credit": "Villarreal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Hamburger SV",
+          "media": {
+            "id": "04",
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 711
+          }
+        }
+      },
+      "id": "2026-10-28-08"
+    },
+    {
+      "factKey": "teamgeist:worldcup2006-fourteen-panels",
+      "format": "fact",
+      "prompt": "Jak nazywała się oficjalna piłka mundialu 2006, zbudowana z 14 termicznie łączonych paneli?",
+      "answerParts": [
+        "adidas +Teamgeist"
+      ],
+      "subjects": [
+        "ball:teamgeist"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "niemcy",
+        "mundial",
+        "sprzet"
+      ],
+      "sources": [
+        {
+          "title": "adidas — historia piłek mundialowych, rozdział 2006 +Teamgeist",
+          "url": "https://news.adidas.com/timeline/how-adidas-has-shaped-the-history-of-world-cup-balls-from-1970-to-the-present-day/s/012334d5-aee6-4153-a1dd-0fb0085c14a5",
+          "checkedAt": "2026-10-28T15:19:38.778Z"
+        }
+      ],
+      "id": "2026-10-28-09"
+    },
+    {
+      "factKey": "montpellier:kosecki-career-gap1996-97",
+      "format": "career-gap",
+      "prompt": "Roman Kosecki: jaki klub kryje się między Nantes a powrotem do Legii?",
+      "answerParts": [
+        "Montpellier HSC"
+      ],
+      "subjects": [
+        "club:montpellier"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "polish",
+        "polska",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "Montpellier — oficjalna historia klubów Romana Koseckiego: Nantes, Montpellier, Legia",
+          "url": "https://mhscfoot.com/joueur/roman-kosecki/",
+          "checkedAt": "2026-10-28T15:18:13.598Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "FC Nantes",
+          "years": "1995–1996",
+          "media": {
+            "path": "assets/d24-badge-nantes.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+            "credit": "FC Nantes",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 322,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Montpellier HSC",
+          "years": "1996–1997",
+          "media": {
+            "path": "assets/d28-badge-montpellier.png",
+            "source": "https://en.wikipedia.org/wiki/File:Montpellier_HSC_logo.svg",
+            "credit": "Montpellier HSC",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Montpellier_HSC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Legia Warszawa",
+          "years": "1997–1998",
+          "media": {
+            "path": "assets/d19-badge-legia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "credit": "Legia Warsaw",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery Romana Koseckiego; pozostałe kluby pominięto.",
+      "id": "2026-10-28-10"
+    },
+    {
+      "factKey": "borja-jimenez:2026-10-25:cadiz-winning-debut-after-al-ahli",
+      "format": "fact",
+      "prompt": "Kto po pracy w katarskim Al-Ahli objął Cádiz i zadebiutował wygraną 3:1 z Ceutą 25 października 2026?",
+      "answerParts": [
+        "Borja Jiménez"
+      ],
+      "subjects": [
+        "coach:borja-jimenez"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "trenerzy",
+        "segunda-division",
+        "zmiany-trenerow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Cádiz — zatrudnienie Borji Jiméneza, do tej pory trenera Al-Ahli z Kataru",
+          "url": "https://www.cadizcf.com/noticias/borja-jimenez-nuevo-entrenador-del-cadiz",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        },
+        {
+          "title": "Cádiz — zwycięski debiut Jiméneza przeciw Ceucie 25 października 2026",
+          "url": "https://www.cadizcf.com/noticias/el-cadiz-remonta-al-ceuta-y-suma-tres-puntos-de-oro-en-el-estreno-de-borja-jimenez-3-1",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        }
+      ],
+      "id": "2026-10-28-11"
+    },
+    {
+      "factKey": "worthersee-stadion:aerial2022",
+      "format": "stadium",
+      "prompt": "Rozpoznaj stadion z lotu ptaka. Podaj także miasto.",
+      "answerParts": [
+        "Wörthersee Stadion (Wörthersee-Arena), Klagenfurt"
+      ],
+      "subjects": [
+        "stadium:worthersee-stadion"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria",
+        "stadiony",
+        "euro"
+      ],
+      "sources": [
+        {
+          "title": "Arne Müseler — fotografia stadionu w Klagenfurcie z 10 czerwca 2022",
+          "url": "https://commons.wikimedia.org/wiki/File:Stadium_klagenfurt_aerial_view.jpg",
+          "checkedAt": "2026-10-28T15:19:38.778Z"
+        },
+        {
+          "title": "Oficjalna organizacja turystyczna Wörthersee — stadion w Sportpark Klagenfurt",
+          "url": "https://www.woerthersee.com/en/dc-new/detail/POI/woerthersee-stadium",
+          "checkedAt": "2026-10-28T15:18:09.478Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d28-klagenfurt.jpg",
+        "width": 1920,
+        "height": 1280,
+        "source": "https://commons.wikimedia.org/wiki/File:Stadium_klagenfurt_aerial_view.jpg",
+        "credit": "Arne Müseler / www.arne-mueseler.com",
+        "license": "CC BY-SA 3.0 DE",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+        "changes": "Skalowanie; bez kadrowania i bez retuszu.",
+        "alt": "Cały owalny stadion z srebrzystym dachem i czerwonymi krzesełkami, pośród zabudowy oraz boisk; bez czytelnej nazwy i klubowych herbów."
+      },
+      "id": "2026-10-28-12"
+    },
+    {
+      "factKey": "rc-lens:shared-club-hilton-keita-diarra2005-06",
+      "format": "shared-club",
+      "prompt": "Hilton, Seydou Keita i Alou Diarra: w którym klubie grali razem w sezonie 2005/06?",
+      "answerParts": [
+        "RC Lens"
+      ],
+      "subjects": [
+        "club:rc-lens"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "francja",
+        "puchar-uefa"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Hilton, Seydou Keita i Alou Diarra razem w składzie Lens 20 października 2005",
+          "url": "https://www.uefa.com/uefaeuropaleague/match/81918--steaua-bucuresti-vs-lens/",
+          "checkedAt": "2026-10-28T15:16:54.251Z"
+        },
+        {
+          "title": "UEFA — Hilton, Alou Diarra i Seydou Keita w kadrze Lens w Pucharze UEFA 2005/06, lista z 28 listopada 2005, strona 3",
+          "url": "https://www.uefa.com/newsfiles/372733.pdf",
+          "checkedAt": "2026-10-28T15:18:13.598Z"
+        }
+      ],
+      "id": "2026-10-28-13"
+    },
+    {
+      "factKey": "gonzalo-higuain:birth-country-france",
+      "format": "country",
+      "prompt": "W jakim kraju urodził się reprezentant Argentyny Gonzalo Higuaín?",
+      "answerParts": [
+        "Francja"
+      ],
+      "subjects": [
+        "player:gonzalo-higuain"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "geografia",
+        "argentyna",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Higuaín urodził się w Brest we Francji",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/024d-0e995cc98462-58a242a1de8a-1000--how-brilliant-is-new-chelsea-signing-gonzalo-higuain/",
+          "checkedAt": "2026-10-28T15:17:31.099Z"
+        }
+      ],
+      "id": "2026-10-28-14"
+    },
+    {
+      "factKey": "jeremie-aliadiere:arsenal-celtic-loan2005",
+      "format": "transfer",
+      "prompt": "Który piłkarz trafił na to wypożyczenie latem 2005?",
+      "answerParts": [
+        "Jérémie Aliadière"
+      ],
+      "subjects": [
+        "player:jeremie-aliadiere"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfery",
+        "anglia",
+        "szkocja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wypożyczenie Aliadière’a z Arsenalu do Celticu w lipcu 2005",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaa0cf3e1a2-78c5f8aa2899-1000--aliadiere-grateful-for-celtic-chance/",
+          "checkedAt": "2026-10-28T15:16:52.854Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Lipiec · wypożyczenie",
+        "from": {
+          "club": "Arsenal",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Celtic",
+          "media": {
+            "path": "assets/d19-badge-celtic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "credit": "Celtic",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-28-15"
+    },
+    {
+      "factKey": "atromitos:crest-blue-star-fragment",
+      "format": "crest",
+      "prompt": "Który grecki klub ma taką gwiazdę w herbie?",
+      "answerParts": [
+        "Atromitos Ateny"
+      ],
+      "subjects": [
+        "club:atromitos-athens"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "grecja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Atromitos — oficjalna strona z gwiazdą klubową",
+          "url": "https://www.atromitosfc.gr/",
+          "checkedAt": "2026-10-28T15:18:09.944Z"
+        },
+        {
+          "title": "Rzeczywisty herb Atromitosu i warunki jego użycia",
+          "url": "https://en.wikipedia.org/wiki/File:Atromitos_F.C._logo.svg",
+          "checkedAt": "2026-10-28T15:19:38.778Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d28-atromitos.png",
+        "width": 1200,
+        "height": 1200,
+        "crop": [
+          290,
+          240,
+          620,
+          650
+        ],
+        "source": "https://en.wikipedia.org/wiki/File:Atromitos_F.C._logo.svg",
+        "credit": "Atromitos FC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Atromitos_F.C._logo.svg",
+        "changes": "Rasteryzacja SVG i kadrowanie do gwiazdy; pominięto nazwę i rok założenia, bez retuszu.",
+        "alt": "Fragment pięcioramiennej gwiazdy w dwóch odcieniach niebieskiego, na białym polu; bez nazwy i roku."
+      },
+      "id": "2026-10-28-16"
+    },
+    {
+      "factKey": "fleetwood-town:2026-10-27:eliminates-arsenal-penalties",
+      "format": "fact",
+      "prompt": "27 października 2026: który klub wyrzucił Arsenal z Pucharu Ligi Angielskiej po remisie 1:1 i wygranych karnych?",
+      "answerParts": [
+        "Fleetwood Town"
+      ],
+      "subjects": [
+        "club:fleetwood-town"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "anglia",
+        "carabao-cup",
+        "niespodzianki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-27",
+      "sources": [
+        {
+          "title": "Arsenal — pomeczowa konferencja po odpadnięciu z Fleetwood po remisie 1:1 i karnych 3:5",
+          "url": "https://www.arsenal.com/news/every-word-from-mikel-artetas-post-fleetwood-presser-a7Hfy8b7s2UJ",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        }
+      ],
+      "id": "2026-10-28-17"
+    },
+    {
+      "factKey": "alain-perrin:coach-link-drogba-benzema-letallec",
+      "format": "coach-link",
+      "prompt": "Który trener prowadził tych zawodników w podanych klubach i sezonach?",
+      "answerParts": [
+        "Alain Perrin"
+      ],
+      "subjects": [
+        "coach:alain-perrin"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Perrin sprowadził i trenował Drogbę w Marsylii w 2003",
+          "url": "https://www.uefa.com/news-media/news/01c1-0e6e5198c874-5c67e0eae78c-1000--perrin-perfect-for-slick-sochaux/",
+          "checkedAt": "2026-10-28T15:16:53.646Z"
+        },
+        {
+          "title": "UEFA — Benzema grał w Lyonie Perrina w październiku 2007",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c6-0e6ea7db9a0a-65ef6ee675d2-1000--perrin-praises-lyon-teamwork/",
+          "checkedAt": "2026-10-28T15:16:53.438Z"
+        },
+        {
+          "title": "UEFA — Le Tallec zagrał i strzelił gola dla Sochaux Perrina w finale Pucharu Francji 2007",
+          "url": "https://www.uefa.com/news-media/news/01c1-0f84aec11d2a-636cade6fb9d-1000--sochaux-savour-french-cup-glory/",
+          "checkedAt": "2026-10-28T15:16:53.280Z"
+        }
+      ],
+      "clues": [
+        "Didier Drogba — Olympique Marsylia, 2003/04",
+        "Karim Benzema — Olympique Lyon, 2007/08",
+        "Anthony Le Tallec — Sochaux, 2006/07"
+      ],
+      "id": "2026-10-28-18"
+    },
+    {
+      "factKey": "aviva-stadium:europa-league-finals2011-and2024",
+      "format": "fact",
+      "prompt": "Na którym stadionie rozegrano finały Ligi Europy w 2011 oraz 2024 roku?",
+      "answerParts": [
+        "Aviva Stadium (Dublin Arena), Dublin"
+      ],
+      "subjects": [
+        "stadium:aviva-stadium"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "liga-europy",
+        "stadiony",
+        "irlandia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — finał Porto–Braga w 2011 rozegrano na Dublin Arena",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0252-0cd4291ecca1-677894831368-1000--2010-11-falcao-heads-porto-to-glory/",
+          "checkedAt": "2026-10-28T15:17:31.099Z"
+        },
+        {
+          "title": "DFB — finał Atalanta–Leverkusen w 2024 na Aviva Stadium w Dublinie",
+          "url": "https://datencenter.dfb.de/en/data-center/europa-league/18857/final/2367185",
+          "checkedAt": "2026-10-28T15:17:31.099Z"
+        },
+        {
+          "title": "UEFA — finał Ligi Europy 2024 na Dublin Arena",
+          "url": "https://www.uefa.com/news-media/news/028d-1af4faef901c-3bf85851ff36-1000--a-huge-uefa-europa-league-final-thank-you/",
+          "checkedAt": "2026-10-28T15:17:31.099Z"
+        }
+      ],
+      "id": "2026-10-28-19"
+    },
+    {
+      "factKey": "matteo-brighi:portrait2012",
+      "format": "photo",
+      "prompt": "Czyją twarz widzisz na fotografii?",
+      "answerParts": [
+        "Matteo Brighi"
+      ],
+      "subjects": [
+        "player:matteo-brighi"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "wlochy",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Emaruda — własna fotografia Matteo Brighiego, 29 sierpnia 2012",
+          "url": "https://commons.wikimedia.org/wiki/File:Matteo_brighi.jpg",
+          "checkedAt": "2026-10-28T15:19:38.778Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d28-brighi.jpg",
+        "width": 1920,
+        "height": 2944,
+        "crop": [
+          360,
+          60,
+          1050,
+          1320
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Matteo_brighi.jpg",
+        "credit": "Emaruda (włoska Wikipedia); przesłano przez SoccerFan1987",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Skalowanie i kadrowanie do całej głowy oraz podbródka, z gładkim fragmentem cywilnej koszulki; bez retuszu.",
+        "alt": "Mężczyzna z krótkimi jasnobrązowymi włosami i zarostem, w białym cywilnym podkoszulku; bez stroju klubowego, herbu i czytelnych napisów."
+      },
+      "id": "2026-10-28-20"
+    },
+    {
+      "factKey": "stefano-fiore:lazio-valencia-transfer2004",
+      "format": "transfer",
+      "prompt": "Który pomocnik zmienił klub w tym transferze w 2004 roku?",
+      "answerParts": [
+        "Stefano Fiore"
+      ],
+      "subjects": [
+        "player:stefano-fiore"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfery",
+        "wlochy",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pomocnik Fiore i napastnik Corradi przeszli z Lazio do Valencii w lipcu 2004",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0eaaa9b78aa5-c2f27c25f6f4-1000--valencia-calls-for-lazio-duo/",
+          "checkedAt": "2026-10-28T15:16:53.196Z"
+        },
+        {
+          "title": "UEFA — Fiore był pomocnikiem i przeniósł się do Valencii w 2004",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01bd-0e6e24856eb5-39f48d148c9b-1000--fiore-makes-livorno-loan-move/",
+          "checkedAt": "2026-10-28T15:20:52.718Z"
+        }
+      ],
+      "transfer": {
+        "year": 2004,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Lazio",
+          "media": {
+            "path": "assets/d09-lazio.png",
+            "source": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "credit": "S.S. Lazio",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 406,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-28-21"
+    },
+    {
+      "factKey": "gunnersaurus:arsenal-green-dinosaur-mascot",
+      "format": "fact",
+      "prompt": "Jak nazywa się zielony dinozaur będący maskotką Arsenalu?",
+      "answerParts": [
+        "Gunnersaurus (Gunnersaurus Rex)"
+      ],
+      "subjects": [
+        "mascot:gunnersaurus"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "anglia",
+        "maskotki",
+        "kultura"
+      ],
+      "sources": [
+        {
+          "title": "MLS — wywiad z twórcą maskotki i przedstawicielką Arsenalu o Gunnersaurusie",
+          "url": "https://www.mlssoccer.com/news/gunnersaurus-arsenals-mascot-kids-drawing-international-fame",
+          "checkedAt": "2026-10-28T15:18:13.025Z"
+        }
+      ],
+      "id": "2026-10-28-22"
+    },
+    {
+      "factKey": "marcel-sabitzer:2026-10-27:stoppage-time-direct-free-kick-bremen",
+      "format": "fact",
+      "prompt": "Dortmund – Werder 3:2, 27 października 2026: kto zapewnił awans w Pucharze Niemiec bezpośrednim wolnym w doliczonym czasie?",
+      "answerParts": [
+        "Marcel Sabitzer"
+      ],
+      "subjects": [
+        "player:marcel-sabitzer"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "niemcy",
+        "dfb-pokal",
+        "rzuty-wolne",
+        "zmiennicy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-27",
+      "sources": [
+        {
+          "title": "Borussia Dortmund — Sabitzer rozstrzygnął pucharowy mecz bezpośrednim wolnym w 90.+3 minucie",
+          "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/10/27/Pokal-Spektakel-in-Dortmund-Sabitzer-schiesst-den-BVB-ins-Achtelfinale.html",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        }
+      ],
+      "id": "2026-10-28-23"
+    },
+    {
+      "factKey": "mathieu-valbuena:career2015-24",
+      "format": "career",
+      "prompt": "Który zawodnik grał kolejno w tych czterech klubach?",
+      "answerParts": [
+        "Mathieu Valbuena"
+      ],
+      "subjects": [
+        "player:mathieu-valbuena"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "francja",
+        "turcja",
+        "grecja",
+        "cypr"
+      ],
+      "sources": [
+        {
+          "title": "OL Groupe — Valbuena przeszedł do Fenerbahçe w czerwcu 2017 po dwóch sezonach w Lyonie",
+          "url": "https://www.actusnews.com/en/ol-groupe/pr/2017/06/13/transfer-of-mathieu-valbuena-to-fenerbahce",
+          "checkedAt": "2026-10-28T15:16:53.020Z"
+        },
+        {
+          "title": "Olympiacos — Valbuena dołączył do klubu w 2019",
+          "url": "https://www.olympiacos.org/es/2022/06/16/renovacion-de-contrato-de-mathieu-valbuena/",
+          "checkedAt": "2026-10-28T15:16:53.413Z"
+        },
+        {
+          "title": "Apollon — potwierdzenie transferu Valbueny w sierpniu 2023",
+          "url": "https://www.apollon.com.cy/en/with-28-mathieu-valbuena/",
+          "checkedAt": "2026-10-28T15:18:13.598Z"
+        },
+        {
+          "title": "Apollon — wcześniejsze kluby Valbueny i umowa do maja 2024",
+          "url": "https://www.apollon.com.cy/en/agreement-in-principle-with-mathieu-valbuena/",
+          "checkedAt": "2026-10-28T15:18:13.598Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Olympique Lyon",
+          "years": "2015–2017",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Fenerbahçe",
+          "years": "2017–2019",
+          "media": {
+            "path": "assets/d11-badge-fenerbahce.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+            "credit": "Fenerbahçe",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fenerbah%C3%A7e.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Olympiacos",
+          "years": "2019–2023",
+          "media": {
+            "path": "assets/d18-olympiacos.png",
+            "width": 1920,
+            "height": 2494,
+            "source": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "credit": "Olympiacos SFP",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "changes": "Rasteryzacja do PNG; bez retuszu. Pełny herb.",
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Apollon Limassol",
+          "years": "2023/24",
+          "media": {
+            "path": "assets/d23-badge-apollon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Apollon_Limassol_Logo.png",
+            "credit": "Apollon Limassol",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Apollon_Limassol_Logo.png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Cztery kolejne etapy kariery pierwszych drużyn; wcześniejsze i późniejsze pominięto.",
+      "id": "2026-10-28-24"
+    },
+    {
+      "factKey": "poland-greece2012:startingxi-perquis-polanski",
+      "format": "lineup",
+      "prompt": "Polska–Grecja, EURO 2012: uzupełnij dwóch piłkarzy w wyjściowym składzie.",
+      "answerParts": [
+        "Damien Perquis",
+        "Eugen Polański"
+      ],
+      "subjects": [
+        "player:damien-perquis",
+        "player:eugen-polanski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "historia",
+        "sklady",
+        "euro"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pełna wyjściowa jedenastka Polski w meczu otwarcia EURO 2012",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7dee5be59e-a226f3a4320b-1000--greece-fightback-foils-co-hosts-poland-in-euro-2012-group-a/",
+          "checkedAt": "2026-10-28T15:17:31.099Z"
+        }
+      ],
+      "lineup": {
+        "caption": "8 czerwca 2012 · Polska – Grecja 1:1 · Wyjściowa jedenastka; rozmieszczenie umowne.",
+        "rows": [
+          [
+            {
+              "name": "Wojciech Szczęsny"
+            }
+          ],
+          [
+            {
+              "name": "Łukasz Piszczek"
+            },
+            {
+              "name": "Marcin Wasilewski"
+            },
+            {
+              "name": "Damien Perquis",
+              "slot": 0
+            },
+            {
+              "name": "Sebastian Boenisch"
+            }
+          ],
+          [
+            {
+              "name": "Rafał Murawski"
+            },
+            {
+              "name": "Eugen Polański",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Jakub Błaszczykowski"
+            },
+            {
+              "name": "Ludovic Obraniak"
+            },
+            {
+              "name": "Maciej Rybus"
+            }
+          ],
+          [
+            {
+              "name": "Robert Lewandowski"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-28-25"
+    },
+    {
+      "factKey": "bodo-glimt:roma6-1-conference2021",
+      "format": "fact",
+      "prompt": "Który klub pokonał Romę José Mourinho 6:1 w Lidze Konferencji 21 października 2021?",
+      "answerParts": [
+        "Bodø/Glimt"
+      ],
+      "subjects": [
+        "club:bodo-glimt"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "liga-konferencji",
+        "norwegia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Bodø/Glimt pokonało Romę 6:1 w Lidze Konferencji 21 października 2021",
+          "url": "https://www.uefa.com/uefaconferenceleague/video/026e-1388b1d40c15-428e4bbf3164-1000--bodo-glimt-roma-6-1/",
+          "checkedAt": "2026-10-28T15:16:53.269Z"
+        },
+        {
+          "title": "Bodø/Glimt — klubowa kronika europejskich spotkań, w tym 6:1 z Romą Mourinho",
+          "url": "https://www.glimt.no/om-klubben/historie/bodo-glimt-i-europa",
+          "checkedAt": "2026-10-28T15:16:53.134Z"
+        }
+      ],
+      "id": "2026-10-28-26"
+    },
+    {
+      "factKey": "seattle-sounders:drew-carey-supporter-general-manager-vote",
+      "format": "fact",
+      "prompt": "W którym klubie MLS współwłaściciel Drew Carey wprowadził głosowanie kibiców nad pozostawieniem dyrektora generalnego?",
+      "answerParts": [
+        "Seattle Sounders FC"
+      ],
+      "subjects": [
+        "club:seattle-sounders"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "usa",
+        "mls",
+        "kultura",
+        "kibice"
+      ],
+      "sources": [
+        {
+          "title": "Seattle Sounders — profil Drew Careya i głosowanie członków Alliance nad dyrektorem generalnym",
+          "url": "https://www.soundersfc.com/club/ownership/drew-carey",
+          "checkedAt": "2026-10-28T15:18:11.216Z"
+        }
+      ],
+      "id": "2026-10-28-27"
+    },
+    {
+      "factKey": "unai-simon:2026-10-26:yashin-trophy-and-world-cup-golden-glove",
+      "format": "fact",
+      "prompt": "Złota Rękawica mundialu i Trofeum Jaszyna 2026 trafiły do tego samego Hiszpana. Kogo?",
+      "answerParts": [
+        "Unai Simón"
+      ],
+      "subjects": [
+        "player:unai-simon"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "nagrody",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Athletic Club — Unai Simón zdobył Trofeum Jaszyna 26 października po mundialowej Złotej Rękawicy",
+          "url": "https://www.athletic-club.eus/en/news/2026/10/26/the-world-s-best-goalkeeper-plays-for-athletic/",
+          "checkedAt": "2026-10-28T15:18:08.866Z"
+        }
+      ],
+      "id": "2026-10-28-28"
+    },
+    {
+      "factKey": "zulte-waregem:belgian-cup2017-oostende",
+      "format": "fact",
+      "prompt": "Który klub zdobył Puchar Belgii w 2017 po finale 3:3 z Oostende i wygranych karnych?",
+      "answerParts": [
+        "Zulte Waregem"
+      ],
+      "subjects": [
+        "club:zulte-waregem"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "belgia",
+        "puchar-krajowy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Zulte Waregem zdobyło Puchar Belgii 2017 po finale z Oostende",
+          "url": "https://es.uefa.com/news-media/news/0237-0f8e4de8884f-3b3f02236057-1000--el-zulte-waregem-campeon-de-la-copa-de-belgica/",
+          "checkedAt": "2026-10-28T15:16:53.589Z"
+        }
+      ],
+      "id": "2026-10-28-29"
+    },
+    {
+      "factKey": "janusz-kupcewicz:free-kick-france1982",
+      "format": "fact",
+      "prompt": "Kto strzelił z wolnego trzecią bramkę Polski przeciw Francji w meczu o brąz MŚ 1982?",
+      "answerParts": [
+        "Janusz Kupcewicz"
+      ],
+      "subjects": [
+        "player:janusz-kupcewicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "polska",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Kupcewicz zdobył z wolnego trzecią bramkę Polski przeciw Francji na MŚ 1982",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-francja-32-10071982",
+          "checkedAt": "2026-10-28T15:16:55.226Z"
+        }
+      ],
+      "id": "2026-10-28-30"
+    }
+  ]
+}
