@@ -1,0 +1,920 @@
+{
+  "id": "2026-10-28-przed-quizem",
+  "kind": "review",
+  "title": "Przed quizem · 28.10",
+  "date": "2026-10-28",
+  "publishAt": "2026-10-28T15:57:40.398Z",
+  "researchedAt": "2026-10-28T15:57:40.398Z",
+  "eventWindow": {
+    "start": "2026-10-07",
+    "end": "2026-10-27"
+  },
+  "questions": [
+    {
+      "factKey": "harry-kane:2026-10-26:ballon-dor-winner",
+      "format": "fact",
+      "prompt": "Kto zdobył męską Złotą Piłkę podczas gali 26 października 2026?",
+      "answerParts": [
+        "Harry Kane"
+      ],
+      "subjects": [
+        "player:harry-kane"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "nagrody",
+        "ballon-dor"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Angielska federacja — Kane zdobywcą Złotej Piłki 2026",
+          "url": "https://www.englandfootball.com/articles/2026/Oct/26/england-ballon-d-or-2026-winners-20262610",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-01"
+    },
+    {
+      "factKey": "gornik-leczna:2026-10-27:eliminates-gks-katowice",
+      "format": "fact",
+      "prompt": "Który drugoligowiec wyrzucił GKS Katowice z Pucharu Polski 27 października 2026, wygrywając 1:0?",
+      "answerParts": [
+        "Górnik Łęczna"
+      ],
+      "subjects": [
+        "club:gornik-leczna"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "niespodzianki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-27",
+      "sources": [
+        {
+          "title": "GKS Katowice — zakończony mecz z Górnikiem Łęczna 27 października, wynik 0:1 i drugoligowy status rywala",
+          "url": "https://www.gkskatowice.eu/game/3215-gks-katowice-gornik-leczna_2026-10-27",
+          "checkedAt": "2026-10-28T15:53:12.237Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-02"
+    },
+    {
+      "factKey": "clasico:2026-10-25:barcelona-real-madrid-result",
+      "format": "fact",
+      "prompt": "Jakim wynikiem zakończyło się Clásico w Barcelonie 25 października 2026?",
+      "answerParts": [
+        "2:1 dla Realu Madryt"
+      ],
+      "subjects": [
+        "match:2026-10-25-barcelona-real-madrid"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "la-liga",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Real Madryt — zwycięstwo 2:1 w Clásico na Camp Nou",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-barcelona-real-madrid-j10-liga-25-10-2026",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        },
+        {
+          "title": "FC Barcelona — pierwsza ligowa porażka po dziewięciu zwycięstwach",
+          "url": "https://www.fcbarcelona.com/en/news/4598638/fc-barcelona-1-2-real-madrid-heartbreaking-defeat",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-03"
+    },
+    {
+      "factKey": "dawid-szwarga:2026-10-21:rakow-return-arka-gks",
+      "format": "coach",
+      "prompt": "Kto w październiku 2026 wrócił na ławkę Rakowa po pracy w Arce i GKS-ie Katowice?",
+      "answerParts": [
+        "Dawid Szwarga"
+      ],
+      "subjects": [
+        "coach:dawid-szwarga"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Ekstraklasa, 21 października — powrót Dawida Szwargi do Rakowa po Arce i GKS-ie Katowice",
+          "url": "https://ekstraklasa.org/aktualnosci/powroty-po-2-i-20-latach-nowi-trenerzy-rakowa-i-korony/",
+          "checkedAt": "2026-10-28T15:52:23.976Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-04"
+    },
+    {
+      "factKey": "robin-fellhauer:2026-10-10:fastest-bundesliga-goal",
+      "format": "fact",
+      "prompt": "10 października 2026: kto strzelił dla Augsburga najszybszego gola w historii Bundesligi, odbierając piłkę Neuerowi?",
+      "answerParts": [
+        "Robin Fellhauer"
+      ],
+      "subjects": [
+        "player:robin-fellhauer"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "sources": [
+        {
+          "title": "Bundesliga: najszybsze gole w historii",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/fellhauer-bellarabi-volland-musiala-fastest-goals-in-history-24353",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-05"
+    },
+    {
+      "factKey": "alexia-putellas:2026-10-26:third-womens-ballon-dor",
+      "format": "fact",
+      "prompt": "Która piłkarka 26 października 2026 zdobyła swoją trzecią Złotą Piłkę?",
+      "answerParts": [
+        "Alexia Putellas"
+      ],
+      "subjects": [
+        "player:alexia-putellas"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "nagrody",
+        "ballon-dor",
+        "pilka-kobieca"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "UEFA — trzecia Złota Piłka Alexii Putellas",
+          "url": "https://www.uefa.com/womenschampionsleague/news/02aa-21ec463bf005-96f0689e3106-1000--alexia-putellas-wins-2026-women-s-ballon-d-or/",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-06"
+    },
+    {
+      "factKey": "ireland-women:2026-10-13:poland-world-cup-playoff-final-opponent",
+      "format": "fact",
+      "prompt": "Z kim Polki zagrają w finale baraży o mundial 2027 po wyeliminowaniu Belgii 13 października?",
+      "answerParts": [
+        "Irlandia"
+      ],
+      "subjects": [
+        "national-team:ireland"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "reprezentacje",
+        "pilka-kobieca",
+        "mundial-2027"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "Biblioteka PZPN — awans Polek po karnych z Belgią; w finale baraży Irlandia",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-belgia-32-k-4-3-13102026",
+          "checkedAt": "2026-10-28T15:52:27.707Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-07"
+    },
+    {
+      "factKey": "club-brugge:2026-10-13:away-win-inter-4-3",
+      "format": "fact",
+      "prompt": "Liga Mistrzów, 13 października 2026: który belgijski klub wygrał na wyjeździe z Interem 4:3?",
+      "answerParts": [
+        "Club Brugge"
+      ],
+      "subjects": [
+        "club:club-brugge"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "belgia",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "UEFA — wyniki drugiej kolejki Ligi Mistrzów z 13 października 2026",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-08"
+    },
+    {
+      "factKey": "samoa-women-u17:2026-10-19:usa17-0-world-cup",
+      "format": "fact",
+      "prompt": "Z kim Amerykanki wygrały 17:0 na mundialu U-17 kobiet 19 października 2026?",
+      "answerParts": [
+        "Samoa"
+      ],
+      "subjects": [
+        "national-team:samoa-women-u17"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "mundial-u17",
+        "pilka-kobieca",
+        "reprezentacje",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-19",
+      "sources": [
+        {
+          "title": "U.S. Soccer — USA wygrały z Samoa 17:0 w mundialu U-17 kobiet",
+          "url": "https://www.ussoccer.com/stories/2026/10/ynt-u17-wnt/us-u-17-womens-national-team-rolls-past-samoa-17-0-fifa-world-cup-match-recap",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-09"
+    },
+    {
+      "factKey": "lech-poznan:2026-10-25:legia-win-new-ekstraklasa-leader",
+      "format": "fact",
+      "prompt": "Który klub po wygranej 2:1 przy Łazienkowskiej 25 października 2026 odebrał Górnikowi Zabrze prowadzenie w Ekstraklasie?",
+      "answerParts": [
+        "Lech Poznań"
+      ],
+      "subjects": [
+        "club:lech-poznan"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "tabela"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Ekstraklasa — zwycięstwo Lecha nad Legią 2:1 zakończyło jej piętnastomeczową serię i dało Kolejorzowi pozycję lidera",
+          "url": "https://ekstraklasa.org/aktualnosci/bez-niepokonanych-podsumowanie-12-kolejki-20262027/",
+          "checkedAt": "2026-10-28T15:52:23.859Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-10"
+    },
+    {
+      "factKey": "trabzonspor:2026-10-22:salah150th-uefa-appearance-club",
+      "format": "fact",
+      "prompt": "W barwach którego klubu Mohamed Salah rozegrał 150. mecz w rozgrywkach UEFA 22 października 2026?",
+      "answerParts": [
+        "Trabzonspor"
+      ],
+      "subjects": [
+        "club:trabzonspor"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "turcja",
+        "jubileusze",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "UEFA — Salah rozegrał 150. mecz w rozgrywkach federacji w barwach Trabzonsporu przeciwko Hearts",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02aa-21e40e257e01-64251de1d99e-1000--uefa-conference-league-matchday-2-highlights-and-round-up-tr/",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-11"
+    },
+    {
+      "factKey": "sergen-yalcin:2026-10-20:turkey-head-coach-appointed",
+      "format": "fact",
+      "prompt": "Którego byłego trenera Beşiktaşu 20 października 2026 mianowano selekcjonerem Turcji?",
+      "answerParts": [
+        "Sergen Yalçın"
+      ],
+      "subjects": [
+        "coach:sergen-yalcin"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "turcja",
+        "reprezentacje",
+        "zmiany-trenerow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-20",
+      "sources": [
+        {
+          "title": "TFF — Sergen Yalçın nowym selekcjonerem reprezentacji Turcji",
+          "url": "https://www.tff.org/default.aspx?ftxtID=51696&pageID=687",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-12"
+    },
+    {
+      "factKey": "taras-romanczuk:2026-10-18:368-one-club-appearances-brychczy",
+      "format": "fact",
+      "prompt": "Który piłkarz Jagiellonii 18 października 2026 zrównał się z Lucjanem Brychczym, notując 368 ekstraklasowych występów dla jednego klubu?",
+      "answerParts": [
+        "Taras Romanczuk"
+      ],
+      "subjects": [
+        "player:taras-romanczuk"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-18",
+      "sources": [
+        {
+          "title": "Ekstraklasa — mecz Zagłębie–Jagiellonia z 18 października i 368. występ Romanczuka dla Jagiellonii",
+          "url": "https://ekstraklasa.org/mecz/bff22b76-e90b-46ff-98e8-e5fc823a42f2/zaglebie-lubin-jagiellonia-bialystok/przeglad/",
+          "checkedAt": "2026-10-28T15:54:39.134Z"
+        },
+        {
+          "title": "Ekstraklasa, podsumowanie 11. kolejki z 20 października — 368 występów Romanczuka dla Jagiellonii",
+          "url": "https://ekstraklasa.org/aktualnosci/lech-goni-lidera-podsumowanie-11-kolejki-20262027/",
+          "checkedAt": "2026-10-28T15:52:24.126Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-13"
+    },
+    {
+      "factKey": "fleetwood-town:2026-10-27:eliminates-arsenal-penalties",
+      "format": "fact",
+      "prompt": "27 października 2026: który klub wyeliminował Arsenal z Pucharu Ligi po remisie 1:1 i karnych?",
+      "answerParts": [
+        "Fleetwood Town"
+      ],
+      "subjects": [
+        "club:fleetwood-town"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "anglia",
+        "carabao-cup",
+        "niespodzianki",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-27",
+      "sources": [
+        {
+          "title": "Arsenal — pomeczowa konferencja po odpadnięciu z Fleetwood po remisie 1:1 i karnych 3:5",
+          "url": "https://www.arsenal.com/news/every-word-from-mikel-artetas-post-fleetwood-presser-a7Hfy8b7s2UJ",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-14"
+    },
+    {
+      "factKey": "bukayo-saka:2026-10-26:socrates-award",
+      "format": "fact",
+      "prompt": "Nagroda Sócratesa 2026 za działalność społeczną: który piłkarz Arsenalu ją odebrał?",
+      "answerParts": [
+        "Bukayo Saka"
+      ],
+      "subjects": [
+        "player:bukayo-saka"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "nagrody",
+        "ballon-dor",
+        "dzialalnosc-spoleczna"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Angielska federacja — Nagroda Sócratesa dla Bukayo Saki",
+          "url": "https://www.englandfootball.com/articles/2026/Oct/26/england-ballon-d-or-2026-winners-20262610",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-15"
+    },
+    {
+      "factKey": "ararat-armenia:2026-10-15:jagiellonia-first-league-phase-win",
+      "format": "fact",
+      "prompt": "Z kim Jagiellonia wygrała 3:1, odnosząc 15 października 2026 pierwsze zwycięstwo w fazie ligowej Ligi Europy?",
+      "answerParts": [
+        "Ararat-Armenia Erywań"
+      ],
+      "subjects": [
+        "club:ararat-armenia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "europa-league",
+        "armenia"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-15",
+      "sources": [
+        {
+          "title": "Jagiellonia — pełna relacja z pierwszego zwycięstwa w fazie ligowej Ligi Europy, 15 października",
+          "url": "https://jagiellonia.pl/aktualnosci/pierwsza-wygrana-w-lidze-europy-jagiellonia-araratarmenia-31-1792105202295/",
+          "checkedAt": "2026-10-28T15:52:23.989Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-16"
+    },
+    {
+      "factKey": "viking:2026-10-13:first-champions-league-phase-point-bayern-draw",
+      "format": "fact",
+      "prompt": "Liga Mistrzów, 13 października 2026: który norweski debiutant fazy ligowej zremisował z Bayernem 3:3?",
+      "answerParts": [
+        "Viking FK"
+      ],
+      "subjects": [
+        "club:viking"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "norwegia",
+        "przelamania",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "UEFA — norweski debiutant Viking zremisował z Bayernem 3:3",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21d340ce86b7-f3206bdb68d3-1000--in-the-zone-how-spirited-viking-matched-bayern-munchen/",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        },
+        {
+          "title": "UEFA — data i wynik meczu Viking–Bayern w drugiej kolejce",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-17"
+    },
+    {
+      "factKey": "cheikhou-kouyate:2026-10-10:announces-retirement",
+      "format": "fact",
+      "prompt": "Który były kapitan Senegalu, mistrz Afryki 2021, ogłosił zakończenie kariery w październiku 2026?",
+      "answerParts": [
+        "Cheikhou Kouyaté"
+      ],
+      "subjects": [
+        "player:cheikhou-kouyate"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "senegal",
+        "reprezentacje",
+        "zakonczenie-kariery"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-10",
+      "sources": [
+        {
+          "title": "CAF — Cheikhou Kouyaté ogłosił zakończenie kariery",
+          "url": "https://www.cafonline.com/news/cheikhou-kouyate-announces-retirement-from-football/",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-18"
+    },
+    {
+      "factKey": "wiktor-dlugosz:2026-10-26:all-three-mena-goals-assists",
+      "format": "fact",
+      "prompt": "Po 12. kolejce Ekstraklasy 2026/27 kto miał siedem asyst, w tym przy wszystkich trzech golach Camilo Meny?",
+      "answerParts": [
+        "Wiktor Długosz"
+      ],
+      "subjects": [
+        "player:wiktor-dlugosz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "asysty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Ekstraklasa, 26 października — siódma asysta Długosza i podania przy wszystkich trzech golach Meny",
+          "url": "https://ekstraklasa.org/aktualnosci/grosicki-z-rekordem-dziekonski-zatrzymal-nowaka-jedenastka-12-kolejki-20262027/",
+          "checkedAt": "2026-10-28T15:52:23.864Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-19"
+    },
+    {
+      "factKey": "bournemouth:2026-10-22:europa-milan-three-goals-two-penalties-red-card",
+      "format": "fact",
+      "prompt": "Liga Europy, 22 października 2026: który angielski klub rozbił Milan 3:0 po czerwonej kartce Maignana?",
+      "answerParts": [
+        "AFC Bournemouth"
+      ],
+      "subjects": [
+        "club:bournemouth"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "anglia",
+        "przelamania",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "UEFA — Bournemouth pokonało Milan 3:0; dwa karne przed przerwą i czerwona kartka Maignana",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-20"
+    },
+    {
+      "factKey": "unai-simon:2026-10-26:yashin-trophy-winner",
+      "format": "fact",
+      "prompt": "Który bramkarz odebrał Trofeum Jaszyna podczas gali 26 października 2026?",
+      "answerParts": [
+        "Unai Simón"
+      ],
+      "subjects": [
+        "player:unai-simon"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "nagrody",
+        "ballon-dor",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "UEFA — Trofeum Jaszyna 2026 dla Unaia Simóna",
+          "url": "https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-21"
+    },
+    {
+      "factKey": "robert-kolendowicz:2026-10:korona-coach-player-return",
+      "format": "coach",
+      "prompt": "Kto w październiku 2026 objął Koronę Kielce, wracając do klubu dwie dekady po grze w nim?",
+      "answerParts": [
+        "Robert Kolendowicz"
+      ],
+      "subjects": [
+        "coach:robert-kolendowicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Ekstraklasa, 21 października — Kolendowicz nowym trenerem Korony, w której grał od 2005 roku",
+          "url": "https://ekstraklasa.org/aktualnosci/powroty-po-2-i-20-latach-nowi-trenerzy-rakowa-i-korony/",
+          "checkedAt": "2026-10-28T15:52:23.976Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-22"
+    },
+    {
+      "factKey": "como:2026-10-21:champions-league-manchester-united-four-one",
+      "format": "fact",
+      "prompt": "Liga Mistrzów, 21 października 2026: który włoski klub pokonał Manchester United 4:1?",
+      "answerParts": [
+        "Como 1907"
+      ],
+      "subjects": [
+        "club:como"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "serie-a",
+        "trenerzy",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-21",
+      "sources": [
+        {
+          "title": "Como — oficjalna relacja z meczu z Manchesterem United, 21 października 2026",
+          "url": "https://www.comofootball.com/como-1907-manchester-united-4-1-match-report-uefa-champions-league/",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-23"
+    },
+    {
+      "factKey": "darko-brasanac:2026-10-13:retires-after-malaga-promotion-joins-arrasate-staff",
+      "format": "fact",
+      "prompt": "Kto po awansie z Málagą zakończył karierę, dołączając w październiku 2026 do sztabu Arrasatego w Osasunie?",
+      "answerParts": [
+        "Darko Brašanac"
+      ],
+      "subjects": [
+        "player:darko-brasanac"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "trenerzy",
+        "zakonczenie-kariery"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-13",
+      "sources": [
+        {
+          "title": "Osasuna — Brašanac zakończył karierę i dołączył do sztabu Arrasatego",
+          "url": "https://www.osasuna.es/jagoba-arrasate-osasuna-rueda-prensa-presentacion-13-10-2026",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-24"
+    },
+    {
+      "factKey": "kamil-grosicki:2026-10-24:first-polish-player-brace-after38",
+      "format": "fact",
+      "prompt": "Kto 24 października 2026 został pierwszym Polakiem z dubletem w Ekstraklasie po 38. urodzinach?",
+      "answerParts": [
+        "Kamil Grosicki"
+      ],
+      "subjects": [
+        "player:kamil-grosicki"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-24",
+      "sources": [
+        {
+          "title": "Ekstraklasa — zakończony mecz Pogoń–Radomiak z 24 października i rekord Grosickiego",
+          "url": "https://ekstraklasa.org/mecz/405bd504-7ce1-4ccb-b317-ae4446b9967e/pogon-szczecin-radomiak-radom/przeglad/",
+          "checkedAt": "2026-10-28T15:52:24.154Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-25"
+    },
+    {
+      "factKey": "ado-den-haag:2026-10-17:first-season-win-psv",
+      "format": "fact",
+      "prompt": "Który klub Eredivisie odniósł pierwszą wygraną sezonu, pokonując mistrza PSV 2:1 17 października 2026?",
+      "answerParts": [
+        "ADO Den Haag"
+      ],
+      "subjects": [
+        "club:ado-den-haag"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "eredivisie",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-17",
+      "sources": [
+        {
+          "title": "ADO Den Haag — pierwsza wygrana sezonu, 2:1 z mistrzem PSV po golu w doliczonym czasie",
+          "url": "https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/ado-den-haag-psv-1330",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-26"
+    },
+    {
+      "factKey": "michael-carrick:2026-10-25:fernandes-unused-bench-bournemouth-loss",
+      "format": "fact",
+      "prompt": "Manchester United – Bournemouth 0:3, 25 października 2026: który trener pozostawił Bruno Fernandesa na ławce przez cały mecz?",
+      "answerParts": [
+        "Michael Carrick"
+      ],
+      "subjects": [
+        "coach:michael-carrick"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "anglia",
+        "premier-league",
+        "trenerzy",
+        "decyzje-kadrowe"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Premier League — decyzja Carricka i ósmy mecz United bez zwycięstwa",
+          "url": "https://www.premierleague.com/en/news/4744555/what-we-learned-from-sundays-premier-league-matches",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        },
+        {
+          "title": "Premier League — Fernandes nie wszedł na boisko przeciwko Bournemouth",
+          "url": "https://www.premierleague.com/es/news/4743073/munbou-web",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-27"
+    },
+    {
+      "factKey": "wisla-krakow:2026-10-26:only-six-home-wins-perfect-record",
+      "format": "fact",
+      "prompt": "Stan po 12. kolejce, 26 października 2026: który klub Ekstraklasy wygrał wszystkie sześć domowych meczów?",
+      "answerParts": [
+        "Wisła Kraków"
+      ],
+      "subjects": [
+        "club:wisla-krakow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-26",
+      "sources": [
+        {
+          "title": "Ekstraklasa — po 12. kolejce tylko Wisła miała komplet domowych zwycięstw",
+          "url": "https://ekstraklasa.org/aktualnosci/bez-niepokonanych-podsumowanie-12-kolejki-20262027/",
+          "checkedAt": "2026-10-28T15:57:40.391Z"
+        },
+        {
+          "title": "Ekstraklasa — Wisła wygrała szósty z sześciu domowych meczów sezonu",
+          "url": "https://ekstraklasa.org/aktualnosci/grosicki-z-rekordem-dziekonski-zatrzymal-nowaka-jedenastka-12-kolejki-20262027/",
+          "checkedAt": "2026-10-28T15:57:40.396Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-28"
+    },
+    {
+      "factKey": "lugano:2026-10-22:getafe-away-five-goals",
+      "format": "fact",
+      "prompt": "Liga Konferencji, 22 października 2026: który szwajcarski klub rozbił Getafe 5:2 na wyjeździe?",
+      "answerParts": [
+        "FC Lugano"
+      ],
+      "subjects": [
+        "club:lugano"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "szwajcaria",
+        "powtorka-przed-quizem"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-22",
+      "sources": [
+        {
+          "title": "FC Lugano — historyczne pięć goli i wyjazdowe zwycięstwo nad Getafe",
+          "url": "https://fclugano.com/en/news/cinque-gol-per-una-notte-storica",
+          "checkedAt": "2026-10-28T15:53:55Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-29"
+    },
+    {
+      "factKey": "borja-jimenez:2026-10-25:cadiz-winning-debut-after-al-ahli",
+      "format": "fact",
+      "prompt": "Kto po pracy w katarskim Al-Ahli objął Cádiz i zadebiutował wygraną 3:1 z Ceutą 25 października 2026?",
+      "answerParts": [
+        "Borja Jiménez"
+      ],
+      "subjects": [
+        "coach:borja-jimenez"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "segunda-division",
+        "trenerzy",
+        "zmiany-trenerow"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-25",
+      "sources": [
+        {
+          "title": "Cádiz — Borja Jiménez trenerem klubu po pracy w katarskim Al-Ahli",
+          "url": "https://www.cadizcf.com/noticias/borja-jimenez-nuevo-entrenador-del-cadiz",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        },
+        {
+          "title": "Cádiz — zwycięski debiut Borji Jiméneza 25 października 2026",
+          "url": "https://www.cadizcf.com/noticias/el-cadiz-remonta-al-ceuta-y-suma-tres-puntos-de-oro-en-el-estreno-de-borja-jimenez-3-1",
+          "checkedAt": "2026-10-28T15:53:20.000Z"
+        }
+      ],
+      "id": "2026-10-28-przed-quizem-30"
+    }
+  ]
+}

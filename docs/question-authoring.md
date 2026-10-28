@@ -68,3 +68,11 @@ Review Polish-player identification separately against the four user-flagged exa
 Finish with the editorial question: “Would I enjoy answering these thirty on my phone?” Meeting every quota is insufficient if the complete set feels repetitive, confusing or tiring. Replace weak questions and adjust their order before publication.
 
 The task-variety, prompt-length, and answer-count reviews above are authoring requirements. Dedicated automatic checks for them remain a future implementation improvement; the current build must not be described as enforcing them.
+
+## Explicit pre-quiz reviews
+
+When the user requests a final review before an event, create a separately labelled `review` session under `content/reviews/` and preserve the daily set. A review may intentionally revisit important facts and subjects from daily training; daily novelty and cooldown rules still apply to all ordinary daily sessions. Use distinct session/question IDs so each attempt keeps its own progress.
+
+Select thirty meaningful developments from the requested interval, checking the exact primary sources again. Every review question must be tagged `recent` and have an event date within its saved `eventWindow`. Follow the user's cutoff: the 28 October 2026 review covers 7–27 October and excludes all 28 October events. Dates on source verification and publication may be later than the event cutoff.
+
+Use short recall questions suited to a last-minute check. Prioritize major results, records, appointments, competition developments and awards; historical photo, career and transfer quotas do not apply to a review of recent events. Keep scorer tasks limited and interleave related awards or managerial questions. Publish a direct `?zestaw=<session-id>` link and make the review distinguishable in the archive.

@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const arg = name => process.argv.find(a => a.startsWith(`${name}=`))?.slice(name.length + 1);
 const input = resolve(arg('--content') ?? `${root}/content/sessions`);
+const reviewInput = resolve(arg('--reviews') ?? `${root}/content/reviews`);
 const output = resolve(arg('--out') ?? `${root}/dist`);
 const now = new Date(arg('--now') ?? Date.now());
 const preview = process.argv.includes('--preview');
@@ -17,17 +18,17 @@ const formats = new Set(['career', 'career-gap', 'career-riddle', 'coach-link', 
 
 async function load(directory) {
   let names;
-  try { names = await readdir(directory); } catch (error) { if (error.code === 'ENOENT' && directory === `${root}/content/sessions`) return []; throw error; }
+  try { names = await readdir(directory); } catch (error) { if (error.code === 'ENOENT' && [`${root}/content/sessions`, `${root}/content/reviews`].includes(directory)) return []; throw error; }
   return Promise.all(names.filter(n => n.endsWith('.json')).map(async name => JSON.parse(await readFile(resolve(directory, name), 'utf8'))));
 }
 
 function validate(sessions) {
   const sessionIds = new Set(), dates = new Set(), ids = new Set(), facts = new Set(), prompts = new Set(), subjects = new Map();
   for (const s of [...sessions].sort((a, b) => a.date.localeCompare(b.date))) {
-    if (!nonempty(s.id) || !nonempty(s.title) || !validDate(s.date) || !instant(s.publishAt) || !instant(s.researchedAt) || !['sample', 'daily'].includes(s.kind)) fail(`Invalid session metadata: ${s.id}`);
+    if (!nonempty(s.id) || !nonempty(s.title) || !validDate(s.date) || !instant(s.publishAt) || !instant(s.researchedAt) || !['sample', 'daily', 'review'].includes(s.kind)) fail(`Invalid session metadata: ${s.id}`);
     if (sessionIds.has(s.id) || dates.has(`${s.kind}:${s.date}`)) fail(`Duplicate session: ${s.id}`);
     sessionIds.add(s.id); dates.add(`${s.kind}:${s.date}`);
-    if (s.kind === 'daily' && (!s.eventWindow || !validDate(s.eventWindow.start) || !validDate(s.eventWindow.end) || s.eventWindow.start > s.eventWindow.end || s.eventWindow.end > s.date)) fail(`Missing or invalid event window: ${s.id}`);
+    if (s.kind !== 'sample' && (!s.eventWindow || !validDate(s.eventWindow.start) || !validDate(s.eventWindow.end) || s.eventWindow.start > s.eventWindow.end || s.eventWindow.end > s.date)) fail(`Missing or invalid event window: ${s.id}`);
     if (!Array.isArray(s.questions) || s.questions.length !== 30) fail(`Session ${s.id} must contain exactly 30 questions`);
     const inSession = new Set();
     for (const q of s.questions) {
@@ -36,6 +37,7 @@ function validate(sessions) {
       if (ids.has(q.id) || facts.has(q.factKey) || prompts.has(normalized)) fail(`Duplicate question or fact: ${q.id}`);
       ids.add(q.id); facts.add(q.factKey); prompts.add(normalized);
       if (!Array.isArray(q.sources) || !q.sources.length || !q.sources.every(source => nonempty(source.title) && /^https:\/\//.test(source.url) && instant(source.checkedAt))) fail(`Missing source: ${q.id}`);
+      if (s.kind === 'review' && !q.tags.includes('recent')) fail(`Pre-quiz review needs recent events: ${q.id}`);
       if (q.tags.includes('recent') && (!validDate(q.eventDate) || !s.eventWindow || q.eventDate < s.eventWindow.start || q.eventDate > s.eventWindow.end)) fail(`Recent question outside event window: ${q.id}`);
       if (q.tags.includes('season') && (!/^\d{4}\/\d{2}$/.test(q.season ?? '') || !validDate(q.eventDate) || q.eventDate > s.date)) fail(`Current-season question needs a season and completed event date: ${q.id}`);
       if (q.format === 'lineup' && !q.lineup) fail(`Lineup question needs a starting XI: ${q.id}`);
@@ -50,7 +52,7 @@ function validate(sessions) {
         if (inSession.has(subject)) fail(`Repeated main subject in session: ${subject}`);
         inSession.add(subject);
         const previous = subjects.get(subject);
-        if (previous && previous.kind === s.kind) {
+        if (previous && s.kind === 'daily' && previous.kind === s.kind) {
           const gap = day(s.date) - day(previous.date);
           if (gap < 30) fail(`Subject cooldown under 30 days: ${subject}`);
           if (gap < 60 && !nonempty(q.cooldownReason)) fail(`Subject cooldown under 60 days needs a reason: ${subject}`);
@@ -65,10 +67,17 @@ if (!Number.isFinite(now.getTime())) fail('Invalid build time');
 const daily = await load(input);
 validate(daily);
 if (daily.some(s => s.kind !== 'daily')) fail('Samples cannot enter the daily content directory');
+const reviews = await load(reviewInput);
+validate(reviews);
+if (reviews.some(s => s.kind !== 'review')) fail('Only reviews can enter the review content directory');
 const samples = preview ? (await load(`${root}/content/samples`)).sort((a,b) => b.id.localeCompare(a.id)).slice(0,1) : [];
 validate(samples);
 if (samples.some(s => s.kind !== 'sample')) fail('Daily content cannot enter the sample directory');
-const sessions = [...daily.filter(s => Date.parse(s.publishAt) <= now.getTime()), ...samples].sort((a, b) => b.date.localeCompare(a.date));
+const allContent = [...daily, ...reviews, ...samples];
+if (new Set(allContent.map(s => s.id)).size !== allContent.length) fail('Session IDs must be unique across daily sets and reviews');
+const allQuestionIds = allContent.flatMap(s => s.questions.map(q => q.id));
+if (new Set(allQuestionIds).size !== allQuestionIds.length) fail('Question IDs must be unique across daily sets and reviews');
+const sessions = [...daily, ...reviews].filter(s => Date.parse(s.publishAt) <= now.getTime()).concat(samples).sort((a, b) => b.date.localeCompare(a.date) || Date.parse(b.publishAt) - Date.parse(a.publishAt));
 async function embed(media) {
   if (!media || !/^assets\/[a-z0-9-]+\.(jpg|png)$/.test(media.path) || !nonempty(media.alt) || !nonempty(media.credit) || !nonempty(media.license) || !/^https:\/\//.test(media.source) || !/^https:\/\//.test(media.licenseUrl)) fail('Incomplete or unsafe image metadata');
   if (media.crop && (!Array.isArray(media.crop) || media.crop.length !== 4 || !media.crop.every(n => Number.isFinite(n) && n >= 0) || media.crop[2] === 0 || media.crop[3] === 0 || !Number.isFinite(media.width) || media.width < media.crop[0] + media.crop[2])) fail('Invalid image crop');
@@ -77,7 +86,7 @@ async function embed(media) {
   if (png ? !bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10])) : bytes[0] !== 255 || bytes[1] !== 216) fail(`Invalid image file: ${media.path}`);
   media.data = `data:image/${png ? 'png' : 'jpeg'};base64,${bytes.toString('base64')}`;
 }
-for (const s of [...daily,...samples]) for (const q of s.questions) {
+for (const s of allContent) for (const q of s.questions) {
   if (q.media) await embed(q.media);
   if (['photo','crest','stadium'].includes(q.format) && !q.media) fail(`Visual question needs an image: ${q.id}`);
   if (q.career) {

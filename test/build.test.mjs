@@ -6,9 +6,9 @@ import {join} from 'node:path';
 import {spawnSync} from 'node:child_process';
 const sample=JSON.parse(await readFile(new URL('../content/samples/sample-02.json',import.meta.url),'utf8'));
 const build=new URL('../scripts/build.mjs',import.meta.url).pathname;
-async function run(content,{preview=false,now='2026-10-08T10:00:00Z'}={}){
- const dir=await mkdtemp(join(tmpdir(),'football-build-')),input=join(dir,'in'),out=join(dir,'out');await mkdir(input);
- try{for(let i=0;i<content.length;i++)await writeFile(join(input,`${i}.json`),JSON.stringify(content[i]));const result=spawnSync(process.execPath,[build,`--content=${input}`,`--out=${out}`,`--now=${now}`,...(preview?['--preview']:[])],{encoding:'utf8'});const html=result.status===0?await readFile(join(out,'index.html'),'utf8'):'';return {...result,html};}finally{await rm(dir,{recursive:true,force:true});}
+async function run(content,{preview=false,now='2026-10-08T10:00:00Z',reviews=[]}={}){
+ const dir=await mkdtemp(join(tmpdir(),'football-build-')),input=join(dir,'in'),out=join(dir,'out'),reviewInput=join(dir,'reviews');await mkdir(input);await mkdir(reviewInput);
+ try{for(let i=0;i<content.length;i++)await writeFile(join(input,`${i}.json`),JSON.stringify(content[i]));for(let i=0;i<reviews.length;i++)await writeFile(join(reviewInput,`${i}.json`),JSON.stringify(reviews[i]));const result=spawnSync(process.execPath,[build,`--content=${input}`,`--reviews=${reviewInput}`,`--out=${out}`,`--now=${now}`,...(preview?['--preview']:[])],{encoding:'utf8'});const html=result.status===0?await readFile(join(out,'index.html'),'utf8'):'';return {...result,html};}finally{await rm(dir,{recursive:true,force:true});}
 }
 function daily(date='2026-10-08',publishAt='2026-10-08T07:00:00+02:00') {return {...structuredClone(sample),id:`daily-${date}`,kind:'daily',date,publishAt,eventWindow:{start:'2026-10-07',end:date}};}
 function data(html){return JSON.parse(html.match(/<script id="training-data" type="application\/json">([\s\S]*?)<\/script>/)[1]);}
@@ -28,3 +28,23 @@ test('hidden career answers and transfer routes require attributed badges before
 test('club-gap answers must match the timeline and lineup must contain eleven players',async()=>{for(const mutate of [s=>s.questions[1].career.at(-1).club='Wrong club',s=>s.questions[3].lineup.rows.pop(),s=>delete s.questions[18].career]){const s=daily();mutate(s);assert.notEqual((await run([s])).status,0);}});
 test('current-season facts cannot claim unplayed dates or become recent outside the window',async()=>{for(const mutate of [s=>s.questions[6].eventDate='2026-10-09',s=>s.questions[6].tags.push('recent')]){const s=daily();mutate(s);assert.notEqual((await run([s])).status,0);}});
 test('30-day cooldown is enforced across sessions; 30–59 days requires an editorial reason',async()=>{const first=daily();const second=daily('2026-10-28','2026-10-28T07:00:00+01:00');second.questions.forEach((q,i)=>{q.id=`next-${i}`;q.factKey=`next-fact-${i}`;q.prompt+=' Nowa wersja.';q.subjects=[`other:${i}`];});second.questions[0].subjects=first.questions[0].subjects;let r=await run([first,second]);assert.notEqual(r.status,0);assert.match(r.stderr,/cooldown under 30/);second.date='2026-11-08';second.id='daily-2026-11-08';second.publishAt='2026-11-08T07:00:00+01:00';second.eventWindow.end=second.date;r=await run([first,second]);assert.notEqual(r.status,0);assert.match(r.stderr,/needs a reason/);second.questions[0].cooldownReason='Different verified topic, curriculum exception.';r=await run([first,second]);assert.equal(r.status,0,r.stderr);});
+
+function reviewOf(session) {
+ const review=structuredClone(session);
+ review.id='review-2026-10-08';review.kind='review';review.title='Przed quizem · 8.10';review.publishAt='2026-10-08T10:00:00Z';
+ review.questions.forEach((q,i)=>{q.id=`review-question-${i}`;q.tags=[...new Set([...q.tags,'recent'])];q.eventDate='2026-10-08';});
+ return review;
+}
+test('an explicit review can revisit daily facts without replacing the daily set or leaking before release',async()=>{
+ const s=daily(),review=reviewOf(s),release=Date.parse(review.publishAt);
+ let r=await run([s],{reviews:[review],now:new Date(release-1).toISOString()});assert.equal(r.status,0,r.stderr);assert.deepEqual(data(r.html).sessions.map(s=>s.id),[s.id]);assert.ok(!r.html.includes('review-question-0'));
+ r=await run([s],{reviews:[review],now:new Date(release).toISOString()});assert.equal(r.status,0,r.stderr);const published=data(r.html).sessions;assert.deepEqual(published.map(s=>s.id),[review.id,s.id]);assert.equal(published[0].questions[0].factKey,published[1].questions[0].factKey);assert.notEqual(published[0].questions[0].id,published[1].questions[0].id);
+});
+test('every pre-quiz question needs an event in its window and complete evidence, even before release',async()=>{
+ for(const mutate of [s=>s.questions[0].tags=s.questions[0].tags.filter(t=>t!=='recent'),s=>s.questions[0].eventDate='2026-10-06',s=>s.eventWindow.start='2026-10-09',s=>s.questions[0].sources=[],s=>delete s.questions[0].media.license]){
+  const review=reviewOf(daily());mutate(review);assert.notEqual((await run([],{reviews:[review],now:'2026-10-08T09:59:59Z'})).status,0);
+ }
+});
+test('daily and review progress identities cannot collide',async()=>{
+ const s=daily();for(const mutate of [r=>r.id=s.id,r=>r.questions[0].id=s.questions[0].id]){const review=reviewOf(s);mutate(review);const result=await run([s],{reviews:[review]});assert.notEqual(result.status,0);assert.match(result.stderr,/IDs must be unique/);}
+});
