@@ -77,6 +77,9 @@ A question about a player's birthplace, nationality, or national team, explicitl
 **Kit identification**:
 A question asking the member to identify a club, national team, or kit manufacturer from a shirt associated with an explicitly stated season or tournament.
 
+**Shirt sponsor recall**:
+A question showing a genuine football shirt with its sponsor hidden, asking the member to name the missing sponsor. The season or competition distinguishes shirt variants when necessary.
+
 **Match result question**:
 A question about the score of a specified football match, stating whether the answer includes extra time or a penalty shoot-out.
 

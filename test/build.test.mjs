@@ -48,3 +48,10 @@ test('every pre-quiz question needs an event in its window and complete evidence
 test('daily and review progress identities cannot collide',async()=>{
  const s=daily();for(const mutate of [r=>r.id=s.id,r=>r.questions[0].id=s.questions[0].id]){const review=reviewOf(s);mutate(review);const result=await run([s],{reviews:[review]});assert.notEqual(result.status,0);assert.match(result.stderr,/IDs must be unique/);}
 });
+
+test('shirt sponsor masks remain inside their visible crop and require kit questions before release',async()=>{
+ function masked(){const s=daily('2026-12-08','2026-12-08T07:00:00+01:00');const q=s.questions[0];q.format='kit';q.media.height=300;q.media.mask=[150,50,100,60];return s;}
+ const valid=masked();let r=await run([valid],{now:'2026-12-08T07:00:00+01:00'});assert.equal(r.status,0,r.stderr);assert.deepEqual(data(r.html).sessions[0].questions[0].media.mask,[150,50,100,60]);
+ for(const mutate of [s=>s.questions[0].media.mask=[129,50,50,60],s=>s.questions[0].media.mask=[200,50,100,60],s=>s.questions[0].media.mask=[150,50,0,60],s=>s.questions[0].media.mask=[150,50,50,'60'],s=>delete s.questions[0].media.height,s=>s.questions[0].format='photo']){const invalid=masked();mutate(invalid);r=await run([invalid],{now:'2026-12-08T06:59:59+01:00'});assert.notEqual(r.status,0);assert.match(r.stderr,/mask|kit question/);}
+ const uncropped=masked();delete uncropped.questions[0].media.crop;uncropped.questions[0].media.mask=[0,0,331,300];r=await run([uncropped],{now:'2026-12-08T07:00:00+01:00'});assert.equal(r.status,0,r.stderr);
+});

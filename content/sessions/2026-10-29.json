@@ -1,0 +1,1240 @@
+{
+  "id": "2026-10-29",
+  "kind": "daily",
+  "title": "Trening głowy · 29 października 2026",
+  "date": "2026-10-29",
+  "publishAt": "2026-10-29T08:00:00+01:00",
+  "researchedAt": "2026-10-29T11:56:35.354Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-10-29"
+  },
+  "questions": [
+    {
+      "factKey": "siarka-tarnobrzeg:2026-10-28:eliminates-lech-cup",
+      "format": "fact",
+      "prompt": "Który trzecioligowiec wyeliminował Lecha z Pucharu Polski 28 października 2026, wygrywając 1:0?",
+      "answerParts": [
+        "Siarka Tarnobrzeg"
+      ],
+      "subjects": [
+        "club:siarka-tarnobrzeg"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "niespodzianki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "Lech — wypowiedzi po porażce 0:1 w Tarnobrzegu, 28 października 2026",
+          "url": "https://www.lechpoznan.pl/aktualnosci,2,wypowiedzi-po-meczu-siarka-lech,48443.html",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        }
+      ],
+      "id": "2026-10-29-01"
+    },
+    {
+      "factKey": "tomasz-waldoch:portrait-schalke",
+      "format": "photo",
+      "prompt": "Podaj nazwisko sportretowanego piłkarza.",
+      "answerParts": [
+        "Tomasz Wałdoch"
+      ],
+      "subjects": [
+        "player:tomasz-waldoch"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "portret",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Elena Ellenbrock — oryginalne zdjęcie Tomasza Wałdocha",
+          "url": "https://commons.wikimedia.org/wiki/File:S04_Tomasz_Waldoch_01.jpg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-face01.jpg",
+        "width": 260,
+        "height": 411,
+        "source": "https://commons.wikimedia.org/wiki/File:S04_Tomasz_Waldoch_01.jpg",
+        "credit": "Elena Ellenbrock",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Kadrowanie do całej głowy i podbródka, bez herbu i napisów na koszulce; bez retuszu.",
+        "alt": "Mężczyzna z krótkimi jasnymi włosami; pełna głowa i podbródek, bez herbu i czytelnych napisów.",
+        "crop": [
+          12,
+          10,
+          177,
+          255
+        ]
+      },
+      "id": "2026-10-29-02"
+    },
+    {
+      "factKey": "costinha:porto-dynamo-transfer-2005-4m",
+      "format": "transfer",
+      "prompt": "Kto przeszedł tą drogą za 4 mln euro?",
+      "answerParts": [
+        "Costinha"
+      ],
+      "subjects": [
+        "player:costinha"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "portugalia",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Costinha: Porto → Dynamo, 1 lipca 2005, 4 mln euro",
+          "url": "https://www.uefa.com/news-media/news/01a9-0f8471fe0d74-7783e9a77bc8-1000--porto-pair-move-to-moscow/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Lipiec · 4 mln euro",
+        "from": {
+          "club": "FC Porto",
+          "media": {
+            "path": "assets/d19-badge-porto.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "credit": "FC Porto",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Dynamo Moskwa",
+          "media": {
+            "path": "assets/d23-badge-dynamo-moscow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Dynamo_Moscow_logo.svg",
+            "credit": "Dynamo Moskwa",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Dynamo_Moscow_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 381,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-29-03"
+    },
+    {
+      "factKey": "ajax:2010-08-17:away-shirt-main-sponsor",
+      "format": "kit",
+      "prompt": "Ajax, sezon 2010/11: jakiego głównego sponsora zasłonięto na koszulce Suáreza?",
+      "answerParts": [
+        "AEGON"
+      ],
+      "subjects": [
+        "sponsor:aegon"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "holandia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Ajax — sprawozdanie klubu potwierdzające sponsoring AEGON od lipca 2008 do końca 2014",
+          "url": "https://www.ajax.nl/media/dhxki44x/ajax-jaarverslag-2014-2015.pdf",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        },
+        {
+          "title": "Waleryj Dawydienko — Suárez w meczu z Dynamem Kijów 17 sierpnia 2010",
+          "url": "https://commons.wikimedia.org/wiki/File:Suarez_Ajax_captain.jpg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-kit01.jpg",
+        "width": 516,
+        "height": 498,
+        "source": "https://commons.wikimedia.org/wiki/File:Suarez_Ajax_captain.jpg",
+        "credit": "Waleryj Dawydienko (Давиденко Валерий) / Soccer.ru",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Kadrowanie do zawodnika; główny sponsor zakryty nakładką w interfejsie przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu.",
+        "alt": "Piłkarz w ciemnej wyjazdowej koszulce z sezonu 2010/11; główny sponsor zasłonięty.",
+        "crop": [
+          245,
+          0,
+          230,
+          430
+        ],
+        "mask": [
+          347,
+          135,
+          51,
+          45
+        ]
+      },
+      "id": "2026-10-29-04"
+    },
+    {
+      "factKey": "mariusz-kukielka:career-riddle-nurnberg-wisla-dresden-cottbus",
+      "format": "career-riddle",
+      "prompt": "Z Norymbergi wrócił do Wisły Kraków. Potem grał w Dynamie Drezno i Energie Cottbus. Kto to?",
+      "answerParts": [
+        "Mariusz Kukiełka"
+      ],
+      "subjects": [
+        "player:mariusz-kukielka"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "polska",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "1. FC Nürnberg — wywiad z Kukiełką: półrocze 2003/04, powrót do Wisły, potem Dresden i Cottbus",
+          "url": "https://www.fcn.de/clubmaenner/archiv/2007-2008/club-spiele/4-spieltag/vorschau/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-05"
+    },
+    {
+      "factKey": "cardiff-city:bluebird-crest-fragment2015",
+      "format": "crest",
+      "prompt": "Jaki klub rozpoznasz po tym fragmencie herbu?",
+      "answerParts": [
+        "Cardiff City FC"
+      ],
+      "subjects": [
+        "club:cardiff-city"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "herby",
+        "walia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Cardiff City — oficjalna prezentacja herbu z niebieskim ptakiem w 2015 roku",
+          "url": "https://www.cardiffcityfc.co.uk/news/2015/march/cardiff-city-2015-crest-reveal",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        },
+        {
+          "title": "Cardiff City — plik herbu",
+          "url": "https://en.wikipedia.org/wiki/File:Cardiff_City_crest.svg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-crest01.png",
+        "width": 500,
+        "height": 521,
+        "source": "https://en.wikipedia.org/wiki/File:Cardiff_City_crest.svg",
+        "credit": "Cardiff City FC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Cardiff_City_crest.svg",
+        "changes": "Rasteryzacja do PNG i kadr charakterystycznego ptaka, poza nazwę klubu.",
+        "alt": "Niebieski ptak w locie na białym tle, fragment klubowego herbu.",
+        "crop": [
+          125,
+          185,
+          250,
+          210
+        ]
+      },
+      "id": "2026-10-29-06"
+    },
+    {
+      "factKey": "dirk-kuyt:2026-10-28:interim-fenerbahce",
+      "format": "coach",
+      "prompt": "Kto 28 października 2026 tymczasowo przejął Fenerbahçe po rezygnacji İsmaila Kartala?",
+      "answerParts": [
+        "Dirk Kuyt"
+      ],
+      "subjects": [
+        "coach:dirk-kuyt"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "turcja",
+        "super-lig",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "Liverpool — Dirk Kuyt tymczasowym trenerem Fenerbahçe, 28 października 2026",
+          "url": "https://www.liverpoolfc.com/news/dirk-kuyt-takes-interim-charge-of-fenerbahce-ahead-of-clash-with-liverpool",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        }
+      ],
+      "id": "2026-10-29-07"
+    },
+    {
+      "factKey": "nacer-chadli:tottenham-west-brom-transfer-2016",
+      "format": "transfer",
+      "prompt": "Który piłkarz zmienił kluby w sierpniu 2016 roku?",
+      "answerParts": [
+        "Nacer Chadli"
+      ],
+      "subjects": [
+        "player:nacer-chadli"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "West Bromwich Albion — podpisanie czteroletniego kontraktu z Chadlim, 29 sierpnia 2016",
+          "url": "https://www.wba.co.uk/news/2016/august/albion-sign-nacer-chadli",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "transfer": {
+        "year": 2016,
+        "detail": "Sierpień · transfer definitywny",
+        "from": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "West Bromwich Albion",
+          "media": {
+            "path": "assets/d29-h-wba.png",
+            "source": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+            "credit": "West Bromwich Albion FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 299
+          }
+        }
+      },
+      "id": "2026-10-29-08"
+    },
+    {
+      "factKey": "ruch-chorzow:marcin-zajac-career-gap-2008",
+      "format": "career-gap",
+      "prompt": "Marcin Zając: jaki klub kryje się pod znakiem zapytania?",
+      "answerParts": [
+        "Ruch Chorzów"
+      ],
+      "subjects": [
+        "club:ruch-chorzow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "DFB — Zając w Widzewie do czerwca 2002",
+          "url": "https://datencenter.dfb.de/en/competitions/champions-league/seasons/1996-1997/teams/widzew-lodz?datacenter_name=data-center",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "Lech — podpisanie dwuletniego kontraktu przez Marcina Zająca w lipcu 2006",
+          "url": "https://www.lechpoznan.pl/aktualnosci,2,marcin-zajac-pilkarzem-lecha,23731.html",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "Lech — Zając w składzie Ruchu w październiku 2008",
+          "url": "https://www.lechpoznan.pl/aktualnosci,2,ruch-chorzow-lech-poznan-20,18943.html",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Widzew Łódź",
+          "media": {
+            "path": "assets/d29-h-widzew.png",
+            "source": "https://en.wikipedia.org/wiki/File:Widzew_Lodz.svg",
+            "credit": "RTS Widzew Łódź",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Widzew_Lodz.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 235
+          },
+          "years": "1996–2002"
+        },
+        {
+          "club": "Lech Poznań",
+          "media": {
+            "path": "assets/d23-badge-lech.png",
+            "source": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "credit": "Lech Poznań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 380,
+            "alt": "Herb klubu"
+          },
+          "years": "2006–2008"
+        },
+        {
+          "club": "Ruch Chorzów",
+          "media": {
+            "path": "assets/d29-h-ruch.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Ruch_Chorz%C3%B3w_-_Herb_(2021).svg",
+            "credit": "Ruch Chorzów; wektoryzacja Ruch1920, wersja Piotr Bart",
+            "license": "Domena publiczna (PD-textlogo); możliwa ochrona znaku towarowego.",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ruch_Chorz%C3%B3w_-_Herb_(2021).svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 252
+          },
+          "years": "2008/09",
+          "missing": 0
+        }
+      ],
+      "careerCaption": "Wybrane etapy; pominięto jeden klub między dwoma pierwszymi. Ostatnia kolumna oznacza tylko sezon 2008/09.",
+      "id": "2026-10-29-09"
+    },
+    {
+      "factKey": "andrzej-szarmach:clermont-player-manager-before-lubin",
+      "format": "fact",
+      "prompt": "Który były reprezentant Polski kończył karierę jako grający trener Clermont Foot, zanim objął Zagłębie Lubin?",
+      "answerParts": [
+        "Andrzej Szarmach"
+      ],
+      "subjects": [
+        "player:andrzej-szarmach"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "historia",
+        "francja",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Szarmach jako grający trener Clermont Foot i późniejszy szkoleniowiec Zagłębia Lubin",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/andrzej-szarmach",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "id": "2026-10-29-10"
+    },
+    {
+      "factKey": "ousmane-sow:2026-10-28:hat-trick-lechia-cup",
+      "format": "fact",
+      "prompt": "Lechia – Jagiellonia 0:6, 28 października 2026: kto zdobył hat-tricka dla białostoczan?",
+      "answerParts": [
+        "Ousmane Sow"
+      ],
+      "subjects": [
+        "player:ousmane-sow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "hat-trick"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "Lechia — relacja i strzelcy po porażce 0:6 z Jagiellonią, 28 października 2026",
+          "url": "https://lechia.pl/lechia-konczy-udzial-w-sts-pucharze-polski/",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        }
+      ],
+      "id": "2026-10-29-11"
+    },
+    {
+      "factKey": "geoffroy-guichard:exterior-photo2016",
+      "format": "stadium",
+      "prompt": "Jak nazywa się stadion widoczny na panoramie?",
+      "answerParts": [
+        "Stade Geoffroy-Guichard (Saint-Étienne)"
+      ],
+      "subjects": [
+        "stadium:geoffroy-guichard"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "stadiony",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "AirScott — własne zdjęcie stadionu z 14 maja 2016",
+          "url": "https://commons.wikimedia.org/wiki/File:Stade_geoffroy_guichard_2016.jpg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        },
+        {
+          "title": "AS Saint-Étienne — historia i identyfikacja stadionu Geoffroy-Guichard",
+          "url": "https://billetterie.asse.fr/fr/mon-geoffroy-guichard/stade-geoffroy-guichard/histoire",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-stadium01.jpg",
+        "width": 3264,
+        "height": 2448,
+        "source": "https://commons.wikimedia.org/wiki/File:Stade_geoffroy_guichard_2016.jpg",
+        "credit": "AirScott",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Kadrowanie do szerokiego widoku zewnętrznej bryły stadionu; bez retuszu.",
+        "alt": "Szeroki widok metalowej elewacji stadionu z trójkątnymi białymi wspornikami.",
+        "crop": [
+          0,
+          430,
+          3264,
+          1050
+        ]
+      },
+      "id": "2026-10-29-12"
+    },
+    {
+      "factKey": "roda-jc:shared-club-arouna-kone-cheick-tiote",
+      "format": "shared-club",
+      "prompt": "W którym holenderskim klubie grali Arouna Koné i Cheick Tioté?",
+      "answerParts": [
+        "Roda JC Kerkrade"
+      ],
+      "subjects": [
+        "club:roda-jc"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Arouna Koné grał w Rodzie od 2003 do wypożyczenia do PSV w 2005",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01ac-0ea81d464453-85e72e4c9e2f-1000--kone-to-boost-psv-attack/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "UEFA — Tioté był wypożyczony do Rody przed transferem do Twente w 2008",
+          "url": "https://www.uefa.com/news-media/news/023a-0e973b401974-25947532450a-1000--ex-twente-and-newcastle-midfielder-cheick-tiote-dies/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-13"
+    },
+    {
+      "factKey": "salvatore-schillaci:1990-golden-ball-and-boot",
+      "format": "fact",
+      "prompt": "Kto na mundialu w 1990 roku zdobył jednocześnie Złotą Piłkę i Złotego Buta?",
+      "answerParts": [
+        "Salvatore Schillaci (Totò Schillaci)"
+      ],
+      "subjects": [
+        "player:salvatore-schillaci"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "mundial",
+        "nagrody",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Schillaci najlepszym zawodnikiem i królem strzelców mundialu 1990",
+          "url": "https://inside.fifa.com/organisation/news/a-tribute-to-salvatore-toto-schillaci-1964-2024",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "id": "2026-10-29-14"
+    },
+    {
+      "factKey": "diego-tristan:mallorca-deportivo-transfer-2000",
+      "format": "transfer",
+      "prompt": "Który napastnik przeszedł tą drogą latem 2000 roku?",
+      "answerParts": [
+        "Diego Tristán"
+      ],
+      "subjects": [
+        "player:diego-tristan"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Tristán: z Mallorki do Deportivo latem 2000",
+          "url": "https://es.uefa.com/news-media/news/01b9-0f848d45a11b-d2b4f4846c15-1000--tristan-vuelve-a-la-isla/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "transfer": {
+        "year": 2000,
+        "detail": "Lato · transfer definitywny",
+        "from": {
+          "club": "RCD Mallorca",
+          "media": {
+            "path": "assets/d29-h-mallorca.png",
+            "source": "https://en.wikipedia.org/wiki/File:Rcd_mallorca.svg",
+            "credit": "RCD Mallorca",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Rcd_mallorca.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 331
+          }
+        },
+        "to": {
+          "club": "Deportivo La Coruña",
+          "media": {
+            "path": "assets/d29-h-deportivo.png",
+            "source": "https://en.wikipedia.org/wiki/File:RC_Deportivo_A_Coruña_logo_2026.svg",
+            "credit": "RC Deportivo de La Coruña",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:RC_Deportivo_A_Coruña_logo_2026.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 306
+          }
+        }
+      },
+      "id": "2026-10-29-15"
+    },
+    {
+      "factKey": "ross-county:stag-antlers-crest-fragment",
+      "format": "crest",
+      "prompt": "Którego szkockiego klubu jest to fragment herbu?",
+      "answerParts": [
+        "Ross County FC"
+      ],
+      "subjects": [
+        "club:ross-county"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "herby",
+        "szkocja"
+      ],
+      "sources": [
+        {
+          "title": "Ross County — klubowy program z oficjalnym herbem i głową jelenia",
+          "url": "https://www.rosscountyfootballclub.co.uk/u/general/SA-December-2024-1_compressed.pdf",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        },
+        {
+          "title": "Ross County — plik klubowego herbu",
+          "url": "https://en.wikipedia.org/wiki/File:Ross_County_FC_crest.svg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-crest02.png",
+        "width": 500,
+        "height": 720,
+        "source": "https://en.wikipedia.org/wiki/File:Ross_County_FC_crest.svg",
+        "credit": "Ross County FC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Ross_County_FC_crest.svg",
+        "changes": "Rasteryzacja do PNG i kadr poroża jelenia, poza nazwę klubu oraz litery.",
+        "alt": "Białe poroże jelenia na granatowym tle, fragment klubowego herbu.",
+        "crop": [
+          70,
+          410,
+          350,
+          160
+        ]
+      },
+      "id": "2026-10-29-16"
+    },
+    {
+      "factKey": "match:2026-10-28:milan-bologna-four-two",
+      "format": "result",
+      "prompt": "Milan prowadził do przerwy z Bologną 2:1. Jak skończył się mecz Serie A 28 października 2026?",
+      "answerParts": [
+        "4:2 dla Bologni"
+      ],
+      "subjects": [
+        "match:2026-10-28-milan-bologna"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "wlochy",
+        "serie-a",
+        "powroty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "Bologna — oficjalny protokół zwycięstwa 4:2 nad Milanem, 28 października 2026",
+          "url": "https://www.bolognafc.it/en/ac-milan-2-4-bologna/",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        }
+      ],
+      "id": "2026-10-29-17"
+    },
+    {
+      "factKey": "ottmar-hitzfeld:coach-link-chapuisat-matthaus-frei",
+      "format": "coach-link",
+      "prompt": "Chapuisat w Dortmundzie, Matthäus w Bayernie, Alexander Frei w reprezentacji Szwajcarii. Który trener ich prowadził?",
+      "answerParts": [
+        "Ottmar Hitzfeld"
+      ],
+      "subjects": [
+        "coach:ottmar-hitzfeld"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "niemcy",
+        "szwajcaria"
+      ],
+      "sources": [
+        {
+          "title": "Borussia Dortmund — Hitzfeld prowadził Chapuisata w finale Ligi Mistrzów 1997",
+          "url": "https://www.bvb.de/de/en/borussia-dortmund/history/historic-moments/bvb-champions-league-1997.html",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "UEFA — Matthäus i Hitzfeld zdobywali mistrzostwo w Bayernie w 1999 i 2000",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7d5cbcb6e5-0a37d8e61ca9-1000--swiss-hope-for-better-against-bulgaria/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "UEFA — Hitzfeld potwierdza pracę z Alexandrem Freiem w reprezentacji, kwiecień 2011",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7d00d90022-2bd8d6b2710f-1000--frei-and-streller-withdraw-switzerland-services/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-18"
+    },
+    {
+      "factKey": "monaco:2004-2006:home-shirt-main-sponsor",
+      "format": "kit",
+      "prompt": "Monaco, domowa koszulka z sezonów 2004/05–2005/06: jaki sponsor kryje się pod zasłoną?",
+      "answerParts": [
+        "FEDCOM"
+      ],
+      "subjects": [
+        "sponsor:fedcom"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "francja",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Strologoff — własne zdjęcie domowej koszulki Monaco z sezonów 2004/05 i 2005/06",
+          "url": "https://commons.wikimedia.org/wiki/File:Asm-2004-2006-home-shirt.jpg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        },
+        {
+          "title": "AS Monaco — historia trwającego ponad 25 lat partnerstwa z FEDCOM",
+          "url": "https://www.asmonaco.com/fr/news/fedcom-devient-partenaire-heritage-de-las-monaco",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-kit02.jpg",
+        "width": 1200,
+        "height": 1600,
+        "source": "https://commons.wikimedia.org/wiki/File:Asm-2004-2006-home-shirt.jpg",
+        "credit": "Strologoff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Kadrowanie do koszulki; główny sponsor zakryty nakładką w interfejsie przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu.",
+        "alt": "Czerwono-biała domowa koszulka z herbem Monaco i zasłoniętym głównym sponsorem.",
+        "crop": [
+          170,
+          75,
+          880,
+          1440
+        ],
+        "mask": [
+          310,
+          595,
+          555,
+          235
+        ]
+      },
+      "id": "2026-10-29-19"
+    },
+    {
+      "factKey": "sebastian-kehl:portrait2007",
+      "format": "photo",
+      "prompt": "Rozpoznaj byłego piłkarza na zdjęciu z 2007 roku.",
+      "answerParts": [
+        "Sebastian Kehl"
+      ],
+      "subjects": [
+        "player:sebastian-kehl"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portret",
+        "niemcy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Helmut S. Otto — portret Sebastiana Kehla z 6 lipca 2007",
+          "url": "https://commons.wikimedia.org/wiki/File:Sebastian_Kehl.jpg",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-v-face02.jpg",
+        "width": 866,
+        "height": 1095,
+        "source": "https://commons.wikimedia.org/wiki/File:Sebastian_Kehl.jpg",
+        "credit": "Helmut S. Otto",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sebastian_Kehl.jpg",
+        "changes": "Kadr całej głowy i podbródka; poza koszulkę, herb oraz sponsorów. Bez retuszu.",
+        "alt": "Mężczyzna z krótkimi ciemnymi włosami i jasną brodą; cała głowa, bez stroju klubowego.",
+        "crop": [
+          255,
+          20,
+          330,
+          420
+        ]
+      },
+      "id": "2026-10-29-20"
+    },
+    {
+      "factKey": "romelu-lukaku:chelsea-everton-loan-2013",
+      "format": "transfer",
+      "prompt": "Kto został wypożyczony między tymi klubami na sezon 2013/14?",
+      "answerParts": [
+        "Romelu Lukaku"
+      ],
+      "subjects": [
+        "player:romelu-lukaku"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "transfer",
+        "wypozyczenie",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Chelsea — po początku sezonu 2013/14 Lukaku trafił na wypożyczenie do Evertonu",
+          "url": "https://www.chelseafc.com/en/news/article/romelu-lukaku--everything-you-need-to-know-about-chelsea-s-new-s",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Wypożyczenie · sezon 2013/14",
+        "from": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Everton",
+          "media": {
+            "path": "assets/d29-h-everton.png",
+            "source": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "credit": "Everton FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 256
+          }
+        }
+      },
+      "id": "2026-10-29-21"
+    },
+    {
+      "factKey": "fc-nordsjaelland:first-danish-title-2012-hjulmand",
+      "format": "club-riddle",
+      "prompt": "Który duński klub zdobył pierwszy tytuł mistrza w 2012 roku pod wodzą Kaspera Hjulmanda?",
+      "answerParts": [
+        "FC Nordsjælland"
+      ],
+      "subjects": [
+        "club:fc-nordsjaelland"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "mistrzowie",
+        "dania"
+      ],
+      "sources": [
+        {
+          "title": "Superliga — pierwszy tytuł FC Nordsjælland w sezonie 2011/12",
+          "url": "https://www.superliga.dk/klubber/fc-nordsjaelland",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "UEFA — Nordsjælland mistrzem pod wodzą Kaspera Hjulmanda w 2012",
+          "url": "https://de.uefa.com/news-media/news/01fd-0e7e44d06e57-a3329b281554-1000--nordsj%C3%A6lland-erstmals-danischer-meister/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-22"
+    },
+    {
+      "factKey": "rene-poms:2026-10-28:tychy-cup-advance-pogon",
+      "format": "coach",
+      "prompt": "Kto prowadził drugoligowy GKS Tychy, który 28 października 2026 wyeliminował Pogoń Siedlce, wygrywając 4:2 po dogrywce?",
+      "answerParts": [
+        "René Poms"
+      ],
+      "subjects": [
+        "coach:rene-poms"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "GKS Tychy — René Poms i awans po dogrywce z Pogonią Siedlce",
+          "url": "https://kp-gkstychy.pl/aktualnosci/meldujemy-sie-w-kolejnej-rundzie-sts-pucharu-polski/",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        },
+        {
+          "title": "GKS Tychy — datowana zapowiedź środowego meczu z Pogonią, 28 października",
+          "url": "https://kp-gkstychy.pl/aktualnosci/-raport-przed-meczem-gks-tychy--pogon-siedlce-/",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        }
+      ],
+      "id": "2026-10-29-23"
+    },
+    {
+      "factKey": "theofanis-gekas:badge-career-2005-2010",
+      "format": "career",
+      "prompt": "Kto ma za sobą te etapy kariery?",
+      "answerParts": [
+        "Theofanis Gekas (Fanis Gekas)"
+      ],
+      "subjects": [
+        "player:theofanis-gekas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "grecja",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Gekas w Panathinaikosie od stycznia 2005",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01a5-0e6c92d1b3ca-9a35b257d1b8-1000--panathinaikos-get-in-form-gekas/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "UEFA — wypożyczenie do Bochum w 2006/07 i transfer do Bayeru w 2007",
+          "url": "https://www.uefa.com/news-media/news/01c0-0f84ada99d1b-b9886c2933e9-1000--leverkusen-glee-at-gekas-capture/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        },
+        {
+          "title": "UEFA — Gekas wypożyczony do Herthy na drugą połowę sezonu 2009/10; wcześniej Portsmouth",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0254-0d7c864dbaea-7f25f8e5f469-1000--hertha-pin-hopes-on-loan-star-gekas/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Panathinaikos",
+          "media": {
+            "path": "assets/d10-badge-panathinaikos.png",
+            "source": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "credit": "Panathinaikos",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Panathinaikos_F.C._logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2005–2006"
+        },
+        {
+          "club": "VfL Bochum",
+          "media": {
+            "path": "assets/d11-badge-bochum.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "credit": "VfL Bochum",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Bochum_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 264,
+            "alt": "Herb klubu"
+          },
+          "years": "2006–2007",
+          "note": "Wypożyczenie"
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "media": {
+            "path": "assets/d14-badge-leverkusen.png",
+            "source": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "credit": "Bayer Leverkusen",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 194,
+            "alt": "Herb klubu"
+          },
+          "years": "2007–2010"
+        },
+        {
+          "club": "Portsmouth",
+          "media": {
+            "path": "assets/badge-portsmouth.png",
+            "source": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+            "credit": "Portsmouth Football Club",
+            "license": "Public domain",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Portsmouth_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2009",
+          "note": "Wypożyczenie"
+        }
+      ],
+      "careerCaption": "Wybrane etapy; oznaczono wypożyczenia, pominięto powroty i inne kluby.",
+      "id": "2026-10-29-24"
+    },
+    {
+      "factKey": "sepp-maier:1976-panenka-final-penalty-goalkeeper",
+      "format": "fact",
+      "prompt": "Którego bramkarza pokonał Antonín Panenka słynną podcinką w serii karnych finału Euro 1976?",
+      "answerParts": [
+        "Sepp Maier"
+      ],
+      "subjects": [
+        "player:sepp-maier"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "euro",
+        "bramkarze",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Panenka pokonał Seppa Maiera w decydującej serii karnej finału Euro 1976",
+          "url": "https://www.uefa.com/european-qualifiers/news/0253-0d815ab6fc23-b770aa854a6b-1000--ten-great-euro-moments-panenka-s-penalty/",
+          "checkedAt": "2026-10-29T11:50:59.492Z"
+        }
+      ],
+      "id": "2026-10-29-25"
+    },
+    {
+      "factKey": "christopher-katongo:afcon-2012-winning-captain-mvp",
+      "format": "fact",
+      "prompt": "Kapitan mistrzowskiej Zambii i najlepszy piłkarz Pucharu Narodów Afryki 2012. Kto to?",
+      "answerParts": [
+        "Christopher Katongo"
+      ],
+      "subjects": [
+        "player:christopher-katongo"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "afryka",
+        "pna"
+      ],
+      "sources": [
+        {
+          "title": "CAF — Christopher Katongo: kapitan mistrzowskiej Zambii i najlepszy gracz PNA 2012",
+          "url": "https://www.cafonline.com/afcon2025/news/el-hadary-mathlouthi-and-gervinho-among-legends-at-totalenergies-caf-africa-cup-of-nations-afcon-morocco-2025-final-draw/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-26"
+    },
+    {
+      "factKey": "holstein-kiel:2026-10-28:eliminates-hoffenheim-penalties",
+      "format": "fact",
+      "prompt": "Puchar Niemiec, 28 października 2026: który drugoligowiec wyeliminował Hoffenheim, wygrywając karne 4:3?",
+      "answerParts": [
+        "Holstein Kiel"
+      ],
+      "subjects": [
+        "club:holstein-kiel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "niemcy",
+        "dfb-pokal",
+        "niespodzianki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "DFB — zakończona druga runda: Kiel wyeliminowało Hoffenheim po karnych",
+          "url": "https://www.dfb.de/news/galerie-zweitliga-quartett-um-kiel-schaltet-bundesligisten-aus",
+          "checkedAt": "2026-10-29T11:47:24.014Z"
+        }
+      ],
+      "id": "2026-10-29-27"
+    },
+    {
+      "factKey": "mascot-goleo-vi:world-cup-2006-lion-name",
+      "format": "fact",
+      "prompt": "Jak nazywał się lew będący maskotką mundialu 2006?",
+      "answerParts": [
+        "Goleo VI"
+      ],
+      "subjects": [
+        "mascot:goleo-vi-2006"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "kultura",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Goleo VI, lew będący maskotką mundialu 2006",
+          "url": "https://inside.fifa.com/de/tournaments/mens/worldcup/2018russia/news/zabivaka-setzt-tradition-der-wm-maskottchen-fort",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-28"
+    },
+    {
+      "factKey": "europass-gloria:euro-2008-final-silver-ball",
+      "format": "fact",
+      "prompt": "Jak nazywała się srebrna odmiana piłki przygotowana specjalnie na finał Euro 2008?",
+      "answerParts": [
+        "adidas Europass Gloria"
+      ],
+      "subjects": [
+        "ball:europass-gloria"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kultura",
+        "euro"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — srebrna Europass Gloria wykorzystana w finale Euro 2008",
+          "url": "https://www.uefa.com/european-qualifiers/news/025e-0fc6971c8220-0ceba795a115-1000--every-euro-match-ball/",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-29"
+    },
+    {
+      "factKey": "rule-backpass:goalkeeper-hands-deliberate-kick-1992",
+      "format": "fact",
+      "prompt": "Jaką możliwość odebrano bramkarzom zmianą przepisów z 1992 roku?",
+      "answerParts": [
+        "Dotykania rękami piłki celowo kopniętej do nich przez partnera."
+      ],
+      "subjects": [
+        "rule:backpass-1992"
+      ],
+      "difficulty": "łatwe",
+      "tags": [
+        "historia",
+        "przepisy"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — zmiana przepisu o podaniu do bramkarza w 1992 roku",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/1986mexico/news/hodge-maradona-and-the-hand-of-god-shirt-2801683",
+          "checkedAt": "2026-10-29T11:49:35.409Z"
+        }
+      ],
+      "id": "2026-10-29-30"
+    }
+  ]
+}

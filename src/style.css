@@ -6,3 +6,4 @@
 .team-logo{display:block;width:84px;height:84px;object-fit:contain}@media(max-width:800px){.team-logo{width:64px;height:64px}}
 
 .intro>div{min-width:0}.intro #archive-toggle{flex-shrink:0}@media(max-width:480px){.intro h1{font-size:32px;letter-spacing:-1.5px}}
+.question-image.kit{position:relative;max-width:480px}.sponsor-mask{position:absolute;display:flex;align-items:center;justify-content:center;background:#f5f3ea;border:2px dashed #7f9085;border-radius:3px;color:#173d32;font-weight:700;font-size:clamp(18px,4vw,30px);line-height:1;pointer-events:none}

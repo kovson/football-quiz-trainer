@@ -81,12 +81,17 @@ const sessions = [...daily, ...reviews].filter(s => Date.parse(s.publishAt) <= n
 async function embed(media) {
   if (!media || !/^assets\/[a-z0-9-]+\.(jpg|png)$/.test(media.path) || !nonempty(media.alt) || !nonempty(media.credit) || !nonempty(media.license) || !/^https:\/\//.test(media.source) || !/^https:\/\//.test(media.licenseUrl)) fail('Incomplete or unsafe image metadata');
   if (media.crop && (!Array.isArray(media.crop) || media.crop.length !== 4 || !media.crop.every(n => Number.isFinite(n) && n >= 0) || media.crop[2] === 0 || media.crop[3] === 0 || !Number.isFinite(media.width) || media.width < media.crop[0] + media.crop[2])) fail('Invalid image crop');
+  if (media.mask !== undefined) {
+    const mask=media.mask, bounds=media.crop ?? [0,0,media.width,media.height];
+    if (!Number.isFinite(media.width) || !Number.isFinite(media.height) || media.width <= 0 || media.height <= 0 || !Array.isArray(mask) || mask.length !== 4 || !mask.every(n => Number.isFinite(n) && n >= 0) || mask[2] === 0 || mask[3] === 0 || bounds[0]+bounds[2] > media.width || bounds[1]+bounds[3] > media.height || mask[0] < bounds[0] || mask[1] < bounds[1] || mask[0]+mask[2] > bounds[0]+bounds[2] || mask[1]+mask[3] > bounds[1]+bounds[3]) fail('Invalid shirt sponsor mask');
+  }
   const bytes = await readFile(resolve(root, media.path));
   const png = media.path.endsWith('.png');
   if (png ? !bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10])) : bytes[0] !== 255 || bytes[1] !== 216) fail(`Invalid image file: ${media.path}`);
   media.data = `data:image/${png ? 'png' : 'jpeg'};base64,${bytes.toString('base64')}`;
 }
 for (const s of allContent) for (const q of s.questions) {
+  if (q.media?.mask !== undefined && q.format !== 'kit') fail(`Sponsor masks require a kit question: ${q.id}`);
   if (q.media) await embed(q.media);
   if (['photo','crest','stadium'].includes(q.format) && !q.media) fail(`Visual question needs an image: ${q.id}`);
   if (q.career) {

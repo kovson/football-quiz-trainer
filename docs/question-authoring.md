@@ -49,6 +49,15 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 - Use clear, genuine photos of less obvious players. Crop identifying kit, crests, and stadium signage, while keeping the face or stadium recognizable; reject blurry, tiny, or excessively tight crops. Do not fabricate or retouch identities.
 - Inspect the whole question as the player sees it before reveal, including images and surrounding clues, for accidental spoilers such as sponsors, stadium signs or crest lettering. Remove clues that give away the tested identity while preserving intentional club logos in badge careers and transfers. Crest-identification questions may omit club-name text.
 
+## Shirt sponsor recall
+
+- Include two visual shirt-sponsor questions in the next ordinary daily set, then rotate this task regularly with the other formats. These replace other questions within the thirty-question set; do not add them to the completed pre-quiz review.
+- Show a genuine shirt or a player wearing it with the sponsor deliberately masked or removed. Ask for the missing sponsor, normally the main front-of-shirt sponsor, rather than the player, club or kit manufacturer. Club crests and recognizable shirt details may remain as intended clues in this task; the no-identifying-kit rule for player portraits does not apply here.
+- Verify the exact shirt, season and competition against reliable evidence: sponsorship can differ by year, competition or shirt variant. Give enough visible context or a short season clue to make one answer unambiguous. Do not assume a player's club spell identifies a unique sponsor.
+- Preserve the shirt design outside the hidden sponsor area. Check the final image on a phone and avoid answer leaks in the prompt, alt text, captions or visible filename. Reveal the sponsor name and supporting source after the usual answer button; retain image attribution and disclose the masking in image-change metadata.
+- Store these as `kit` questions with attributed `media`. A `media.mask` rectangle `[left, top, width, height]` uses original image pixels and must fit wholly inside the image and its visible crop. Supply actual image width and height. The app hides that region before reveal and restores the original photograph after reveal; no altered sponsor or synthetic shirt is required. Track the sponsor as the tested subject when the club and season are given as clues.
+- User-reported examples from the 28 October 2026 quiz: Valencia with Pablo Aimar, Celtic with Artur Boruc, and Milan with Kaká, each asking for the removed sponsor. These establish the desired task; exact shirts, seasons and answers still need verification before authoring. Rotate clubs and eras rather than copying these three examples as unverified questions.
+
 ## Coverage across sessions
 
 - Use a rolling seven-session coverage ledger, separate from subject cooldown. Track leagues, competitions, eras, formats, and repeated tasks while selecting questions.
