@@ -1,0 +1,1254 @@
+{
+  "id": "2026-10-30",
+  "kind": "daily",
+  "title": "Trening głowy · 30 października 2026",
+  "date": "2026-10-30",
+  "publishAt": "2026-10-30T08:00:00+01:00",
+  "researchedAt": "2026-10-31T19:49:57.414Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-10-30"
+  },
+  "questions": [
+    {
+      "factKey": "motor-lublin:2026-10-30:comeback-cracovia-before-half-time",
+      "format": "fact",
+      "prompt": "Który klub 30 października 2026 odrobił stratę z Cracovią jeszcze przed przerwą i wygrał 2:1?",
+      "answerParts": [
+        "Motor Lublin"
+      ],
+      "subjects": [
+        "club:motor-lublin"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "odwrocenie-wyniku"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-30",
+      "sources": [
+        {
+          "title": "Cracovia — Motor odrobił stratę i wygrał 2:1, 30 października 2026",
+          "url": "https://www.cracovia.pl/posts/nieudany-wieczor-przy-kaluzy-motor-odwraca-losy-spotkania-i-wygrywa-z-cracovia/6498",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-30-01"
+    },
+    {
+      "factKey": "krzysztof-kotorowski:portrait:kotorowski3",
+      "format": "photo",
+      "prompt": "Czyją twarz przedstawia ta fotografia?",
+      "answerParts": [
+        "Krzysztof Kotorowski"
+      ],
+      "subjects": [
+        "player:krzysztof-kotorowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portret",
+        "historia",
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — identyfikacja sportretowanego zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Krzysztof_Kotorowski_2011.jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d30-v-face01.jpg",
+        "width": 960,
+        "height": 1028,
+        "source": "https://commons.wikimedia.org/wiki/File:Krzysztof_Kotorowski_2011.jpg",
+        "credit": "Roger Gorączniak",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie do całej głowy i podbródka, poza herb, czytelne napisy i rozpoznawalny strój klubowy; bez retuszu.",
+        "alt": "Portret mężczyzny; pełna głowa i podbródek, bez herbu oraz czytelnych napisów.",
+        "crop": [
+          210,
+          0,
+          530,
+          745
+        ]
+      },
+      "id": "2026-10-30-02"
+    },
+    {
+      "factKey": "alberto-gilardino:transfer-2008-ac-milan-fiorentina",
+      "format": "transfer",
+      "prompt": "Kto zmienił barwy w tym ruchu z 2008 roku?",
+      "answerParts": [
+        "Alberto Gilardino"
+      ],
+      "subjects": [
+        "player:alberto-gilardino"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Gilardino przeszedł z Milanu do Fiorentiny w maju 2008",
+          "url": "https://www.uefa.com/news-media/news/01cd-0e6f6c24791a-0a77608dfb93-1000--gilardino-makes-fiorentina-switch/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "from": {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Fiorentina",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-30-03"
+    },
+    {
+      "factKey": "tottenham:2010-11:cup-shirt-investec",
+      "format": "kit",
+      "prompt": "Tottenham w Lidze Mistrzów 2010/11: jakiego głównego sponsora zasłonięto?",
+      "answerParts": [
+        "Investec"
+      ],
+      "subjects": [
+        "sponsor:investec"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "anglia",
+        "liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — umowa sponsorska obejmująca krajowe i europejskie puchary od sezonu 2010/11",
+          "url": "https://www.tottenhamhotspur.com/news/1041611/tottenham-hotspur-announces-new-shirt-sponsorship-with-investec",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        },
+        {
+          "title": "Alejandro Ramos — zdjęcie Van der Vaarta z 5 kwietnia 2011",
+          "url": "https://commons.wikimedia.org/wiki/File:Rafael_van_der_Vaart_2011.jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d30-v-kit01.jpg",
+        "width": 1141,
+        "height": 1827,
+        "source": "https://commons.wikimedia.org/wiki/File:Rafael_van_der_Vaart_2011.jpg",
+        "credit": "Alejandro Ramos",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Kadrowanie do zawodnika; główny sponsor zasłonięty nakładką w interfejsie przed odkryciem odpowiedzi. Bez retuszu zdjęcia.",
+        "alt": "Wyjazdowa koszulka Tottenhamu z Ligi Mistrzów 2010/11; główny sponsor zasłonięty.",
+        "crop": [
+          190,
+          55,
+          540,
+          860
+        ],
+        "mask": [
+          425,
+          475,
+          275,
+          100
+        ]
+      },
+      "id": "2026-10-30-04"
+    },
+    {
+      "factKey": "radoslaw-kaluzny:career-riddle-cottbus-bayer-essen-ahlen",
+      "format": "career-riddle",
+      "prompt": "Z Wisły trafił do Energie Cottbus, potem do Leverkusen. Grał też w Rot-Weiss Essen i LR Ahlen — kto to?",
+      "answerParts": [
+        "Radosław Kałużny"
+      ],
+      "subjects": [
+        "player:radoslaw-kaluzny"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Kałużny z Cottbus do Bayeru, wcześniej Wisła Kraków",
+          "url": "https://www.uefa.com/uefachampionsleague/news/018d-0e6a58edffa0-edb5edc0efa3-1000--leverkusen-on-kaluzny-course/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "DFB — potwierdzenie klubów Cottbus, Bayer, Rot-Weiss Essen i LR Ahlen",
+          "url": "https://datencenter.dfb.de/en/data-center/people/radoslaw-kaluzny/player",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-05"
+    },
+    {
+      "factKey": "go-ahead-eagles:crest-fragment:letter-free",
+      "format": "crest",
+      "prompt": "Który holenderski klub reprezentuje ten fragment herbu?",
+      "answerParts": [
+        "Go Ahead Eagles"
+      ],
+      "subjects": [
+        "club:go-ahead-eagles"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "herby",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "Plik klubowego herbu — identyfikacja i pochodzenie",
+          "url": "https://commons.wikimedia.org/wiki/File:Go_Ahead_Eagles_logo.svg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d30-v-crest01.png",
+        "width": 301,
+        "height": 333,
+        "source": "https://commons.wikimedia.org/wiki/File:Go_Ahead_Eagles_logo.svg",
+        "credit": "Go Ahead Eagles",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Kadr charakterystycznego symbolu, poza litery i nazwę klubu; rasteryzacja lub pomniejszenie do wyświetlania.",
+        "alt": "Czarny orzeł i piłka na czerwono-żółtym tle; bez liter.",
+        "crop": [
+          50,
+          100,
+          200,
+          148
+        ]
+      },
+      "id": "2026-10-30-06"
+    },
+    {
+      "factKey": "aleksander-buksa:2026-10-29:substitute-brace-eliminates-arka",
+      "format": "fact",
+      "prompt": "Arka–Stal Rzeszów, 29 października 2026: który rezerwowy odwrócił wynik dwoma golami, w tym z rzutu wolnego?",
+      "answerParts": [
+        "Aleksander Buksa"
+      ],
+      "subjects": [
+        "player:aleksander-buksa"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "zmiennicy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-29",
+      "sources": [
+        {
+          "title": "Arka Gdynia — dwa gole rezerwowego Aleksandra Buksy i awans Stali Rzeszów, 29 października 2026",
+          "url": "https://arka.gdynia.pl/news/stal-rzeszw-pp-arka-gdynia",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-30-07"
+    },
+    {
+      "factKey": "niko-kovac:transfer-2001-hamburger-sv-bayern-monachium",
+      "format": "transfer",
+      "prompt": "Kogo dotyczy pokazany transfer z 2001 roku?",
+      "answerParts": [
+        "Niko Kovač"
+      ],
+      "subjects": [
+        "player:niko-kovac"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Bayern — kariera Niko Kovača: HSV 1999–2001, Bayern 2001–2003",
+          "url": "https://fcbayern.com/de/teams/profis/ehemalige-spieler/niko-kovac",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Bundesliga — przejście Kovača z Hamburga do Bayernu w lipcu 2001",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/niko-kovac-klassiker-bayern-munich-borussia-dortmund-loyalties-34310",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2001,
+        "from": {
+          "club": "Hamburger SV",
+          "media": {
+            "id": "04",
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 711
+          }
+        },
+        "to": {
+          "club": "Bayern Monachium",
+          "media": {
+            "path": "assets/17.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+            "credit": "FC Bayern Munich",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Bayern_M%C3%BCnchen_logo_(2024).svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-30-08"
+    },
+    {
+      "factKey": "toulouse:moussa-sissoko-career-gap-2007-2013",
+      "format": "career-gap",
+      "prompt": "Moussa Sissoko: uzupełnij brakujący klub.",
+      "answerParts": [
+        "Toulouse FC"
+      ],
+      "subjects": [
+        "club:toulouse"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — Sissoko zaczynał w Toulouse, do Newcastle trafił w styczniu 2013, do Tottenhamu w sierpniu 2016",
+          "url": "https://www.tottenhamhotspur.com/news/1039219/sissoko-move-agreed",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "FFF — daty klubowe Sissoko, Tottenham do sierpnia 2021",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/8823-sissoko-moussa/fiche.html",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Toulouse FC",
+          "years": "2007–2013",
+          "media": {
+            "path": "assets/d30-h-toulouse.png",
+            "source": "https://en.wikipedia.org/wiki/File:Toulouse_FC_2018_logo.svg",
+            "credit": "Toulouse FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Toulouse_FC_2018_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 250
+          },
+          "missing": 0
+        },
+        {
+          "club": "Newcastle United",
+          "years": "2013–2016",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Tottenham",
+          "years": "2016–2021",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Kolejne etapy w pierwszych drużynach, 2007–2021.",
+      "id": "2026-10-30-09"
+    },
+    {
+      "factKey": "zawisza:2014:cup-final-national-stadium",
+      "format": "fact",
+      "prompt": "Który klub wygrał pierwszy finał Pucharu Polski rozegrany na warszawskim Stadionie Narodowym w 2014 roku?",
+      "answerParts": [
+        "Zawisza Bydgoszcz"
+      ],
+      "subjects": [
+        "club:zawisza-bydgoszcz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "puchar-polski",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — finał z 2 maja 2014 i zwycięstwo Zawiszy po karnych",
+          "url": "https://www.pzpn.pl/en/competitions/polish-cup/news/2014-05-02/zawisza-bydgoszcz-with-the-polish-cup",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-30-10"
+    },
+    {
+      "factKey": "brazil-women-u17:2026-10-28:eliminates-poland-after33-shootout",
+      "format": "fact",
+      "prompt": "MŚ kobiet U-17, 28 października 2026: kto wyeliminował Polskę po remisie 3:3 i karnych 8:7?",
+      "answerParts": [
+        "Brazylia"
+      ],
+      "subjects": [
+        "national-team:brazil-women-u17"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "reprezentacje",
+        "mistrzostwa-swiata-kobiet-u17"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "PZPN — Polki U-17 odpadły po remisie 3:3 i karnych 7:8 z Brazylią, 28 października 2026",
+          "url": "https://www.pzpn.pl/reprezentacje/reprezentacje-kobiece/reprezentacja-u-17/aktualnosci/2026-10-28/ms-wu-17-polki-byly-blisko-cwiercfinalu-brazylia-wygrala-po-karnych",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-30-11"
+    },
+    {
+      "factKey": "tivoli-neu:stadium-photo:historical-view",
+      "format": "stadium",
+      "prompt": "Jak nazywa się ten austriacki stadion?",
+      "answerParts": [
+        "Tivoli Neu (Innsbruck)"
+      ],
+      "subjects": [
+        "stadium:tivoli-neu"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "stadiony",
+        "austria"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — identyfikacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Tivolineu.JPG",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d30-v-stadium01.jpg",
+        "width": 960,
+        "height": 720,
+        "source": "https://commons.wikimedia.org/wiki/File:Tivolineu.JPG",
+        "credit": "Riedl Florian at de.wikipedia)",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tivolineu.JPG",
+        "changes": "Kadrowanie do trybun i murawy, poza czytelną nazwę klubu; bez retuszu.",
+        "alt": "Nocny widok z narożnika boiska na strome, dwupoziomowe trybuny.",
+        "crop": [
+          0,
+          10,
+          960,
+          600
+        ]
+      },
+      "id": "2026-10-30-12"
+    },
+    {
+      "factKey": "odense-bk:shared-club-roy-carroll-djemba-djemba",
+      "format": "shared-club",
+      "prompt": "W którym duńskim klubie spotkali się Roy Carroll i Eric Djemba-Djemba?",
+      "answerParts": [
+        "Odense BK"
+      ],
+      "subjects": [
+        "club:odense-bk"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "dania"
+      ],
+      "sources": [
+        {
+          "title": "Young Boys — oficjalny skład Odense w Lidze Europy 4 listopada 2010, Carroll i Djemba-Djemba",
+          "url": "https://www.bscyb.ch/news-events?nid=747&pid=7",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "UEFA — Carroll i Djemba-Djemba w meczu Odense–Stuttgart, wrzesień 2010",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01e9-0e75b1cf7e80-fd56b92f002b-1000--harnik-strikes-late-to-fuel-stuttgart/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-13"
+    },
+    {
+      "factKey": "lequipe:1954-55:european-cup-initiative",
+      "format": "fact",
+      "prompt": "Dziennikarze której francuskiej gazety z Gabrielem Hanotem zainicjowali powstanie Pucharu Europy?",
+      "answerParts": [
+        "L’Équipe"
+      ],
+      "subjects": [
+        "publication:lequipe"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-mistrzow",
+        "historia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — inicjatywa redakcji L’Équipe i Gabriela Hanota",
+          "url": "https://www.uefa.com/news-media/news/0222-0e911fa32bc2-652573aca518-1000--21-june-1955-a-momentous-decision/",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-30-14"
+    },
+    {
+      "factKey": "marcus-berg:transfer-2010-hamburger-sv-psv",
+      "format": "transfer",
+      "prompt": "Którego zawodnika wypożyczono na sezon 2010/11?",
+      "answerParts": [
+        "Marcus Berg"
+      ],
+      "subjects": [
+        "player:marcus-berg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "niemcy",
+        "holandia",
+        "wypozyczenie"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Berg wypożyczony z HSV do PSV na sezon 2010/11",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01e7-0e74eb60c6ea-61f698f5711d-1000--psv-land-berg-on-loan-from-hamburg/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Wypożyczenie · sezon 2010/11",
+        "from": {
+          "club": "Hamburger SV",
+          "media": {
+            "id": "04",
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 711
+          }
+        },
+        "to": {
+          "club": "PSV",
+          "media": {
+            "path": "assets/d11-badge-psv.png",
+            "source": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "credit": "PSV",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PSV_Eindhoven.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 207,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-30-15"
+    },
+    {
+      "factKey": "universidad-de-chile:crest-fragment:letter-free",
+      "format": "crest",
+      "prompt": "Rozpoznaj chilijski klub po tym fragmencie herbu.",
+      "answerParts": [
+        "Club Universidad de Chile"
+      ],
+      "subjects": [
+        "club:universidad-de-chile"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "herby",
+        "chile"
+      ],
+      "sources": [
+        {
+          "title": "Plik klubowego herbu — identyfikacja i pochodzenie",
+          "url": "https://commons.wikimedia.org/wiki/File:Emblema_del_Club_Universidad_de_Chile.png",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d30-v-crest02.png",
+        "width": 2155,
+        "height": 2850,
+        "source": "https://commons.wikimedia.org/wiki/File:Emblema_del_Club_Universidad_de_Chile.png",
+        "credit": "Unknown",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Emblema_del_Club_Universidad_de_Chile.png",
+        "changes": "Kadr charakterystycznego symbolu, poza litery i nazwę klubu; rasteryzacja lub pomniejszenie do wyświetlania.",
+        "alt": "Czerwona stylizowana sowa w granatowym obramowaniu; bez liter.",
+        "crop": [
+          270,
+          0,
+          1600,
+          1300
+        ]
+      },
+      "id": "2026-10-30-16"
+    },
+    {
+      "factKey": "ogc-nice:2026-10-30:rennes-five-two",
+      "format": "fact",
+      "prompt": "Ligue 1, 30 października 2026: który klub wygrał z Rennes 5:2, a Wahi zdobył hat-tricka?",
+      "answerParts": [
+        "OGC Nice"
+      ],
+      "subjects": [
+        "club:ogc-nice"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "francja",
+        "ligue-1",
+        "wysokie-zwyciestwa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-30",
+      "sources": [
+        {
+          "title": "OGC Nice — zakończony mecz z Rennes: 5:2 i hat-trick Wahiego, 30 października 2026",
+          "url": "https://www.ogcnice.com/index.php/fr/live/2859/nice-rennes.html",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-30-17"
+    },
+    {
+      "factKey": "valeri-gazzaev:coach-link-vagner-love-shevchenko",
+      "format": "coach-link",
+      "prompt": "Vágner Love w CSKA (2005), Szewczenko w Dynamie Kijów (2009): kto prowadził obu?",
+      "answerParts": [
+        "Walerij Gazzajew (Valeri Gazzaev)"
+      ],
+      "subjects": [
+        "coach:valeri-gazzaev"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "rosja",
+        "ukraina",
+        "uefa-cup"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — CSKA Gazzajewa i Vágner Love w zwycięskim sezonie Pucharu UEFA 2004/05",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01aa-0e6cce97169f-d8c117467144-1000--2004-05-carvalho-inspires-cska-to-landmark-victory/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "UEFA — Szewczenko wraca do Dynama i mówi o pracy z Gazzajewem w sierpniu 2009",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01dc-0e72bbecdfb4-fce06c75f234-1000--shevchenko-ready-to-roll-back-years/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-18"
+    },
+    {
+      "factKey": "albert-camus:youth-goalkeeper-nobel",
+      "format": "fact",
+      "prompt": "Który literacki noblista z 1957 roku był wcześniej bramkarzem juniorów Racing Universitaire d’Alger?",
+      "answerParts": [
+        "Albert Camus"
+      ],
+      "subjects": [
+        "culture:albert-camus"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kultura",
+        "historia",
+        "algieria"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Albert Camus, młodzieżowy bramkarz i noblista",
+          "url": "https://www.uefa.com/news-media/news/020f-0f8890256c58-83380c667c66-1000--a-goalkeeper/",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-30-19"
+    },
+    {
+      "factKey": "johan-elmander:portrait:elmander",
+      "format": "photo",
+      "prompt": "Który były zawodnik znalazł się na tym zdjęciu?",
+      "answerParts": [
+        "Johan Elmander"
+      ],
+      "subjects": [
+        "player:johan-elmander"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portret",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — identyfikacja sportretowanego zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Johan-elmander.jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d30-v-face02.jpg",
+        "width": 609,
+        "height": 852,
+        "source": "https://commons.wikimedia.org/wiki/File:Johan-elmander.jpg",
+        "credit": "Riemann at da.wikipedia",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Johan-elmander.jpg",
+        "changes": "Kadrowanie do całej głowy i podbródka, poza herb, czytelne napisy i rozpoznawalny strój klubowy; bez retuszu.",
+        "alt": "Portret mężczyzny; pełna głowa i podbródek, bez herbu oraz czytelnych napisów.",
+        "crop": [
+          0,
+          0,
+          550,
+          770
+        ]
+      },
+      "id": "2026-10-30-20"
+    },
+    {
+      "factKey": "ludovic-obraniak:transfer-2012-lille-girondins-bordeaux",
+      "format": "transfer",
+      "prompt": "Kto trafił do nowego klubu w pokazanym ruchu ze stycznia 2012?",
+      "answerParts": [
+        "Ludovic Obraniak"
+      ],
+      "subjects": [
+        "player:ludovic-obraniak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "polish",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "Girondins — Obraniak przeszedł z Lille do Bordeaux w styczniu 2012",
+          "url": "https://girondins.com/fr/news/33097/37-ans-pour-ludovic-obraniak",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "FFF — kluby i daty kolejnych etapów kariery Obraniaka",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/9886-obraniak-ludovic/fiche.html",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2012,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Lille",
+          "media": {
+            "path": "assets/d30-h-lille.png",
+            "source": "https://en.wikipedia.org/wiki/File:Lille_OSC_2018_logo.svg",
+            "credit": "LOSC Lille",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Lille_OSC_2018_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 238
+          }
+        },
+        "to": {
+          "club": "Girondins Bordeaux",
+          "media": {
+            "path": "assets/d30-h-bordeaux.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Girondins_de_Bordeaux_logo.svg",
+            "credit": "FC Girondins de Bordeaux",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Girondins_de_Bordeaux_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 306
+          }
+        }
+      },
+      "id": "2026-10-30-21"
+    },
+    {
+      "factKey": "spurs-city2010:starting-xi-assou-ekotto-huddlestone",
+      "format": "lineup",
+      "prompt": "Manchester City–Tottenham, 5 maja 2010: uzupełnij dwóch graczy wyjściowej jedenastki Spurs.",
+      "answerParts": [
+        "Benoît Assou-Ekotto",
+        "Tom Huddlestone"
+      ],
+      "subjects": [
+        "player:benoit-assou-ekotto",
+        "player:tom-huddlestone"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "sklady",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — oficjalny pełny skład w wyjazdowym zwycięstwie nad City 5 maja 2010",
+          "url": "https://www.tottenhamhotspur.com/news/1009830",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "lineup": {
+        "caption": "5 maja 2010 · Manchester City – Tottenham 0:1 · Wyjściowa jedenastka; rozmieszczenie umowne.",
+        "rows": [
+          [
+            {
+              "name": "Heurelho Gomes"
+            }
+          ],
+          [
+            {
+              "name": "Younès Kaboul"
+            },
+            {
+              "name": "Michael Dawson"
+            },
+            {
+              "name": "Ledley King"
+            },
+            {
+              "name": "Benoît Assou-Ekotto",
+              "slot": 0
+            }
+          ],
+          [
+            {
+              "name": "Aaron Lennon"
+            },
+            {
+              "name": "Tom Huddlestone",
+              "slot": 1
+            },
+            {
+              "name": "Luka Modrić"
+            },
+            {
+              "name": "Gareth Bale"
+            }
+          ],
+          [
+            {
+              "name": "Peter Crouch"
+            },
+            {
+              "name": "Jermain Defoe"
+            }
+          ]
+        ]
+      },
+      "id": "2026-10-30-22"
+    },
+    {
+      "factKey": "sergio-garcia:2026-10-30:interim-espanyol-villarreal-win",
+      "format": "coach",
+      "prompt": "Kto tymczasowo prowadził Espanyol podczas zwycięstwa 1:0 na stadionie Villarrealu 30 października 2026?",
+      "answerParts": [
+        "Sergio García"
+      ],
+      "subjects": [
+        "coach:sergio-garcia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "la-liga",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-30",
+      "sources": [
+        {
+          "title": "Villarreal — Espanyol prowadzony tymczasowo przez Sergia Garcíę wygrał 1:0, 30 października 2026",
+          "url": "https://villarrealcf.es/es/derrota-contra-el-espanyol-en-la-ceramica-0-1/",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-30-23"
+    },
+    {
+      "factKey": "markus-rosenberg:selected-badge-seasons-2005-2012",
+      "format": "career",
+      "prompt": "Który piłkarz grał w tych klubach w pokazanych sezonach?",
+      "answerParts": [
+        "Markus Rosenberg"
+      ],
+      "subjects": [
+        "player:markus-rosenberg"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "szwecja",
+        "niemcy",
+        "holandia",
+        "hiszpania",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Rosenberg w Ajaksie od 2005 i transfer do Werderu w 2007",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01bd-0e6e22c4a74b-6b9114e6fc58-1000--swede-rosenberg-bolsters-bremen/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Werder — wypożyczenie Rosenberga do Racingu w sezonie 2010/11",
+          "url": "https://www.werder.de/news/maenner/berichte-archiv/bundesliga/importiert/importierte-news-18722",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "West Brom — Rosenberg dołączył w sierpniu 2012",
+          "url": "https://www.wba.co.uk/news/2012/august/rosenberg-hoping-to-conquer-prem",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Ajax",
+          "years": "2005/06",
+          "media": {
+            "path": "assets/d13-badge-ajax.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "credit": "AFC Ajax",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991,_2025-).png",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Werder Bremen",
+          "years": "2008/09",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Racing Santander",
+          "years": "2010/11",
+          "media": {
+            "path": "assets/badge-racing.png",
+            "source": "https://en.wikipedia.org/wiki/File:Racing_de_Santander_logo.svg",
+            "credit": "Racing Santander",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Racing_de_Santander_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 349,
+            "alt": "Herb klubu"
+          },
+          "note": "Wypożyczenie"
+        },
+        {
+          "club": "West Bromwich Albion",
+          "years": "2012/13",
+          "media": {
+            "path": "assets/d29-h-wba.png",
+            "source": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+            "credit": "West Bromwich Albion FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 299
+          }
+        }
+      ],
+      "careerCaption": "Wybrane sezony i kluby pierwszych drużyn; zaznaczono wypożyczenie.",
+      "id": "2026-10-30-24"
+    },
+    {
+      "factKey": "george-weah:1995:first-non-european-ballon-dor",
+      "format": "fact",
+      "prompt": "Kto w 1995 roku jako pierwszy piłkarz spoza Europy zdobył Złotą Piłkę?",
+      "answerParts": [
+        "George Weah"
+      ],
+      "subjects": [
+        "player:george-weah"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "nagrody",
+        "historia",
+        "liberia",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "AC Milan — George Weah, pierwszy laureat Złotej Piłki spoza Europy",
+          "url": "https://www.acmilan.com/it/club/legends/giocatori/weah",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-30-25"
+    },
+    {
+      "factKey": "oliver-kahn:world-cup-2002-golden-ball",
+      "format": "fact",
+      "prompt": "Który bramkarz otrzymał Złotą Piłkę dla najlepszego zawodnika MŚ 2002?",
+      "answerParts": [
+        "Oliver Kahn"
+      ],
+      "subjects": [
+        "player:oliver-kahn"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "mistrzostwa-swiata",
+        "bramkarze",
+        "nagrody"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Złota Piłka mundialu 2002 dla Olivera Kahna",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/2002korea-japan/news/titans-meet-in-yokohama-2844523",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Bayern — Kahn pierwszym bramkarzem ze Złotą Piłką mundialu",
+          "url": "https://fcbayern.com/en/club/hall-of-fame/oliver-kahn",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-26"
+    },
+    {
+      "factKey": "wesley-fofana:2026-10-28:decisive-shootout-miss-liverpool",
+      "format": "fact",
+      "prompt": "Liverpool–Chelsea, Puchar Ligi, 28 października 2026: kto zmarnował ostatniego karnego, przesądzając o odpadnięciu Chelsea?",
+      "answerParts": [
+        "Wesley Fofana"
+      ],
+      "subjects": [
+        "player:wesley-fofana"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "anglia",
+        "puchar-ligi",
+        "rzuty-karne"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-28",
+      "sources": [
+        {
+          "title": "Liverpool FC — Wesley Fofana nie wykorzystał decydującego karnego przeciw Liverpoolowi, 28 października 2026",
+          "url": "https://www.liverpoolfc.com/matches/mens-team/liverpool-v-chelsea-english-league-cup-20261028",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-30-27"
+    },
+    {
+      "factKey": "brian-deane:first-premier-league-goal-1992",
+      "format": "fact",
+      "prompt": "Kto zdobył pierwszą bramkę w historii Premier League, dla Sheffield United przeciw Manchesterowi United w 1992?",
+      "answerParts": [
+        "Brian Deane"
+      ],
+      "subjects": [
+        "player:brian-deane"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "anglia",
+        "rekordy"
+      ],
+      "sources": [
+        {
+          "title": "Premier League — Deane wspomina pierwszego gola rozgrywek w sezonie 1992/93",
+          "url": "https://www.premierleague.com/en/news/59518",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-28"
+    },
+    {
+      "factKey": "music:lightning-seeds-three-lions-1996",
+      "format": "fact",
+      "prompt": "Który zespół nagrał „Three Lions” z Davidem Baddielem i Frankiem Skinnerem przed EURO 1996?",
+      "answerParts": [
+        "The Lightning Seeds"
+      ],
+      "subjects": [
+        "music:lightning-seeds"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "muzyka",
+        "anglia",
+        "euro"
+      ],
+      "sources": [
+        {
+          "title": "Sony Music — „Three Lions” nagrali Baddiel, Skinner i Lightning Seeds; pierwotne wydanie w 1996",
+          "url": "https://www.sonymusic.co.uk/three-lions-becomes-the-uk-no-1-single-for-the-third-time/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Official Charts — wykonawcy oraz powstanie „Three Lions” przed EURO 1996",
+          "url": "https://www.officialcharts.com/songs/baddielskinnerlightning-seed-three-lions/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-29"
+    },
+    {
+      "factKey": "mexico:olympic-men-football-gold-london2012",
+      "format": "fact",
+      "prompt": "Która reprezentacja pokonała Brazylię 2:1 w finale męskiego turnieju olimpijskiego w Londynie w 2012?",
+      "answerParts": [
+        "Meksyk"
+      ],
+      "subjects": [
+        "national-team:mexico"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "reprezentacje",
+        "igrzyska-olimpijskie",
+        "poza-europa"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Meksyk zdobył złoto w 2012 po zwycięstwie nad Brazylią 2:1 na Wembley",
+          "url": "https://es.uefa.com/news-media/news/0200-0f8813998b12-aaa76ca6e1ed-1000--mexico-se-hace-con-el-oro/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-30-30"
+    }
+  ]
+}

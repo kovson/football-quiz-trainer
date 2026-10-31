@@ -1,0 +1,1219 @@
+{
+  "id": "2026-10-31",
+  "kind": "daily",
+  "title": "Trening głowy · 31 października 2026",
+  "date": "2026-10-31",
+  "publishAt": "2026-10-31T08:00:00+01:00",
+  "researchedAt": "2026-10-31T19:55:04.315Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-10-31"
+  },
+  "questions": [
+    {
+      "factKey": "jesus-imaz:2026-10-31:hundred-league-goals-jagiellonia",
+      "format": "fact",
+      "prompt": "Kto przeciw Wieczystej 31 października 2026 zdobył swoją setną ligową bramkę dla Jagiellonii?",
+      "answerParts": [
+        "Jesús Imaz"
+      ],
+      "subjects": [
+        "player:jesus-imaz"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Ekstraklasa — setny ligowy gol Imaza dla Jagiellonii i zwycięstwo nad Wieczystą, 31 października 2026",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-wieczysta-13-jagiellonia-kryzys-zazegnany/",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-31-01"
+    },
+    {
+      "factKey": "slawomir-peszko:portrait:peszko",
+      "format": "photo",
+      "prompt": "Którego zawodnika przedstawia ten portret?",
+      "answerParts": [
+        "Sławomir Peszko"
+      ],
+      "subjects": [
+        "player:slawomir-peszko"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "portret",
+        "historia",
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — identyfikacja sportretowanego zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Slawomir_Peszko_2010_close-up.jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d31-v-face01.jpg",
+        "width": 1600,
+        "height": 1430,
+        "source": "https://commons.wikimedia.org/wiki/File:Slawomir_Peszko_2010_close-up.jpg",
+        "credit": "Roger Gorączniak",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie do całej głowy i podbródka, poza herb, czytelne napisy i rozpoznawalny strój klubowy; bez retuszu.",
+        "alt": "Portret mężczyzny; pełna głowa i podbródek, bez herbu oraz czytelnych napisów.",
+        "crop": [
+          480,
+          0,
+          660,
+          870
+        ]
+      },
+      "id": "2026-10-31-02"
+    },
+    {
+      "factKey": "josue-pesqueira:transfer-2014-fc-porto-bursaspor",
+      "format": "transfer",
+      "prompt": "Kto trafił na to wypożyczenie w sezonie 2014/15?",
+      "answerParts": [
+        "Josué (Josué Pesqueira)"
+      ],
+      "subjects": [
+        "player:josue-pesqueira"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "polish",
+        "portugalia",
+        "turcja",
+        "wypozyczenie"
+      ],
+      "sources": [
+        {
+          "title": "Bursaspor — oficjalny profil: wypożyczenie Josué z Porto na sezon 2014/15",
+          "url": "https://www.bursaspor.org.tr/bs/arsivfutbolcu/josue_pesqueira/?id=604",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Wypożyczenie · sezon 2014/15",
+        "from": {
+          "club": "FC Porto",
+          "media": {
+            "path": "assets/d19-badge-porto.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "credit": "FC Porto",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Bursaspor",
+          "media": {
+            "path": "assets/d31-h-bursa.png",
+            "source": "https://en.wikipedia.org/wiki/File:Bursaspor_logo.svg",
+            "credit": "Bursaspor",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Bursaspor_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 273
+          }
+        }
+      },
+      "id": "2026-10-31-03"
+    },
+    {
+      "factKey": "werder:2007-08:goalkeeper-shirt-citibank",
+      "format": "kit",
+      "prompt": "Werder, sezon 2007/08: jakiego sponsora zasłonięto na koszulce bramkarza?",
+      "answerParts": [
+        "Citibank"
+      ],
+      "subjects": [
+        "sponsor:citibank"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Werder — kontrakt głównego sponsora od lipca 2007 roku",
+          "url": "https://www.werder.de/news/maenner/berichte-archiv/bundesliga/importiert/importierte-news-10789",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        },
+        {
+          "title": "Marcus Sümnick — zdjęcie meczu Hansa–Werder z 15 kwietnia 2008",
+          "url": "https://commons.wikimedia.org/wiki/File:Tim_Wiese_(FC_Hansa_Rostock_-_SV_Werder_Bremen).jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d31-v-kit01.jpg",
+        "width": 1280,
+        "height": 854,
+        "source": "https://commons.wikimedia.org/wiki/File:Tim_Wiese_(FC_Hansa_Rostock_-_SV_Werder_Bremen).jpg",
+        "credit": "Marcus Sümnick",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie do zawodnika; główny sponsor zasłonięty nakładką w interfejsie przed odkryciem odpowiedzi. Bez retuszu zdjęcia.",
+        "alt": "Żółta koszulka bramkarza Werderu z sezonu 2007/08; główny sponsor zasłonięty.",
+        "crop": [
+          350,
+          110,
+          310,
+          490
+        ],
+        "mask": [
+          482,
+          255,
+          60,
+          110
+        ]
+      },
+      "id": "2026-10-31-04"
+    },
+    {
+      "factKey": "tomasz-kielbowicz:career-riddle-siarka-rakow-widzew-polonia",
+      "format": "career-riddle",
+      "prompt": "Grał kolejno w Siarce, Rakowie, Widzewie i Polonii Warszawa. Z tym ostatnim klubem został mistrzem w 2000 — kto to?",
+      "answerParts": [
+        "Tomasz Kiełbowicz"
+      ],
+      "subjects": [
+        "player:tomasz-kielbowicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "kariera",
+        "polska"
+      ],
+      "sources": [
+        {
+          "title": "Mazowiecki ZPN — kariera Kiełbowicza i mistrzostwo z Polonią w sezonie 1999/2000",
+          "url": "https://www.mzpn.pl/kalendarium/tomasz-kielbowicz-talent-skromnosci/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-05"
+    },
+    {
+      "factKey": "huracan:crest-fragment:letter-free",
+      "format": "crest",
+      "prompt": "Który klub z Buenos Aires reprezentuje ten fragment historycznego herbu?",
+      "answerParts": [
+        "CA Huracán"
+      ],
+      "subjects": [
+        "club:huracan"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "herby",
+        "argentyna"
+      ],
+      "sources": [
+        {
+          "title": "Plik klubowego herbu — identyfikacja i pochodzenie",
+          "url": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d31-v-crest01.png",
+        "width": 500,
+        "height": 722,
+        "source": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg",
+        "credit": "Club A. Huracán",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Escudo_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg",
+        "changes": "Kadr charakterystycznego symbolu, poza litery i nazwę klubu; rasteryzacja lub pomniejszenie do wyświetlania.",
+        "alt": "Dolna część czerwono-białego balonu z koszem; bez liter.",
+        "crop": [
+          110,
+          380,
+          280,
+          340
+        ]
+      },
+      "id": "2026-10-31-06"
+    },
+    {
+      "factKey": "wisla-plock:2026-10-31:recovers-two-goal-deficit-piast",
+      "format": "fact",
+      "prompt": "Który klub 31 października 2026 odrobił dwubramkową stratę do Piasta, remisując 2:2?",
+      "answerParts": [
+        "Wisła Płock"
+      ],
+      "subjects": [
+        "club:wisla-plock"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "odwrocenie-wyniku"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Wisła Płock odrobiła dwubramkową stratę z Piastem, 31 października 2026",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-wisla-plock-22-piast-gliwice-po-jednej-polowie/",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-31-07"
+    },
+    {
+      "factKey": "eljero-elia:transfer-2015-werder-bremen-southampton",
+      "format": "transfer",
+      "prompt": "Który piłkarz został wypożyczony tą drogą w styczniu 2015?",
+      "answerParts": [
+        "Eljero Elia"
+      ],
+      "subjects": [
+        "player:eljero-elia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "niemcy",
+        "anglia",
+        "wypozyczenie"
+      ],
+      "sources": [
+        {
+          "title": "Werder — Elia wypożyczony do Southampton do końca sezonu 2014/15",
+          "url": "https://www.werder.de/news/maenner/2014-2015/elia-england",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Werder — potwierdzenie wypożyczenia do Southampton w rundzie wiosennej 2014/15",
+          "url": "https://www.werder.de/news/maenner/2015-2016/pm-elia",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2015,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Werder Bremen",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Southampton",
+          "media": {
+            "path": "assets/d19-badge-southampton.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "credit": "Southampton",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 286,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-31-08"
+    },
+    {
+      "factKey": "osasuna:raul-garcia-career-gap-loan-2011-12",
+      "format": "career-gap",
+      "prompt": "Raúl García: do którego klubu wrócił na wypożyczenie w sezonie 2011/12?",
+      "answerParts": [
+        "Osasuna"
+      ],
+      "subjects": [
+        "club:osasuna"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "hiszpania",
+        "wypozyczenie"
+      ],
+      "sources": [
+        {
+          "title": "Atlético — Raúl García był wypożyczony do Osasuny w sezonie 2011/12",
+          "url": "https://www.atleticodemadrid.com/noticias/raul-garcia-rojiblanco-hasta-2018",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Atlético — transfer do Athletic w 2015 i wcześniejsze etapy w Osasunie",
+          "url": "https://www.atleticodemadrid.com/noticias/graciasraulgarcia",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Osasuna — historia klubu potwierdza wypożyczenie Garcíi w sezonie 2011/12",
+          "url": "https://www.osasuna.es/en/2010s",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Atlético Madryt",
+          "years": "2010/11",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Osasuna",
+          "years": "2011/12",
+          "media": {
+            "path": "assets/d31-h-osasuna.png",
+            "source": "https://en.wikipedia.org/wiki/File:CA_Osasuna_2024_crest.svg",
+            "credit": "CA Osasuna",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:CA_Osasuna_2024_crest.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 336
+          },
+          "missing": 0,
+          "note": "Wypożyczenie"
+        },
+        {
+          "club": "Atlético Madryt",
+          "years": "2012/13",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Athletic Club",
+          "years": "2015/16",
+          "media": {
+            "path": "assets/d31-h-athletic.png",
+            "source": "https://en.wikipedia.org/wiki/File:Club_Athletic_Bilbao_logo.svg",
+            "credit": "Athletic Club",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Club_Athletic_Bilbao_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 283
+          }
+        }
+      ],
+      "careerCaption": "Wybrane sezony w pierwszych drużynach; zaznaczono wypożyczenie.",
+      "id": "2026-10-31-09"
+    },
+    {
+      "factKey": "wlodzimierz-lubanski:1963:youngest-debutant",
+      "format": "fact",
+      "prompt": "Kto debiutował w reprezentacji Polski przeciw Norwegii w 1963 roku, mając zaledwie 16 lat?",
+      "answerParts": [
+        "Włodzimierz Lubański"
+      ],
+      "subjects": [
+        "player:wlodzimierz-lubanski"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "reprezentacje",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Polska–Norwegia 1963, najmłodszy debiutant w kadrze",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/polska-norwegia-90-04091963",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-31-10"
+    },
+    {
+      "factKey": "avia-swidnik:2026-10-30:radomiak-elimination-holder-draw",
+      "format": "fact",
+      "prompt": "Puchar Polski 2026/27: który drugoligowiec po wyeliminowaniu Radomiaka wylosował obrońcę trofeum, Górnika Zabrze? Losowanie: 30 października.",
+      "answerParts": [
+        "Avia Świdnik"
+      ],
+      "subjects": [
+        "club:avia-swidnik"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "puchar-polski",
+        "nizsze-ligi"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-30",
+      "sources": [
+        {
+          "title": "Górnik Zabrze — po wyeliminowaniu Radomiaka Avia wylosowała obrońcę Pucharu Polski, 30 października 2026",
+          "url": "https://www.gornikzabrze.pl/aktualnosci/z-avia-swidnik-w-ramach-18-sts-pucharu-polski",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        },
+        {
+          "title": "Górnik Zabrze — informator z 30 października 2026 potwierdza zdobycie Pucharu Polski w poprzednim sezonie",
+          "url": "https://club.gornikzabrze.pl/pr/2627/gorleg2627",
+          "checkedAt": "2026-10-31T19:45:07.311Z"
+        }
+      ],
+      "id": "2026-10-31-11"
+    },
+    {
+      "factKey": "mestalla:stadium-photo:historical-view",
+      "format": "stadium",
+      "prompt": "Który stadion pokazuje ta panorama trybun?",
+      "answerParts": [
+        "Mestalla (Walencja)"
+      ],
+      "subjects": [
+        "stadium:mestalla"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "stadiony",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — identyfikacja stadionu",
+          "url": "https://commons.wikimedia.org/wiki/File:Mestalla_panoramico.jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d31-v-stadium01.jpg",
+        "width": 1428,
+        "height": 456,
+        "source": "https://commons.wikimedia.org/wiki/File:Mestalla_panoramico.jpg",
+        "credit": "Rlozanob",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Kadrowanie do trybun i murawy, poza czytelną nazwę klubu; bez retuszu.",
+        "alt": "Panorama stromych odkrytych trybun i murawy; bez nazwy klubu.",
+        "crop": [
+          450,
+          35,
+          950,
+          370
+        ]
+      },
+      "id": "2026-10-31-12"
+    },
+    {
+      "factKey": "grasshoppers:shared-club-lichtsteiner-dabbur",
+      "format": "shared-club",
+      "prompt": "W którym szwajcarskim klubie grali Stephan Lichtsteiner i Munas Dabbur?",
+      "answerParts": [
+        "Grasshopper Club Zürich (Grasshoppers)"
+      ],
+      "subjects": [
+        "club:grasshoppers"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "wspolny-klub",
+        "szwajcaria"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Lichtsteiner występował w Grasshoppers do 2005",
+          "url": "https://inside.fifa.com/de/news/stephan-lichtsteiner-sagt-ade",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "UEFA — Dabbur jako piłkarz Grasshoppers w meczu z Lille w lipcu 2014",
+          "url": "https://www.uefa.com/uefachampionsleague/news/025a-0ea79f397575-7b6893405216-1000--lille-ease-to-victory-against-grasshoppers/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-13"
+    },
+    {
+      "factKey": "colombia:2001:copa-america-no-conceded-goals",
+      "format": "fact",
+      "prompt": "Która reprezentacja wygrała Copa América 2001 bez straty gola?",
+      "answerParts": [
+        "Kolumbia"
+      ],
+      "subjects": [
+        "national-team:colombia"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "copa-america",
+        "kolumbia",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "CONMEBOL — historia Copa América, mistrzowie bez straty bramki",
+          "url": "https://cdn.conmebol.com/wp-content/uploads/documents/copaamericaweb-es.pdf",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-31-14"
+    },
+    {
+      "factKey": "marc-janko:transfer-2010-red-bull-salzburg-fc-twente",
+      "format": "transfer",
+      "prompt": "Kto zmienił klub w pokazanym transferze z 2010 roku?",
+      "answerParts": [
+        "Marc Janko"
+      ],
+      "subjects": [
+        "player:marc-janko"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "austria",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Janko podpisał kontrakt z Twente po odejściu z Salzburga w czerwcu 2010",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0254-0d7cae40757e-cdacd1c646ff-1000--janko-walking-tall-after-twente-switch/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "from": {
+          "club": "Red Bull Salzburg",
+          "media": {
+            "path": "assets/d10-badge-salzburg.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Red_Bull_Salzburg_logo.svg",
+            "credit": "Red Bull Salzburg",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Red_Bull_Salzburg_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "FC Twente",
+          "media": {
+            "path": "assets/d31-h-twente.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Twente.svg",
+            "credit": "FC Twente",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Twente.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 315
+          }
+        }
+      },
+      "id": "2026-10-31-15"
+    },
+    {
+      "factKey": "swansea-city:crest-fragment:letter-free",
+      "format": "crest",
+      "prompt": "Który walijski klub rozpoznasz po fragmencie dawnego herbu?",
+      "answerParts": [
+        "Swansea City AFC"
+      ],
+      "subjects": [
+        "club:swansea-city"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "herby",
+        "walia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Plik klubowego herbu — identyfikacja i pochodzenie",
+          "url": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        },
+        {
+          "title": "Swansea City — klubowy program z dawnym herbem",
+          "url": "https://cdn.swanseacity.com/sites/default/files/2020-04/Swans-19-20-Spanish-Swans-Programme%20%281%29.pdf",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d31-v-crest02.png",
+        "width": 331,
+        "height": 303,
+        "source": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+        "credit": "Swansea City AFC",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+        "changes": "Kadr charakterystycznego symbolu, poza litery i nazwę klubu; rasteryzacja lub pomniejszenie do wyświetlania.",
+        "alt": "Czarny łabędź z zakrzywioną szyją, fragment herbu bez liter.",
+        "crop": [
+          28,
+          0,
+          270,
+          180
+        ]
+      },
+      "id": "2026-10-31-16"
+    },
+    {
+      "factKey": "bart-verbruggen:2026-10-31:clean-sheet-first-brighton-away-city-win",
+      "format": "fact",
+      "prompt": "Kto zachował czyste konto przy pierwszym wyjazdowym zwycięstwie Brighton nad Manchesterem City, 31 października 2026?",
+      "answerParts": [
+        "Bart Verbruggen"
+      ],
+      "subjects": [
+        "player:bart-verbruggen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "anglia",
+        "premier-league",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Manchester City — pierwsza wyjazdowa wygrana Brighton z City, skład i obrony Verbruggena, 31 października 2026",
+          "url": "https://www.mancity.com/news/mens/city-v-brighton-premier-league-match-report-31-oct-63929055",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-31-17"
+    },
+    {
+      "factKey": "thomas-schaaf:coach-link-micoud-diego-ozil",
+      "format": "coach-link",
+      "prompt": "Micoud (2004), Diego i Özil (2009): kto prowadził ich w Werderze?",
+      "answerParts": [
+        "Thomas Schaaf"
+      ],
+      "subjects": [
+        "coach:thomas-schaaf"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "trenerzy",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Schaaf i Micoud zdobywają z Werderem mistrzostwo w maju 2004",
+          "url": "https://www.uefa.com/news-media/news/025e-0f908d3e84d2-f09ec6fe55b5-1000--bremen-crowned-champions/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "UEFA — Schaaf chwali współpracę Diego i Özila po meczu z Udinese w kwietniu 2009",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01d8-0e7135e019b2-e548987a77fe-1000--clinical-werder-satisfy-schaaf/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-18"
+    },
+    {
+      "factKey": "gabriel-batistuta:2001:roma-number20-reason",
+      "format": "fact",
+      "prompt": "Dlaczego Gabriel Batistuta po mistrzowskim sezonie Romy 2000/01 zmienił numer z 18 na 20?",
+      "answerParts": [
+        "Dla upamiętnienia swoich 20 ligowych goli w mistrzowskim sezonie."
+      ],
+      "subjects": [
+        "player:gabriel-batistuta"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "koszulki",
+        "wlochy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "AS Roma — wyjaśnienie numeru 20 Batistuty w kolejnym sezonie",
+          "url": "https://www.asroma.com/en/news/45576/10-facts-about-romas-scudetto-winning-striker",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-31-19"
+    },
+    {
+      "factKey": "vladimir-smicer:portrait:smicer",
+      "format": "photo",
+      "prompt": "Kogo przedstawia to zdjęcie?",
+      "answerParts": [
+        "Vladimír Šmicer"
+      ],
+      "subjects": [
+        "player:vladimir-smicer"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portret",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Autor zdjęcia — identyfikacja sportretowanego zawodnika",
+          "url": "https://commons.wikimedia.org/wiki/File:Vladimir_Smicer.jpg",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d31-v-face02.jpg",
+        "width": 790,
+        "height": 848,
+        "source": "https://commons.wikimedia.org/wiki/File:Vladimir_Smicer.jpg",
+        "credit": "TaraO",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "changes": "Kadrowanie do całej głowy i podbródka, poza herb, czytelne napisy i rozpoznawalny strój klubowy; bez retuszu.",
+        "alt": "Portret mężczyzny; pełna głowa i podbródek, bez herbu oraz czytelnych napisów.",
+        "crop": [
+          190,
+          150,
+          340,
+          445
+        ]
+      },
+      "id": "2026-10-31-20"
+    },
+    {
+      "factKey": "bartosz-salamon:transfer-2013-ac-milan-sampdoria",
+      "format": "transfer",
+      "prompt": "Kogo objęła pokazana umowa o współwłasność z lipca 2013?",
+      "answerParts": [
+        "Bartosz Salamon"
+      ],
+      "subjects": [
+        "player:bartosz-salamon"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "transfer",
+        "polish",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Sampdoria — nabycie praw do Salamona w ramach współwłasności z Milanem w lipcu 2013",
+          "url": "https://www.sampdoria.it/news/archivio/2013/07/11/bartosz-salamon-alla-samp-andrea-poli-in-rossonero/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Lipiec · współwłasność",
+        "from": {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Sampdoria",
+          "media": {
+            "path": "assets/d21-badge-sampdoria.png",
+            "source": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "credit": "Sampdoria",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 318,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-10-31-21"
+    },
+    {
+      "factKey": "chievo:club-nickname-flying-donkeys",
+      "format": "fact",
+      "prompt": "Który klub z Werony nosił przydomek „Latające Osły” (Mussi Volanti)?",
+      "answerParts": [
+        "Chievo Verona"
+      ],
+      "subjects": [
+        "club:chievo"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "historia",
+        "przydomki",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Juventus — Chievo znane jako Mussi Volanti, czyli Latające Osły",
+          "url": "https://www.juventus.com/en/news/articles/gialloblu-in-the-spotlight",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-22"
+    },
+    {
+      "factKey": "leverkusen-stuttgart:2026-10-31:first-home-loss-score",
+      "format": "result",
+      "prompt": "Bayer–Stuttgart, 31 października 2026: jakim wynikiem zakończyła się pierwsza domowa porażka Bayeru w sezonie?",
+      "answerParts": [
+        "2:4"
+      ],
+      "subjects": [
+        "match:2026-10-31-leverkusen-stuttgart"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "niemcy",
+        "bundesliga",
+        "wyniki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Bundesliga — zakończony mecz Bayer–Stuttgart 2:4, pierwsza domowa porażka Bayeru w sezonie, 31 października 2026",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8/bayer-04-leverkusen-vs-vfb-stuttgart/liveticker/",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-31-23"
+    },
+    {
+      "factKey": "nelson-valdez:selected-badge-seasons-2004-2014",
+      "format": "career",
+      "prompt": "Który piłkarz rozegrał pokazane sezony w tych klubach?",
+      "answerParts": [
+        "Nelson Haedo Valdez"
+      ],
+      "subjects": [
+        "player:nelson-valdez"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "kariera",
+        "niemcy",
+        "hiszpania",
+        "paragwaj"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Valdez w Werderze do 2006, następnie cztery lata w Dortmundzie",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0211-0ea10548aff2-3739bd9271c2-1000--olympiacos-bring-in-striker-valdez/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "UEFA — Valdez wypożyczony do Valencii na sezon 2012/13",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0200-0e7eaf0201b9-df2de5f7f194-1000--valencia-tie-up-valdez-loan-signing/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "Eintracht — Valdez reprezentował klub w sezonie 2014/15",
+          "url": "https://en.eintracht.de/news/nelson-valdez-and-eintracht-agree-to-part-ways-50022/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "career": [
+        {
+          "club": "Werder Bremen",
+          "years": "2004/05",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Borussia Dortmund",
+          "years": "2007/08",
+          "media": {
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 961,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Valencia",
+          "years": "2012/13",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          },
+          "note": "Początkowo wypożyczenie"
+        },
+        {
+          "club": "Eintracht Frankfurt",
+          "years": "2014/15",
+          "media": {
+            "path": "assets/d27-badge-eintracht.png",
+            "source": "https://en.wikipedia.org/wiki/File:Eintracht_Frankfurt_crest.svg",
+            "credit": "Eintracht Frankfurt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Eintracht_Frankfurt_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Wybrane sezony i kluby pierwszych drużyn; pominięto pozostałe etapy.",
+      "id": "2026-10-31-24"
+    },
+    {
+      "factKey": "daniel-agger:2012:ynwa-knuckle-tattoo",
+      "format": "fact",
+      "prompt": "Który duński obrońca Liverpoolu wytatuował sobie „YNWA” na kostkach dłoni w 2012 roku?",
+      "answerParts": [
+        "Daniel Agger"
+      ],
+      "subjects": [
+        "player:daniel-agger"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kultura",
+        "anglia",
+        "historia",
+        "dania"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — kolejne tatuaże Liver Bird na palcach Aggera i wcześniejsze YNWA",
+          "url": "https://www.liverpoolfc.com/news/announcements/239165-video-daniel-agger-gets-liver-birds-tattoo",
+          "checkedAt": "2026-10-31T19:47:34.794Z"
+        }
+      ],
+      "id": "2026-10-31-25"
+    },
+    {
+      "factKey": "liechtenstein:san-marino-first-win-opponent-2004",
+      "format": "fact",
+      "prompt": "Z kim San Marino odniosło pierwsze zwycięstwo w historii, wygrywając towarzysko 1:0 w kwietniu 2004?",
+      "answerParts": [
+        "Liechtenstein"
+      ],
+      "subjects": [
+        "national-team:liechtenstein"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "reprezentacje",
+        "pierwsze-zwyciestwa"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — pierwsza wygrana San Marino w kwietniu 2004 nad Liechtensteinem 1:0",
+          "url": "https://inside.fifa.com/fifa-rankings/world-ranking/men/news/san-marino-buoyant-as-brunei-and-samoa-soar",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-26"
+    },
+    {
+      "factKey": "luis-aragones:2026-10-31:simeone-equals344-laliga-wins",
+      "format": "coach",
+      "prompt": "Z którym trenerem Simeone zrównał się 31 października 2026, odnosząc 344. zwycięstwo w La Liga?",
+      "answerParts": [
+        "Luis Aragonés"
+      ],
+      "subjects": [
+        "coach:luis-aragones"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "hiszpania",
+        "la-liga",
+        "trenerzy",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Atlético — Simeone zrównał się z Luisem Aragonésem: 344 zwycięstwa w La Liga, 31 października 2026",
+          "url": "https://www.atleticodemadrid.com/noticias/simeone-iguala-el-record-historico-de-victorias-de-luis-aragones-en-laliga-como-tecnico",
+          "checkedAt": "2026-10-31T19:42:34.345Z"
+        }
+      ],
+      "id": "2026-10-31-27"
+    },
+    {
+      "factKey": "roberto-baggio:first-golden-foot-winner-2003",
+      "format": "fact",
+      "prompt": "Kto został pierwszym laureatem nagrody Golden Foot w 2003 roku?",
+      "answerParts": [
+        "Roberto Baggio"
+      ],
+      "subjects": [
+        "player:roberto-baggio"
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [
+        "historia",
+        "nagrody",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Golden Foot — zwycięzcą pierwszej edycji w 2003 był Roberto Baggio",
+          "url": "https://goldenfoot.com/awards/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-28"
+    },
+    {
+      "factKey": "takesure-chinyama:joint-top-scorer-ekstraklasa-2008-09",
+      "format": "fact",
+      "prompt": "Z kim Paweł Brożek podzielił koronę króla strzelców Ekstraklasy 2008/09, gdy obaj zdobyli po 19 goli?",
+      "answerParts": [
+        "Takesure Chinyama"
+      ],
+      "subjects": [
+        "player:takesure-chinyama"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "polish",
+        "ekstraklasa",
+        "krol-strzelcow"
+      ],
+      "sources": [
+        {
+          "title": "Legia — Chinyama i Brożek wspólnymi królami strzelców sezonu 2008/09, po 19 bramek",
+          "url": "https://legia.com/articles/historia-kalendarium-legii-30-maja-krol-chiny",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-29"
+    },
+    {
+      "factKey": "sylvain-distin:no-france-senior-caps-city-portsmouth-everton",
+      "format": "fact",
+      "prompt": "Który obrońca Evertonu w 2010 nie miał występu w kadrze Francji, choć wcześniej grał w City i Portsmouth?",
+      "answerParts": [
+        "Sylvain Distin"
+      ],
+      "subjects": [
+        "player:sylvain-distin"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "historia",
+        "reprezentacje",
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "SO FOOT — wywiad z Distinem: przez całą karierę nie dostał szansy w reprezentacji Francji",
+          "url": "https://www.sofoot.com/articles/sylvain-distin-je-ne-comprends-pas",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        },
+        {
+          "title": "UEFA — kariera Distina w Manchesterze City, Portsmouth i Evertonie",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01dc-0e72b6ecb303-7446081f0247-1000--distin-deal-done-and-dusted-for-everton/",
+          "checkedAt": "2026-10-31T19:47:51.075Z"
+        }
+      ],
+      "id": "2026-10-31-30"
+    }
+  ]
+}
