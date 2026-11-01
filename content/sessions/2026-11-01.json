@@ -1,0 +1,1081 @@
+{
+  "id": "2026-11-01",
+  "kind": "daily",
+  "title": "Trening głowy · 1 listopada 2026",
+  "date": "2026-11-01",
+  "publishAt": "2026-11-01T08:00:00+01:00",
+  "researchedAt": "2026-11-01T11:18:46.737Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-01"
+  },
+  "questions": [
+    {
+      "factKey": "wojciech-lobodzinski:portrait",
+      "format": "photo",
+      "prompt": "Rozpoznaj piłkarza po tym uśmiechu.",
+      "answerParts": [
+        "Wojciech Łobodziński"
+      ],
+      "subjects": [
+        "player:wojciech-lobodzinski"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — srebrni medaliści ME U-16 1999",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/mlodziez-na-srebrny-medal-me-u-16-czechy-1999",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "id": "n01-v-portrait-a",
+        "path": "assets/n01-v-portrait-a.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:%C5%81obodzi%C5%84ski%20Wojciech.jpg",
+        "credit": "mike.zielony",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 631,
+        "height": 550,
+        "changes": "Kadrowanie w interfejsie; bez retuszu.",
+        "crop": [
+          175,
+          8,
+          236,
+          305
+        ],
+        "alt": "Twarz piłkarza bez stroju i oznaczeń klubowych."
+      },
+      "id": "2026-11-01-01"
+    },
+    {
+      "factKey": "jadson:uefa-cup-final-winner-2009",
+      "format": "fact",
+      "prompt": "Kto strzelił dla Szachtara zwycięskiego gola w dogrywce ostatniego finału Pucharu UEFA, przeciw Werderowi w 2009?",
+      "answerParts": [
+        "Jádson"
+      ],
+      "subjects": [
+        "player:jadson"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: finał Pucharu UEFA 2009, Szachtar–Werder",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01d9-0e7233534cb2-ca7dcb346335-1000--jadson-the-difference-as-shakhtar-triumph/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-01-02"
+    },
+    {
+      "factKey": "niels-frederiksen:2026-10-31:five-consecutive-league-wins",
+      "format": "coach",
+      "prompt": "Który trener po wygranej z Wisłą Kraków 31 października 2026 miał pięć kolejnych ligowych zwycięstw z Lechem?",
+      "answerParts": [
+        "Niels Frederiksen"
+      ],
+      "subjects": [
+        "coach:niels-frederiksen"
+      ],
+      "difficulty": "łatwe",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Lech pokonuje Wisłę i wygrywa piąty ligowy mecz z rzędu, 31 października 2026",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-lech-poznan-31-wisla-krakow-piatka-kolejorza/",
+          "checkedAt": "2026-11-01T11:06:35.361Z"
+        }
+      ],
+      "id": "2026-11-01-03"
+    },
+    {
+      "factKey": "stade-rennais:crest-fragment",
+      "format": "crest",
+      "prompt": "Który francuski klub rozpoznasz po tych dwóch zwierzętach z herbu?",
+      "answerParts": [
+        "Stade Rennais FC (Rennes)"
+      ],
+      "subjects": [
+        "club:stade-rennais"
+      ],
+      "sources": [
+        {
+          "title": "Stade Rennais — gronostaje w klubowym herbie",
+          "url": "https://www.staderennais.com/actualites/boutique/decouvrez-la-nouvelle-collection-hermines",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n01-v-crest-a",
+        "path": "assets/n01-v-crest-a.png",
+        "source": "https://www.staderennais.com/themes/custom/front/dist/assets/logos/e4559e21beb3a501450b.svg",
+        "credit": "Stade Rennais FC",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://www.staderennais.com/",
+        "changes": "Rasteryzacja oficjalnego SVG do PNG; kadr w interfejsie do gronostajów i piłki, nazwa klubu poza kadrem. Bez retuszu.",
+        "width": 901,
+        "height": 1100,
+        "crop": [
+          200,
+          100,
+          500,
+          500
+        ],
+        "alt": "Dwa białe zwierzęta z piłką na czerwono-czarnym tle."
+      },
+      "id": "2026-11-01-04"
+    },
+    {
+      "factKey": "marcin-baszczynski:wisla-atromitos-2009",
+      "format": "transfer",
+      "prompt": "Kto przeniósł się między tymi klubami w 2009 roku?",
+      "answerParts": [
+        "Marcin Baszczyński"
+      ],
+      "subjects": [
+        "player:marcin-baszczynski"
+      ],
+      "sources": [
+        {
+          "title": "PZPN: finał Pucharu Polski 2008 i biografia Baszczyńskiego",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/legia-warszawa-wisla-krakow-00-k-4-3-13052008",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Transfer definitywny",
+        "from": {
+          "club": "Wisła Kraków",
+          "media": {
+            "path": "assets/d16-badge-wisla-krakow.png",
+            "source": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "credit": "Wisła Kraków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Wis%C5%82a_Krak%C3%B3w_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 356,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Atromitos Ateny",
+          "media": {
+            "path": "assets/d28-atromitos.png",
+            "width": 1200,
+            "height": 1200,
+            "source": "https://en.wikipedia.org/wiki/File:Atromitos_F.C._logo.svg",
+            "credit": "Atromitos FC",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atromitos_F.C._logo.svg",
+            "changes": "Rasteryzacja do PNG; pełny herb bez zmian.",
+            "alt": "Fragment pięcioramiennej gwiazdy w dwóch odcieniach niebieskiego, na białym polu; bez nazwy i roku."
+          }
+        }
+      },
+      "id": "2026-11-01-05"
+    },
+    {
+      "factKey": "dani-jarque:iniesta-world-cup-2010-tribute",
+      "format": "fact",
+      "prompt": "Któremu zmarłemu piłkarzowi Iniesta zadedykował gola koszulką pokazaną w finale mundialu 2010?",
+      "answerParts": [
+        "Dani Jarque (Daniel Jarque)"
+      ],
+      "subjects": [
+        "player:dani-jarque"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — Iniesta o hołdzie dla Daniego Jarque",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/andres-iniesta-spain-dani-jarque",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-01-06"
+    },
+    {
+      "factKey": "antonio-nusa:2026-10-31:first-ten-bundesliga-goal-involvements",
+      "format": "fact",
+      "prompt": "Kto 31 października 2026 jako pierwszy w Bundeslidze osiągnął dziesięć goli i asyst łącznie w sezonie?",
+      "answerParts": [
+        "Antonio Nusa"
+      ],
+      "subjects": [
+        "player:antonio-nusa"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Bundesliga — Antonio Nusa jako pierwszy z dziesięcioma udziałami przy golach w sezonie 2026/27",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/antonio-nusa-goals-assists-leipzig-norway-away-record-39810",
+          "checkedAt": "2026-11-01T11:06:35.361Z"
+        }
+      ],
+      "id": "2026-11-01-07"
+    },
+    {
+      "factKey": "julio-cruz:club-2000-2003",
+      "format": "career-gap",
+      "prompt": "Julio Cruz: jaki klub ukryto pomiędzy tymi etapami?",
+      "answerParts": [
+        "Bologna FC 1909"
+      ],
+      "subjects": [
+        "club:bologna"
+      ],
+      "sources": [
+        {
+          "title": "Bologna: kariera Julio Ricardo Cruza",
+          "url": "https://www.bolognafc.it/rossoblu/cruz-julio-ricardo/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        },
+        {
+          "title": "UEFA: Cruz przechodzi z Interu do Lazio",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01db-0e7287ed3acb-311b745b63cc-1000--cruz-leaves-inter-for-lazio/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "career": [
+        {
+          "club": "Feyenoord",
+          "years": "1997–2000",
+          "media": {
+            "id": "18",
+            "path": "assets/18.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "credit": "Feyenoord Rotterdam N.V.",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Feyenoord_logo_1997-2008.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 330,
+            "height": 330
+          }
+        },
+        {
+          "club": "Bologna FC 1909",
+          "years": "2000–2003",
+          "media": {
+            "path": "assets/n01-h-bologna.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Bologna_F.C._1909_logo.svg",
+            "credit": "Bologna FC",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bologna_F.C._1909_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 384,
+            "alt": "Herb klubu"
+          },
+          "missing": 0
+        },
+        {
+          "club": "Inter Mediolan",
+          "years": "2003–2009",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery w pierwszych drużynach, 1997–2009.",
+      "id": "2026-11-01-08"
+    },
+    {
+      "factKey": "slaven-bilic:kranjcar-payet-overlap",
+      "format": "coach-link",
+      "prompt": "Kranjčar w Chorwacji na EURO 2008, Payet w West Hamie w 2016. Kto prowadził obu?",
+      "answerParts": [
+        "Slaven Bilić"
+      ],
+      "subjects": [
+        "coach:slaven-bilic"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: Kranjčar w zespole Bilića na EURO 2008",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7bf7b49abd-77f47dbc7666-1000--kranjcar-backs-croatia-to-step-up-again/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        },
+        {
+          "title": "West Ham: ostatni mecz na Boleyn Ground, Bilić i Payet",
+          "url": "https://www.whufc.com/en/the-club/history/greatest-matches/2016-west-ham-united-3-2-manchester-united",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-01-09"
+    },
+    {
+      "factKey": "stozice:stadium-identification",
+      "format": "stadium",
+      "prompt": "Podaj nazwę stadionu z zielono-szarymi trybunami oraz miasto.",
+      "answerParts": [
+        "Stadion Stožice, Lublana (Ljubljana)"
+      ],
+      "subjects": [
+        "stadium:stozice"
+      ],
+      "sources": [
+        {
+          "title": "Šport Ljubljana — oficjalna strona stadionu Stožice",
+          "url": "https://www.sport-ljubljana.si/en/stadion-stozice/",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "bardzo trudne",
+      "tags": [],
+      "media": {
+        "id": "n01-v-stadium",
+        "path": "assets/n01-v-stadium.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sto%C5%BEice%20(31523159192).jpg",
+        "credit": "The Stadium Guide",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 5312,
+        "height": 2988,
+        "changes": "Bez zmian; oryginalna panorama stadionu.",
+        "alt": "Wnętrze stadionu o zielono-szarych trybunach i zakrzywionym dachu."
+      },
+      "id": "2026-11-01-10"
+    },
+    {
+      "factKey": "generali:2026-10-29:inter-milan-new-stadium-naming-rights",
+      "format": "fact",
+      "prompt": "Która firma została sponsorem tytularnym przyszłego wspólnego stadionu Milanu i Interu, zaprezentowanego 29 października 2026?",
+      "answerParts": [
+        "Generali"
+      ],
+      "subjects": [
+        "sponsor:generali"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a",
+        "stadiony",
+        "sponsorzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-29",
+      "sources": [
+        {
+          "title": "Inter — prezentacja projektu Generali Stadium i partnerstwa tytularnego, 29 października 2026",
+          "url": "https://www.inter.it/en/news/inter-milan-generali-stadium-new-milano-stadium",
+          "checkedAt": "2026-11-01T11:06:35.361Z"
+        }
+      ],
+      "id": "2026-11-01-11"
+    },
+    {
+      "factKey": "emmanuel-petit:monaco-arsenal-1997",
+      "format": "transfer",
+      "prompt": "Który późniejszy piłkarz Chelsea przeszedł tą drogą latem 1997?",
+      "answerParts": [
+        "Emmanuel Petit"
+      ],
+      "subjects": [
+        "player:emmanuel-petit"
+      ],
+      "sources": [
+        {
+          "title": "Francuska federacja: kolejne kluby Emmanuela Petita",
+          "url": "https://www.fff.fr/equipe-nationale/joueur/8605-petit-emmanuel/fiche.html",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "transfer": {
+        "year": 1997,
+        "detail": "Transfer definitywny",
+        "from": {
+          "club": "AS Monaco",
+          "media": {
+            "path": "assets/d19-badge-monaco.png",
+            "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "credit": "AS Monaco",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 434,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Arsenal",
+          "media": {
+            "path": "assets/d12-badge-arsenal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "credit": "Arsenal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Arsenal_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 294,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-01-12"
+    },
+    {
+      "factKey": "michal-listkiewicz:world-cup-1990-final-linesman",
+      "format": "fact",
+      "prompt": "Który późniejszy prezes PZPN był sędzią liniowym finału mundialu 1990?",
+      "answerParts": [
+        "Michał Listkiewicz"
+      ],
+      "subjects": [
+        "referee:michal-listkiewicz"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Michał Listkiewicz wspomina finał MŚ 1990",
+          "url": "https://pzpn.pl/federacja/aktualnosci/2014-07-12/listkiewicz-final-z-1990-roku-niewyobrazalny-ciag-radosnych-zdarzen",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "id": "2026-11-01-13"
+    },
+    {
+      "factKey": "lg:fulham-2008-09-shirt-sponsor",
+      "format": "kit",
+      "prompt": "Fulham, sezon 2008/09: jaki główny sponsor kryje się pod zasłoną na koszulce Dempseya?",
+      "answerParts": [
+        "LG (LG Electronics)"
+      ],
+      "subjects": [
+        "sponsor:lg"
+      ],
+      "sources": [
+        {
+          "title": "LG — raport 2006–2007, umowa z Fulham",
+          "url": "https://www.lg.com/content/dam/lge/global/sustainability/pdf/2006-2007_Sustainability_Report%2820210825_173209622%29.pdf",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        },
+        {
+          "title": "Oryginalne zdjęcie Dempseya w stroju Fulham, kwiecień 2009",
+          "url": "https://commons.wikimedia.org/wiki/File:Clint_Dempsey,_Fulham_2009.jpg",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n01-v-shirt",
+        "path": "assets/n01-v-shirt.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Clint%20Dempsey%2C%20Fulham%202009.jpg",
+        "credit": "Nick",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "width": 800,
+        "height": 696,
+        "changes": "Kadrowanie do koszulki; przed odkryciem odpowiedzi sponsor zasłonięty nakładką w interfejsie. Oryginalnego zdjęcia nie retuszowano.",
+        "crop": [
+          395,
+          220,
+          360,
+          400
+        ],
+        "mask": [
+          510,
+          390,
+          195,
+          110
+        ],
+        "alt": "Koszulka z celowo zasłoniętym głównym sponsorem."
+      },
+      "id": "2026-11-01-14"
+    },
+    {
+      "factKey": "mendilibar:europa-conference-double-2023-2024",
+      "format": "coach",
+      "prompt": "Z Sevillą wygrał Ligę Europy 2023, a z Olympiacosem Ligę Konferencji 2024. Który trener?",
+      "answerParts": [
+        "José Luis Mendilibar"
+      ],
+      "subjects": [
+        "coach:jose-luis-mendilibar"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: finał Ligi Konferencji 2024 i dwa triumfy Mendilibara",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/028d-1b01e5ec31a5-144c1f00e4f3-1000--olympiacos-1-0-fiorentina-aet-el-kaabi-swoops-to-secure-g/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-01-15"
+    },
+    {
+      "factKey": "paco-alcacer:career-2013-2022",
+      "format": "career",
+      "prompt": "Czyją karierę przedstawiają te cztery kolejne etapy?",
+      "answerParts": [
+        "Paco Alcácer"
+      ],
+      "subjects": [
+        "player:paco-alcacer"
+      ],
+      "sources": [
+        {
+          "title": "FC Barcelona: pełna ścieżka kariery Paco Alcácera",
+          "url": "https://players.fcbarcelona.com/en/player/2428-paco-alcacer-francisco-alcacer",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        },
+        {
+          "title": "FC Barcelona: wypożyczenie Paco Alcácera do Dortmundu",
+          "url": "https://www.fcbarcelona.com/en/news/860394/agreement-with-borussia-dortmund-for-the-loan-of-paco-alcacer/amp",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "career": [
+        {
+          "club": "Valencia",
+          "years": "2013–2016",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "FC Barcelona",
+          "years": "2016–2018",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna w USA; znak niewolny lub potencjalnie niewolny w Hiszpanii, chroniony jako znak towarowy",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Borussia Dortmund",
+          "years": "2018–2020",
+          "media": {
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 961,
+            "alt": "Herb klubu"
+          },
+          "note": "Początkowo wypożyczenie"
+        },
+        {
+          "club": "Villarreal",
+          "years": "2020–2022",
+          "media": {
+            "path": "assets/d22-badge-villarreal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "credit": "Villarreal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "careerCaption": "Kolejne etapy pierwszych drużyn, 2013–2022. Wcześniejsze i późniejsze kluby pominięto.",
+      "id": "2026-11-01-16"
+    },
+    {
+      "factKey": "fabien-barthez:le-mans-debut-2014",
+      "format": "fact",
+      "prompt": "Który piłkarski mistrz świata z 1998 roku zadebiutował w 24h Le Mans w 2014?",
+      "answerParts": [
+        "Fabien Barthez"
+      ],
+      "subjects": [
+        "player:fabien-barthez"
+      ],
+      "sources": [
+        {
+          "title": "24h Le Mans — kariera wyścigowa Fabiena Bartheza",
+          "url": "https://www.24h-lemans.com/en/news/24-hours-of-le-mans-fabien-barthezs-hat-trick-of-appearances-53251",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-01-17"
+    },
+    {
+      "factKey": "gks-katowice:2026-10-31:nowak-hat-trick-widzew-three-two",
+      "format": "fact",
+      "prompt": "Który klub wygrał z Widzewem 3:2 dzięki hat-trickowi Bartosza Nowaka 31 października 2026?",
+      "answerParts": [
+        "GKS Katowice"
+      ],
+      "subjects": [
+        "club:gks-katowice"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Ekstraklasa — hat-trick Bartosza Nowaka w zwycięstwie GKS-u nad Widzewem, 31 października 2026",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-gks-32-widzew-nowak-show/",
+          "checkedAt": "2026-11-01T11:06:35.361Z"
+        }
+      ],
+      "id": "2026-11-01-18"
+    },
+    {
+      "id": "2026-11-01-19",
+      "factKey": "thomas-hitzlsperger:portrait",
+      "format": "photo",
+      "prompt": "Podaj imię i nazwisko zawodnika z tego zbliżenia.",
+      "answerParts": [
+        "Thomas Hitzlsperger"
+      ],
+      "subjects": [
+        "player:thomas-hitzlsperger"
+      ],
+      "sources": [
+        {
+          "title": "VfB Stuttgart — Thomas Hitzlsperger, oficjalny profil",
+          "url": "https://www.vfb.de/de/vfb/verein/traditionself/thomas-hitzlsperger/steckbrief/",
+          "checkedAt": "2026-11-01T11:18:24.372Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n01-v-portrait-c",
+        "path": "assets/n01-v-portrait-c.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Thomas_Hitzlsperger_2014-01-03_001.jpg",
+        "credit": "Dictum Media",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "width": 2136,
+        "height": 3216,
+        "crop": [
+          630,
+          420,
+          790,
+          1110
+        ],
+        "changes": "Kadrowanie do pełnej głowy i brody; bez retuszu.",
+        "alt": "Pełna głowa byłego piłkarza na portrecie cywilnym, bez stroju klubowego."
+      }
+    },
+    {
+      "factKey": "aleksander-klak:antwerp-bus-driver",
+      "format": "fact",
+      "prompt": "Który były reprezentant Polski po karierze pracował jako kierowca miejskich autobusów w Antwerpii?",
+      "answerParts": [
+        "Aleksander Kłak"
+      ],
+      "subjects": [
+        "player:aleksander-klak"
+      ],
+      "sources": [
+        {
+          "title": "PZPN: Aleksander Kłak, od igrzysk do autobusów w Antwerpii",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/24-listopada-1970",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "id": "2026-11-01-20"
+    },
+    {
+      "factKey": "kevin-mirallas:olympiacos-everton-2012",
+      "format": "transfer",
+      "prompt": "Kto zamienił ligę grecką na angielską w pokazanym transferze?",
+      "answerParts": [
+        "Kevin Mirallas"
+      ],
+      "subjects": [
+        "player:kevin-mirallas"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: nagrody za sezon 2011/12 i transfer Mirallasa",
+          "url": "https://www.uefa.com/news-media/news/0205-0e82dff28ad0-7b9173f4c96f-1000--mitroglou-and-mirallas-acclaimed-in-greece/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "transfer": {
+        "year": 2012,
+        "detail": "Transfer definitywny",
+        "from": {
+          "club": "Olympiacos",
+          "media": {
+            "path": "assets/d18-olympiacos.png",
+            "width": 1920,
+            "height": 2494,
+            "source": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "credit": "Olympiacos SFP",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "changes": "Rasteryzacja do PNG; bez retuszu. Pełny herb.",
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Everton",
+          "media": {
+            "path": "assets/d29-h-everton.png",
+            "source": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "credit": "Everton FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 256
+          }
+        }
+      },
+      "id": "2026-11-01-21"
+    },
+    {
+      "factKey": "olimpija-ljubljana:crest-fragment",
+      "format": "crest",
+      "prompt": "Z którego klubu pochodzi pokazany zielony smok?",
+      "answerParts": [
+        "NK Olimpija Ljubljana (Olimpija Lublana)"
+      ],
+      "subjects": [
+        "club:olimpija-ljubljana"
+      ],
+      "sources": [
+        {
+          "title": "Olimpija Ljubljana — oficjalna strona klubu i herb",
+          "url": "https://nkolimpija.si/",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n01-v-crest-b",
+        "path": "assets/n01-v-crest-b.png",
+        "source": "https://nkolimpija.si/wp-content/uploads/2024/10/Logo-NK-Olimija-Ljubljana.png",
+        "credit": "NK Olimpija Ljubljana",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://nkolimpija.si/",
+        "changes": "Kadr do smoka; nazwa klubu i miasta poza kadrem.",
+        "width": 846,
+        "height": 1080,
+        "crop": [
+          140,
+          100,
+          570,
+          355
+        ],
+        "alt": "Zielony smok z górnej części herbu, bez nazwy klubu."
+      },
+      "id": "2026-11-01-22"
+    },
+    {
+      "factKey": "lisandro-martinez:2026-10-31:chelsea-dismissal-and-penalty",
+      "format": "fact",
+      "prompt": "Chelsea–Manchester United, 31 października 2026: kto wyleciał z boiska po faulu skutkującym karnym wykorzystanym przez Palmera?",
+      "answerParts": [
+        "Lisandro Martínez"
+      ],
+      "subjects": [
+        "player:lisandro-martinez"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Manchester United — relacja z porażki 0:2 z Chelsea i wykluczenie Martíneza, 31 października 2026",
+          "url": "https://www.manutd.com/en/news/chelsea-2-manchester-united-0-match-report-31-oct",
+          "checkedAt": "2026-11-01T11:06:35.361Z"
+        }
+      ],
+      "id": "2026-11-01-23"
+    },
+    {
+      "factKey": "anastacia:boom-world-cup-2002",
+      "format": "fact",
+      "prompt": "Kto śpiewał „Boom”, oficjalną piosenkę mundialu 2002?",
+      "answerParts": [
+        "Anastacia"
+      ],
+      "subjects": [
+        "music:anastacia"
+      ],
+      "sources": [
+        {
+          "title": "Sony Music: oficjalny album mundialu 2002, wykonawcy i tytuły",
+          "url": "https://www.sme.co.jp/pressrelease/news/detail/NEWS000282.html",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-01-24"
+    },
+    {
+      "factKey": "wojciech-kowalczyk:spain-cyprus-career",
+      "format": "career-riddle",
+      "prompt": "Grał w Betisie i Las Palmas, potem w Anorthosisie i APOEL-u. Z tym ostatnim został mistrzem Cypru. Kto?",
+      "answerParts": [
+        "Wojciech Kowalczyk"
+      ],
+      "subjects": [
+        "player:wojciech-kowalczyk"
+      ],
+      "sources": [
+        {
+          "title": "Mazowiecki ZPN: kariera Wojciecha Kowalczyka",
+          "url": "https://www.mzpn.pl/kalendarium/wojciech-kowalczyk-utalentowany-i-kontrowersyjny/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "id": "2026-11-01-25"
+    },
+    {
+      "factKey": "charlton:song-di-canio",
+      "format": "shared-club",
+      "prompt": "Song w 2006/07, Di Canio w 2003/04: w którym londyńskim klubie grali?",
+      "answerParts": [
+        "Charlton Athletic"
+      ],
+      "subjects": [
+        "club:charlton-athletic"
+      ],
+      "sources": [
+        {
+          "title": "Arsenal: profil Alexandre’a Songa, wypożyczenie do Charltonu",
+          "url": "https://www.arsenal.com/men/alexandre-song-aGO2K0m4Yx0B",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        },
+        {
+          "title": "UEFA: Song na wypożyczeniu w Charltonie w sezonie 2006/07",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/Publications/01/53/55/89/1535589_DOWNLOAD.pdf",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        },
+        {
+          "title": "UEFA: Di Canio odchodzi z Charltonu do Lazio",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01a0-0ea6e8a55d26-37a25a9e7265-1000--di-canio-is-homeward-bound/",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-01-26"
+    },
+    {
+      "factKey": "rogerio-ceni:hundredth-goal-corinthians-2011",
+      "format": "fact",
+      "prompt": "São Paulo–Corinthians, marzec 2011: który bramkarz świętował setnego gola w klubowych statystykach?",
+      "answerParts": [
+        "Rogério Ceni"
+      ],
+      "subjects": [
+        "player:rogerio-ceni"
+      ],
+      "sources": [
+        {
+          "title": "São Paulo — Rogério Ceni, sto goli i tysiąc spotkań",
+          "url": "https://www.saopaulofc.net/rogerio-ceni-e-homenageado-pelos-100-gols-e-1000-jogos/",
+          "checkedAt": "2026-11-01T11:12:07.524Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-01-27"
+    },
+    {
+      "factKey": "sokratis:genoa-werder-loan-2011",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono na rok z opcją wykupu w lipcu 2011?",
+      "answerParts": [
+        "Sokratis Papastathopoulos"
+      ],
+      "subjects": [
+        "player:sokratis-papastathopoulos"
+      ],
+      "sources": [
+        {
+          "title": "Werder: wypożyczenie Sokratisa z Genoi w lipcu 2011",
+          "url": "https://www.werder.de/news/maenner/2011-2012/sokratis-verpflichtung",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "transfer": {
+        "year": 2011,
+        "detail": "Lipiec · wypożyczenie na rok z opcją wykupu",
+        "from": {
+          "club": "Genoa CFC",
+          "media": {
+            "path": "assets/n01-h-genoa.png",
+            "source": "https://en.wikipedia.org/wiki/File:Genoa_CFC_crest.svg",
+            "credit": "Genoa CFC",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Genoa_CFC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 336,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Werder Bremen",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-01-28"
+    },
+    {
+      "factKey": "match:2026-10-31:ac-milan-inter-three-one",
+      "format": "result",
+      "prompt": "Derby Mediolanu, 31 października 2026: jaki był końcowy wynik w kolejności Milan–Inter?",
+      "answerParts": [
+        "3:1"
+      ],
+      "subjects": [
+        "match:2026-10-31-ac-milan-inter"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Inter — porażka 1:3 w pierwszych derbach sezonu 2026/27, 31 października 2026",
+          "url": "https://www.inter.it/en/news/ac-milan-inter-serie-a-2026-27",
+          "checkedAt": "2026-11-01T11:06:35.361Z"
+        }
+      ],
+      "id": "2026-11-01-29"
+    },
+    {
+      "factKey": "natalie-portman:angel-city-founder",
+      "format": "fact",
+      "prompt": "Która aktorka, laureatka Oscara za „Czarnego łabędzia”, współtworzyła kobiecy klub Angel City FC?",
+      "answerParts": [
+        "Natalie Portman"
+      ],
+      "subjects": [
+        "culture:natalie-portman"
+      ],
+      "sources": [
+        {
+          "title": "Angel City: założyciele i historia klubu",
+          "url": "https://angelcity.com/club/about",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        },
+        {
+          "title": "Amerykańska Akademia Filmowa: Oscar dla Portman za „Czarnego łabędzia”",
+          "url": "https://www.oscars.org/oscars/ceremonies/2011",
+          "checkedAt": "2026-11-01T11:10:44.606Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-01-30"
+    }
+  ]
+}
