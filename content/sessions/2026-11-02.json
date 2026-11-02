@@ -1,0 +1,1171 @@
+{
+  "id": "2026-11-02",
+  "kind": "daily",
+  "title": "Trening głowy · 2 listopada 2026",
+  "date": "2026-11-02",
+  "publishAt": "2026-11-02T08:00:00+01:00",
+  "researchedAt": "2026-11-02T11:15:50.646Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-02"
+  },
+  "questions": [
+    {
+      "factKey": "kai-havertz:2026-11-01:all-time-leading-german-premier-league-goalscorer",
+      "format": "fact",
+      "prompt": "1 listopada 2026: kto został najskuteczniejszym Niemcem w historii Premier League?",
+      "answerParts": [
+        "Kai Havertz"
+      ],
+      "subjects": [
+        "player:kai-havertz"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-01",
+      "sources": [
+        {
+          "title": "Arsenal — gol Havertza na Anfield daje rekord Niemców w Premier League, 1 listopada 2026",
+          "url": "https://www.arsenal.com/news/report-liverpool-0-1-arsenal-a1JIG2e3jPpA",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        }
+      ],
+      "id": "2026-11-02-01"
+    },
+    {
+      "factKey": "seweryn-gancarczyk:metalist-lech-2009",
+      "format": "transfer",
+      "prompt": "Kogo sprowadzono tym ruchem z Ukrainy w 2009 roku?",
+      "answerParts": [
+        "Seweryn Gancarczyk"
+      ],
+      "subjects": [
+        "player:seweryn-gancarczyk"
+      ],
+      "sources": [
+        {
+          "title": "Lech: Gancarczyk przyszedł latem 2009 roku",
+          "url": "https://www.lechpoznan.pl/en/aktualnosci%2C2%2Cgancarczyk-nie-jest-juz-zawodnikiem-lecha-poznan%2C11189.html",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "Gancarczyk o przejściu z Metalista do Lecha — rozmowa z piłkarzem",
+          "url": "https://sport.dziennik.pl/pilka-nozna/artykuly/92183%2Culatowski-nie-zgadl-ze-ide-do-lecha.html",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Transfer definitywny",
+        "from": {
+          "club": "Metalist Charków",
+          "media": {
+            "path": "assets/n02-h-metalist-badge.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Metalist_Kharkiv_Logo.svg",
+            "credit": "Metalist Charków",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Metalist_Kharkiv_Logo.svg",
+            "changes": "Rasteryzacja do PNG; pełny herb bez zmian.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 313
+          }
+        },
+        "to": {
+          "club": "Lech Poznań",
+          "media": {
+            "path": "assets/d23-badge-lech.png",
+            "source": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "credit": "Lech Poznań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 380,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-02-02"
+    },
+    {
+      "factKey": "maritimo:crest-fragment",
+      "format": "crest",
+      "prompt": "Z którego portugalskiego klubu pochodzi ten lew ze sterem?",
+      "answerParts": [
+        "CS Marítimo (Marítimo Funchal)"
+      ],
+      "subjects": [
+        "club:maritimo"
+      ],
+      "sources": [
+        {
+          "title": "CS Marítimo — oficjalny herb klubu",
+          "url": "https://csmaritimo.pt/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n02-v-crest-a",
+        "path": "assets/n02-v-crest-a.png",
+        "source": "https://csmaritimo.pt/assets/img/logo.png",
+        "credit": "Club Sport Marítimo",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://csmaritimo.pt/",
+        "width": 350,
+        "height": 350,
+        "crop": [
+          25,
+          70,
+          310,
+          265
+        ],
+        "changes": "Kadrowanie w interfejsie; nazwa klubu poza kadrem. Bez przerysowywania herbu.",
+        "alt": "Lew z piłką na kole sterowym; napis pominięto."
+      },
+      "id": "2026-11-02-03"
+    },
+    {
+      "factKey": "jose-antonio-reyes:five-europa-league-wins-by-2016",
+      "format": "fact",
+      "prompt": "Kto w 2016 miał pięć triumfów w Lidze Europy: dwa z Atlético i trzy z Sevillą?",
+      "answerParts": [
+        "José Antonio Reyes"
+      ],
+      "subjects": [
+        "player:jose-antonio-reyes"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: piąty triumf Reyesa w Lidze Europy, maj 2016",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/022d-0e9458554d19-9e9caf57a328-1000--reyes-s-fifth-win-top-uefa-club-cup-winners/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-02-04"
+    },
+    {
+      "factKey": "pawel-wojtala:portrait",
+      "format": "photo",
+      "prompt": "Kto został przedstawiony na tym portrecie?",
+      "answerParts": [
+        "Paweł Wojtala"
+      ],
+      "subjects": [
+        "player:pawel-wojtala"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — Paweł Wojtala, były reprezentant Polski",
+          "url": "https://www.pzpn.pl/federacja/aktualnosci/2025-03-27/pawel-wojtala-ponownie-prezesem-wielkopolskiego-zpn",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "id": "n02-v-portrait-a",
+        "path": "assets/n02-v-portrait-a.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pawelwojlata.jpg",
+        "credit": "Linvoy1990",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1280,
+        "height": 853,
+        "crop": [
+          480,
+          15,
+          370,
+          460
+        ],
+        "changes": "Kadrowanie w interfejsie; bez retuszu.",
+        "alt": "Były piłkarz w garniturze, bez klubowych oznaczeń."
+      },
+      "id": "2026-11-02-05"
+    },
+    {
+      "factKey": "tomasz-zimoch:widzew-brondby-1996-commentary",
+      "format": "fact",
+      "prompt": "Kto komentował awans Widzewa w 1996, wołając do tureckiego sędziego o koniec meczu?",
+      "answerParts": [
+        "Tomasz Zimoch"
+      ],
+      "subjects": [
+        "commentator:tomasz-zimoch"
+      ],
+      "sources": [
+        {
+          "title": "Polskie Radio — Tomasz Zimoch i pamiętny komentarz z 1996 roku",
+          "url": "https://www.polskieradio.pl/114/2178",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        },
+        {
+          "title": "Polskie Radio — „Panie Turek, kończ Pan ten mecz!”",
+          "url": "https://www.polskieradio.pl/10/217/artykul/424831%2Cliga-mistrzow-tylko-w-telewizji",
+          "checkedAt": "2026-11-02T11:13:15.959Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "id": "2026-11-02-06"
+    },
+    {
+      "factKey": "javier-aguirre:2026-11-01:first-valencia-win-elche",
+      "format": "coach",
+      "prompt": "Który trener odniósł pierwsze zwycięstwo z Valencią, pokonując Elche 1:0 1 listopada 2026?",
+      "answerParts": [
+        "Javier Aguirre"
+      ],
+      "subjects": [
+        "coach:javier-aguirre"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "la-liga",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-01",
+      "sources": [
+        {
+          "title": "La Liga — Sadiq zapewnia Aguirre pierwsze zwycięstwo z Valencią, 1 listopada 2026",
+          "url": "https://www.laliga.com/es-GB",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        },
+        {
+          "title": "Valencia — wypowiedź Javiera Aguirre po wygranej 1:0 z Elche, 1 listopada 2026",
+          "url": "https://www.valenciacf.com/javier-aguirre-es-un-triomf-molt-important-en-forma-i-fons",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        }
+      ],
+      "id": "2026-11-02-07"
+    },
+    {
+      "factKey": "ivan-klasnic:werder-nantes-bolton-mainz-2001-2013",
+      "format": "career",
+      "prompt": "Kto grał kolejno w tych czterech klubach między 2001 a 2013?",
+      "answerParts": [
+        "Ivan Klasnić"
+      ],
+      "subjects": [
+        "player:ivan-klasnic"
+      ],
+      "sources": [
+        {
+          "title": "Werder: kolejne kluby Ivana Klasnicia",
+          "url": "https://www.werder.de/news/maenner/2018-2019/klasnic-geburtstag-29012019",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "Bolton: wypożyczenie Klasnicia 2009/10, transfer w 2010 i odejście do Mainz w 2012",
+          "url": "https://www.bwfc.co.uk/news/2016/june/euro-whites-ivan-klasnic",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "DFB: Klasnić w Mainz, sezon 2012/13",
+          "url": "https://datencenter.dfb.de/competitions/bundesliga/seasons/2012-2013/teams/1-fsv-mainz-05",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "careerCaption": "Kolejne etapy gry w pierwszych drużynach, 2001–2013. Pominięto wcześniejszą karierę i rezerwy.",
+      "career": [
+        {
+          "club": "Werder Bremen",
+          "years": "2001–2008",
+          "media": {
+            "path": "assets/d14-badge-werder.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SV-Werder-Bremen-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 375,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "FC Nantes",
+          "years": "2008–2009",
+          "media": {
+            "path": "assets/d24-badge-nantes.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+            "credit": "FC Nantes",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 322,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Bolton Wanderers",
+          "years": "2009–2012",
+          "note": "2009/10: wypożyczenie; od 2010 na stałe",
+          "media": {
+            "path": "assets/n02-h-bolton-badge.png",
+            "source": "https://en.wikipedia.org/wiki/File:Bolton_Wanderers_FC_logo.svg",
+            "credit": "Bolton Wanderers",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Bolton_Wanderers_FC_logo.svg",
+            "changes": "Rasteryzacja do PNG; pełny herb bez zmian.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 270
+          }
+        },
+        {
+          "club": "Mainz 05",
+          "years": "2012–2013",
+          "media": {
+            "path": "assets/08.png",
+            "source": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "credit": "1. FSV Mainz 05",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:1._FSV_Mainz_05_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 893,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "id": "2026-11-02-08"
+    },
+    {
+      "factKey": "zdenek-zeman:totti-roma-1998-insigne-pescara-2012",
+      "format": "coach-link",
+      "prompt": "Totti w Romie w 1997/98, Insigne w Pescarze w 2011/12. Który trener prowadził obu?",
+      "answerParts": [
+        "Zdeněk Zeman"
+      ],
+      "subjects": [
+        "coach:zdenek-zeman"
+      ],
+      "sources": [
+        {
+          "title": "AS Roma: Totti wspomina pracę z Zemanem",
+          "url": "https://www.asroma.com/en/news/45334/a-conversation-about-football-with-totti",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "UEFA: Insigne i Immobile pod wodzą Zemana w Pescarze 2011/12",
+          "url": "https://www.uefa.com/uefaeuro/history/news/026a-1280c83c7eff-9e016a51c2e5-1000--italy-s-immobile-insigne-double-act-made-in-pescara/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "UEFA: Zeman prowadził Romę w latach 1997–1999",
+          "url": "https://www.uefa.com/news-media/news/01fe-0e7e490ca456-3fa5e5bc458a-1000--zeman-agrees-roma-return/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-02-09"
+    },
+    {
+      "factKey": "helsinki-olympic:stadium-identification",
+      "format": "stadium",
+      "prompt": "Jaki stadion i miasto rozpoznasz po tej wieży?",
+      "answerParts": [
+        "Stadion Olimpijski w Helsinkach (Helsingin Olympiastadion)"
+      ],
+      "subjects": [
+        "stadium:helsinki-olympic"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — stadion Superpucharu Europy 2022 w Helsinkach",
+          "url": "https://www.uefa.com/uefasupercup/news/025b-0ed522ae0bce-a8e0f2fd983d-1000--venues-confirmed-2022-2023/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n02-v-stadium",
+        "path": "assets/n02-v-stadium.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Helsinki_Olympic_Stadium-7147.jpg",
+        "credit": "User:Matthias Süßen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "width": 1280,
+        "height": 836,
+        "crop": [
+          0,
+          85,
+          1280,
+          630
+        ],
+        "changes": "Kadrowanie w interfejsie; bez retuszu.",
+        "alt": "Widok stadionu z zewnątrz, z wysoką białą wieżą."
+      },
+      "id": "2026-11-02-10"
+    },
+    {
+      "factKey": "piotr-trochowski:hsv-sevilla-2011",
+      "format": "transfer",
+      "prompt": "Kto zamienił Bundesligę na La Ligę w tym transferze z 2011?",
+      "answerParts": [
+        "Piotr Trochowski"
+      ],
+      "subjects": [
+        "player:piotr-trochowski"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: potwierdzenie przejścia Trochowskiego do Sevilli",
+          "url": "https://de.uefa.com/uefaeuropaleague/news/01f1-0e788aee45e3-dc70cc5f7b8d-1000--trochowski-wechsel-zu-sevilla-ist-fix/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "transfer": {
+        "year": 2011,
+        "detail": "Transfer bez odstępnego",
+        "from": {
+          "club": "Hamburger SV",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 711
+          }
+        },
+        "to": {
+          "club": "Sevilla",
+          "media": {
+            "path": "assets/d10-badge-sevilla.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "credit": "Sevilla",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 305,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-02-11"
+    },
+    {
+      "factKey": "reebok:2026-11-02:gornik-zabrze-technical-partner-snapshot",
+      "format": "fact",
+      "prompt": "Sezon 2026/27, stan na 2 listopada: jaka marka jest sponsorem technicznym Górnika Zabrze?",
+      "answerParts": [
+        "Reebok"
+      ],
+      "subjects": [
+        "manufacturer:reebok"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "polish",
+        "ekstraklasa",
+        "sprzet"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-02",
+      "sources": [
+        {
+          "title": "Górnik Zabrze — oficjalna lista sponsorów i partnerów, sponsor techniczny",
+          "url": "https://www.gornikzabrze.pl/biznes/sponsorzy-i-partnerzy",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        }
+      ],
+      "id": "2026-11-02-12"
+    },
+    {
+      "factKey": "thiago-motta:missing-genoa-2008-2009",
+      "format": "career-gap",
+      "prompt": "Thiago Motta: jaki klub ukryto między tymi etapami kariery?",
+      "answerParts": [
+        "Genoa CFC"
+      ],
+      "subjects": [
+        "club:genoa"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: Motta z Atlético do Genoi we wrześniu 2008",
+          "url": "https://www.uefa.com/news-media/news/01d1-0f84e5463ba9-1bb3f501f368-1000--motta-given-a-chance-by-genoa/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "UEFA: Motta z Genoi do Interu w lipcu 2009",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01db-0e72545d0d53-52f453ca2d9d-1000--motta-trades-genoa-for-inter/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "Inter: Motta w pierwszej drużynie w sezonach 2009/10–2011/12",
+          "url": "https://www.inter.it/en/archivio_giocatore/G0848",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "careerCaption": "Kolejne etapy gry w pierwszych drużynach, 2007–2012; pominięto wcześniejsze i późniejsze kluby.",
+      "career": [
+        {
+          "club": "Atlético Madryt",
+          "years": "2007–2008",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Genoa CFC",
+          "years": "2008–2009",
+          "missing": 0,
+          "media": {
+            "path": "assets/n01-h-genoa.png",
+            "source": "https://en.wikipedia.org/wiki/File:Genoa_CFC_crest.svg",
+            "credit": "Genoa CFC",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Genoa_CFC_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 336,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Inter Mediolan",
+          "years": "2009–2012",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "id": "2026-11-02-13"
+    },
+    {
+      "factKey": "graeme-souness:galatasaray-fenerbahce-1996-flag",
+      "format": "coach",
+      "prompt": "Kto w 1996 wbił flagę Galatasaray na środku boiska Fenerbahçe po finale Pucharu Turcji?",
+      "answerParts": [
+        "Graeme Souness"
+      ],
+      "subjects": [
+        "coach:graeme-souness"
+      ],
+      "sources": [
+        {
+          "title": "Galatasaray — historia Pucharu Turcji i flaga Sounessa",
+          "url": "https://www.galatasaray.org/haber/futbol/galatasarayin-turkiye-kupasi-tarihi/33694",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        },
+        {
+          "title": "Galatasaray — klubowe czasopismo, kwiecień 2023, historia finału 1996",
+          "url": "https://cdn1.galatasaray.org/dergi/2023/web%20%281%29_compressed.pdf",
+          "checkedAt": "2026-11-02T11:13:06.965Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-02-14"
+    },
+    {
+      "factKey": "acorns:aston-villa-2008-09-shirt",
+      "format": "kit",
+      "prompt": "Koszulka Aston Villi 2008/09: nazwę jakiej organizacji zasłonięto na jej przodzie?",
+      "answerParts": [
+        "Acorns (Acorns Children’s Hospice)"
+      ],
+      "subjects": [
+        "charity:acorns"
+      ],
+      "sources": [
+        {
+          "title": "Acorns — logo organizacji na koszulkach Aston Villi w latach 2008–2010",
+          "url": "https://www.acorns.org.uk/news/aston-villa-supports-acorns-in-europe/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        },
+        {
+          "title": "Oryginalna fotografia Younga w stroju z sezonu 2008/09",
+          "url": "https://commons.wikimedia.org/wiki/File:Ashley_Young_Aston_Villa-FH_071.jpg",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n02-v-shirt",
+        "path": "assets/n02-v-shirt.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ashley_Young_Aston_Villa-FH_071.jpg",
+        "credit": "Dagur Brynjólfsson from Hafnarfjordur, Iceland",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1066,
+        "height": 1600,
+        "crop": [
+          510,
+          280,
+          450,
+          620
+        ],
+        "changes": "Kadr do koszulki; przed odkryciem odpowiedzi napis zasłonięty nakładką w interfejsie. Oryginalnego zdjęcia nie retuszowano.",
+        "alt": "Koszulka z zasłoniętym napisem na przodzie.",
+        "mask": [
+          677,
+          478,
+          245,
+          105
+        ]
+      },
+      "id": "2026-11-02-15"
+    },
+    {
+      "factKey": "manchester-united:2008-final-xi-brown-hargreaves",
+      "format": "lineup",
+      "prompt": "Manchester United w finale Ligi Mistrzów 2008: uzupełnij dwa nazwiska.",
+      "answerParts": [
+        "Wes Brown",
+        "Owen Hargreaves"
+      ],
+      "subjects": [
+        "player:wes-brown",
+        "player:owen-hargreaves"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: oficjalne wyjściowe składy finału 21 maja 2008",
+          "url": "https://www.uefa.com/newsfiles/UCL/2008/301604_LU.pdf",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "lineup": {
+        "caption": "21 maja 2008 · Manchester United – Chelsea · układ 4–4–2",
+        "rows": [
+          [
+            {
+              "name": "Carlos Tévez"
+            },
+            {
+              "name": "Wayne Rooney"
+            }
+          ],
+          [
+            {
+              "name": "Cristiano Ronaldo"
+            },
+            {
+              "name": "Michael Carrick"
+            },
+            {
+              "name": "Paul Scholes"
+            },
+            {
+              "name": "Owen Hargreaves",
+              "slot": 1
+            }
+          ],
+          [
+            {
+              "name": "Patrice Evra"
+            },
+            {
+              "name": "Nemanja Vidić"
+            },
+            {
+              "name": "Rio Ferdinand"
+            },
+            {
+              "name": "Wes Brown",
+              "slot": 0
+            }
+          ],
+          [
+            {
+              "name": "Edwin van der Sar"
+            }
+          ]
+        ]
+      },
+      "id": "2026-11-02-16"
+    },
+    {
+      "factKey": "sc-cambuur:2026-10-29:four-opening-losses-then-six-unbeaten",
+      "format": "fact",
+      "prompt": "Eredivisie, 29 października 2026: który beniaminek po czterech porażkach rozpoczął serię sześciu meczów bez porażki?",
+      "answerParts": [
+        "SC Cambuur"
+      ],
+      "subjects": [
+        "club:sc-cambuur"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "eredivisie",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-29",
+      "sources": [
+        {
+          "title": "Eredivisie — Cambuur po czterech porażkach pozostaje niepokonany przez sześć kolejek, 29 października 2026",
+          "url": "https://eredivisie.nl/nieuws/recordreeks-sc-cambuur/",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        }
+      ],
+      "id": "2026-11-02-17"
+    },
+    {
+      "factKey": "arthur-cabral:conference-league-joint-top-scorer-2022-2023",
+      "format": "fact",
+      "prompt": "Który napastnik Fiorentiny podzielił z Zekim Amdounim koronę króla strzelców Ligi Konferencji 2022/23?",
+      "answerParts": [
+        "Arthur Cabral"
+      ],
+      "subjects": [
+        "player:arthur-cabral"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: Cabral i Amdouni współkrólami strzelców Ligi Konferencji 2022/23",
+          "url": "https://www.uefa.com/news/0279-16108d406aae-2f981d699ac3-1000--europa-conference-league-top-scorers/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-02-18"
+    },
+    {
+      "factKey": "vincent-candela:portrait",
+      "format": "photo",
+      "prompt": "Jak nazywa się były piłkarz pokazany na tym portrecie?",
+      "answerParts": [
+        "Vincent Candela"
+      ],
+      "subjects": [
+        "player:vincent-candela"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Vincent Candela wśród najlepszych lewych obrońców 2001",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0180-0e6a891a41ac-65ebf5fd7e27-1000--uefa-com-team-of-2001-left-backs/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n02-v-portrait-b",
+        "path": "assets/n02-v-portrait-b.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Vincent_Candela.jpeg",
+        "credit": "Илья Хохлов",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "width": 465,
+        "height": 591,
+        "crop": [
+          55,
+          5,
+          365,
+          520
+        ],
+        "changes": "Kadrowanie w interfejsie; bez retuszu.",
+        "alt": "Portret byłego zawodnika w cywilnej marynarce."
+      },
+      "id": "2026-11-02-19"
+    },
+    {
+      "factKey": "steven-pienaar:tottenham-everton-loan-2012",
+      "format": "transfer",
+      "prompt": "Kto wrócił do poprzedniego klubu na pokazane wypożyczenie w 2012?",
+      "answerParts": [
+        "Steven Pienaar"
+      ],
+      "subjects": [
+        "player:steven-pienaar"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham: Pienaar wypożyczony do Evertonu",
+          "url": "https://www.tottenhamhotspur.com/news/1038473/everton-loan-for-pienaar",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "transfer": {
+        "year": 2012,
+        "detail": "Wypożyczenie do końca sezonu 2011/12",
+        "from": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Everton",
+          "media": {
+            "path": "assets/d29-h-everton.png",
+            "source": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "credit": "Everton FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 256
+          }
+        }
+      },
+      "id": "2026-11-02-20"
+    },
+    {
+      "factKey": "villarreal:shared-club-pires-tacchinardi-cani-2006-2007",
+      "format": "shared-club",
+      "prompt": "Robert Pirès, Alessio Tacchinardi i Cani: w którym klubie grali w sezonie 2006/07?",
+      "answerParts": [
+        "Villarreal"
+      ],
+      "subjects": [
+        "club:villarreal"
+      ],
+      "sources": [
+        {
+          "title": "Villarreal: klub wspomina skład z sezonu 2006/07",
+          "url": "https://villarrealcf.es/en/the-unforgettable-run-to-get-into-europe/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-02-21"
+    },
+    {
+      "factKey": "catania:crest-fragment",
+      "format": "crest",
+      "prompt": "Rozpoznaj włoski klub po tym fragmencie herbu ze słoniem.",
+      "answerParts": [
+        "Catania FC"
+      ],
+      "subjects": [
+        "club:catania"
+      ],
+      "sources": [
+        {
+          "title": "Catania FC — oficjalna strona i herb klubu",
+          "url": "https://www.cataniafc.it/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n02-v-crest-b",
+        "path": "assets/n02-v-crest-b.png",
+        "source": "https://yngbjoqnaiioiskjuqjf.supabase.co/storage/v1/object/public/media/images/catania-logo.original.png",
+        "credit": "Catania FC",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://www.cataniafc.it/",
+        "width": 356,
+        "height": 533,
+        "crop": [
+          0,
+          0,
+          356,
+          285
+        ],
+        "changes": "Kadrowanie w interfejsie; nazwa klubu poza kadrem. Bez przerysowywania herbu.",
+        "alt": "Sylwetka słonia nad czerwono-niebieskimi pasami, bez nazwy klubu."
+      },
+      "id": "2026-11-02-22"
+    },
+    {
+      "factKey": "lassine-sinayoko:2026-11-01:sole-ligue1-goals-leader-eight-after-monaco",
+      "format": "fact",
+      "prompt": "Po dublecie przeciw Monaco 1 listopada 2026 kto samodzielnie prowadził wśród strzelców Ligue 1 z ośmioma golami?",
+      "answerParts": [
+        "Lassine Sinayoko"
+      ],
+      "subjects": [
+        "player:lassine-sinayoko"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "ligue-1",
+        "strzelcy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-01",
+      "sources": [
+        {
+          "title": "Paris FC — dublet Sinayoko z Monaco i samodzielne prowadzenie wśród strzelców Ligue 1, 1 listopada 2026",
+          "url": "https://parisfc.fr/equipe-pro/le-paris-fc-soffre-monaco-dans-une-soiree-historique-pour-le-club-3-1/",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        }
+      ],
+      "id": "2026-11-02-23"
+    },
+    {
+      "factKey": "andrzej-iwan:spalony-autobiography",
+      "format": "fact",
+      "prompt": "O którym piłkarzu opowiada „Spalony”, autobiografia napisana wspólnie z Krzysztofem Stanowskim?",
+      "answerParts": [
+        "Andrzej Iwan"
+      ],
+      "subjects": [
+        "player:andrzej-iwan"
+      ],
+      "sources": [
+        {
+          "title": "Iwan o autobiografii „Spalony” — rozmowa z piłkarzem",
+          "url": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/andrzej-iwan-swiat-futbolu-jest-zaklamany-spuscilem-zaslone-milczenia/d9h5dkw",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "id": "2026-11-02-24"
+    },
+    {
+      "factKey": "miroslaw-szymkowiak:olimpia-trabzon-pradniczanka-szaflary",
+      "format": "career-riddle",
+      "prompt": "Wychowanek Olimpii Poznań, zawodową karierę zakończył w Trabzonsporze. Po latach wrócił do gry w Prądniczance i Szaflarach. Kto?",
+      "answerParts": [
+        "Mirosław Szymkowiak"
+      ],
+      "subjects": [
+        "player:miroslaw-szymkowiak"
+      ],
+      "sources": [
+        {
+          "title": "PZPN: biografia Szymkowiaka i późniejsze powroty do gry",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/miroslaw-szymkowiak",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish"
+      ],
+      "id": "2026-11-02-25"
+    },
+    {
+      "factKey": "andriy-shevchenko:kharkov-superior-cup-golf-2013",
+      "format": "fact",
+      "prompt": "Który były zawodnik Milanu wystąpił w golfowym Kharkov Superior Cup w 2013 roku?",
+      "answerParts": [
+        "Andrij Szewczenko (Andriy Shevchenko)"
+      ],
+      "subjects": [
+        "player:andriy-shevchenko"
+      ],
+      "sources": [
+        {
+          "title": "European Tour — Szewczenko przed debiutem w turnieju golfowym",
+          "url": "https://www.europeantour.com/hotelplanner-tour/news/articles/detail/passion-for-golf-driving-shevchenko-in-new-arena/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        },
+        {
+          "title": "European Tour — zapowiedź Kharkov Superior Cup 2013",
+          "url": "https://www.europeantour.com/hotelplanner-tour/news/articles/detail/kharkov-calling-the-challenge-tour-s-finest/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        },
+        {
+          "title": "Lobortas — wytwórca trofeów potwierdza uczestników turnieju z września 2013",
+          "url": "https://lobortas.com/en/important-events/golf-european-challenge-tour-big-and-small-cups-special-order-for-the-kharkov-competition-leg-130912-en",
+          "checkedAt": "2026-11-02T11:13:06.965Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-02-26"
+    },
+    {
+      "factKey": "goncalo-guedes:benfica-psg-january-2017",
+      "format": "transfer",
+      "prompt": "Kogo sprowadzono z Portugalii w tym transferze ze stycznia 2017?",
+      "answerParts": [
+        "Gonçalo Guedes"
+      ],
+      "subjects": [
+        "player:goncalo-guedes"
+      ],
+      "sources": [
+        {
+          "title": "UEFA: Guedes przechodzi z Benfiki do Paris Saint-Germain",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0235-0e96158624a8-40585ce57d5c-1000--meet-paris-signing-goncalo-guedes-the-new-ronaldo/",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "transfer": {
+        "year": 2017,
+        "detail": "Styczeń · transfer definitywny",
+        "from": {
+          "club": "Benfica",
+          "media": {
+            "path": "assets/d12-badge-benfica.png",
+            "source": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+            "credit": "Benfica",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 248,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna tylko w USA; możliwa ochrona we Francji i ochrona znaku towarowego",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-02-27"
+    },
+    {
+      "factKey": "match:2026-11-01:juventus-napoli-two-zero",
+      "format": "result",
+      "prompt": "Juventus–Napoli, 1 listopada 2026: jakim wynikiem gospodarze uczcili 129. urodziny klubu?",
+      "answerParts": [
+        "2:0 dla Juventusu"
+      ],
+      "subjects": [
+        "match:2026-11-01-juventus-napoli"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a",
+        "wyniki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-01",
+      "sources": [
+        {
+          "title": "Juventus — zwycięstwo 2:0 z Napoli w 129. urodziny klubu, 1 listopada 2026",
+          "url": "https://www.juventus.com/en/news/articles/juventus-2-0-napoli-bianconeri-celebrate-129th-birthday-with-victory",
+          "checkedAt": "2026-11-02T11:07:36.066Z"
+        }
+      ],
+      "id": "2026-11-02-28"
+    },
+    {
+      "factKey": "new-order:world-in-motion-john-barnes-1990",
+      "format": "fact",
+      "prompt": "Który zespół nagrał „World in Motion” na mundial 1990, z rapującym Johnem Barnesem?",
+      "answerParts": [
+        "New Order"
+      ],
+      "subjects": [
+        "music:new-order"
+      ],
+      "sources": [
+        {
+          "title": "Oficjalny sklep zespołu: „World in Motion”, 1990 i rap Barnesa",
+          "url": "https://usstore.neworder.com/en-eu/products/world-in-motion-hoodie",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        },
+        {
+          "title": "Muzycy i John Barnes wspominają nagranie — rozmowy z uczestnikami",
+          "url": "https://www.gq-magazine.co.uk/article/world-in-motion-the-making-of-the-greatest-world-cup-song",
+          "checkedAt": "2026-11-02T11:11:07.079Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "id": "2026-11-02-29"
+    },
+    {
+      "factKey": "roteiro:euro-2004-official-ball-name",
+      "format": "fact",
+      "prompt": "Jak nazywała się piłka EURO 2004, nazwana od dziennika podróży Vasco da Gamy?",
+      "answerParts": [
+        "Roteiro"
+      ],
+      "subjects": [
+        "ball:roteiro"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — prezentacja oficjalnej piłki EURO 2004",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7b34cf05e1-0956377578aa-1000--adidas-on-the-ball-for-euro/",
+          "checkedAt": "2026-11-02T11:11:06.442340Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "id": "2026-11-02-30"
+    }
+  ]
+}
