@@ -1,0 +1,1312 @@
+{
+  "id": "2026-11-03",
+  "kind": "daily",
+  "title": "Trening głowy · 3 listopada 2026",
+  "date": "2026-11-03",
+  "publishAt": "2026-11-03T08:00:00+01:00",
+  "researchedAt": "2026-11-03T09:56:48.404Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-03"
+  },
+  "questions": [
+    {
+      "factKey": "bet-at-home:wisla-2009-10-shirt-sponsor",
+      "format": "kit",
+      "prompt": "Wisła Kraków, sezon 2009/10: jakiego głównego sponsora zasłonięto na koszulce?",
+      "answerParts": [
+        "bet-at-home.com"
+      ],
+      "subjects": [
+        "sponsor:bet-at-home"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "sponsorzy",
+        "lata-2000"
+      ],
+      "sources": [
+        {
+          "title": "Wisła Kraków — umowa z głównym sponsorem do 2011 roku",
+          "url": "https://archiwum.wisla.krakow.pl/pl/news/Bet_at_home_com_Sponsors_Wisla/",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        },
+        {
+          "title": "Watts1906 — fotografia z meczu z Polonią Warszawa, 26 września 2009",
+          "url": "https://commons.wikimedia.org/wiki/File:Patryk_Malecki_Wisla_Polonia_W.png",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n03-s-01.png",
+        "width": 500,
+        "height": 942,
+        "source": "https://commons.wikimedia.org/wiki/File:Patryk_Malecki_Wisla_Polonia_W.png",
+        "credit": "Watts1906",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "crop": [
+          35,
+          5,
+          455,
+          595
+        ],
+        "mask": [
+          180,
+          310,
+          225,
+          105
+        ],
+        "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
+        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu."
+      },
+      "id": "2026-11-03-01"
+    },
+    {
+      "factKey": "bartosz-slusarski:groclin-west-brom-2007",
+      "format": "transfer",
+      "prompt": "Kogo sprowadzono tym transferem w sierpniu 2007?",
+      "answerParts": [
+        "Bartosz Ślusarski"
+      ],
+      "subjects": [
+        "player:bartosz-slusarski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "Lech — klubowa biografia Ślusarskiego i kolejność zagranicznych klubów",
+          "url": "https://www.lechpoznan.pl/en/aktualnosci%2C2%2Cslusarski-nie-jest-juz-zawodnikiem-lecha%2C5500.html",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "West Brom potwierdza transfer — relacja z ogłoszenia i wypowiedź Tony’ego Mowbraya",
+          "url": "https://www.expressandstar.com/sport/football/west-bromwich-albion/west-brom-sign-slusarski-6509098",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "transfer": {
+        "year": 2007,
+        "detail": "Sierpień · transfer definitywny",
+        "from": {
+          "club": "Dyskobolia Grodzisk Wielkopolski",
+          "media": {
+            "path": "assets/n03-h-groclin.png",
+            "source": "https://en.wikipedia.org/wiki/File:Dyskobolia_Grodzisk_Logo.png",
+            "credit": "Dyskobolia Grodzisk Wielkopolski",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Dyskobolia_Grodzisk_Logo.png",
+            "changes": "Pełny herb; pomniejszenie do wyświetlania bez retuszu.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 250
+          }
+        },
+        "to": {
+          "club": "West Bromwich Albion",
+          "media": {
+            "path": "assets/d29-h-wba.png",
+            "source": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+            "credit": "West Bromwich Albion FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 299
+          }
+        }
+      },
+      "id": "2026-11-03-02"
+    },
+    {
+      "factKey": "rakow-czestochowa:2026-11-02:ends-pogon-unbeaten-run",
+      "format": "fact",
+      "prompt": "Który klub 2 listopada 2026 przerwał serię Pogoni bez porażki, wygrywając 3:1?",
+      "answerParts": [
+        "Raków Częstochowa"
+      ],
+      "subjects": [
+        "club:rakow-czestochowa"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-02",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Raków przerywa serię Pogoni, 2 listopada 2026",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-rakow-31-pogon-przewaga-dwoch-goli-i-dwoch-zawodnikow/",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        }
+      ],
+      "id": "2026-11-03-03"
+    },
+    {
+      "factKey": "lecce:crest-fragment",
+      "format": "crest",
+      "prompt": "Jaki klub rozpoznasz po tym wilku pod drzewem?",
+      "answerParts": [
+        "US Lecce"
+      ],
+      "subjects": [
+        "club:lecce"
+      ],
+      "sources": [
+        {
+          "title": "US Lecce — oficjalna strona i herb klubu",
+          "url": "https://www.uslecce.it/",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n03-v-crest-a",
+        "path": "assets/n03-v-crest-a.png",
+        "source": "https://en.wikipedia.org/wiki/File:US_Lecce_crest.svg",
+        "credit": "US Lecce; plik wektorowy udostępniony w Wikipedii",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://www.uslecce.it/",
+        "width": 1000,
+        "height": 1248,
+        "crop": [
+          170,
+          440,
+          660,
+          700
+        ],
+        "changes": "Wierne renderowanie SVG do PNG; kadrowanie w interfejsie usuwa nazwę i rok. Bez przerysowywania herbu.",
+        "alt": "Wilk i drzewo na ciemnoniebieskim tle; nazwa oraz rok poza kadrem."
+      },
+      "id": "2026-11-03-04"
+    },
+    {
+      "factKey": "espanyol:uefa-cup-2007-unbeaten-losing-finalist",
+      "format": "fact",
+      "prompt": "Który klub nie przegrał meczu w Pucharze UEFA 2006/07, lecz uległ Sevilli w finałowych karnych?",
+      "answerParts": [
+        "Espanyol"
+      ],
+      "subjects": [
+        "club:espanyol"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-europy",
+        "puchar-uefa",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Espanyol zachował bilans bez porażki mimo przegranego finału po karnych",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01c1-0e6e4d19e765-585e947c408d-1000--iraizoz-knackered-but-proud/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-05"
+    },
+    {
+      "factKey": "jacek-magiera:portrait",
+      "format": "photo",
+      "prompt": "Którego polskiego szkoleniowca pokazuje ten cywilny portret?",
+      "answerParts": [
+        "Jacek Magiera"
+      ],
+      "subjects": [
+        "coach:jacek-magiera"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — sylwetka i portret Jacka Magiery",
+          "url": "https://www.pzpn.pl/federacja/aktualnosci/2018-03-19/jacek-magiera-trenerem-reprezentacji-polski-do-lat-20",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "media": {
+        "id": "n03-v-portrait-a",
+        "path": "assets/n03-v-portrait-a.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jacek_Magiera.JPG",
+        "credit": "rdcpolskieradio; kadr z wywiadu (2019), udostępniony przez Artur Andrzej",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "width": 500,
+        "height": 375,
+        "crop": [
+          110,
+          0,
+          270,
+          330
+        ],
+        "changes": "Wersja podglądowa Wikimedia; kadrowanie w interfejsie, bez retuszu.",
+        "alt": "Szkoleniowiec w cywilnej koszuli, bez klubowych oznaczeń."
+      },
+      "id": "2026-11-03-06"
+    },
+    {
+      "factKey": "parmalat:benfica-1994-95-shirt-sponsor",
+      "format": "kit",
+      "prompt": "Replika koszulki Benfiki 1994/95: jaki sponsor kryje się pod zasłoną?",
+      "answerParts": [
+        "Parmalat"
+      ],
+      "subjects": [
+        "sponsor:parmalat"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portugalia",
+        "sponsorzy",
+        "lata-1990"
+      ],
+      "sources": [
+        {
+          "title": "Benfica — oficjalna replika koszulki z sezonu 1994/95",
+          "url": "https://www.slbenfica.pt/pt-pt/loja/equipamentos/retro/adulto/camisola-retro-parmalat-199495",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        },
+        {
+          "title": "Threeohsix — fotografia repliki w oficjalnym sklepie Benfiki",
+          "url": "https://commons.wikimedia.org/wiki/File:Parmalat_shirt_from_94-95.jpg",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n03-s-02.jpg",
+        "width": 960,
+        "height": 1280,
+        "source": "https://commons.wikimedia.org/wiki/File:Parmalat_shirt_from_94-95.jpg",
+        "credit": "Threeohsix",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "crop": [
+          210,
+          390,
+          455,
+          525
+        ],
+        "mask": [
+          390,
+          625,
+          180,
+          95
+        ],
+        "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
+        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu. Fotografia repliki historycznej koszulki."
+      },
+      "id": "2026-11-03-07"
+    },
+    {
+      "factKey": "obafemi-martins:inter-newcastle-wolfsburg-rubin-2002-2012",
+      "format": "career",
+      "prompt": "Który piłkarz łączy te etapy kariery z lat 2002–2012?",
+      "answerParts": [
+        "Obafemi Martins"
+      ],
+      "subjects": [
+        "player:obafemi-martins"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "Inter — pierwszy zespół Martinsa od debiutu w grudniu 2002",
+          "url": "https://www.inter.it/en/news/birthday-obafemi-martins-2024",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "UEFA — Martins z Newcastle do Wolfsburga; wcześniejszy Inter od 2001, Newcastle od 2006",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01db-0e728820053a-6d22385e2ab0-1000--martins-adds-zest-to-wolfsburg-attack/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "UEFA — Martins z Wolfsburga do Rubinu w lipcu 2010",
+          "url": "https://de.uefa.com/uefachampionsleague/news/01e7-0e74d8999061-82f052416843-1000--martins-wechselt-zu-rubin/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Seattle Sounders — sezony w Europie i Rubin Kazań 2010–2012",
+          "url": "https://www.soundersfc.com/news/sounders-fc-signs-forward-obafemi-martins-contract-extension",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Seattle Sounders — biografia i wypożyczenie Martinsa do Birmingham",
+          "url": "https://www.soundersfc.com/players/obafemi-martins/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "careerCaption": "Wybrane etapy gry w pierwszych drużynach; pominięto wypożyczenie w 2011 oraz wcześniejsze i późniejsze kluby.",
+      "career": [
+        {
+          "club": "Inter Mediolan",
+          "years": "2002–2006",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Newcastle United",
+          "years": "2006–2009",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "years": "2009–2010",
+          "media": {
+            "path": "assets/14.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "credit": "Unknown authorUnknown author",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 960
+          }
+        },
+        {
+          "club": "Rubin Kazań",
+          "years": "2010–2012",
+          "media": {
+            "path": "assets/n03-h-rubin.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Rubin_Kazan_logo.svg",
+            "credit": "Rubin Kazań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Rubin_Kazan_logo.svg",
+            "changes": "Pełny herb; pomniejszenie do wyświetlania bez retuszu.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 336
+          }
+        }
+      ],
+      "id": "2026-11-03-08"
+    },
+    {
+      "factKey": "jacob-ramsey:2026-11-02:two-stoppage-time-bookings-everton",
+      "format": "fact",
+      "prompt": "Newcastle–Everton, 2 listopada 2026: kto dostał dwie żółte kartki już w doliczonym czasie gry?",
+      "answerParts": [
+        "Jacob Ramsey"
+      ],
+      "subjects": [
+        "player:jacob-ramsey"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league",
+        "kartki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-02",
+      "sources": [
+        {
+          "title": "Newcastle — relacja z porażki 0:1 z Evertonem i czerwona kartka Ramseya",
+          "url": "https://www.newcastleunited.com/en/news/everton-h-report-26-27",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        },
+        {
+          "title": "Newcastle — oficjalny terminarz pierwszej drużyny, data meczu z Evertonem",
+          "url": "https://www.newcastleunited.com/en/matches/mens-team/fixtures",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        }
+      ],
+      "id": "2026-11-03-09"
+    },
+    {
+      "factKey": "waldemar-fornalik:coach-link-sobiech-ruch-swierczok-piast",
+      "format": "coach-link",
+      "prompt": "Sobiech w Ruchu w 2009/10, Świerczok w Piaście w 2020/21. Kto prowadził obu?",
+      "answerParts": [
+        "Waldemar Fornalik"
+      ],
+      "subjects": [
+        "coach:waldemar-fornalik"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Fornalik — rozmowa o własnej drużynie i duecie Niedzielan–Sobiech, grudzień 2009",
+          "url": "https://chorzow.naszemiasto.pl/nie-bedzie-wyprzedazy-ruchu/ar/c2-263837",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Piast — Fornalik, Świerczok i Plach nominowani za sezon 2020/21",
+          "url": "https://piast-gliwice.eu/aktualnosci/newsy/trener-fornalik-swierczok-i-plach-nominowani-do-nagrod-ekstraklasy",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-10"
+    },
+    {
+      "factKey": "fabio-aurelio:valencia-liverpool-2006",
+      "format": "transfer",
+      "prompt": "Kto przeszedł tą drogą bez odstępnego w lipcu 2006?",
+      "answerParts": [
+        "Fábio Aurélio"
+      ],
+      "subjects": [
+        "player:fabio-aurelio"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer"
+      ],
+      "sources": [
+        {
+          "title": "Liverpool — Aurélio dołączył bez odstępnego z Valencii w lipcu 2006",
+          "url": "https://www.liverpoolfc.com/info/fabio-aurelio",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "transfer": {
+        "year": 2006,
+        "detail": "Lipiec · bez odstępnego",
+        "from": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Liverpool",
+          "media": {
+            "path": "assets/d11-badge-liverpool.png",
+            "source": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "credit": "Liverpool",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Liverpool_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 342,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-03-11"
+    },
+    {
+      "factKey": "vincenzo-italiano:fiorentina-conference-finals-2023-2024",
+      "format": "coach",
+      "prompt": "Który trener doprowadził Fiorentinę do dwóch kolejnych finałów Ligi Konferencji w 2023 i 2024?",
+      "answerParts": [
+        "Vincenzo Italiano"
+      ],
+      "subjects": [
+        "coach:vincenzo-italiano"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "liga-konferencji",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — rozmowa z Italiano przed drugim kolejnym finałem Ligi Konferencji",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/028d-1afc9ff26116-d5e40db507f5-1000--fiorentina-coach-vincenzo-italiano-on-last-season-s-europa-c/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-12"
+    },
+    {
+      "factKey": "opel:bordeaux-1985-shirt-sponsor",
+      "format": "kit",
+      "prompt": "Domowa koszulka Bordeaux z lat 1985–87: podaj zasłoniętego sponsora.",
+      "answerParts": [
+        "Opel"
+      ],
+      "subjects": [
+        "sponsor:opel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "sponsorzy",
+        "lata-1980"
+      ],
+      "sources": [
+        {
+          "title": "Girondins Bordeaux — klubowa replika koszulki z lat 1985–87",
+          "url": "https://boutique.girondins.com/fr/maillots/192-maillot-vintage-opel.html",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        },
+        {
+          "title": "TaraO — fotografia historycznej koszulki Bordeaux",
+          "url": "https://commons.wikimedia.org/wiki/File:Maillot_FCGB_-_1985.jpg",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n03-s-03.jpg",
+        "width": 960,
+        "height": 1280,
+        "source": "https://commons.wikimedia.org/wiki/File:Maillot_FCGB_-_1985.jpg",
+        "credit": "TaraO",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+        "crop": [
+          20,
+          0,
+          920,
+          1215
+        ],
+        "mask": [
+          240,
+          460,
+          500,
+          135
+        ],
+        "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
+        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu."
+      },
+      "id": "2026-11-03-13"
+    },
+    {
+      "factKey": "hansi-flick:2026-10-31:100-barcelona-wins-131-games",
+      "format": "coach",
+      "prompt": "Który trener 31 października 2026 odniósł setne zwycięstwo z Barceloną, potrzebując 131 spotkań?",
+      "answerParts": [
+        "Hansi Flick"
+      ],
+      "subjects": [
+        "coach:hansi-flick"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "la-liga",
+        "rekordy",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-10-31",
+      "sources": [
+        {
+          "title": "Barcelona — setne zwycięstwo Flicka w 131 meczach, 31 października 2026",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4601449/hansi-flick-record-breaking-100-wins",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        }
+      ],
+      "id": "2026-11-03-14"
+    },
+    {
+      "factKey": "weserstadion:stadium-identification",
+      "format": "stadium",
+      "prompt": "Podaj nazwę stadionu stojącego nad rzeką oraz miasto.",
+      "answerParts": [
+        "Weserstadion, Brema"
+      ],
+      "subjects": [
+        "stadium:weserstadion"
+      ],
+      "sources": [
+        {
+          "title": "Werder — dane stadionu i położenie w Bremie",
+          "url": "https://www.werder.de/stadionerlebnis/weserstadion/",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        },
+        {
+          "title": "Miasto Brema — Weserstadion nad Wezerą",
+          "url": "https://www.bremen.de/visitenkarte/weserstadion",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        }
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "media": {
+        "id": "n03-v-stadium",
+        "path": "assets/n03-v-stadium.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Weserstadion-Westansicht.jpg",
+        "credit": "Rumo24",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 500,
+        "height": 333,
+        "crop": [
+          65,
+          40,
+          375,
+          205
+        ],
+        "changes": "Wersja podglądowa Wikimedia; kadrowanie w interfejsie, bez retuszu.",
+        "alt": "Stadion z czterema wysokimi masztami i srebrzystym dachem nad rzeką, bez czytelnych oznaczeń."
+      },
+      "id": "2026-11-03-15"
+    },
+    {
+      "factKey": "hugo-viana:missing-sporting-cp-loan-2004-2005",
+      "format": "career-gap",
+      "prompt": "Hugo Viana: do którego klubu trafił na wypożyczenie w sezonie 2004/05?",
+      "answerParts": [
+        "Sporting CP"
+      ],
+      "subjects": [
+        "club:sporting-cp"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "portugalia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — powrót Hugo Viany na roczne wypożyczenie w lipcu 2004",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/019f-0ea6d7c4252b-6526789bc142-1000--hugo-viana-heads-home/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Viana na konferencji prasowej we wrześniu 2005 — wypożyczony do Valencii z Newcastle",
+          "url": "https://as.com/futbol/2005/09/15/mas_futbol/1126735208_850215.html",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "UEFA — Viana wykupiony przez Valencię w marcu 2006",
+          "url": "https://www.uefa.com/news-media/news/01b3-0f848651fd78-bcf7fdc3685e-1000--valencia-seal-viana-deal/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery, 2002–2006; pominięto wcześniejsze i późniejsze kluby.",
+      "career": [
+        {
+          "club": "Newcastle United",
+          "years": "2002–2004",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        },
+        {
+          "club": "Sporting CP",
+          "years": "2004/05",
+          "note": "Wypożyczenie",
+          "missing": 0,
+          "media": {
+            "path": "assets/n03-h-sporting.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sporting_Clube_de_Portugal_logo_(2026).svg",
+            "credit": "Sporting CP",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sporting_Clube_de_Portugal_logo_(2026).svg",
+            "changes": "Pełny herb; pomniejszenie do wyświetlania bez retuszu.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 348
+          }
+        },
+        {
+          "club": "Valencia",
+          "years": "2005/06",
+          "note": "Początkowo wypożyczenie; wykup w marcu 2006",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      ],
+      "id": "2026-11-03-16"
+    },
+    {
+      "factKey": "andrzej-bledzewski:poland-u16-final-goalkeeper-1993",
+      "format": "fact",
+      "prompt": "Kto bronił bramki Polski w wygranym 1:0 finale ME U-16 przeciw Włochom w 1993?",
+      "answerParts": [
+        "Andrzej Bledzewski"
+      ],
+      "subjects": [
+        "player:andrzej-bledzewski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "mlodziez",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Piotr Stańczak rozmawia z Bledzewskim — wspomnienia bramkarza z finału ME U-16",
+          "url": "https://www.nabialoczerwonym.com/2023/05/andrzej-bledzewski-o-mistrzostwach.html",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Relacja z finału z 8 maja 1993 — Gazeta Lubuska, 10 maja, strona sportowa",
+          "url": "https://zbc.uz.zgora.pl/Content/56893/Nr_89_10-05-1993.pdf",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-17"
+    },
+    {
+      "factKey": "jan-grzesik:2026-11-02:brace-against-slask",
+      "format": "fact",
+      "prompt": "Radomiak–Śląsk, 2 listopada 2026: kto zdobył dublet, powiększając dorobek przeciw wrocławianom do pięciu goli w siedmiu występach?",
+      "answerParts": [
+        "Jan Grzesik"
+      ],
+      "subjects": [
+        "player:jan-grzesik"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "strzelcy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-02",
+      "sources": [
+        {
+          "title": "Ekstraklasa — dublet Grzesika i pięć goli w siedmiu ostatnich meczach ze Śląskiem",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-radomiak-31-slask-dublet-grzesika/",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        }
+      ],
+      "id": "2026-11-03-18"
+    },
+    {
+      "factKey": "kia:atletico-2009-10-ucl-shirt-sponsor",
+      "format": "kit",
+      "prompt": "Atlético, Liga Mistrzów 2009/10: jaką markę zasłonięto na przodzie koszulki Forlána?",
+      "answerParts": [
+        "Kia"
+      ],
+      "subjects": [
+        "sponsor:kia"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "hiszpania",
+        "liga-mistrzow",
+        "sponsorzy",
+        "lata-2000"
+      ],
+      "sources": [
+        {
+          "title": "Atlético — główny sponsor na przodzie koszulki od 2005 roku",
+          "url": "https://www.atleticodemadrid.com/noticias/kia-entregara-el-jueves-9-a-la-primera-plantilla-los-nuevos-coches-de-la-campana-10-11",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        },
+        {
+          "title": "George Groutas — fotografia z Ligi Mistrzów 2009/10",
+          "url": "https://commons.wikimedia.org/wiki/File:Diego_Forl%C3%A1n_Atl%C3%A9tico_Madrid.jpg",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n03-s-04.jpg",
+        "width": 1920,
+        "height": 1285,
+        "source": "https://commons.wikimedia.org/wiki/File:Diego_Forl%C3%A1n_Atl%C3%A9tico_Madrid.jpg",
+        "credit": "George Groutas",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "crop": [
+          740,
+          230,
+          460,
+          720
+        ],
+        "mask": [
+          965,
+          585,
+          75,
+          110
+        ],
+        "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
+        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu."
+      },
+      "id": "2026-11-03-19"
+    },
+    {
+      "factKey": "fernando-meira:stuttgart-galatasaray-2008",
+      "format": "transfer",
+      "prompt": "Którego piłkarza dotyczy pokazany ruch z lata 2008?",
+      "answerParts": [
+        "Fernando Meira"
+      ],
+      "subjects": [
+        "player:fernando-meira"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Meira przechodzi ze Stuttgartu do Galatasaray",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01cf-0e6f813b62ed-8e01c870cbed-1000--meira-turns-new-page-at-galatasaray/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Galatasaray — Meira o przejściu ze Stuttgartu",
+          "url": "https://www.galatasaray.org/haber/gstv/roportajlar/meira-artik-galatasaray-icin-savasacagim/23499",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Lipiec · transfer definitywny",
+        "from": {
+          "club": "VfB Stuttgart",
+          "media": {
+            "path": "assets/n03-h-stuttgart.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfB_Stuttgart_1893_Logo.svg",
+            "credit": "VfB Stuttgart",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfB_Stuttgart_1893_Logo.svg",
+            "changes": "Pełny herb; pomniejszenie do wyświetlania bez retuszu.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 273
+          }
+        },
+        "to": {
+          "club": "Galatasaray",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-03-20"
+    },
+    {
+      "factKey": "jorge-andrade:portrait",
+      "format": "photo",
+      "prompt": "Kogo przedstawia fotografia z wystąpienia na scenie?",
+      "answerParts": [
+        "Jorge Andrade"
+      ],
+      "subjects": [
+        "player:jorge-andrade"
+      ],
+      "sources": [
+        {
+          "title": "Web Summit — podpis oryginalnej fotografii Jorge Andrade",
+          "url": "https://www.flickr.com/photos/websummit/38190347246/",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        },
+        {
+          "title": "UEFA — Jorge Andrade, były reprezentant Portugalii",
+          "url": "https://www.uefa.com/news-media/news/01c3-0f84b346d7fa-b022d04ce5b5-1000--juventus-joy-for-jorge-andrade/",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n03-v-portrait-b",
+        "path": "assets/n03-v-portrait-b.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Web_Summit_2017_-_SportsTrade_CG1_7208_(38190347246).jpg",
+        "credit": "Cody Glenn / Web Summit via Sportsfile",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "width": 1280,
+        "height": 860,
+        "crop": [
+          440,
+          145,
+          340,
+          400
+        ],
+        "changes": "Wersja podglądowa Wikimedia; kadrowanie w interfejsie, bez retuszu.",
+        "alt": "Były piłkarz w cywilnym polo podczas wystąpienia, bez klubowych oznaczeń."
+      },
+      "id": "2026-11-03-21"
+    },
+    {
+      "factKey": "red-bull-salzburg:shared-club-kovac-zickler-2006-07",
+      "format": "shared-club",
+      "prompt": "Niko Kovač i Alexander Zickler: w którym austriackim klubie grali razem w sezonie 2006/07?",
+      "answerParts": [
+        "Red Bull Salzburg"
+      ],
+      "subjects": [
+        "club:red-bull-salzburg"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "austria",
+        "powiazania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Kovač i Zickler zdobywają mistrzostwo Austrii w 2007",
+          "url": "https://www.uefa.com/news-media/news/01c0-0f8eef79579a-a55236b0a629-1000--salzburg-sizzling-after-title-triumph/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-22"
+    },
+    {
+      "factKey": "match:2026-11-02:deportivo-osasuna-comeback-two-one",
+      "format": "result",
+      "prompt": "Deportivo–Osasuna, 2 listopada 2026: jak zakończył się mecz, w którym gospodarze przegrywali do przerwy 0:1?",
+      "answerParts": [
+        "2:1 dla Deportivo"
+      ],
+      "subjects": [
+        "match:2026-11-02-deportivo-osasuna"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "la-liga",
+        "wyniki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-02",
+      "sources": [
+        {
+          "title": "La Liga — zakończony mecz Deportivo–Osasuna, wynik i przebieg, 2 listopada 2026",
+          "url": "https://www.laliga.com/es-GB/partido/temporada-2026-2027-laliga-ea-sports-rc-deportivo-ca-osasuna-11",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        }
+      ],
+      "id": "2026-11-03-23"
+    },
+    {
+      "factKey": "world-cup-willie:1966-first-official-world-cup-mascot",
+      "format": "fact",
+      "prompt": "Jak nazywał się lew będący pierwszą oficjalną maskotką mundialu, w Anglii w 1966?",
+      "answerParts": [
+        "World Cup Willie"
+      ],
+      "subjects": [
+        "mascot:world-cup-willie"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "maskotki",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — World Cup Willie i początek tradycji maskotek w 1966",
+          "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/mo-94-countdown-66-days-2936615",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-24"
+    },
+    {
+      "factKey": "mansion:tottenham-2008-09-shirt-sponsor",
+      "format": "kit",
+      "prompt": "Tottenham, domowa koszulka 2008/09: jaki sponsor zniknął z jej przodu?",
+      "answerParts": [
+        "Mansion (Mansion.com)"
+      ],
+      "subjects": [
+        "sponsor:mansion"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "anglia",
+        "sponsorzy",
+        "lata-2000"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — raport roczny: sponsor koszulek w sezonach 2006/07–2009/10",
+          "url": "https://www.tottenhamhotspur.com/media/1558/2006-tottenham-hotspur-plc-annual-report.pdf",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        },
+        {
+          "title": "Tottenham — oficjalna galeria koszulek i wersja z sezonu 2008/09",
+          "url": "https://www.tottenhamhotspur.com/news/994837/gallery-our-lilywhite-shirts-through-the-years",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        },
+        {
+          "title": "EnglishHorn73 — fotografia z meczu z Chelsea, 21 marca 2009",
+          "url": "https://commons.wikimedia.org/wiki/File:Robbie_Keane_vs_Chelsea.jpg",
+          "checkedAt": "2026-11-03T09:46:59.000Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n03-s-05.jpg",
+        "width": 960,
+        "height": 1316,
+        "source": "https://commons.wikimedia.org/wiki/File:Robbie_Keane_vs_Chelsea.jpg",
+        "credit": "EnglishHorn73",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "crop": [
+          190,
+          50,
+          450,
+          750
+        ],
+        "mask": [
+          390,
+          425,
+          195,
+          160
+        ],
+        "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
+        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu."
+      },
+      "id": "2026-11-03-25"
+    },
+    {
+      "factKey": "stade-brestois:crest-fragment",
+      "format": "crest",
+      "prompt": "Który klub rozpoznajesz po białym gronostajowym znaku na czerwonej tarczy?",
+      "answerParts": [
+        "Stade Brestois 29 (Brest)"
+      ],
+      "subjects": [
+        "club:stade-brestois"
+      ],
+      "sources": [
+        {
+          "title": "Stade Brestois 29 — oficjalna strona i herb klubu",
+          "url": "https://www.sb29.bzh/",
+          "checkedAt": "2026-11-03T09:46:55.049Z"
+        }
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "media": {
+        "id": "n03-v-crest-b",
+        "path": "assets/n03-v-crest-b.png",
+        "source": "https://en.wikipedia.org/wiki/File:Stade_Brestois_29_logo.svg",
+        "credit": "Stade Brestois 29; plik wektorowy udostępniony w Wikipedii",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://www.sb29.bzh/",
+        "width": 1000,
+        "height": 1212,
+        "crop": [
+          200,
+          40,
+          600,
+          465
+        ],
+        "changes": "Wierne renderowanie SVG do PNG; kadrowanie w interfejsie usuwa litery oraz liczby. Bez przerysowywania herbu.",
+        "alt": "Biały stylizowany gronostajowy symbol w górnej części czerwonej tarczy, bez liter i cyfr."
+      },
+      "id": "2026-11-03-26"
+    },
+    {
+      "factKey": "tomasz-zdebel:lierse-genclerbirligi-bochum-leverkusen",
+      "format": "career-riddle",
+      "prompt": "Grał w Lierse i Gençlerbirliği, był kapitanem Bochum. Zimą 2009 trafił do Leverkusen. Który reprezentant Polski?",
+      "answerParts": [
+        "Tomasz Zdebel"
+      ],
+      "subjects": [
+        "player:tomasz-zdebel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "Bayer — biografia i własne wspomnienia Zdebela: Lierse, Ankara, kapitan Bochum i transfer zimą 2008/09",
+          "url": "https://www.bayer04.de/de-de/news/u17/thomas-zdebel-zurueck-unterm-bayer-kreuz",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-27"
+    },
+    {
+      "factKey": "armand-lauriente:2026-11-02:brace-in-fiorentina-defeat",
+      "format": "fact",
+      "prompt": "Kto strzelił oba gole Sassuolo w przegranym 2:4 meczu z Fiorentiną 2 listopada 2026?",
+      "answerParts": [
+        "Armand Laurienté"
+      ],
+      "subjects": [
+        "player:armand-lauriente"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a",
+        "strzelcy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-02",
+      "sources": [
+        {
+          "title": "Sassuolo — wypowiedzi po porażce z Fiorentiną; potwierdzenie dubletu Laurientégo",
+          "url": "https://www.sassuolocalcio.it/prima-squadra/le-parole-di-alberto-aquilani-e-jay-idzes-al-termine-di-sassuolo-fiorentina/",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        },
+        {
+          "title": "Sassuolo — skrót zakończonego meczu 2:4 z Fiorentiną, 2 listopada 2026",
+          "url": "https://www.sassuolocalcio.it/sassuolo-channel-tv/serie-a-enilive-gli-highlights-di-sassuolo-fiorentina-2-4/",
+          "checkedAt": "2026-11-03T09:50:27.079Z"
+        }
+      ],
+      "id": "2026-11-03-28"
+    },
+    {
+      "factKey": "amantino-mancini:inter-milan-loan-february-2010",
+      "format": "transfer",
+      "prompt": "Kogo wypożyczono do lokalnego rywala w lutym 2010?",
+      "answerParts": [
+        "Mancini (Amantino Mancini)"
+      ],
+      "subjects": [
+        "player:amantino-mancini"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Inter — klub wspomina Manciniego i przejście do Milanu w sezonie 2009/10",
+          "url": "https://www.inter.it/en/news/2020-05-20-inter-squad-2009-10-season",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "Ogłoszenie wypożyczenia Mancini z opcją wykupu — 1 lutego 2010",
+          "url": "https://sport.sky.it/calciomercato/2010/02/01/mancini_al_milan_in_prestito",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "transfer": {
+        "year": 2010,
+        "detail": "Luty · wypożyczenie do końca sezonu 2009/10",
+        "from": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-03-29"
+    },
+    {
+      "factKey": "israel:asian-cup-champion-hosts-1964",
+      "format": "fact",
+      "prompt": "Która reprezentacja, dziś należąca do UEFA, wygrała u siebie Puchar Azji w 1964?",
+      "answerParts": [
+        "Izrael"
+      ],
+      "subjects": [
+        "national-team:israel"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "reprezentacje",
+        "azja",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "AFC — Izrael gospodarzem i zwycięzcą Pucharu Azji 1964",
+          "url": "https://www.the-afc.com/en/more/news/moments_and_milestones_the_1964_afc_asian_cup.html",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        },
+        {
+          "title": "UEFA — federacja Izraela jako członek UEFA",
+          "url": "https://www.uefa.com/nationalassociations/isr/",
+          "checkedAt": "2026-11-03T09:50:57.079Z"
+        }
+      ],
+      "id": "2026-11-03-30"
+    }
+  ]
+}
