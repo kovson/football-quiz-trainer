@@ -4,7 +4,7 @@
   "title": "Trening głowy · 3 listopada 2026",
   "date": "2026-11-03",
   "publishAt": "2026-11-03T08:00:00+01:00",
-  "researchedAt": "2026-11-03T09:56:48.404Z",
+  "researchedAt": "2026-11-03T10:10:45.975Z",
   "eventWindow": {
     "start": "2026-10-28",
     "end": "2026-11-03"
@@ -259,55 +259,55 @@
       "id": "2026-11-03-06"
     },
     {
-      "factKey": "parmalat:benfica-1994-95-shirt-sponsor",
+      "factKey": "bwin:real-madrid-2009-10-away-shirt-sponsor",
       "format": "kit",
-      "prompt": "Replika koszulki Benfiki 1994/95: jaki sponsor kryje się pod zasłoną?",
+      "prompt": "Real Madryt, wyjazdowa koszulka 2009/10: jaką markę zasłonięto na jej przodzie?",
       "answerParts": [
-        "Parmalat"
+        "bwin (bwin.com)"
       ],
       "subjects": [
-        "sponsor:parmalat"
+        "sponsor:bwin"
       ],
-      "difficulty": "trudne",
+      "difficulty": "średnie",
       "tags": [
-        "portugalia",
+        "hiszpania",
         "sponsorzy",
-        "lata-1990"
+        "lata-2000"
       ],
       "sources": [
         {
-          "title": "Benfica — oficjalna replika koszulki z sezonu 1994/95",
-          "url": "https://www.slbenfica.pt/pt-pt/loja/equipamentos/retro/adulto/camisola-retro-parmalat-199495",
-          "checkedAt": "2026-11-03T09:46:59.000Z"
+          "title": "Real Madryt — raport roczny 2009/10, sponsorzy i odnowienie umowy do 2013 roku",
+          "url": "https://www.realmadrid.com/StaticFiles/RealMadrid/InformeAnual0910_Ingles/pdf/Revista.pdf",
+          "checkedAt": "2026-11-03T10:10:00.038Z"
         },
         {
-          "title": "Threeohsix — fotografia repliki w oficjalnym sklepie Benfiki",
-          "url": "https://commons.wikimedia.org/wiki/File:Parmalat_shirt_from_94-95.jpg",
-          "checkedAt": "2026-11-03T09:46:59.000Z"
+          "title": "José Porras — fotografia z meczu ligowego z Espanyolem we wrześniu 2009",
+          "url": "https://commons.wikimedia.org/wiki/File:XabiAlonso.jpg",
+          "checkedAt": "2026-11-03T10:10:00.038Z"
         }
       ],
       "media": {
-        "path": "assets/n03-s-02.jpg",
-        "width": 960,
-        "height": 1280,
-        "source": "https://commons.wikimedia.org/wiki/File:Parmalat_shirt_from_94-95.jpg",
-        "credit": "Threeohsix",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "path": "assets/n03-r-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:XabiAlonso.jpg",
+        "credit": "José Porras (Elemaki)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
         "crop": [
-          210,
-          390,
-          455,
-          525
+          65,
+          30,
+          370,
+          640
         ],
         "mask": [
-          390,
-          625,
-          180,
-          95
+          165,
+          342,
+          150,
+          70
         ],
         "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
-        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu. Fotografia repliki historycznej koszulki."
+        "changes": "Wariant zdjęcia udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu.",
+        "width": 500,
+        "height": 1083
       },
       "id": "2026-11-03-07"
     },
@@ -559,55 +559,55 @@
       "id": "2026-11-03-12"
     },
     {
-      "factKey": "opel:bordeaux-1985-shirt-sponsor",
+      "factKey": "pirelli:inter-summer-2009-shirt-sponsor",
       "format": "kit",
-      "prompt": "Domowa koszulka Bordeaux z lat 1985–87: podaj zasłoniętego sponsora.",
+      "prompt": "Inter, lato 2009: jakiego głównego sponsora zasłonięto na koszulce Zanettiego?",
       "answerParts": [
-        "Opel"
+        "Pirelli"
       ],
       "subjects": [
-        "sponsor:opel"
+        "sponsor:pirelli"
       ],
-      "difficulty": "trudne",
+      "difficulty": "średnie",
       "tags": [
-        "francja",
+        "wlochy",
         "sponsorzy",
-        "lata-1980"
+        "lata-2000"
       ],
       "sources": [
         {
-          "title": "Girondins Bordeaux — klubowa replika koszulki z lat 1985–87",
-          "url": "https://boutique.girondins.com/fr/maillots/192-maillot-vintage-opel.html",
-          "checkedAt": "2026-11-03T09:46:59.000Z"
+          "title": "Inter — 26 lat na koszulce, od 1995 do 2021 roku",
+          "url": "https://www.inter.it/en/news/2021-05-22-pirelli-inter-global-tyre-partner",
+          "checkedAt": "2026-11-03T10:10:00.038Z"
         },
         {
-          "title": "TaraO — fotografia historycznej koszulki Bordeaux",
-          "url": "https://commons.wikimedia.org/wiki/File:Maillot_FCGB_-_1985.jpg",
-          "checkedAt": "2026-11-03T09:46:59.000Z"
+          "title": "Sona Hovasapyan — fotografia z letniego sparingu Interu z Club América w 2009",
+          "url": "https://commons.wikimedia.org/wiki/File:Club_Am%C3%A9rica_v_Inter_Milan_-_2009_-_Javier_Zanetti_(cropped).jpg",
+          "checkedAt": "2026-11-03T10:10:00.038Z"
         }
       ],
       "media": {
-        "path": "assets/n03-s-03.jpg",
-        "width": 960,
-        "height": 1280,
-        "source": "https://commons.wikimedia.org/wiki/File:Maillot_FCGB_-_1985.jpg",
-        "credit": "TaraO",
-        "license": "CC BY 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+        "path": "assets/n03-r-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Club_Am%C3%A9rica_v_Inter_Milan_-_2009_-_Javier_Zanetti_(cropped).jpg",
+        "credit": "Sona Hovasapyan; kadr: Danyele",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
         "crop": [
-          20,
-          0,
-          920,
-          1215
+          15,
+          5,
+          465,
+          620
         ],
         "mask": [
-          240,
-          460,
-          500,
-          135
+          135,
+          300,
+          175,
+          65
         ],
         "alt": "Koszulka piłkarska z zasłoniętym głównym sponsorem.",
-        "changes": "Wariant obrazu udostępniony przez Wikimedia Commons; kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu."
+        "changes": "Wariant zdjęcia i wcześniejszy kadr udostępnione przez Wikimedia Commons; dodatkowe kadrowanie w interfejsie. Główny sponsor zakryty nakładką przed odkryciem odpowiedzi. Plik zdjęcia bez retuszu.",
+        "width": 500,
+        "height": 674
       },
       "id": "2026-11-03-13"
     },

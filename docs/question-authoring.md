@@ -51,6 +51,7 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 
 ## Shirt sponsor recall
 
+- Use shirts from 2000 onwards: for season-based clues, choose 2000/01 or later. Rotate clubs and seasons within this period; do not use pre-2000 retro shirts for sponsor recall. This is the user's era preference, confirmed on 3 November 2026.
 - Include two visual shirt-sponsor questions in the next ordinary daily set, then rotate this task regularly with the other formats. These replace other questions within the thirty-question set; do not add them to the completed pre-quiz review.
 - Show a genuine shirt or a player wearing it with the sponsor deliberately masked or removed. Ask for the missing sponsor, normally the main front-of-shirt sponsor, rather than the player, club or kit manufacturer. Club crests and recognizable shirt details may remain as intended clues in this task; the no-identifying-kit rule for player portraits does not apply here.
 - Verify the exact shirt, season and competition against reliable evidence: sponsorship can differ by year, competition or shirt variant. Give enough visible context or a short season clue to make one answer unambiguous. Do not assume a player's club spell identifies a unique sponsor.
