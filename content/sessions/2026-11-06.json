@@ -1,0 +1,1276 @@
+{
+  "id": "2026-11-06",
+  "kind": "daily",
+  "title": "Trening głowy · 6 listopada 2026",
+  "date": "2026-11-06",
+  "publishAt": "2026-11-06T00:05:00+01:00",
+  "researchedAt": "2026-11-05T23:15:50.865Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-06"
+  },
+  "questions": [
+    {
+      "format": "result",
+      "factKey": "match:2026-11-05:levski-jagiellonia-late-winner-score",
+      "prompt": "Lewski–Jagiellonia, 5 listopada 2026: jaki wynik ustalił gol Stojanczowa głową w końcówce meczu Ligi Europy?",
+      "answerParts": [
+        "1:0 dla Lewskiego"
+      ],
+      "subjects": [
+        "match:2026-11-05-levski-jagiellonia"
+      ],
+      "difficulty": "łatwe",
+      "eventDate": "2026-11-05",
+      "tags": [
+        "polish",
+        "recent",
+        "season",
+        "liga-europy",
+        "bulgaria"
+      ],
+      "sources": [
+        {
+          "title": "Lewski Sofia — raport końcowy i gol Stojanczowa w 83. minucie",
+          "url": "https://levski.bg/%D1%81%D0%B8%D0%BD%D1%8F-%D0%B5%D1%83%D1%84%D0%BE%D1%80%D0%B8%D1%8F-%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8-%D1%8F%D0%B3/",
+          "checkedAt": "2026-11-05T23:07:22.472Z"
+        }
+      ],
+      "season": "2026/27",
+      "id": "2026-11-06-01"
+    },
+    {
+      "factKey": "pawel-dawidowicz:lechia-benfica-2014",
+      "format": "transfer",
+      "prompt": "Który piłkarz z Ekstraklasy podpisał z tym portugalskim klubem pięcioletnią umowę w dniu 19. urodzin?",
+      "answerParts": [
+        "Paweł Dawidowicz"
+      ],
+      "subjects": [
+        "player:pawel-dawidowicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "polish",
+        "portugalia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — ogłoszenie pięcioletniej umowy w dniu urodzin zawodnika",
+          "url": "https://www.uefa.com/news-media/news/0253-0d7f5c428a03-c815b066fde3-1000--benfica-take-on-polish-prospect-dawidowicz/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — po przejściu z Lechii zawodnik trafił do szerokiej kadry na EURO 2016",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0253-0d811edfd459-d64c9529969a-1000--mila-and-szukala-out-dawidowicz-in-for-poland/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Ogłoszenie w maju",
+        "from": {
+          "club": "Lechia Gdańsk",
+          "media": {
+            "path": "assets/d24-badge-lechia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Lechia_Gda%C5%84sk_logo.svg",
+            "credit": "Lechia Gdańsk",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Lechia_Gda%C5%84sk_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 182,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Benfica",
+          "media": {
+            "path": "assets/d12-badge-benfica.png",
+            "source": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+            "credit": "Benfica",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:SL_Benfica_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 248,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-06-02"
+    },
+    {
+      "factKey": "west-bromwich-albion:crest-fragment",
+      "format": "crest",
+      "prompt": "Który angielski klub ma w herbie tego ptaka na gałązce głogu?",
+      "answerParts": [
+        "West Bromwich Albion"
+      ],
+      "subjects": [
+        "club:west-bromwich-albion"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "West Bromwich Albion — opis ptaka i gałązki głogu w herbie",
+          "url": "https://cdn.wba.co.uk/news/hawthorns-return-albion-home-125th-anniversary",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-h-wba.png",
+        "source": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+        "credit": "West Bromwich Albion FC",
+        "license": "Herb i znak towarowy klubu. Prawa należą do właściciela.",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:West_Bromwich_Albion.svg",
+        "changes": "Wierny obraz herbu. Kadrowanie w interfejsie.",
+        "alt": "Brązowy ptak i gałązka z czerwonymi owocami na tle niebiesko-białych pasów.",
+        "crop": [
+          37,
+          110,
+          176,
+          177
+        ],
+        "width": 250,
+        "height": 299
+      },
+      "id": "2026-11-06-03"
+    },
+    {
+      "factKey": "lincoln-red-imps:2026-11-05:first-conference-points-against-hajduk",
+      "format": "fact",
+      "prompt": "Który klub z Gibraltaru zdobył pierwsze punkty w tej edycji Ligi Konferencji, pokonując Hajduk Split 5 listopada 2026?",
+      "answerParts": [
+        "Lincoln Red Imps"
+      ],
+      "subjects": [
+        "club:lincoln-red-imps"
+      ],
+      "difficulty": "średnie",
+      "sources": [
+        {
+          "title": "UEFA — trzy pierwsze kolejki Ligi Konferencji i wygrana z Hajdukiem 1:0",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--202627-conference-league-all-the-league-phase-fixtures/",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        },
+        {
+          "title": "Lincoln Red Imps — oficjalna strona klubu z Gibraltaru",
+          "url": "https://lincolnredimps.gi/",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "gibraltar",
+        "chorwacja"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "id": "2026-11-06-04"
+    },
+    {
+      "factKey": "roger-lemerre:euro-2000-afcon-2004",
+      "format": "fact",
+      "prompt": "Który selekcjoner wygrał EURO 2000 z Francją, a cztery lata później Puchar Narodów Afryki z Tunezją?",
+      "answerParts": [
+        "Roger Lemerre"
+      ],
+      "subjects": [
+        "coach:roger-lemerre"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "euro",
+        "pna",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Francja Lemerre’a wygrywa finał EURO 2000",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0253-0d7b3013529f-3e15ce8dc46b-1000--trezeguet-s-golden-goal-sinks-italy-as-france-make-histor/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "CAF — Tunezja zdobywa Puchar Narodów Afryki 2004 pod wodzą Lemerre’a",
+          "url": "https://www.cafonline.com/caf-africa-cup-of-nations/news/carthage-eagles-home-glory/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-05"
+    },
+    {
+      "factKey": "jerzy-brzeczek:civilian-portrait",
+      "format": "photo",
+      "prompt": "Którego byłego selekcjonera Polski rozpoznajesz na zdjęciu przy murawie?",
+      "answerParts": [
+        "Jerzy Brzęczek"
+      ],
+      "subjects": [
+        "coach:jerzy-brzeczek"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — wykaz selekcjonerów reprezentacji Polski",
+          "url": "https://pzpn.pl/federacja/historia/trenerzy-reprezentacji",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "Roger Gor — fotografia z lipca 2015 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Jerzy_Brzeczek.jpg",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-portrait-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jerzy_Brzeczek.jpg",
+        "credit": "Roger Gor",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Podgląd z Wikimedia Commons. Kadrowanie w interfejsie.",
+        "alt": "Portret mężczyzny w białej koszuli i ciemnej marynarce.",
+        "crop": [
+          208,
+          0,
+          501,
+          642
+        ],
+        "width": 960,
+        "height": 995
+      },
+      "id": "2026-11-06-06"
+    },
+    {
+      "factKey": "vodafone:manchester-united-2005-06-shirt",
+      "format": "kit",
+      "prompt": "Manchester United w meczu z Chelsea w sezonie 2005/06. Którego sponsora zasłonięto na koszulce?",
+      "answerParts": [
+        "Vodafone"
+      ],
+      "subjects": [
+        "sponsor:vodafone"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Manchester United — mecz z Chelsea z 29 kwietnia 2006 r.",
+          "url": "https://www.manutd.com/en/mutv/videos/detail/chelsea-3-man-utd-0-extended-highlights-premier-league-2005-06",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "Ray Booysen — fotografia z widocznym logo z 29 kwietnia 2006 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Ronaldo_-_Manchester_United_vs_Chelsea.jpg",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-shirt-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ronaldo_-_Manchester_United_vs_Chelsea.jpg",
+        "credit": "Ray Booysen",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Podgląd z Wikimedia Commons. Kadrowanie i zasłonięcie znaku w interfejsie.",
+        "alt": "Piłkarz w czerwonej koszulce z zakrytym znakiem na piersi.",
+        "crop": [
+          335,
+          82,
+          309,
+          467
+        ],
+        "mask": [
+          440,
+          315,
+          116,
+          83
+        ],
+        "width": 960,
+        "height": 720
+      },
+      "id": "2026-11-06-07"
+    },
+    {
+      "factKey": "gianluca-zambrotta:career-juventus-barcelona-milan",
+      "format": "career",
+      "prompt": "Który włoski obrońca grał w tych trzech klubach w podanej kolejności?",
+      "answerParts": [
+        "Gianluca Zambrotta"
+      ],
+      "subjects": [
+        "player:gianluca-zambrotta"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "kariera",
+        "wlochy",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — siedem sezonów w Juventusie i przenosiny do Barcelony w 2006",
+          "url": "https://www.uefa.com/MultimediaFiles/Download/Publications/uefaorg/Publications/01/44/79/55/1447955_DOWNLOAD.pdf",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — przejście do Milanu po dwóch sezonach w Barcelonie",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7be3d4bb18-ae1deaa3e57c-1000--zambrotta-leaves-barca-for-milan/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "Milan — kadra pierwszego zespołu w sezonie 2011/12",
+          "url": "https://www.acmilan.com/en/roster-archive/men-first-team-archive/acmilan-2011-roster",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery seniorskiej, 1999–2012.",
+      "career": [
+        {
+          "club": "Juventus",
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          },
+          "years": "1999–2006"
+        },
+        {
+          "club": "FC Barcelona",
+          "media": {
+            "path": "assets/d10-badge-barcelona.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "credit": "FC Barcelona",
+            "license": "Domena publiczna w USA; znak niewolny lub potencjalnie niewolny w Hiszpanii, chroniony jako znak towarowy",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 254,
+            "alt": "Herb klubu"
+          },
+          "years": "2006–2008"
+        },
+        {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          },
+          "years": "2008–2012"
+        }
+      ],
+      "id": "2026-11-06-08"
+    },
+    {
+      "format": "fact",
+      "factKey": "sudakov:2026-11-05:goal-and-assist-benfica-lech",
+      "prompt": "Kto 5 listopada 2026 asystował Prestianniemu i ustalił wynik wygranego meczu Benfiki z Lechem w Lidze Europy?",
+      "answerParts": [
+        "Heorhij Sudakow (Heorhii Sudakov)"
+      ],
+      "subjects": [
+        "player:heorhii-sudakov"
+      ],
+      "difficulty": "trudne",
+      "eventDate": "2026-11-05",
+      "tags": [
+        "polish",
+        "recent",
+        "season",
+        "liga-europy",
+        "portugalia"
+      ],
+      "sources": [
+        {
+          "title": "Benfica — zakończony mecz z Lechem, asysta przy 2:0 i gol na 3:1",
+          "url": "https://www.slbenfica.pt/pt-pt/futebol/match-center/benfica-lech-poznan-5-novembro-2026",
+          "checkedAt": "2026-11-05T23:07:22.472Z"
+        },
+        {
+          "title": "Benfica — oficjalna pisownia nazwiska w komunikacie transferowym",
+          "url": "https://media.slbenfica.pt/-/media/BenficaDP/Images/Servicos/Jornal/Documentos/2025/20250905-edicao-4245.pdf",
+          "checkedAt": "2026-11-05T23:07:22.472Z"
+        }
+      ],
+      "season": "2026/27",
+      "id": "2026-11-06-09"
+    },
+    {
+      "factKey": "gdansk:2021-europa-league-final-venue",
+      "format": "fact",
+      "prompt": "W którym polskim mieście Villarreal pokonał Manchester United w finale Ligi Europy 2021 po 22 rzutach karnych?",
+      "answerParts": [
+        "Gdańsk"
+      ],
+      "subjects": [
+        "city:gdansk"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — relacja z finału w Gdańsku i 22. rzut karny",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0269-125f1aaaeb0d-c59e8a06ac14-1000--highlights-2021-final/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — raport meczowy z listą 22 wykonawców jedenastek",
+          "url": "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-10"
+    },
+    {
+      "factKey": "goodison-park:stadium-identification",
+      "format": "stadium",
+      "prompt": "Jaki to stadion wciśnięty między rzędy domów i park? Podaj też miasto.",
+      "answerParts": [
+        "Goodison Park, Liverpool"
+      ],
+      "subjects": [
+        "stadium:goodison-park"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Everton — Goodison Park przy Goodison Road w Liverpoolu",
+          "url": "https://stories.evertonfc.com/eitc-map/index.html",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "Arne Müseler — fotografia lotnicza z lipca 2023 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00003-Verbessert-RR_(53106257746).jpg",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-stadium.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00003-Verbessert-RR_(53106257746).jpg",
+        "credit": "Arne Müseler",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Podgląd z Wikimedia Commons. Kadrowanie w interfejsie.",
+        "alt": "Stadion z białymi dachami i niebieskimi trybunami pośród zabudowy i parku.",
+        "crop": [
+          275,
+          206,
+          457,
+          285
+        ],
+        "width": 960,
+        "height": 719
+      },
+      "id": "2026-11-06-11"
+    },
+    {
+      "factKey": "jurij-zyrkow:cska-chelsea-2009",
+      "format": "transfer",
+      "prompt": "Który zdobywca Pucharu UEFA z 2005 roku zmienił kluby w pokazanym transferze?",
+      "answerParts": [
+        "Jurij Żyrkow (Yuri Zhirkov)"
+      ],
+      "subjects": [
+        "player:jurij-zyrkow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "anglia",
+        "rosja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — podpisanie trzyletniej umowy i wcześniejszy triumf w Pucharze UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01db-0e72618b43fb-3303b0032c69-1000--zhirkov-added-to-chelsea-armoury/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "Chelsea — przejście z CSKA w 2009 i bramka w finale Pucharu UEFA",
+          "url": "https://www.chelseafc.com/en/news/article/blue-and-white-brothers--the-chelsea-and-zenit-connections",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "transfer": {
+        "year": 2009,
+        "detail": "Lipiec",
+        "from": {
+          "club": "CSKA Moskwa",
+          "media": {
+            "path": "assets/d27-badge-cska.png",
+            "source": "https://en.wikipedia.org/wiki/File:PFK_CSKA_Logo.svg",
+            "credit": "CSKA Moskwa",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:PFK_CSKA_Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 341,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-06-12"
+    },
+    {
+      "factKey": "match:2026-11-05:midtjylland-ajax-five-second-half-goals",
+      "format": "result",
+      "prompt": "Midtjylland–Ajax, Liga Konferencji 5 listopada 2026: do przerwy 1:1. Jaki był końcowy wynik po czerwonej kartce dla gospodarzy?",
+      "answerParts": [
+        "1:6 dla Ajaksu"
+      ],
+      "subjects": [
+        "match:2026-11-05-midtjylland-ajax"
+      ],
+      "difficulty": "średnie",
+      "sources": [
+        {
+          "title": "Ajax — remis do przerwy, czerwona kartka i pięć goli po przerwie",
+          "url": "https://english.ajax.nl/articles/ajax-overpower-ten-man-fc-midtjylland",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        },
+        {
+          "title": "UEFA — wynik 3. kolejki Ligi Konferencji, 5 listopada 2026",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--202627-conference-league-all-the-league-phase-fixtures/",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "dania",
+        "eredivisie",
+        "wyniki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "id": "2026-11-06-13"
+    },
+    {
+      "factKey": "michal-probierz:coach-link-frankowski-hanca",
+      "format": "coach-link",
+      "prompt": "Przemysław Frankowski w Jagiellonii w 2016/17, Sergiu Hanca w Cracovii jesienią 2021. Kto prowadził obu?",
+      "answerParts": [
+        "Michał Probierz"
+      ],
+      "subjects": [
+        "coach:michal-probierz"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Jagiellonia — sezon 2016/17 i występ Frankowskiego przeciw Cracovii",
+          "url": "https://www.jagiellonia.pl/aktualnosci/z-cracovia-po-raz-49-historia/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "Jagiellonia — wicemistrzowski sezon pod wodzą Probierza",
+          "url": "https://jagiellonia.pl/aktualnosci/z-lechem-poznan-po-raz-52-historia/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "Cracovia — Hanca w zespole Probierza jesienią 2021",
+          "url": "https://cracovia.pl/posts/podsumowanie-sezonu-20212022-cz-1/2883",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-14"
+    },
+    {
+      "factKey": "evonik:borussia-dortmund-2010-11-shirt",
+      "format": "kit",
+      "prompt": "Borussia Dortmund, sezon 2010/11. Czyje logo zasłonięto na żółtej koszulce Nevena Suboticia?",
+      "answerParts": [
+        "Evonik"
+      ],
+      "subjects": [
+        "sponsor:evonik"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Evonik — umowa na sponsorowanie koszulek Borussii do czerwca 2011 r.",
+          "url": "https://publications.evonik.com/de/presse/pressemitteilungen/corporate/borussia-dortmund-und-evonik-setzen-ihre-partnerschaft-bis-zum-jahr-2011-fort-106126.html",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "Northside — zdjęcie Nevena Suboticia z 25 września 2010 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Subotic%2C_Neven_BVB_10-11_WP.JPG",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-shirt-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Subotic%2C_Neven_BVB_10-11_WP.JPG",
+        "credit": "Northside",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Podgląd z Wikimedia Commons. Kadrowanie i zasłonięcie znaku w interfejsie.",
+        "alt": "Piłkarz w żółtej koszulce z zakrytym znakiem na piersi.",
+        "crop": [
+          158,
+          124,
+          216,
+          292
+        ],
+        "mask": [
+          214,
+          239,
+          85,
+          47
+        ],
+        "width": 500,
+        "height": 667
+      },
+      "id": "2026-11-06-15"
+    },
+    {
+      "factKey": "koopmeiners-brothers:2026-11-05:az-juventus-opponents",
+      "format": "fact",
+      "prompt": "Którzy bracia zagrali przeciwko sobie w meczu AZ Alkmaar–Juventus w Lidze Europy 5 listopada 2026?",
+      "answerParts": [
+        "Peer Koopmeiners (AZ Alkmaar)",
+        "Teun Koopmeiners (Juventus)"
+      ],
+      "subjects": [
+        "player:peer-koopmeiners",
+        "player:teun-koopmeiners"
+      ],
+      "difficulty": "trudne",
+      "sources": [
+        {
+          "title": "AZ Alkmaar — zakończona relacja z meczu, Peer i Teun Koopmeiners po przeciwnych stronach",
+          "url": "https://www.az.nl/inside-az/nieuws/2026/november/liveblog-az-juventus",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        },
+        {
+          "title": "Juventus — oficjalne wyjściowe składy AZ i Juventusu, 5 listopada 2026",
+          "url": "https://www.juventus.com/it/news/articoli/uefa-europa-league-az-alkmaar-juventus-le-formazioni-ufficiali",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "eredivisie",
+        "serie-a",
+        "rodzina"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "id": "2026-11-06-16"
+    },
+    {
+      "factKey": "damien-duff:missing-newcastle-2006-2009",
+      "format": "career-gap",
+      "prompt": "Damien Duff: w którym klubie spędził trzy sezony między tymi dwoma etapami?",
+      "answerParts": [
+        "Newcastle United"
+      ],
+      "subjects": [
+        "club:newcastle-united"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — transfer z Chelsea w lipcu 2006",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01b7-0ea865deba09-f57a42f7ed1e-1000--newcastle-complete-duff-deal/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — transfer do Fulham po trzech sezonach w Newcastle",
+          "url": "https://www.uefa.com/news-media/news/01dc-0e729e6e3ccd-9285f51349f0-1000--fulham-add-duff-to-their-ranks/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "Premier League — sezony Duffa w Fulham od 2009/10 do 2013/14",
+          "url": "https://www.premierleague.com/en/players/1256/damien-duff/career",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery seniorskiej w Anglii.",
+      "career": [
+        {
+          "club": "Chelsea",
+          "media": {
+            "path": "assets/d11-badge-chelsea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "credit": "Chelsea",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Chelsea_FC.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2003–2006"
+        },
+        {
+          "club": "Newcastle United",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          },
+          "years": "2006–2009",
+          "missing": 0
+        },
+        {
+          "club": "Fulham",
+          "media": {
+            "path": "assets/badge-fulham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "credit": "Fulham F.C.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          },
+          "years": "2009–2014"
+        }
+      ],
+      "id": "2026-11-06-17"
+    },
+    {
+      "factKey": "the-new-saints:first-cymru-premier-uefa-league-phase-2024",
+      "format": "fact",
+      "prompt": "Który klub z ligi walijskiej jako pierwszy awansował do fazy ligowej europejskich pucharów, w Lidze Konferencji 2024/25?",
+      "answerParts": [
+        "The New Saints (TNS)"
+      ],
+      "subjects": [
+        "club:the-new-saints"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "walia",
+        "liga-konferencji"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pierwszy uczestnik fazy ligowej z walijskich rozgrywek krajowych",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/0293-1c5d4600ce57-3f9821c9e458-1000--uefa-conference-league-success-for-the-new-saints-benefiting/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-18"
+    },
+    {
+      "format": "coach",
+      "factKey": "konrad-gerega:2026-11-02:fourth-straight-polonia-win",
+      "prompt": "Kto prowadził Polonię Bytom, gdy 2 listopada 2026 zwycięstwem 3:0 z Odrą przedłużyła ligową serię do czterech wygranych?",
+      "answerParts": [
+        "Konrad Gerega"
+      ],
+      "subjects": [
+        "coach:konrad-gerega"
+      ],
+      "difficulty": "trudne",
+      "eventDate": "2026-11-02",
+      "tags": [
+        "polish",
+        "recent",
+        "season",
+        "i-liga",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Polonia Bytom — raport z czwartego kolejnego zwycięstwa w I lidze",
+          "url": "https://bs.poloniabytom.com.pl/wygrywamy-mecz-przyjazni/",
+          "checkedAt": "2026-11-05T23:07:22.472Z"
+        }
+      ],
+      "season": "2026/27",
+      "id": "2026-11-06-19"
+    },
+    {
+      "factKey": "paolo-maldini:civilian-portrait",
+      "format": "photo",
+      "prompt": "Którego byłego piłkarza przedstawia ten kadr z wywiadu w plenerze?",
+      "answerParts": [
+        "Paolo Maldini"
+      ],
+      "subjects": [
+        "player:paolo-maldini"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "AC Milan — sylwetka Paola Maldiniego",
+          "url": "https://www.acmilan.com/en/club/legends/player/paolo-maldini",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "GOAL TV — kadr z wywiadu",
+          "url": "https://commons.wikimedia.org/wiki/File:Paolo_Maldini_AC_Milan_Technical_director_2018.jpg",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-portrait-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Paolo_Maldini_AC_Milan_Technical_director_2018.jpg",
+        "credit": "GOAL TV",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "Kadr z filmu GOAL TV udostępniony w Wikimedia Commons. Dalsze kadrowanie w interfejsie.",
+        "alt": "Portret mężczyzny w jasnoniebieskiej koszuli na tle drzew.",
+        "crop": [
+          6,
+          3,
+          235,
+          246
+        ],
+        "width": 250,
+        "height": 257
+      },
+      "id": "2026-11-06-20"
+    },
+    {
+      "factKey": "bartosz-bereszynski:sampdoria-napoli-loan-2023",
+      "format": "transfer",
+      "prompt": "Który polski obrońca trafił w styczniu 2023 na pokazane wypożyczenie?",
+      "answerParts": [
+        "Bartosz Bereszyński"
+      ],
+      "subjects": [
+        "player:bartosz-bereszynski"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "polish",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Napoli — potwierdzenie wypożyczenia z Sampdorii z opcją wykupu",
+          "url": "https://sscnapoli.it/il-napoli-ufficializza-lacquisizione-di-bereszynski-dalla-sampdoria-con-la-formula-del-prestito-con-diritto-di-riscatto/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "transfer": {
+        "year": 2023,
+        "detail": "Styczeń · wypożyczenie z opcją wykupu",
+        "from": {
+          "club": "Sampdoria",
+          "media": {
+            "path": "assets/d21-badge-sampdoria.png",
+            "source": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "credit": "Sampdoria",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 318,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Napoli",
+          "media": {
+            "path": "assets/d09-napoli.png",
+            "source": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "credit": "The original uploader was Eric Duff at Portuguese Wikipedia.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:SSC_Napoli.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 330,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-06-21"
+    },
+    {
+      "factKey": "panionios:shared-club-recoba-estoyanoff-2008-09",
+      "format": "shared-club",
+      "prompt": "W którym greckim klubie grali w sezonie 2008/09 Urugwajczycy Álvaro Recoba i Fabián Estoyanoff?",
+      "answerParts": [
+        "Panionios"
+      ],
+      "subjects": [
+        "club:panionios"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "powiazania",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — podpisanie kontraktu przez Recobę we wrześniu 2008",
+          "url": "https://www.uefa.com/news-media/news/01d1-0f84e4afbda1-52a31fcbaf09-1000--recoba-joins-panionios-on-a-free/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — gol Estoyanoffa dla Panioniosu w lutym 2009",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01d6-0e70e60c8065-c3f81c9e978b-1000--pick-me-ups-needed-for-barca-and-bayern/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-22"
+    },
+    {
+      "factKey": "lorenzo-torriani:2026-11-05:started-for-suspended-maignan-ferencvaros",
+      "format": "fact",
+      "prompt": "Kto stanął w bramce Milanu zamiast zawieszonego Mike’a Maignana w meczu Ligi Europy z Ferencvárosem 5 listopada 2026?",
+      "answerParts": [
+        "Lorenzo Torriani"
+      ],
+      "subjects": [
+        "player:lorenzo-torriani"
+      ],
+      "difficulty": "trudne",
+      "sources": [
+        {
+          "title": "AC Milan — Torriani zastąpił zawieszonego Maignana w meczu z Ferencvárosem",
+          "url": "https://www.acmilan.com/en/news/articles/europa_league/2026-11-05/rossoneri-lose-on-uel-matchday-four",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "serie-a",
+        "wegry",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "id": "2026-11-06-23"
+    },
+    {
+      "factKey": "hammarby-if:crest-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu ze Sztokholmu należy ten fragment herbu z zielono-białą flagą i złotym wieńcem?",
+      "answerParts": [
+        "Hammarby IF (Hammarby Fotboll)"
+      ],
+      "subjects": [
+        "club:hammarby-if"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — profil i herb Hammarby IF",
+          "url": "https://www.uefa.com/uefaconferenceleague/clubs/52343--hammarby/",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "Hammarby Fotboll — klubowe materiały prasowe",
+          "url": "https://www.hammarbyfotboll.se/press/pressbilder/",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-crest-2.png",
+        "source": "https://img.uefa.com/imgml/TP/teams/logos/240x240/52343.png",
+        "credit": "Hammarby IF, plik UEFA",
+        "license": "Herb i znak towarowy klubu. Prawa należą do właściciela.",
+        "licenseUrl": "https://www.uefa.com/uefaconferenceleague/clubs/52343--hammarby/",
+        "changes": "Wierny obraz herbu. Kadrowanie w interfejsie.",
+        "alt": "Złote liście wieńca przy zielono-białej fladze.",
+        "crop": [
+          8,
+          122,
+          149,
+          112
+        ],
+        "width": 240,
+        "height": 240
+      },
+      "id": "2026-11-06-24"
+    },
+    {
+      "factKey": "atletico-nacional:libertadores-final-2016",
+      "format": "fact",
+      "prompt": "Który kolumbijski klub wygrał Copa Libertadores 2016, pokonując w finale Independiente del Valle?",
+      "answerParts": [
+        "Atlético Nacional"
+      ],
+      "subjects": [
+        "club:atletico-nacional"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kolumbia",
+        "copa-libertadores"
+      ],
+      "sources": [
+        {
+          "title": "CONMEBOL — Independiente del Valle w finale Libertadores 2016 uległo Atlético Nacional",
+          "url": "https://gol.conmebol.com/libertadores/es/news/independiente-del-valle-avisa-elimino-tolima-y-va-por-el-campeon-defensor-en-cuartos",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-25"
+    },
+    {
+      "factKey": "jeep:juventus-2019-20-shirt",
+      "format": "kit",
+      "prompt": "Juventus w Lidze Mistrzów 2019/20. Jaką markę zasłonięto na przodzie biało-czarnej koszulki?",
+      "answerParts": [
+        "Jeep"
+      ],
+      "subjects": [
+        "sponsor:jeep"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Juventus — umowa sponsorska na sezon 2019/20",
+          "url": "https://www.juventus.com/en/news/articles/increasing-the-value-of-jeep-s-sponsorship",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        },
+        {
+          "title": "Anton Zaitsev — fotografia z meczu 22 października 2019 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Cristiano-ronaldo-juventus-2019.jpg",
+          "checkedAt": "2026-11-05T23:15:32.986Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n06-v-shirt-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cristiano-ronaldo-juventus-2019.jpg",
+        "credit": "Anton Zaitsev / Soccer.ru",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Podgląd z Wikimedia Commons. Kadrowanie i zasłonięcie znaku w interfejsie.",
+        "alt": "Piłkarz w biało-czarnej koszulce z zakrytym znakiem na piersi.",
+        "crop": [
+          633,
+          39,
+          247,
+          360
+        ],
+        "mask": [
+          725,
+          201,
+          72,
+          35
+        ],
+        "width": 960,
+        "height": 640
+      },
+      "id": "2026-11-06-26"
+    },
+    {
+      "factKey": "lukasz-szukala:1860-aachen-steaua-career-riddle",
+      "format": "career-riddle",
+      "prompt": "Grał w 1860 Monachium i Alemannii Aachen. W eliminacjach Ligi Mistrzów 2013 wystąpił przeciw Legii jako obrońca Steauy. Kto to?",
+      "answerParts": [
+        "Łukasz Szukała"
+      ],
+      "subjects": [
+        "player:lukasz-szukala"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "niemcy",
+        "rumunia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — sezony w 1860 Monachium i Alemannii Aachen przed Steauą",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0201-0e7ef68d3530-9e0a9d8d0a02-1000--steaua-seek-upturn-in-german-fortunes/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "PZPN — sylwetka Szukały i występ w barwach Steauy przeciw Legii",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/steaua-bukareszt-legia-warszawa-11-21082013/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-27"
+    },
+    {
+      "factKey": "daichi-kamada:2026-11-05:ten-man-palace-stoppage-time-equalizer",
+      "format": "fact",
+      "prompt": "Kto wyrównał w doliczonym czasie dla grającego w dziesiątkę Crystal Palace przeciw Hoffenheim 5 listopada 2026?",
+      "answerParts": [
+        "Daichi Kamada"
+      ],
+      "subjects": [
+        "player:daichi-kamada"
+      ],
+      "difficulty": "trudne",
+      "sources": [
+        {
+          "title": "Crystal Palace — czerwona kartka i wyrównujący gol Kamady w doliczonym czasie",
+          "url": "https://www.cpfc.co.uk/news/match-reports/report-highlights-crystal-palace-hoffenheim-europa-league-november-2026/",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        },
+        {
+          "title": "UEFA — wyniki Ligi Europy, 5 listopada 2026",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/",
+          "checkedAt": "2026-11-05T23:08:18.167Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "premier-league",
+        "bundesliga",
+        "gole"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "id": "2026-11-06-28"
+    },
+    {
+      "factKey": "hakan-calhanoglu:hamburg-leverkusen-2014",
+      "format": "transfer",
+      "prompt": "Który reprezentant Turcji przeszedł między tymi klubami w lipcu 2014?",
+      "answerParts": [
+        "Hakan Çalhanoğlu"
+      ],
+      "subjects": [
+        "player:hakan-calhanoglu"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "niemcy",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "Bayer — podsumowanie sezonu i transfer z Hamburgera SV",
+          "url": "https://www.bayer04.de/en-us/page/history/seasons/2014-2015",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — potwierdzenie przejścia 4 lipca 2014",
+          "url": "https://de.uefa.com/uefachampionsleague/news/0217-0e8b34830526-57d2b49ef1bb-1000--calhanoglu-wechsel-perfekt/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Hamburger SV",
+          "media": {
+            "path": "assets/04.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "credit": "Hamburger SV",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hamburger_SV_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 711
+          }
+        },
+        "to": {
+          "club": "Bayer Leverkusen",
+          "media": {
+            "path": "assets/d14-badge-leverkusen.png",
+            "source": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "credit": "Bayer Leverkusen",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Bayer_04_Leverkusen_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 194,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-06-29"
+    },
+    {
+      "factKey": "hans-krankl:rapid-golden-shoe-barcelona-pichichi",
+      "format": "fact",
+      "prompt": "Zdobył Złoty But w Rapidzie Wiedeń, a sezon później został królem strzelców ligi hiszpańskiej w Barcelonie. Kto to?",
+      "answerParts": [
+        "Hans Krankl"
+      ],
+      "subjects": [
+        "player:hans-krankl"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria",
+        "hiszpania",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "Barcelona — Złoty But 1977/78 i Pichichi 1978/79",
+          "url": "https://www.fcbarcelona.com/en/news/648111/hans-krankl",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        },
+        {
+          "title": "UEFA — austriacki Złoty But i hiszpańska korona strzelecka Krankla",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7b26de4345-4e4f1955edb6-1000--new-guise-for-old-hero-krankl/",
+          "checkedAt": "2026-11-05T23:11:11.331Z"
+        }
+      ],
+      "id": "2026-11-06-30"
+    }
+  ]
+}
