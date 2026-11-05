@@ -1,0 +1,1279 @@
+{
+  "id": "2026-11-05",
+  "kind": "daily",
+  "title": "Trening głowy · 5 listopada 2026",
+  "date": "2026-11-05",
+  "publishAt": "2026-11-05T08:00:00+01:00",
+  "researchedAt": "2026-11-05T20:42:27.676Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-05"
+  },
+  "questions": [
+    {
+      "factKey": "match:2026-11-04:lens-como-record-equalling-margin",
+      "format": "result",
+      "prompt": "Lens–Como, 4 listopada 2026: jakim wynikiem Como wyrównało rekord różnicy bramek w Lidze Mistrzów?",
+      "answerParts": [
+        "1:9"
+      ],
+      "subjects": [
+        "match:2026-11-04-lens-como"
+      ],
+      "difficulty": "łatwe",
+      "eventDate": "2026-11-04",
+      "sources": [
+        {
+          "title": "Como 1907 — relacja z meczu Lens–Como, 4 listopada 2026",
+          "url": "https://comofootball.com/rc-lens-como-1907-1-9-match-report-uefa-champions-league/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "UEFA — najwyższe wygrane w historii Ligi Mistrzów",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0240-0e935cdfe0e3-72b3c5cde380-1000--biggest-champions-league-wins-lens-1-9-como-liverpool-8-0-be/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "serie-a",
+        "ligue-1",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "id": "2026-11-05-01"
+    },
+    {
+      "factKey": "radoslaw-majdan:civilian-portrait",
+      "format": "photo",
+      "prompt": "Którego byłego reprezentanta Polski przedstawia zdjęcie z gali?",
+      "answerParts": [
+        "Radosław Majdan"
+      ],
+      "subjects": [
+        "player:radoslaw-majdan"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — sylwetka Radosława Majdana",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/radoslaw-majdan",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "Piotr Drabik — oryginalna fotografia z 2011 r.",
+          "url": "https://www.flickr.com/photos/drabikpany/5939965108/",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-portrait-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Rados%C5%82aw_Majdan_(5939965108).jpg",
+        "credit": "Piotr Drabik",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Oryginalna fotografia z Wikimedia Commons, bez retuszu; kadrowanie w interfejsie.",
+        "alt": "Portret mężczyzny w cywilnym stroju, na tle ścianki gali.",
+        "crop": [
+          277,
+          101,
+          286,
+          434
+        ],
+        "width": 869,
+        "height": 768
+      },
+      "id": "2026-11-05-02"
+    },
+    {
+      "factKey": "lukasz-broz:widzew-legia-2013",
+      "format": "transfer",
+      "prompt": "Który obrońca po tym ruchu zdobył cztery mistrzostwa Polski w nowym klubie?",
+      "answerParts": [
+        "Łukasz Broź"
+      ],
+      "subjects": [
+        "player:lukasz-broz"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "polish",
+        "ekstraklasa"
+      ],
+      "sources": [
+        {
+          "title": "Legia — przejście z Widzewa i cztery tytuły mistrzowskie",
+          "url": "https://legia.com/articles/historia-kalendarium-legii-16-grudnia-siedem-trofeow-lukasza-brozia",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Lato",
+        "from": {
+          "club": "Widzew Łódź",
+          "media": {
+            "path": "assets/d29-h-widzew.png",
+            "source": "https://en.wikipedia.org/wiki/File:Widzew_Lodz.svg",
+            "credit": "RTS Widzew Łódź",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Widzew_Lodz.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 235
+          }
+        },
+        "to": {
+          "club": "Legia Warszawa",
+          "media": {
+            "path": "assets/d19-badge-legia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "credit": "Legia Warsaw",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-05-03"
+    },
+    {
+      "factKey": "finland:2026-11-03:poland-womens-nations-league-draw",
+      "format": "country",
+      "prompt": "Która reprezentacja uzupełnia grupę Polski, Irlandii Północnej i Białorusi w Lidze Narodów kobiet 2027?",
+      "answerParts": [
+        "Finlandia"
+      ],
+      "subjects": [
+        "country:finland"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "recent",
+        "polish",
+        "reprezentacje",
+        "pilka-kobiet",
+        "liga-narodow"
+      ],
+      "eventDate": "2026-11-03",
+      "sources": [
+        {
+          "title": "UEFA — wynik losowania Ligi Narodów kobiet 2027, grupa B3",
+          "url": "https://www.uefa.com/womensnationsleague/news/02ab-21fb82a7cbbf-38b22538aaaa-1000--2027-uefa-women-s-nations-league-league-phase-groups-set/",
+          "checkedAt": "2026-11-05T20:35:31.634Z"
+        }
+      ],
+      "id": "2026-11-05-04"
+    },
+    {
+      "factKey": "rcd-mallorca:crest-fragment",
+      "format": "crest",
+      "prompt": "Do którego klubu należy ten czerwono-złoty fragment herbu?",
+      "answerParts": [
+        "RCD Mallorca"
+      ],
+      "subjects": [
+        "club:rcd-mallorca"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "RCD Mallorca — oficjalna strona i herb klubu",
+          "url": "https://www.rcdmallorca.es/",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "LaLiga — profil i herb RCD Mallorca",
+          "url": "https://www.laliga.com/es-MA/clubes/rcd-mallorca",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d29-h-mallorca.png",
+        "source": "https://en.wikipedia.org/wiki/File:Rcd_mallorca.svg",
+        "credit": "RCD Mallorca",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Rcd_mallorca.svg",
+        "changes": "Wierne renderowanie herbu; kadrowanie w interfejsie, bez przerysowywania.",
+        "alt": "Korona nad czerwono-złotym monogramem na fragmencie herbu.",
+        "crop": [
+          25,
+          0,
+          198,
+          258
+        ],
+        "width": 250,
+        "height": 331
+      },
+      "id": "2026-11-05-05"
+    },
+    {
+      "factKey": "zrinjski:2023-conference-comeback-az",
+      "format": "fact",
+      "prompt": "Kto w debiucie w grupie Ligi Konferencji 2023/24 odrobił 0:3 i pokonał AZ 4:3?",
+      "answerParts": [
+        "Zrinjski Mostar"
+      ],
+      "subjects": [
+        "club:zrinjski-mostar"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-konferencji",
+        "bosnia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — opis powrotu od 0:3 do 4:3 w debiucie grupowym",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/0288-19b32c5492cc-3406f976f0d4-1000--europa-conference-league-games-of-the-2023-24-group-stage-wh/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "UEFA — raport meczowy z 21 września 2023",
+          "url": "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2024/2039291_FR.pdf",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-06"
+    },
+    {
+      "factKey": "unicef:barcelona-home-2009-10-shirt",
+      "format": "kit",
+      "prompt": "Barcelona, domowa koszulka 2009/10: logo której organizacji zasłonięto na piersi Messiego?",
+      "answerParts": [
+        "UNICEF"
+      ],
+      "subjects": [
+        "sponsor:unicef"
+      ],
+      "difficulty": "łatwe",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FC Barcelona — partnerstwo z UNICEF i logo na przodzie koszulki",
+          "url": "https://www.fcbarcelona.com/en/news/4242733/thirty-years-of-azulgrana-solidarity-through-the-lens-of-kim-manresa/amp",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "FC Barcelona — mecz z Realem Valladolid, 16 maja 2010 r.",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/763760/league-titles-won-in-the-final-fixture-of-the-season",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "Oemar — fotografia z meczu ligowego z Valladolid",
+          "url": "https://commons.wikimedia.org/wiki/File:Messi_Barcelona_-_Valladolid.jpg",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-shirt-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Messi_Barcelona_-_Valladolid_(cropped).jpg",
+        "credit": "Oemar; wcześniejszy kadr: Lobo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wersja podglądowa Wikimedia z wcześniejszym kadrowaniem; kadr i zakrycie znaku tylko w interfejsie.",
+        "alt": "Piłkarz w granatowo-bordowym stroju, z zasłoniętym logo na piersi.",
+        "crop": [
+          110,
+          36,
+          264,
+          439
+        ],
+        "mask": [
+          195,
+          239,
+          105,
+          40
+        ],
+        "width": 500,
+        "height": 738
+      },
+      "id": "2026-11-05-07"
+    },
+    {
+      "factKey": "lorik-cana:career-psg-om-galatasaray-lazio",
+      "format": "career",
+      "prompt": "Kto był kapitanem Albanii na EURO 2016 i wcześniej grał w tych klubach?",
+      "answerParts": [
+        "Lorik Cana"
+      ],
+      "subjects": [
+        "player:lorik-cana"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "francja",
+        "turcja",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "FC Nantes — chronologia klubów Cany przed przyjściem do Nantes",
+          "url": "https://www.fcnantes.com/articles/article2809.php?num=11630",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "UEFA — kapitan reprezentacji Albanii na EURO 2016",
+          "url": "https://www.uefa.com/european-qualifiers/news/0253-0d80deb8b982-e38a151ef48f-1000--france-not-about-to-make-light-of-albania/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery. Pominięto sezon 2009/10 i późniejszy klub.",
+      "career": [
+        {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna tylko w USA; możliwa ochrona we Francji i ochrona znaku towarowego",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          },
+          "years": "2002–2005"
+        },
+        {
+          "club": "Olympique Marsylia",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2005–2009"
+        },
+        {
+          "club": "Galatasaray",
+          "media": {
+            "path": "assets/d10-badge-galatasaray.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Galatasaray_S.K._Logo_2026_5-stars.svg",
+            "credit": "Isaozler",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 311,
+            "alt": "Herb klubu"
+          },
+          "years": "2010/11"
+        },
+        {
+          "club": "Lazio",
+          "media": {
+            "path": "assets/d09-lazio.png",
+            "source": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "credit": "S.S. Lazio",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 406,
+            "alt": "Herb klubu"
+          },
+          "years": "2011–2015"
+        }
+      ],
+      "id": "2026-11-05-08"
+    },
+    {
+      "factKey": "porto-napoli:2026-11-04:polish-centre-backs-first-ucl-goals",
+      "format": "fact",
+      "prompt": "Porto–Napoli, 4 listopada 2026: którzy dwaj polscy obrońcy strzelili wtedy swoje pierwsze gole w Lidze Mistrzów?",
+      "answerParts": [
+        "Jan Bednarek",
+        "Jakub Kiwior"
+      ],
+      "subjects": [
+        "player:jan-bednarek",
+        "player:jakub-kiwior"
+      ],
+      "difficulty": "średnie",
+      "eventDate": "2026-11-04",
+      "sources": [
+        {
+          "title": "UEFA — Bednarek i Kiwior z pierwszymi golami w Lidze Mistrzów",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-highlights-and-round-up-como-equal-bigges/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "SSC Napoli — relacja z meczu Porto–Napoli",
+          "url": "https://sscnapoli.it/en/champions-league-match-report-porto-napoli-4-1/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "UEFA — daty i wyniki meczów fazy ligowej 2026/27",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-by-team/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "polish",
+        "primeira-liga",
+        "serie-a",
+        "gole"
+      ],
+      "season": "2026/27",
+      "id": "2026-11-05-09"
+    },
+    {
+      "factKey": "beto:2014-europa-league-final-two-penalty-saves",
+      "format": "fact",
+      "prompt": "Który bramkarz Sevilli obronił dwa karne w serii jedenastek finału Ligi Europy 2014 z Benfiką?",
+      "answerParts": [
+        "Beto"
+      ],
+      "subjects": [
+        "player:beto"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-europy",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Beto broni strzały Cardozo i Rodrigo w finałowych karnych",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0250-0c510740b3cf-c46f4d5f782f-1000--spot-on-sevilla-leave-benfica-dreams-in-tatters/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-10"
+    },
+    {
+      "factKey": "albert-luque:deportivo-newcastle-2005",
+      "format": "transfer",
+      "prompt": "Który hiszpański napastnik przeszedł tę drogę w 2005 roku?",
+      "answerParts": [
+        "Albert Luque"
+      ],
+      "subjects": [
+        "player:albert-luque"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "hiszpania",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — porozumienie Deportivo z Newcastle i transfer Luque",
+          "url": "https://www.uefa.com/news-media/news/01ac-0f8eeb95e81c-ad95c236bccc-1000--luque-to-bring-goals-to-newcastle/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "UEFA — po dwóch sezonach w Newcastle napastnik przeszedł do Ajaxu",
+          "url": "https://www.uefa.com/news-media/news/01c4-0e6e776afdc6-3b204157e900-1000--ajax-extend-luque-lifeline/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "transfer": {
+        "year": 2005,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Deportivo La Coruña",
+          "media": {
+            "path": "assets/d29-h-deportivo.png",
+            "source": "https://en.wikipedia.org/wiki/File:RC_Deportivo_A_Coruña_logo_2026.svg",
+            "credit": "RC Deportivo de La Coruña",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:RC_Deportivo_A_Coruña_logo_2026.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 306
+          }
+        },
+        "to": {
+          "club": "Newcastle United",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-05-11"
+    },
+    {
+      "factKey": "estadio-do-dragao:stadium-identification",
+      "format": "stadium",
+      "prompt": "Rozpoznaj z lotu ptaka stadion z dwiema łukowymi połaciami dachu. Podaj też miasto.",
+      "answerParts": [
+        "Estádio do Dragão, Porto"
+      ],
+      "subjects": [
+        "stadium:estadio-do-dragao"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "FC Porto — stadion i adres w Porto",
+          "url": "https://store.fcporto.pt/en/contacts",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "CaGeRaGe — zdjęcie lotnicze z 2015 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Drag%C3%A3o_Aerial.jpg",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-stadium.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Drag%C3%A3o_Aerial.jpg",
+        "credit": "CaGeRaGe",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Wersja podglądowa Wikimedia; kadrowanie w interfejsie, bez retuszu.",
+        "alt": "Stadion piłkarski z lotu ptaka, z dwiema jasnymi połaciami dachu.",
+        "crop": [
+          125,
+          95,
+          655,
+          455
+        ],
+        "width": 960,
+        "height": 640
+      },
+      "id": "2026-11-05-12"
+    },
+    {
+      "factKey": "match:2026-11-03:manchester-united-roma-var-penalty-retake",
+      "format": "fact",
+      "prompt": "Dlaczego powtórzono rzut karny Manchesteru United w meczu Ligi Mistrzów z Romą 3 listopada 2026?",
+      "answerParts": [
+        "Piłkarz Romy wbiegł w pole karne przed strzałem, a potem zagrał piłkę."
+      ],
+      "subjects": [
+        "match:2026-11-03-manchester-united-roma"
+      ],
+      "difficulty": "trudne",
+      "eventDate": "2026-11-03",
+      "sources": [
+        {
+          "title": "UEFA — uzasadnienie decyzji VAR o powtórzeniu karnego w meczu z Romą",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218080c33e00-948c7f405b79-1000--uefa-champions-league-var-technical-explanations/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "Manchester United — relacja z meczu z Romą, 3 listopada 2026",
+          "url": "https://www.manutd.com/en/matches/mens-team/manchester-united-v-as-roma-uefa-champions-league-20261103",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "premier-league",
+        "serie-a",
+        "var"
+      ],
+      "season": "2026/27",
+      "id": "2026-11-05-13"
+    },
+    {
+      "factKey": "piotr-stokowiec:coach-link-starzynski-paixao",
+      "format": "coach-link",
+      "prompt": "Filip Starzyński w Zagłębiu Lubin w 2017, Flávio Paixão w Lechii w 2019. Kto prowadził obu?",
+      "answerParts": [
+        "Piotr Stokowiec"
+      ],
+      "subjects": [
+        "coach:piotr-stokowiec"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Zagłębie — Starzyński strzela dla zespołu Stokowca w lutym 2017",
+          "url": "https://www.zaglebie.com/Aktualnosci/Pierwszy-zespol/trzy-punkty-zaglebia-_n1058",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "Lechia — Paixão strzela dla drużyny Stokowca w Pucharze Polski 2019/20",
+          "url": "https://lechia.pl/obronic-puchar-polski-zapowiedz/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-14"
+    },
+    {
+      "factKey": "yokohama:chelsea-home-2017-18-shirt",
+      "format": "kit",
+      "prompt": "Chelsea, Puchar Ligi 2017/18: którego sponsora zasłonięto z przodu koszulki Hazarda?",
+      "answerParts": [
+        "Yokohama Tyres"
+      ],
+      "subjects": [
+        "sponsor:yokohama"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Yokohama Rubber — umowa na logo na koszulce Chelsea",
+          "url": "https://www.y-yokohama.com/release/?id=2404&lang=en&sp=80",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "Chelsea Debs — półfinał Pucharu Ligi, 10 stycznia 2018 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Hazard_and_Xhaka.jpg",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-shirt-2.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Hazard_2018.png",
+        "credit": "Chelsea Debs / @cfcunofficial",
+        "license": "CC BY-SA 4.0 (wersja wykadrowana w Wikimedia; oryginał CC BY-SA 2.0)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Wersja podglądowa kadru opublikowanego w Wikimedia; dalsze kadrowanie i zasłona tylko w interfejsie.",
+        "alt": "Piłkarz w niebieskiej koszulce z zakrytym znakiem na piersi.",
+        "crop": [
+          31,
+          0,
+          454,
+          650
+        ],
+        "mask": [
+          153,
+          388,
+          220,
+          76
+        ],
+        "width": 500,
+        "height": 854
+      },
+      "id": "2026-11-05-15"
+    },
+    {
+      "factKey": "pogon-siedlce:2026-11-03:ruch-late-draw",
+      "format": "fact",
+      "prompt": "I liga, 3 listopada 2026: który klub prowadził z Ruchem po golu Kobusińskiego, lecz stracił wygraną w 90. minucie?",
+      "answerParts": [
+        "Pogoń Siedlce"
+      ],
+      "subjects": [
+        "club:pogon-siedlce"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "i-liga"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-03",
+      "sources": [
+        {
+          "title": "Pogoń Siedlce — relacja z meczu z Ruchem Chorzów, 3 listopada 2026",
+          "url": "https://mkppogonsiedlce.pl/?p=59673",
+          "checkedAt": "2026-11-05T20:38:59.831Z"
+        }
+      ],
+      "id": "2026-11-05-16"
+    },
+    {
+      "factKey": "fabio-grosso:missing-lyon-2007-2009",
+      "format": "career-gap",
+      "prompt": "Fabio Grosso: w którym klubie spędził dwa sezony między pokazanymi włoskimi zespołami?",
+      "answerParts": [
+        "Olympique Lyon"
+      ],
+      "subjects": [
+        "club:olympique-lyon"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "kariera",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Grosso przechodzi z Interu do Lyonu w 2007 roku",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0254-0d7ba0f22f4f-72cb1db19775-1000--grosso-swaps-inter-for-lyon/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "UEFA — powrót z Lyonu do Włoch i transfer do Juventusu w 2009 roku",
+          "url": "https://fr.uefa.com/uefachampionsleague/news/01dc-0e72bc6f8438-30f7266ead2b-1000--ultimes-coups-pour-les-champions/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "Juventus — raport finansowy z datą wygaśnięcia umowy zawodnika",
+          "url": "https://www.juventus.com/images/image/private/fl_attachment/dev/qtedioialx34kacllu6v.pdf",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "careerCaption": "Fragment kariery seniorskiej: lata 2006–2012.",
+      "career": [
+        {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2006/07"
+        },
+        {
+          "club": "Olympique Lyon",
+          "media": {
+            "path": "assets/d10-badge-lyon.png",
+            "source": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "credit": "Olympique Lyon",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympique_Lyonnais_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 292,
+            "alt": "Herb klubu"
+          },
+          "years": "2007–2009",
+          "missing": 0
+        },
+        {
+          "club": "Juventus",
+          "media": {
+            "path": "assets/badge-juventus.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "credit": "Interbrand – Global Brand Consultancy / Juventus Football Club SpA",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy,_2020).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 396,
+            "alt": "Herb klubu"
+          },
+          "years": "2009–2012"
+        }
+      ],
+      "id": "2026-11-05-17"
+    },
+    {
+      "factKey": "alemannia-aachen:2004-dfb-pokal-finalist",
+      "format": "fact",
+      "prompt": "Który drugoligowiec przegrał z Werderem finał Pucharu Niemiec w 2004, a mimo to awansował do Pucharu UEFA?",
+      "answerParts": [
+        "Alemannia Aachen"
+      ],
+      "subjects": [
+        "club:alemannia-aachen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "niemcy",
+        "puchar-niemiec",
+        "puchar-uefa"
+      ],
+      "sources": [
+        {
+          "title": "DFB — drugoligowy finalista z 2004 i jego awans do Pucharu UEFA",
+          "url": "https://www.dfb.de/news/detail/erstligist-gegen-zweitligist-die-bisherigen-duelle-im-pokalfinale-261635",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-18"
+    },
+    {
+      "factKey": "vedat-muriqi:2026-11-04:fenerbahce-liverpool-winning-header",
+      "format": "fact",
+      "prompt": "Kto dał Fenerbahçe pierwszą wygraną w fazie głównej LM od 2008 roku, trafiając przeciw Liverpoolowi 4 listopada 2026?",
+      "answerParts": [
+        "Vedat Muriqi"
+      ],
+      "subjects": [
+        "player:vedat-muriqi"
+      ],
+      "difficulty": "trudne",
+      "eventDate": "2026-11-04",
+      "sources": [
+        {
+          "title": "UEFA — Fenerbahçe wygrywa z Liverpoolem po główce Muriqiego",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-highlights-and-round-up-como-equal-bigges/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "Liverpool FC — relacja z meczu Fenerbahçe–Liverpool, 4 listopada 2026",
+          "url": "https://lfcbeta.liverpoolfc.com/news/liverpool-fenerbahce-champions-league-match-report",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "super-lig",
+        "premier-league",
+        "gole"
+      ],
+      "season": "2026/27",
+      "id": "2026-11-05-19"
+    },
+    {
+      "factKey": "michael-ballack:civilian-portrait",
+      "format": "photo",
+      "prompt": "Którego byłego piłkarza rozpoznajesz na tym portrecie w marynarce?",
+      "answerParts": [
+        "Michael Ballack"
+      ],
+      "subjects": [
+        "player:michael-ballack"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "DFB — sylwetka Michaela Ballacka",
+          "url": "https://www.dfb.de/news/michael-ballack-der-capitano-wird-50",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "Bernhard Holub — portret z 2022 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Michael_Ballack_2022_BHO-0832.jpg",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-portrait-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Michael_Ballack_2022_BHO-0832.jpg",
+        "credit": "Bernhard Holub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Wersja podglądowa Wikimedia z wcześniejszym kadrowaniem; dalsze kadrowanie w interfejsie, bez retuszu.",
+        "alt": "Portret uśmiechniętego mężczyzny w ciemnej marynarce.",
+        "crop": [
+          30,
+          12,
+          440,
+          628
+        ],
+        "width": 500,
+        "height": 667
+      },
+      "id": "2026-11-05-20"
+    },
+    {
+      "factKey": "daniel-lukasik:legia-lechia-2014",
+      "format": "transfer",
+      "prompt": "Kto przeszedł tą drogą i zdobył Puchar Polski z oboma klubami?",
+      "answerParts": [
+        "Daniel Łukasik"
+      ],
+      "subjects": [
+        "player:daniel-lukasik"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "polish",
+        "ekstraklasa"
+      ],
+      "sources": [
+        {
+          "title": "Lechia — transfer z Legii i trofea Łukasika w obu klubach",
+          "url": "https://lechia.pl/daniel-lukasik-opuszcza-lechie-gdansk/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Transfer definitywny",
+        "from": {
+          "club": "Legia Warszawa",
+          "media": {
+            "path": "assets/d19-badge-legia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "credit": "Legia Warsaw",
+            "license": "Domena publiczna w USA; możliwa ochrona w kraju pochodzenia",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Legia_Warsaw_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Lechia Gdańsk",
+          "media": {
+            "path": "assets/d24-badge-lechia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Lechia_Gda%C5%84sk_logo.svg",
+            "credit": "Lechia Gdańsk",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Lechia_Gda%C5%84sk_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 182,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-05-21"
+    },
+    {
+      "factKey": "fc-basel:shared-club-streller-frei-2011",
+      "format": "shared-club",
+      "prompt": "Marco Streller i Alexander Frei strzelili Manchesterowi United w wygranym 2:1 meczu LM w 2011. Dla którego klubu?",
+      "answerParts": [
+        "FC Basel"
+      ],
+      "subjects": [
+        "club:fc-basel"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "powiazania",
+        "szwajcaria",
+        "liga-mistrzow"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — relacja i strzelcy w wygranym meczu z Manchesterem United",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01f8-0e7c68ad9504-29bd6b36ca40-1000--brilliant-basel-hit-heights-to-knock-out-united/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-22"
+    },
+    {
+      "factKey": "kairat:2026-11-05:draw-at-atalanta",
+      "format": "fact",
+      "prompt": "Który klub prowadził po golu Marca Guala, zanim Atalanta wyrównała 5 listopada 2026 w Lidze Konferencji?",
+      "answerParts": [
+        "Kajrat Ałmaty (Kairat Almaty)"
+      ],
+      "subjects": [
+        "club:kairat-almaty"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "kazachstan"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "sources": [
+        {
+          "title": "Atalanta — raport z zakończonego meczu z Kajratem, 5 listopada 2026",
+          "url": "https://www.atalanta.it/news/krstovic-firma-il-pareggio-con-il-kairat-almaty",
+          "checkedAt": "2026-11-05T20:35:31.634Z"
+        }
+      ],
+      "id": "2026-11-05-23"
+    },
+    {
+      "factKey": "rc-strasbourg:crest-fragment",
+      "format": "crest",
+      "prompt": "Jaki klub ma w herbie tego białego ptaka nad czerwoną wstęgą?",
+      "answerParts": [
+        "RC Strasbourg Alsace"
+      ],
+      "subjects": [
+        "club:rc-strasbourg"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "RC Strasbourg Alsace — oficjalna strona i herb klubu",
+          "url": "https://www.rcstrasbourgalsace.fr/",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-crest-2.png",
+        "source": "https://www.rcstrasbourgalsace.fr/wp-content/uploads/2019/06/Racing_Club_de_Strasbourg_Alsace_RC_Strasbourg_-_RCS_-_RCSA_logo_officiel.svg",
+        "credit": "RC Strasbourg Alsace",
+        "license": "Herb i znak towarowy klubu; prawa należą do właściciela.",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Racing_Club_de_Strasbourg_logo.svg",
+        "changes": "Wierne renderowanie oficjalnego SVG do PNG; kadrowanie w interfejsie, bez przerysowywania.",
+        "alt": "Biały bocian i czerwony ukośny pas na niebieskim fragmencie herbu.",
+        "crop": [
+          104,
+          102,
+          279,
+          273
+        ],
+        "width": 500,
+        "height": 500
+      },
+      "id": "2026-11-05-24"
+    },
+    {
+      "factKey": "toronto-fc:2017-first-domestic-treble-mls",
+      "format": "fact",
+      "prompt": "Który klub w 2017 jako pierwszy w historii MLS skompletował krajową potrójną koronę, pokonując Seattle w finale?",
+      "answerParts": [
+        "Toronto FC"
+      ],
+      "subjects": [
+        "club:toronto-fc"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mls",
+        "kanada"
+      ],
+      "sources": [
+        {
+          "title": "MLS — finał 2:0 z Seattle i pierwsza w historii ligi krajowa potrójna korona",
+          "url": "https://www.mlssoccer.com/news/toronto-fc-win-first-domestic-treble-mls-history",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-25"
+    },
+    {
+      "factKey": "deutsche-telekom:bayern-home-2024-25-shirt",
+      "format": "kit",
+      "prompt": "Bayern, sparing z Salzburgiem w styczniu 2025: którego sponsora zasłonięto na koszulce Diera?",
+      "answerParts": [
+        "Deutsche Telekom"
+      ],
+      "subjects": [
+        "sponsor:deutsche-telekom"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Bayern — historia partnerstwa z Deutsche Telekom i logo na koszulce",
+          "url": "https://fcbayern.com/en/news/2025/08/press-release-fc-bayern-and-deutsche-telekom-extend-partnership-to-2032",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "Bayern — sparing z Salzburgiem, 6 stycznia 2025 r.",
+          "url": "https://fcbayern.com/en/news/matchreports/2025/01/match-report-friendly-red-bull-salzburg-v-fc-bayern-060125",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        },
+        {
+          "title": "Werner100359 — zdjęcie ze sparingu w Salzburgu",
+          "url": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_(2025-01-06_Testspiel)_81.jpg",
+          "checkedAt": "2026-11-05T20:41:48.989Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n05-v-shirt-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_(2025-01-06_Testspiel)_81.jpg",
+        "credit": "Werner100359",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Wersja podglądowa Wikimedia; kadrowanie i zakrycie znaku tylko w interfejsie.",
+        "alt": "Piłkarz w czerwonej koszulce z zakrytym znakiem na piersi.",
+        "crop": [
+          751,
+          61,
+          186,
+          354
+        ],
+        "mask": [
+          835,
+          226,
+          54,
+          60
+        ],
+        "width": 1280,
+        "height": 804
+      },
+      "id": "2026-11-05-26"
+    },
+    {
+      "factKey": "jakub-kosecki:sandhausen-adana-career-riddle",
+      "format": "career-riddle",
+      "prompt": "Był wypożyczany do ŁKS-u i Sandhausen. Później grał w Adanie Demirspor. Kto to?",
+      "answerParts": [
+        "Jakub Kosecki"
+      ],
+      "subjects": [
+        "player:jakub-kosecki"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera"
+      ],
+      "sources": [
+        {
+          "title": "Legia — wypożyczenia Koseckiego i występy w Adanie Demirspor",
+          "url": "https://legia.com/articles/kosecki-i-pazdan-w-odwiedzinach-u-kolegow",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "PZPN — sylwetka Koseckiego i jego droga od ŁKS-u do Sandhausen",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/steaua-bukareszt-legia-warszawa-11-21082013",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-27"
+    },
+    {
+      "factKey": "jude-bellingham:2026-11-04:youngest-60-ucl-appearances",
+      "format": "fact",
+      "prompt": "Kto w meczu z AEK 4 listopada 2026 został najmłodszym piłkarzem z 60 występami w Lidze Mistrzów?",
+      "answerParts": [
+        "Jude Bellingham"
+      ],
+      "subjects": [
+        "player:jude-bellingham"
+      ],
+      "difficulty": "średnie",
+      "eventDate": "2026-11-04",
+      "sources": [
+        {
+          "title": "UEFA — Bellingham rozegrał 60. mecz w Lidze Mistrzów przeciwko AEK",
+          "url": "https://es.uefa.com/uefachampionsleague/news/02ab-21fe48f0b7da-351f3a5a0318-1000--resumen-del-miercoles-de-la-jornada-4-de-la-champions-leag/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "UEFA — przedmeczowe dane Bellinghama i wcześniejszy rekord Casillasa",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21f1e3404d4f-9a655a026d64-1000--champions-league-matchday-4-aek-athens-vs-real-madrid-facts/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        },
+        {
+          "title": "UEFA — statystyki Bellinghama po 60 występach",
+          "url": "https://fr.uefa.com/uefachampionsleague/news/029d-1eb84f9f2723-77b33156caf7-1000--stats-et-records-de-jude-bellingham-en-ligue-des-champion/",
+          "checkedAt": "2026-11-05T20:35:46.778Z"
+        }
+      ],
+      "tags": [
+        "season",
+        "recent",
+        "liga-mistrzow",
+        "la-liga",
+        "grecja",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "id": "2026-11-05-28"
+    },
+    {
+      "factKey": "mauro-zarate:lazio-inter-loan-2011",
+      "format": "transfer",
+      "prompt": "Którego napastnika wypożyczono między tymi klubami w ostatnim dniu sierpnia 2011?",
+      "answerParts": [
+        "Mauro Zárate"
+      ],
+      "subjects": [
+        "player:mauro-zarate"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wypożyczenie Zárate z Lazio do Interu 31 sierpnia",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01f4-0ea2a098b10d-8d04252d7dfa-1000--inter-complete-deals-for-forlan-poli-and-zarate/",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        },
+        {
+          "title": "Inter — klubowe statystyki zawodnika z sezonu 2011/12",
+          "url": "https://www.inter.it/it/archivio_giocatore/G0885",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Wypożyczenie na sezon",
+        "from": {
+          "club": "Lazio",
+          "media": {
+            "path": "assets/d09-lazio.png",
+            "source": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "credit": "S.S. Lazio",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:S.S._Lazio_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 406,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-05-29"
+    },
+    {
+      "factKey": "homare-sawa:2011-world-cup-golden-ball-boot",
+      "format": "fact",
+      "prompt": "Która Japonka zdobyła Złotą Piłkę i Złoty But na mundialu kobiet w 2011 roku?",
+      "answerParts": [
+        "Homare Sawa"
+      ],
+      "subjects": [
+        "player:homare-sawa"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "mundial",
+        "pilka-kobiet",
+        "japonia"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — dwa wyróżnienia Sawy i tytuł mistrzyń świata z 2011 roku",
+          "url": "https://inside.fifa.com/tournaments/womens/womensworldcup/france2019/news/sawas-sublime-significant-heel-flick-3023487",
+          "checkedAt": "2026-11-05T20:39:26.448Z"
+        }
+      ],
+      "id": "2026-11-05-30"
+    }
+  ]
+}
