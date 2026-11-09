@@ -1,0 +1,1150 @@
+{
+  "id": "2026-11-07",
+  "kind": "daily",
+  "title": "Trening głowy · 7 listopada 2026",
+  "date": "2026-11-07",
+  "publishAt": "2026-11-09T20:51:24.494Z",
+  "researchedAt": "2026-11-09T20:51:24.494Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-07"
+  },
+  "questions": [
+    {
+      "factKey": "mariusz-misiura:2026-11-06:motor-beats-former-club-wisla-plock",
+      "format": "coach",
+      "prompt": "Kto 6 listopada 2026 poprowadził Motor do wygranej z Wisłą Płock, z którą wcześniej awansował do Ekstraklasy?",
+      "answerParts": [
+        "Mariusz Misiura"
+      ],
+      "subjects": [
+        "coach:mariusz-misiura"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "trenerzy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-06",
+      "sources": [
+        {
+          "title": "Ekstraklasa — Misiura wygrał z byłym klubem",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-motor-lublin-32-wisla-plock-potezna-ofensywa-gospodarzy/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Ekstraklasa — wcześniejszy awans Wisły Płock pod wodzą Misiury",
+          "url": "https://ekstraklasa.org/aktualnosci/wielkie-derby-wracaja-do-ekstraklasy-14-kolejka-20262027/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-07-01"
+    },
+    {
+      "factKey": "karol-linetty:lech-sampdoria-2016",
+      "format": "transfer",
+      "prompt": "Który pomocnik odszedł z Ekstraklasy do tego klubu latem po EURO 2016?",
+      "answerParts": [
+        "Karol Linetty"
+      ],
+      "subjects": [
+        "player:karol-linetty"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "polish",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Sampdoria — ogłoszenie transferu z Lecha",
+          "url": "https://www.sampdoria.it/en/news-en-2/club-en/2016/07/29/linetty-completes-sampdoria-switch/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        },
+        {
+          "title": "Lech — potwierdzenie odejścia pomocnika",
+          "url": "https://www.lechpoznan.pl/en/news%2C2%2Clinetty-joined-uc-sampdoria%2C24624.html",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "transfer": {
+        "year": 2016,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Lech Poznań",
+          "media": {
+            "path": "assets/d23-badge-lech.png",
+            "source": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "credit": "Lech Poznań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 380,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Sampdoria",
+          "media": {
+            "path": "assets/d21-badge-sampdoria.png",
+            "source": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "credit": "Sampdoria",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:U.C._Sampdoria_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 318,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-07-02"
+    },
+    {
+      "factKey": "pawel-olkowski:gornik-koln-bolton-gaziantep",
+      "format": "career-riddle",
+      "prompt": "Po grze w 1. FC Köln i Boltonie trafił do Gaziantepu. Z Turcji wrócił do Górnika Zabrze. Kto to?",
+      "answerParts": [
+        "Paweł Olkowski"
+      ],
+      "subjects": [
+        "player:pawel-olkowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "niemcy",
+        "anglia",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "Górnik Zabrze — kolejność klubów i powrót do Zabrza przed sezonem 2022/23",
+          "url": "https://www.gornikzabrze.pl/aktualnosci/wydarzenia/pawel-olkowski-na-dluzej-w-gorniku",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "id": "2026-11-07-03"
+    },
+    {
+      "factKey": "carlsberg:liverpool-home-2006-07-shirt",
+      "format": "kit",
+      "prompt": "Liverpool, domowa koszulka 2006/07. Czyje logo zasłonięto na piersi Gerrarda?",
+      "answerParts": [
+        "Carlsberg"
+      ],
+      "subjects": [
+        "sponsor:carlsberg"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Liverpool FC — mecz z Sheffield United z 24 lutego 2007 r.",
+          "url": "https://members.liverpoolfc.com/video/fixtures/first-team/2006-2007/liverpool-vs-sheff-utd-2007-2-24-15-00-00",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Parlament Wielkiej Brytanii — sprawozdanie o sponsorskich logo na koszulkach, pkt 165",
+          "url": "https://publications.parliament.uk/pa/cm200910/cmselect/cmhealth/151/151i.pdf",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Nigel Wilson — fotografia Gerrarda z 24 lutego 2007 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:The_big_4-0.jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-07-a.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_big_4-0.jpg",
+        "credit": "Nigel Wilson",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Podgląd Wikimedia Commons. Kadrowanie i zasłona sponsora w interfejsie.",
+        "width": 500,
+        "height": 750,
+        "alt": "Piłkarz Liverpoolu w czerwonej koszulce i spodenkach.",
+        "crop": [
+          101,
+          100,
+          270,
+          480
+        ],
+        "mask": [
+          198,
+          277,
+          84,
+          54
+        ]
+      },
+      "id": "2026-11-07-04"
+    },
+    {
+      "format": "crest",
+      "factKey": "blackburn-rovers:crest-fragment",
+      "prompt": "Który angielski klub umieścił tę czerwoną różę w herbie?",
+      "answerParts": [
+        "Blackburn Rovers"
+      ],
+      "subjects": [
+        "club:blackburn-rovers"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "anglia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Blackburn Rovers — herb klubu i jego historia",
+          "url": "https://www.rovers.co.uk/club/history",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d21-badge-blackburn.png",
+        "source": "https://en.wikipedia.org/wiki/File:Blackburn_Rovers.svg",
+        "credit": "Blackburn Rovers",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Blackburn_Rovers.svg",
+        "changes": "W quizie pokazany fragment oficjalnego herbu.",
+        "width": 250,
+        "height": 259,
+        "alt": "Fragment herbu bez nazwy klubu.",
+        "crop": [
+          48,
+          48,
+          154,
+          152
+        ]
+      },
+      "id": "2026-11-07-05"
+    },
+    {
+      "factKey": "stefan-savic:manchester-city-fiorentina-atletico",
+      "format": "career",
+      "prompt": "Który obrońca grał w tych trzech klubach w podanej kolejności?",
+      "answerParts": [
+        "Stefan Savić"
+      ],
+      "subjects": [
+        "player:stefan-savic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "anglia",
+        "wlochy",
+        "hiszpania",
+        "czarnogora"
+      ],
+      "sources": [
+        {
+          "title": "Atlético — lata gry w Manchesterze City i Fiorentinie",
+          "url": "https://en.atleticodemadrid.com/jugadores/stefan-savic-2016-2017-2",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        },
+        {
+          "title": "Atlético — odejście po dziewięciu sezonach",
+          "url": "https://en.atleticodemadrid.com/noticias/thank-you-savi",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "careerCaption": "Trzy kolejne etapy kariery seniorskiej.",
+      "career": [
+        {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "2011–2012"
+        },
+        {
+          "club": "Fiorentina",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          },
+          "years": "2012–2015"
+        },
+        {
+          "club": "Atlético Madryt",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          },
+          "years": "2015–2024"
+        }
+      ],
+      "id": "2026-11-07-06"
+    },
+    {
+      "factKey": "szymon-marciniak:2026-11-06:refereed-krakow-derby-return",
+      "format": "fact",
+      "prompt": "Który sędzia poprowadził 6 listopada 2026 pierwsze od ponad czterech lat derby Krakowa w Ekstraklasie?",
+      "answerParts": [
+        "Szymon Marciniak"
+      ],
+      "subjects": [
+        "referee:szymon-marciniak"
+      ],
+      "difficulty": "łatwe",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "sedziowie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-06",
+      "sources": [
+        {
+          "title": "Wisła Kraków — relacja z rozegranych derbów i decyzja Marciniaka",
+          "url": "https://wislakrakow.com/en/news/derby-sa-nasze-wisla-krakow-pokonala-cracovie-2-1",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Ekstraklasa — oficjalna obsada sędziowska derbów",
+          "url": "https://ekstraklasa.org/aktualnosci/sedziowie-14-kolejki-20262027/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-07-07"
+    },
+    {
+      "factKey": "leszek-ojrzynski:kielb-korona-siemaszko-arka",
+      "format": "coach-link",
+      "prompt": "Jacek Kiełb w Koronie w sezonie 2011/12, Rafał Siemaszko w Arce jesienią 2017. Kto prowadził obu?",
+      "answerParts": [
+        "Leszek Ojrzyński"
+      ],
+      "subjects": [
+        "coach:leszek-ojrzynski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — wypożyczenie Kiełba do Korony w sierpniu 2011",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/lech-poznan-dnipro-dniepropietrowsk-00-26082010",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        },
+        {
+          "title": "Ekstraklasa — trener Korony w sezonie 2011/12",
+          "url": "https://ekstraklasa.org/aktualnosci/wieczor-z-klasykiem-23-kolejka-2022-2023-sobota/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        },
+        {
+          "title": "Arka — Siemaszko w wyjściowym składzie Ojrzyńskiego 9 grudnia 2017",
+          "url": "https://arka.gdynia.pl/news/korona-arka-03-gospodarze-znokautowani",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "id": "2026-11-07-08"
+    },
+    {
+      "factKey": "john-arne-riise:roma-fulham-2011",
+      "format": "transfer",
+      "prompt": "Który obrońca po tej przeprowadzce po raz pierwszy trafił do jednej drużyny klubowej ze swoim bratem?",
+      "answerParts": [
+        "John Arne Riise"
+      ],
+      "subjects": [
+        "player:john-arne-riise"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "anglia",
+        "wlochy",
+        "norwegia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — transfer z Romy do klubu, w którym grał już jego brat",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0254-0d7d546e7ea5-067f126e6800-1000--riise-returns-to-england-with-fulham/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Lipiec",
+        "from": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Fulham",
+          "media": {
+            "path": "assets/badge-fulham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "credit": "Fulham F.C.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Fulham_FC_(shield).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-07-09"
+    },
+    {
+      "format": "fact",
+      "factKey": "maciej-szczesny:champion-with-four-polish-clubs",
+      "prompt": "Który bramkarz zdobywał mistrzostwo Polski z Legią, Widzewem, Polonią Warszawa i Wisłą Kraków?",
+      "answerParts": [
+        "Maciej Szczęsny"
+      ],
+      "subjects": [
+        "player:maciej-szczesny"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "ekstraklasa",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — cztery kluby, z którymi Szczęsny zdobywał mistrzostwo Polski",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/maciej-szczesny",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-07-10"
+    },
+    {
+      "factKey": "rewe:koln-cup-2018-19-shirt",
+      "format": "kit",
+      "prompt": "1. FC Köln w Pucharze Niemiec 2018/19. Jakie logo zniknęło z koszulki Jonasa Hectora?",
+      "answerParts": [
+        "REWE"
+      ],
+      "subjects": [
+        "sponsor:rewe"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "1. FC Köln — historia współpracy z głównym sponsorem koszulki",
+          "url": "https://fc.de/aktuelles/news/fc-und-rewe-group-verlaengern-partnerschaft-vorzeitig",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "DFB — mecz BFC Dynamo z 1. FC Köln, pierwsza runda Pucharu Niemiec 2018/19",
+          "url": "https://datencenter.dfb.de/en/data-center/dfb-pokal/2018-2019/1st-round/2261349",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Sandro Halank — zdjęcie Hectora z meczu z BFC Dynamo",
+          "url": "https://commons.wikimedia.org/wiki/File:2018-08-19_BFC_Dynamo_vs._1._FC_K%C3%B6ln_(DFB-Pokal)_by_Sandro_Halank%E2%80%93023.jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-07-b.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:2018-08-19_BFC_Dynamo_vs._1._FC_K%C3%B6ln_(DFB-Pokal)_by_Sandro_Halank%E2%80%93023.jpg",
+        "credit": "Sandro Halank, Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Podgląd Wikimedia Commons. Kadrowanie i zasłona sponsora w interfejsie.",
+        "width": 960,
+        "height": 1139,
+        "alt": "Piłkarz w ciemnej koszulce z herbem 1. FC Köln.",
+        "crop": [
+          48,
+          23,
+          850,
+          1116
+        ],
+        "mask": [
+          159,
+          948,
+          366,
+          191
+        ]
+      },
+      "id": "2026-11-07-11"
+    },
+    {
+      "factKey": "henrik-larsson:2006-ucl-final-two-assists",
+      "format": "fact",
+      "prompt": "Który rezerwowy Barcelony asystował przy obu golach przeciw Arsenalowi w finale Ligi Mistrzów 2006?",
+      "answerParts": [
+        "Henrik Larsson"
+      ],
+      "subjects": [
+        "player:henrik-larsson"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-mistrzow",
+        "szwecja",
+        "asysty"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Larsson i obie asysty w finale 2006",
+          "url": "https://www.uefa.com/uefaeuro/history/news/0254-0d7b8b16a3b4-2bbfaf0bd55c-1000--larsson-leaves-international-arena/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-11-07-12"
+    },
+    {
+      "factKey": "ael-larissa:dabizas-bakayoko-uefa-cup-2007",
+      "format": "shared-club",
+      "prompt": "W którym greckim klubie grali razem Nikos Dabizas i Ibrahima Bakayoko w Pucharze UEFA 2007/08?",
+      "answerParts": [
+        "AEL Larisa (Larissa FC)"
+      ],
+      "subjects": [
+        "club:ael-larissa"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "grecja",
+        "powiazania",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — obaj piłkarze w relacji z meczu klubu przeciw Zenitowi",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01c7-0e6eb7668ee3-8e72366fc860-1000--tekke-strikes-to-boost-zenit/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "id": "2026-11-07-13"
+    },
+    {
+      "factKey": "monaco:2026-11-05:three-european-opening-wins-first-since-1996-97",
+      "format": "fact",
+      "prompt": "Który klub po wygranej z Nordsjælland 5 listopada 2026 zaczął europejską kampanię trzema zwycięstwami po raz pierwszy od 1996/97?",
+      "answerParts": [
+        "AS Monaco"
+      ],
+      "subjects": [
+        "club:monaco"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "liga-konferencji",
+        "ligue-1",
+        "dania",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "sources": [
+        {
+          "title": "AS Monaco — relacja po meczu i odniesienie do Pucharu UEFA 1996/97",
+          "url": "https://www.asmonaco.com/fr/pros/calendrier/as-monaco-fc-nordsjaelland",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "UEFA — trzy zwycięstwa Monaco w Lidze Konferencji",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/02ab-220049e7e20f-44ef5f39bc84-1000--uefa-conference-league-matchday-3-round-up-brighton-win-m/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-07-14"
+    },
+    {
+      "format": "club-riddle",
+      "factKey": "urawa:2007-first-japanese-afc-champions",
+      "prompt": "Który japoński klub wygrał Azjatycką Ligę Mistrzów w 2007 roku, pokonując w finale irański Sepahan?",
+      "answerParts": [
+        "Urawa Red Diamonds"
+      ],
+      "subjects": [
+        "club:urawa-red-diamonds"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "azja",
+        "japonia",
+        "liga-mistrzow-afc"
+      ],
+      "sources": [
+        {
+          "title": "AFC — finał 2007 i pierwsze japońskie zwycięstwo w tych rozgrywkach",
+          "url": "https://assets.the-afc.com/migration/a/f/afc-champions-league-2017-technical-report",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-07-15"
+    },
+    {
+      "factKey": "alou-diarra:bordeaux-marseille-2011",
+      "format": "transfer",
+      "prompt": "Który defensywny pomocnik zamienił te kluby po czterech sezonach w pierwszym z nich?",
+      "answerParts": [
+        "Alou Diarra"
+      ],
+      "subjects": [
+        "player:alou-diarra"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — przejście do Marsylii po czterech sezonach w Bordeaux",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01f3-0e78d0c206d9-929f577bb427-1000--marseille-move-for-bordeaux-s-diarra/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Lipiec",
+        "from": {
+          "club": "Girondins Bordeaux",
+          "media": {
+            "path": "assets/d30-h-bordeaux.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Girondins_de_Bordeaux_logo.svg",
+            "credit": "FC Girondins de Bordeaux",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Girondins_de_Bordeaux_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 306
+          }
+        },
+        "to": {
+          "club": "Olympique Marsylia",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-07-16"
+    },
+    {
+      "factKey": "jens-martin-knudsen:bobble-hat-austria-1990",
+      "format": "fact",
+      "prompt": "Który bramkarz Wysp Owczych grał w wełnianej czapce i zachował czyste konto przeciw Austrii w 1990?",
+      "answerParts": [
+        "Jens Martin Knudsen"
+      ],
+      "subjects": [
+        "player:jens-martin-knudsen"
+      ],
+      "tags": [],
+      "difficulty": "trudne",
+      "sources": [
+        {
+          "title": "Primary-source screening evidence",
+          "url": "https://www.uefa.com/news-media/news/01c8-0f84bdf474a8-86e375fe51b8-1000--knudsen-hangs-up-his-bobble-hat/",
+          "checkedAt": "2026-10-13T08:28:34.342202+00:00"
+        }
+      ],
+      "id": "2026-11-07-17"
+    },
+    {
+      "factKey": "northern-rock:newcastle-home-2010-11-shirt",
+      "format": "kit",
+      "prompt": "Newcastle United, sezon 2010/11. Czyj napis zasłonięto na biało-czarnej koszulce Sholi Ameobiego?",
+      "answerParts": [
+        "Northern Rock"
+      ],
+      "subjects": [
+        "sponsor:northern-rock"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — ligowy mecz Newcastle z Chelsea, 28 listopada 2010 r.",
+          "url": "https://www.uefa.com/news-media/news/01eb-0e7664d09a81-e00f3368ac06-1000--newcastle-deny-chelsea-top-spot/",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Parlament Wielkiej Brytanii — sprawozdanie wymieniające sponsora Newcastle, pkt 166",
+          "url": "https://publications.parliament.uk/pa/cm200910/cmselect/cmhealth/151/151i.pdf",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Axel Steenberg — fotografia Ameobiego z 28 listopada 2010 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Ameobi.jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-07-c.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ameobi.jpg",
+        "credit": "Axel Steenberg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Kadr z oryginalnego zdjęcia udostępniony w Wikimedia Commons. Dalsze kadrowanie i zasłona w interfejsie.",
+        "width": 421,
+        "height": 734,
+        "alt": "Piłkarz Newcastle w biało-czarne pasy na murawie.",
+        "crop": [
+          7,
+          0,
+          368,
+          525
+        ],
+        "mask": [
+          138,
+          245,
+          168,
+          88
+        ]
+      },
+      "id": "2026-11-07-18"
+    },
+    {
+      "format": "photo",
+      "factKey": "player:dimitar-berbatov:image",
+      "prompt": "Którego byłego napastnika rozpoznajesz na tym zbliżeniu?",
+      "answerParts": [
+        "Dimitar Berbatov"
+      ],
+      "subjects": [
+        "player:dimitar-berbatov"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "bulgaria",
+        "portret"
+      ],
+      "sources": [
+        {
+          "title": "Wikimedia Commons — autor fotografii i identyfikacja piłkarza",
+          "url": "https://commons.wikimedia.org/wiki/File:Berbatov_selfie_2016.jpg",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0710-visual-berba2.jpg",
+        "width": 960,
+        "height": 640,
+        "crop": [
+          275,
+          132,
+          270,
+          262
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Berbatov_selfie_2016.jpg",
+        "credit": "Biser Todorov",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "alt": "Zbliżenie twarzy byłego piłkarza.",
+        "changes": "Kadr z oryginalnej fotografii."
+      },
+      "id": "2026-11-07-19"
+    },
+    {
+      "format": "fact",
+      "factKey": "camille-abily:2011-uwcl-final-player-of-match",
+      "prompt": "Którą pomocniczkę Lyonu wybrano najlepszą zawodniczką finału Ligi Mistrzyń 2011 przeciw Turbine Potsdam?",
+      "answerParts": [
+        "Camille Abily"
+      ],
+      "subjects": [
+        "player:camille-abily"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "liga-mistrzyn",
+        "francja",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wyróżnienie dla Abily w finale Lyonu z Potsdamem",
+          "url": "https://www.uefa.com/womenschampionsleague/news/01f1-0e122ff51333-911c0bfb582e-1000--classy-lyon-take-title-from-potsdam/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-07-20"
+    },
+    {
+      "factKey": "celtic:2026-11-05:first-europa-league-points-besiktas-comeback",
+      "format": "fact",
+      "prompt": "Który klub 5 listopada 2026 odrobił straty do Beşiktaşu i zdobył pierwsze punkty w tej edycji Ligi Europy?",
+      "answerParts": [
+        "Celtic FC"
+      ],
+      "subjects": [
+        "club:celtic"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "liga-europy",
+        "szkocja",
+        "turcja"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-05",
+      "sources": [
+        {
+          "title": "Celtic — relacja z pierwszego zwycięstwa w tej edycji Ligi Europy",
+          "url": "https://www.celticfc.com/news/2026/november/05/duran-duran-double-wins-it-for-celtic-in-five-goal-thriller/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "UEFA — odrobione straty i pierwsze punkty Celticu",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02ab-22004d716327-dd7c42bc0d91-1000--europa-league-matchday-4-highlights-and-round-up-ferencva/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-07-21"
+    },
+    {
+      "factKey": "amica-wronki:three-polish-cups-1998-2000",
+      "format": "fact",
+      "prompt": "Który klub wygrał Puchar Polski trzy razy z rzędu w latach 1998–2000?",
+      "answerParts": [
+        "Amica Wronki"
+      ],
+      "subjects": [
+        "club:amica-wronki"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "puchar-polski",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — trzy kolejne pucharowe zwycięstwa w latach 1998–2000",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/pucharowe-seriale",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "id": "2026-11-07-22"
+    },
+    {
+      "factKey": "shinji-kagawa:dortmund-besiktas-loan-2019",
+      "format": "transfer",
+      "prompt": "Który dwukrotny mistrz Niemiec został zimą wypożyczony między tymi klubami?",
+      "answerParts": [
+        "Shinji Kagawa"
+      ],
+      "subjects": [
+        "player:shinji-kagawa"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "niemcy",
+        "turcja",
+        "japonia"
+      ],
+      "sources": [
+        {
+          "title": "Beşiktaş — wypożyczenie z Borussii do końca sezonu",
+          "url": "https://bjk.com.tr/en/news/75504/welcome-to-besiktas-kagawa.html",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        },
+        {
+          "title": "Bundesliga — oba tytuły i wypożyczenie w sezonie 2018/19",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/players-to-return-to-borussia-dortmund-jadon-sancho-reus-gotze-hummels-25828",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "transfer": {
+        "year": 2019,
+        "detail": "Styczeń · wypożyczenie",
+        "from": {
+          "club": "Borussia Dortmund",
+          "media": {
+            "path": "assets/15.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "credit": "Lispir (Lispir)",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "width": 960,
+            "height": 961,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Beşiktaş",
+          "media": {
+            "path": "assets/d11-badge-besiktas.png",
+            "source": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "credit": "Autor nieznany",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:BesiktasJK-Logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 415,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-07-23"
+    },
+    {
+      "factKey": "ballkani:conference-league-first-kosovo-2022",
+      "format": "fact",
+      "prompt": "Który klub z Kosowa zagrał w grupie Ligi Konferencji 2022/23 i wygrał na wyjeździe z Sivassporem?",
+      "answerParts": [
+        "FC Ballkani"
+      ],
+      "subjects": [
+        "club:ballkani"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kosowo",
+        "liga-konferencji"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pierwszy klub z Kosowa w fazie grupowej i wyjazdowa wygrana z Sivassporem",
+          "url": "https://www.uefa.com/news-media/mediaservices/informationkits/competitions/uefaconferenceleague/2023/match/2035766/printmatchpresskits/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "id": "2026-11-07-24"
+    },
+    {
+      "format": "fact",
+      "factKey": "latvia:2004-euro-playoff-turkey",
+      "prompt": "Która reprezentacja wyeliminowała Turcję w barażach o Euro 2004, po czym zremisowała z Niemcami w grupie?",
+      "answerParts": [
+        "Łotwa"
+      ],
+      "subjects": [
+        "national-team:latvia"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "euro",
+        "lotwa",
+        "turcja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — baraże z Turcją i remis z Niemcami",
+          "url": "https://www.uefa.com/news-media/news/01aa-0f8473923acf-70d735df0dc3-1000--happy-memories-haunt-latvia/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-07-25"
+    },
+    {
+      "factKey": "carling:celtic-alternate-2009-10-shirt",
+      "format": "kit",
+      "prompt": "Celtic, lato 2009. Jaką markę zasłonięto na żółto-czarnej koszulce Georgiosa Samarasa?",
+      "answerParts": [
+        "Carling"
+      ],
+      "subjects": [
+        "sponsor:carling"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Celtic FC — raport z umową na koszulki do 2010 r.",
+          "url": "https://cdn.celticfc.com/assets/downloads/2006_report.pdf#page=5",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Manchester City — raport ze sparingu z Celtikiem 8 sierpnia 2009 r.",
+          "url": "https://www.mancity.com/news/first-team/match-report/2009/august/city-v-celtic-8th-august",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Alfonso Jimenez — zdjęcie Samarasa z 8 sierpnia 2009 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Georgio_Samaras_Celtic.jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-07-d.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Georgio_Samaras_Celtic.jpg",
+        "credit": "Alfonso Jimenez; wcześniejszy kadr: Adeletron 3030",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Kadr z oryginalnego zdjęcia udostępniony w Wikimedia Commons. Dalsze kadrowanie i zasłona w interfejsie.",
+        "width": 447,
+        "height": 624,
+        "alt": "Piłkarz Celticu w żółto-czarnych pasach na boisku.",
+        "crop": [
+          37,
+          3,
+          349,
+          412
+        ],
+        "mask": [
+          191,
+          177,
+          73,
+          45
+        ]
+      },
+      "id": "2026-11-07-26"
+    },
+    {
+      "factKey": "ifab:throw-in-directly-into-opposition-goal",
+      "format": "fact",
+      "prompt": "Piłka wrzucona z autu wpada bez dotknięcia do bramki rywali. Jak sędzia wznowi grę?",
+      "answerParts": [
+        "Rzut od bramki"
+      ],
+      "subjects": [
+        "rule:throw-in-opposition-goal"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "przepisy"
+      ],
+      "sources": [
+        {
+          "title": "IFAB — przepis 15 o wrzucie z autu i wznowieniu od bramki",
+          "url": "https://www.theifab.com/laws/latest/the-throw-in/",
+          "checkedAt": "2026-11-09T20:50:48.089Z"
+        }
+      ],
+      "id": "2026-11-07-27"
+    },
+    {
+      "factKey": "arsenal:2026-11-07:ten-games-27-points-equal-club-record",
+      "format": "fact",
+      "prompt": "Ile punktów po dziesięciu meczach miał Arsenal 7 listopada 2026, wyrównując swój najlepszy start w Premier League?",
+      "answerParts": [
+        "27 punktów"
+      ],
+      "subjects": [
+        "club:arsenal"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league",
+        "anglia",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-07",
+      "sources": [
+        {
+          "title": "Premier League — 27 punktów Arsenalu i wyrównanie rekordu z 2022/23",
+          "url": "https://www.premierleague.com/en/news/4757016/what-we-learned-from-saturdays-premier-league-matches/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-07-28"
+    },
+    {
+      "format": "fact",
+      "factKey": "kasper-hjulmand:nordsjaelland-first-title-2012",
+      "prompt": "Kto poprowadził FC Nordsjælland do pierwszego mistrzostwa Danii w 2012 roku?",
+      "answerParts": [
+        "Kasper Hjulmand"
+      ],
+      "subjects": [
+        "coach:kasper-hjulmand"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — trener przy pierwszym tytule Nordsjælland",
+          "url": "https://de.uefa.com/news-media/news/01fd-0e7e44d06e57-a3329b281554-1000--nordsj%C3%A6lland-erstmals-danischer-meister/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-07-29"
+    },
+    {
+      "format": "fact",
+      "factKey": "janusz-gajos:jan-laguna-pilkarski-poker",
+      "prompt": "Kto zagrał sędziego Jana Lagunę w filmie „Piłkarski poker”?",
+      "answerParts": [
+        "Janusz Gajos"
+      ],
+      "subjects": [
+        "actor:janusz-gajos"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "kultura",
+        "film"
+      ],
+      "sources": [
+        {
+          "title": "Stowarzyszenie Filmowców Polskich — odtwórca roli sędziego Laguny",
+          "url": "https://www.sfp.org.pl/magazyn_filmowy%2C45.d1b3d59f4762077790818a0b29f69a7e.pdf",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-07-30"
+    }
+  ]
+}

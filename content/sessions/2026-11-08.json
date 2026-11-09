@@ -1,0 +1,1134 @@
+{
+  "id": "2026-11-08",
+  "kind": "daily",
+  "title": "Trening głowy · 8 listopada 2026",
+  "date": "2026-11-08",
+  "publishAt": "2026-11-09T20:51:24.494Z",
+  "researchedAt": "2026-11-09T20:51:24.494Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-08"
+  },
+  "questions": [
+    {
+      "factKey": "filip-majchrowicz:2026-11-07:eleven-saves-versus-korona",
+      "format": "fact",
+      "prompt": "Który bramkarz Radomiaka obronił wszystkie jedenaście celnych strzałów Korony Kielce 7 listopada 2026?",
+      "answerParts": [
+        "Filip Majchrowicz"
+      ],
+      "subjects": [
+        "player:filip-majchrowicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "bramkarze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-07",
+      "sources": [
+        {
+          "title": "Ekstraklasa — 11 obronionych strzałów Majchrowicza",
+          "url": "https://ekstraklasa.org/aktualnosci/derby-dla-wisly-twierdza-wciaz-niezdobyta-podsumowanie-14-kolejki-20262027/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Ekstraklasa — termin meczu Korona–Radomiak",
+          "url": "https://ekstraklasa.org/aktualnosci/terminarz-14-kolejki-202627/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-08-01"
+    },
+    {
+      "factKey": "lukasz-teodorczyk:polonia-lech-2013",
+      "format": "transfer",
+      "prompt": "Który napastnik miał zmienić te kluby latem, ale dołączył do nowego zespołu już zimą?",
+      "answerParts": [
+        "Łukasz Teodorczyk"
+      ],
+      "subjects": [
+        "player:lukasz-teodorczyk"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "polish"
+      ],
+      "sources": [
+        {
+          "title": "Lech — porozumienie w sprawie przyspieszenia transferu z lipca na luty",
+          "url": "https://www.lechpoznan.pl/aktualnosci%2C2%2Cteodorczyk-w-lechu-juz-teraz%2C7793.html",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Luty",
+        "from": {
+          "club": "Polonia Warszawa",
+          "media": {
+            "path": "assets/d09-polonia.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "credit": "BallOnTelly",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polonia_Warsaw.png",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 411,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Lech Poznań",
+          "media": {
+            "path": "assets/d23-badge-lech.png",
+            "source": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "credit": "Lech Poznań",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:KKS_Lech_Pozna%C5%84.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 380,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-08-02"
+    },
+    {
+      "factKey": "krzysztof-krol:real-reserves-jagiellonia-chicago-montreal",
+      "format": "career-riddle",
+      "prompt": "Grał w rezerwach Realu Madryt. Jagiellonia wypożyczyła go do Chicago Fire, a później wrócił do MLS w barwach Montrealu. Kto to?",
+      "answerParts": [
+        "Krzysztof Król"
+      ],
+      "subjects": [
+        "player:krzysztof-krol"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "hiszpania",
+        "mls"
+      ],
+      "sources": [
+        {
+          "title": "MLS — występy w rezerwach Realu oraz przejście do Montreal Impact",
+          "url": "https://www.mlssoccer.com/players/krzysztof-krol/",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        },
+        {
+          "title": "Chicago Fire — wypożyczenie z Jagiellonii i występy w sezonie 2010",
+          "url": "https://www.chicagofirefc.com/news/john-krol-released",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-03"
+    },
+    {
+      "factKey": "samsung:chelsea-ucl-2014-15-shirt",
+      "format": "kit",
+      "prompt": "Chelsea, Liga Mistrzów 2014/15. Czyje logo zasłonięto na niebieskiej koszulce Branislava Ivanovicia?",
+      "answerParts": [
+        "Samsung"
+      ],
+      "subjects": [
+        "sponsor:samsung"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "UEFA — Chelsea kontra Schalke w Lidze Mistrzów 2014/15",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2014311--chelsea-vs-schalke/",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "UEFA — składy, w tym Branislav Ivanović z numerem 2",
+          "url": "https://www.uefa.com/newsfiles/UCL/2015/2014311_LU.pdf",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "CFC Unofficial (Debs) — zdjęcie z meczu 17 września 2014 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Chelsea_1_Schalke_1_(15272407685).jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-08-a.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chelsea_1_Schalke_1_(15272407685).jpg",
+        "credit": "CFC Unofficial (Debs)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "Podgląd Wikimedia Commons. Kadrowanie i zasłona sponsora w interfejsie.",
+        "width": 960,
+        "height": 960,
+        "alt": "Piłkarz Chelsea w niebieskiej koszulce i spodenkach.",
+        "crop": [
+          40,
+          262,
+          278,
+          483
+        ],
+        "mask": [
+          181,
+          421,
+          82,
+          58
+        ]
+      },
+      "id": "2026-11-08-04"
+    },
+    {
+      "format": "crest",
+      "factKey": "anderlecht:crest-fragment",
+      "prompt": "Do którego belgijskiego klubu należy ten fragment biało-fioletowego herbu?",
+      "answerParts": [
+        "RSC Anderlecht"
+      ],
+      "subjects": [
+        "club:anderlecht"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "belgia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "RSC Anderlecht — oficjalne pliki herbu",
+          "url": "https://www.rsca.be/nl/club/brand",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d11-badge-anderlecht.png",
+        "source": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+        "credit": "Anderlecht",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:R.S.C._Anderlecht.svg",
+        "changes": "W quizie pokazany fragment oficjalnego herbu.",
+        "width": 250,
+        "height": 311,
+        "alt": "Fragment herbu bez nazwy klubu.",
+        "crop": [
+          27,
+          179,
+          196,
+          132
+        ]
+      },
+      "id": "2026-11-08-05"
+    },
+    {
+      "format": "career-riddle",
+      "factKey": "jacek-ziober:lks-montpellier-poland",
+      "prompt": "Z ŁKS-u trafił do Montpellier w 1990 roku. Który reprezentant Polski zrobił ten krok?",
+      "answerParts": [
+        "Jacek Ziober"
+      ],
+      "subjects": [
+        "player:jacek-ziober"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — przejście Ziobera z ŁKS-u do Montpellier",
+          "url": "https://www.laczynaspilka.pl/aktualnosci/aktualnosci/zmarl-jacek-ziober",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-08-06"
+    },
+    {
+      "factKey": "franciszek-stepniewski:2026-11-08:first-ekstraklasa-player-born-2010",
+      "format": "fact",
+      "prompt": "Który piłkarz Legii 8 listopada 2026 został pierwszym zawodnikiem z rocznika 2010 z występem w Ekstraklasie?",
+      "answerParts": [
+        "Franciszek Stępniewski"
+      ],
+      "subjects": [
+        "player:franciszek-stepniewski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "debiuty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "Akademia Legii — debiut zawodnika urodzonego w 2010 roku",
+          "url": "https://akademia.legia.com/articles/franciszek-stepniewski-zadebiutowal-w-legii-warszawa",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Ekstraklasa — pierwszy debiutant z rocznika 2010",
+          "url": "https://ekstraklasa.org/aktualnosci/derby-dla-wisly-twierdza-wciaz-niezdobyta-podsumowanie-14-kolejki-20262027/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Ekstraklasa — skład Legii i data meczu",
+          "url": "https://ekstraklasa.org/mecz/fce41e0c-8af4-41a4-8091-0e3b7b6e2b08/legia-warszawa-rakow-czestochowa/sklady/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-08-07"
+    },
+    {
+      "factKey": "toby-alderweireld:missing-southampton-2014-15",
+      "format": "career-gap",
+      "prompt": "Toby Alderweireld: w którym klubie spędził sezon na wypożyczeniu przed transferem do Tottenhamu?",
+      "answerParts": [
+        "Southampton"
+      ],
+      "subjects": [
+        "club:southampton"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Tottenham — rok dołączenia do Atlético i wypożyczenie w sezonie 2014/15",
+          "url": "https://www.tottenhamhotspur.com/news/1023829/alderweireld-deal-agreed",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        },
+        {
+          "title": "Tottenham — transfer do Al-Duhail po sezonie 2020/21",
+          "url": "https://www.tottenhamhotspur.com/news/1009634/toby-departs-for-qatar",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "careerCaption": "Wybrane etapy kariery. Tottenham pozyskał go z Atlético po powrocie z wypożyczenia.",
+      "career": [
+        {
+          "club": "Atlético Madryt",
+          "media": {
+            "path": "assets/d10-badge-atletico.png",
+            "source": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "credit": "Atlético Madryt",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Atletico_Madrid_Logo_2024.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 321,
+            "alt": "Herb klubu"
+          },
+          "years": "2013–2014"
+        },
+        {
+          "club": "Southampton",
+          "media": {
+            "path": "assets/d19-badge-southampton.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "credit": "Southampton",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Southampton.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 286,
+            "alt": "Herb klubu"
+          },
+          "years": "2014–2015",
+          "note": "Wypożyczenie",
+          "missing": 0
+        },
+        {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          },
+          "years": "2015–2021"
+        }
+      ],
+      "id": "2026-11-08-08"
+    },
+    {
+      "factKey": "wilfried-bony:swansea-man-city-2015",
+      "format": "transfer",
+      "prompt": "Który napastnik trafił tam zimą po zdobyciu korony króla strzelców Eredivisie jeszcze w barwach Vitesse?",
+      "answerParts": [
+        "Wilfried Bony"
+      ],
+      "subjects": [
+        "player:wilfried-bony"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "anglia",
+        "holandia"
+      ],
+      "sources": [
+        {
+          "title": "Manchester City — transfer ze Swansea i wcześniejsza korona strzelców ligi holenderskiej",
+          "url": "https://www.mancity.com/news/first-team/first-team-news/2015/january/wilfried-bony-joins-city",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "transfer": {
+        "year": 2015,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Swansea City",
+          "media": {
+            "path": "assets/d10-badge-swansea.png",
+            "source": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+            "credit": "Swansea City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Swansea_City_AFC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 229,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Manchester City",
+          "media": {
+            "path": "assets/d17-badge-manchester-city.png",
+            "source": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "credit": "Manchester City",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Manchester_City_FC_badge.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-08-09"
+    },
+    {
+      "format": "fact",
+      "factKey": "wlodzimierz-ciolek:walbrzych-1984-golden-boot-grenchen",
+      "prompt": "Król strzelców polskiej ligi w 1984 roku z Górnika Wałbrzych. Później grał w szwajcarskim Grenchen. Kto to?",
+      "answerParts": [
+        "Włodzimierz Ciołek"
+      ],
+      "subjects": [
+        "player:wlodzimierz-ciolek"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "ekstraklasa",
+        "szwajcaria"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — korona strzelców 1984 i ostatni klub Ciołka",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/wlodzimierz-ciolek",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-08-10"
+    },
+    {
+      "factKey": "indeed:eintracht-frankfurt-bundesliga-2021-22-shirt",
+      "format": "kit",
+      "prompt": "Eintracht Frankfurt, Bundesliga 2021/22. Jaką markę zasłonięto na koszulce Filipa Kosticia?",
+      "answerParts": [
+        "Indeed"
+      ],
+      "subjects": [
+        "sponsor:indeed"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Eintracht Frankfurt — umowa na logo z przodu koszulki do 2023 r.",
+          "url": "https://profis.eintracht.de/news/indeed-bleibt-hauptsponsor-bei-eintracht-frankfurt-120267/",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Bundesliga — Eintracht kontra Borussia Mönchengladbach, 8 maja 2022 r.",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2021-2022/33/eintracht-frankfurt-vs-borussia-moenchengladbach/liveticker",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Sven Mandel — zdjęcie Kosticia z 8 maja 2022 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:2022128173937_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2399_-_B70I8510_(Filip_Kosti%C4%87_cropped).jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-08-b.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:2022128173937_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2399_-_B70I8510_(Filip_Kosti%C4%87_cropped).jpg",
+        "credit": "Sven Mandel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Podgląd wcześniejszego kadru opublikowanego w Wikimedia Commons. Dalsze kadrowanie i zasłona w interfejsie.",
+        "width": 500,
+        "height": 667,
+        "alt": "Piłkarz Eintrachtu w ciemnej koszulce, klaszczący po meczu.",
+        "crop": [
+          2,
+          13,
+          496,
+          654
+        ],
+        "mask": [
+          162,
+          548,
+          183,
+          119
+        ]
+      },
+      "id": "2026-11-08-11"
+    },
+    {
+      "factKey": "marcin-brosz:dejmek-korona-angulo-gornik",
+      "format": "coach-link",
+      "prompt": "Radek Dejmek w Koronie jesienią 2015, Igor Angulo w Górniku Zabrze w sezonie 2019/20. Kto prowadził obu?",
+      "answerParts": [
+        "Marcin Brosz"
+      ],
+      "subjects": [
+        "coach:marcin-brosz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Lech — wypowiedź trenera Korony o występie Dejmka w grudniu 2015",
+          "url": "https://www.lechpoznan.pl/aktualnosci%2C2%2Ctrenerzy-po-meczu-korona-lech%2C860.html",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        },
+        {
+          "title": "Ekstraklasa — Angulo w składzie zespołu Brosza na początku sezonu 2019/20",
+          "url": "https://fantasy.ekstraklasa.org/news/zapowiedz-1-kolejki",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-12"
+    },
+    {
+      "factKey": "laurent-blanc:bordeaux-title-2009-coach",
+      "format": "coach",
+      "prompt": "Kto prowadził Bordeaux, gdy w 2009 roku przerwało serię siedmiu mistrzostw Lyonu?",
+      "answerParts": [
+        "Laurent Blanc"
+      ],
+      "subjects": [
+        "coach:laurent-blanc"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "ligue-1",
+        "trener"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Blanc zdobywa z Bordeaux tytuł, kończąc serię Lyonu",
+          "url": "https://www.uefa.com/news/01da-0e72439a07d0-b78e422900ff-1000--triumphant-blanc-turns-eyes-to-europe/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-11-08-13"
+    },
+    {
+      "factKey": "brajan-gruda:2026-11-07:assisted-two-leipzig-goals-in-two-minutes",
+      "format": "fact",
+      "prompt": "Kto asystował przy obu golach RB Lipsk w 34. i 35. minucie meczu z Augsburgiem 7 listopada 2026?",
+      "answerParts": [
+        "Brajan Gruda"
+      ],
+      "subjects": [
+        "player:brajan-gruda"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "niemcy",
+        "asysty"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-07",
+      "sources": [
+        {
+          "title": "Bundesliga — minuty i obie asysty Grudy",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Bundesliga — skrót obu asyst przeciw Augsburgowi",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-video-highlights-bayern-munich-borussia-dortmund-leverkusen-leipzig-937",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-08-14"
+    },
+    {
+      "factKey": "grazer-ak:kollmann-bazina-uefa-cup-2004",
+      "format": "shared-club",
+      "prompt": "W którym austriackim klubie Roland Kollmann i Mario Bazina grali razem w Pucharze UEFA 2004/05?",
+      "answerParts": [
+        "Grazer AK"
+      ],
+      "subjects": [
+        "club:grazer-ak"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria",
+        "powiazania",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — współpraca Kollmanna i Baziny przeciwko Amice Wronki",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/025a-0eaa8e1cb439-f99fd574f40e-1000--classy-kollmann-fells-amica/",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-15"
+    },
+    {
+      "factKey": "marouane-fellaini:standard-everton-2008",
+      "format": "transfer",
+      "prompt": "Który pomocnik trafił do Anglii po wygraniu ligi belgijskiej z klubem widocznym po lewej?",
+      "answerParts": [
+        "Marouane Fellaini"
+      ],
+      "subjects": [
+        "player:marouane-fellaini"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "belgia",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — mistrzostwo Belgii i transfer do Evertonu",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01d1-0e6fcb23d29e-02625c9438f5-1000--everton-splash-out-on-standard-s-fellaini/",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "transfer": {
+        "year": 2008,
+        "detail": "Wrzesień",
+        "from": {
+          "club": "Standard Liège",
+          "media": {
+            "path": "assets/d11-badge-standard.png",
+            "source": "https://en.wikipedia.org/wiki/File:Standard_Li%C3%A8ge_logo.svg",
+            "credit": "Standard Liège",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Standard_Li%C3%A8ge_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 419,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Everton",
+          "media": {
+            "path": "assets/d29-h-everton.png",
+            "source": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "credit": "Everton FC",
+            "license": "Znak klubowy objęty prawami autorskimi i ochroną znaku towarowego; plik nie jest na wolnej licencji.",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Everton_FC_logo.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 250,
+            "height": 256
+          }
+        }
+      },
+      "id": "2026-11-08-16"
+    },
+    {
+      "format": "coach",
+      "factKey": "bruno-metsu:senegal-first-world-cup-quarter-final-2002",
+      "prompt": "Kto poprowadził Senegal do ćwierćfinału w jego debiucie na mundialu w 2002 roku?",
+      "answerParts": [
+        "Bruno Metsu"
+      ],
+      "subjects": [
+        "coach:bruno-metsu"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "mundial",
+        "senegal",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — trener Senegalu podczas debiutanckiego mundialu",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/senegal-team-profile-history",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-08-17"
+    },
+    {
+      "factKey": "chang:everton-away-2008-09-shirt",
+      "format": "kit",
+      "prompt": "Everton, wyjazdowa koszulka 2008/09. Czyje logo zasłonięto na piersi Tima Cahilla?",
+      "answerParts": [
+        "Chang (Chang Beer)"
+      ],
+      "subjects": [
+        "sponsor:chang"
+      ],
+      "difficulty": "trudne",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Parlament Wielkiej Brytanii — sprawozdanie o sponsorze Evertonu, pkt 165",
+          "url": "https://publications.parliament.uk/pa/cm200910/cmselect/cmhealth/151/151i.pdf",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "Old Football Shirts — zdjęcia oryginalnego wyjazdowego modelu 2008/09",
+          "url": "https://www.oldfootballshirts.com/en/teams/e/everton/old-everton-football-shirt-s20668.html",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        },
+        {
+          "title": "nicksarebi — fotografia Tima Cahilla z 2009 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Tim_cahill_everton.jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-08-c.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tim_cahill_everton.jpg",
+        "credit": "nicksarebi",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Podgląd Wikimedia Commons. Kadrowanie i zasłona sponsora w interfejsie.",
+        "width": 500,
+        "height": 721,
+        "alt": "Piłkarz Evertonu w srebrnej koszulce z granatowymi rękawami.",
+        "crop": [
+          35,
+          22,
+          416,
+          661
+        ],
+        "mask": [
+          192,
+          385,
+          161,
+          105
+        ]
+      },
+      "id": "2026-11-08-18"
+    },
+    {
+      "format": "stadium",
+      "factKey": "stadium:tynecastle:image",
+      "prompt": "Który stadion w Edynburgu widać na tej panoramie z narożnika?",
+      "answerParts": [
+        "Tynecastle Park, Edynburg"
+      ],
+      "subjects": [
+        "stadium:tynecastle"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szkocja",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Wikimedia Commons — panorama obiektu w Edynburgu",
+          "url": "https://commons.wikimedia.org/wiki/File:Panorama_Tynecastle_Stadium.jpg",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0710-visual-tyne2.jpg",
+        "width": 960,
+        "height": 276,
+        "crop": [
+          63,
+          0,
+          845,
+          276
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Panorama_Tynecastle_Stadium.jpg",
+        "credit": "Alonstoter",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "alt": "Fragment stadionu bez nazwy obiektu.",
+        "changes": "Kadr z oryginalnej fotografii."
+      },
+      "id": "2026-11-08-19"
+    },
+    {
+      "format": "club-riddle",
+      "factKey": "kaiserslautern:1998-champions-immediately-after-promotion",
+      "prompt": "Który klub z młodym Michaelem Ballackiem zdobył mistrzostwo Bundesligi tuż po awansie w sezonie 1997/98?",
+      "answerParts": [
+        "1. FC Kaiserslautern"
+      ],
+      "subjects": [
+        "club:kaiserslautern"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "bundesliga",
+        "niemcy"
+      ],
+      "sources": [
+        {
+          "title": "Bundesliga — mistrzostwo beniaminka i Michael Ballack w składzie",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/kaiserslautern-bundesliga-club-by-club-historical-guide-rehhagel-24160",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-08-20"
+    },
+    {
+      "factKey": "real-salt-lake:2026-11-07:beat-galaxy-and-clinched-playoffs",
+      "format": "fact",
+      "prompt": "Który klub pokonał LA Galaxy w ostatniej kolejce sezonu zasadniczego MLS 2026 i wywalczył awans do play-offów?",
+      "answerParts": [
+        "Real Salt Lake"
+      ],
+      "subjects": [
+        "club:real-salt-lake"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "recent",
+        "mls",
+        "stany-zjednoczone",
+        "play-offy"
+      ],
+      "eventDate": "2026-11-07",
+      "sources": [
+        {
+          "title": "Real Salt Lake — relacja z rozstrzygającego meczu 7 listopada",
+          "url": "https://www.rsl.com/news/real-salt-lake-earns-must-win-result-over-la-galaxy-to-clinch-sixth-consecutive-mls-playoff-berth",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "MLS — ostatnia kolejka i awans Real Salt Lake",
+          "url": "https://www.mlssoccer.com/news/west-s-final-playoff-spots-east-craziness-more-from-decision-day",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-08-21"
+    },
+    {
+      "factKey": "stal-mielec:hamburg-1976-uefa-cup-quarterfinal",
+      "format": "fact",
+      "prompt": "Który polski klub zmierzył się z Hamburgerem SV w ćwierćfinale Pucharu UEFA 1975/76?",
+      "answerParts": [
+        "Stal Mielec"
+      ],
+      "subjects": [
+        "club:stal-mielec"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "liga-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — ćwierćfinał Pucharu UEFA w Hamburgu",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/real-madryt-stal-mielec-10-29091976",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-22"
+    },
+    {
+      "factKey": "yohan-cabaye:newcastle-psg-2014",
+      "format": "transfer",
+      "prompt": "Który reprezentant Francji wrócił zimą do Ligue 1 po dwóch i pół sezonu w Anglii?",
+      "answerParts": [
+        "Yohan Cabaye"
+      ],
+      "subjects": [
+        "player:yohan-cabaye"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "francja",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — transfer z Newcastle po dwóch i pół sezonu",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0211-0ea1028cb25a-d0f078a6eef2-1000--paris-swoop-to-bring-in-cabaye-from-newcastle/",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "transfer": {
+        "year": 2014,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Newcastle United",
+          "media": {
+            "path": "assets/badge-newcastle.png",
+            "source": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "credit": "Newcastle United",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Newcastle_United_FC_2026_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 252,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna tylko w USA; możliwa ochrona we Francji i ochrona znaku towarowego",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-08-23"
+    },
+    {
+      "factKey": "mascot:fuleco-armadillo-2014",
+      "format": "fact",
+      "prompt": "Jakie zwierzę przedstawiał Fuleco, maskotka brazylijskiego mundialu 2014?",
+      "answerParts": [
+        "Pancernik"
+      ],
+      "subjects": [
+        "mascot:fuleco-2014"
+      ],
+      "tags": [],
+      "difficulty": "trudne",
+      "sources": [
+        {
+          "title": "Primary-source screening evidence",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mascots-history",
+          "checkedAt": "2026-10-13T08:28:34.342202+00:00"
+        }
+      ],
+      "id": "2026-11-08-24"
+    },
+    {
+      "factKey": "schalke-04:1997-uefa-cup-inter-penalties",
+      "format": "fact",
+      "prompt": "Który niemiecki klub wygrał finał Pucharu UEFA 1997 z Interem po rzutach karnych?",
+      "answerParts": [
+        "Schalke 04"
+      ],
+      "subjects": [
+        "club:schalke-04"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "niemcy",
+        "liga-europy",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — finał Pucharu UEFA 1997 i rozstrzygająca seria jedenastek",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/014a-0e6a1c675cf3-f8cc71a211fd-1000--1996-97-unsung-schalke-shine/",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-25"
+    },
+    {
+      "factKey": "betway:west-ham-home-2019-20-shirt",
+      "format": "kit",
+      "prompt": "West Ham, lato 2019. Jaką markę zasłonięto na koszulce Michaila Antonio ze sparingu z Herthą?",
+      "answerParts": [
+        "Betway"
+      ],
+      "subjects": [
+        "sponsor:betway"
+      ],
+      "difficulty": "średnie",
+      "tags": [],
+      "sources": [
+        {
+          "title": "West Ham United — klubowa zapowiedź sparingu z Herthą",
+          "url": "https://www.whufc.com/en/news/live-stream-watch-west-ham-take-hertha-berlin",
+          "checkedAt": "2026-11-09T20:47:41.953Z"
+        },
+        {
+          "title": "Steindy — fotografia Antonio ze sparingu 31 lipca 2019 r.",
+          "url": "https://commons.wikimedia.org/wiki/File:Hertha_BSC_vs._West_Ham_United_20190731_(189).jpg",
+          "checkedAt": "2026-11-09T20:47:55.806Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0708-v-08-d.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hertha_BSC_vs._West_Ham_United_20190731_(189).jpg",
+        "credit": "Steindy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Podgląd Wikimedia Commons. Kadrowanie i zasłona sponsora w interfejsie.",
+        "width": 960,
+        "height": 640,
+        "alt": "Piłkarz West Hamu w bordowej koszulce z błękitnymi rękawami.",
+        "crop": [
+          413,
+          34,
+          200,
+          420
+        ],
+        "mask": [
+          421,
+          185,
+          105,
+          50
+        ]
+      },
+      "id": "2026-11-08-26"
+    },
+    {
+      "factKey": "kashima-antlers:first-asian-club-world-cup-final-2016",
+      "format": "fact",
+      "prompt": "Który klub jako pierwszy z Azji zagrał w finale Klubowych MŚ, pokonując w półfinale Atlético Nacional w 2016?",
+      "answerParts": [
+        "Kashima Antlers"
+      ],
+      "subjects": [
+        "club:kashima-antlers"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "japonia",
+        "klubowe-ms"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — pierwszy azjatycki finalista po półfinale z Atlético Nacional",
+          "url": "https://inside.fifa.com/es/news/la-celebracion-predestinda-de-suzuki-2860291",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-27"
+    },
+    {
+      "factKey": "topps:2026-11-07:bundesliga-starting-xi-debut-patch",
+      "format": "fact",
+      "prompt": "Która marka kart kolekcjonerskich wprowadziła z Bundesligą w sezonie 2026/27 naszywkę dla piłkarzy debiutujących w wyjściowym składzie?",
+      "answerParts": [
+        "Topps"
+      ],
+      "subjects": [
+        "brand:topps"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "bundesliga",
+        "niemcy",
+        "koszulki"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-07",
+      "sources": [
+        {
+          "title": "Bundesliga — wspólny projekt Topps i Bundesligi oraz zasady użycia naszywki",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-and-topps-launch-starting-xi-debut-patch-for-the-2026-27-season-38780",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-08-28"
+    },
+    {
+      "format": "fact",
+      "factKey": "edgardo-bauza:libertadores-with-ldu-and-san-lorenzo",
+      "prompt": "Który trener zdobył Copa Libertadores z LDU Quito w 2008 i z San Lorenzo w 2014?",
+      "answerParts": [
+        "Edgardo Bauza"
+      ],
+      "subjects": [
+        "coach:edgardo-bauza"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "copa-libertadores",
+        "ekwador",
+        "argentyna"
+      ],
+      "sources": [
+        {
+          "title": "CONMEBOL — triumfy Bauzy z LDU i San Lorenzo",
+          "url": "https://gol.conmebol.com/libertadores/pt-br/news/central-corinthians-se-26-anos-depois-volto-a-te-encontrar-nas-oitavas-da-conmebol-libertadores",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-08-29"
+    },
+    {
+      "factKey": "hakan-sukur:fastest-goal-world-cup-2002",
+      "format": "fact",
+      "prompt": "Kto strzelił gola po 11 sekundach meczu o trzecie miejsce na mundialu 2002?",
+      "answerParts": [
+        "Hakan Şükür"
+      ],
+      "subjects": [
+        "player:hakan-sukur"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "turcja",
+        "mundial",
+        "rekordy"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — 11 sekund w meczu Turcji z Koreą Południową",
+          "url": "https://www.fifa.com/en/articles/quickest-fastest-goals",
+          "checkedAt": "2026-11-09T20:50:48.310Z"
+        }
+      ],
+      "id": "2026-11-08-30"
+    }
+  ]
+}

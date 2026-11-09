@@ -1,0 +1,1163 @@
+{
+  "id": "2026-11-10",
+  "kind": "daily",
+  "title": "Trening głowy · 10 listopada 2026",
+  "date": "2026-11-10",
+  "publishAt": "2026-11-09T20:51:24.494Z",
+  "researchedAt": "2026-11-09T20:51:24.494Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-09"
+  },
+  "questions": [
+    {
+      "factKey": "lukasz-poreba:2026-11-06:elversberg-player-called-up-by-poland",
+      "format": "fact",
+      "prompt": "Który pomocnik SV Elversberg otrzymał 6 listopada 2026 swoje pierwsze powołanie do seniorskiej reprezentacji Polski?",
+      "answerParts": [
+        "Łukasz Poręba"
+      ],
+      "subjects": [
+        "player:lukasz-poreba"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "reprezentacja",
+        "liga-narodow",
+        "powolania"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-06",
+      "sources": [
+        {
+          "title": "Zagłębie Lubin — pierwsze powołanie wychowanka do seniorskiej reprezentacji i data ogłoszenia",
+          "url": "https://www.zaglebie.com/Aktualnosci/Pierwszy-zespol/wychowankowie-miedziowych-powolani-do-seniorskiej-reprezentacji-polski-_n20464",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "PZPN — Poręba w aktualnej seniorskiej kadrze i jego klub",
+          "url": "https://www.pzpn.pl/reprezentacje/reprezentacja-a/kadra/zawodnicy/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-10-01"
+    },
+    {
+      "factKey": "szymon-zurkowski:gornik-fiorentina-2019",
+      "format": "transfer",
+      "prompt": "Który pomocnik odszedł za rekordową wówczas kwotę w historii sprzedającego klubu?",
+      "answerParts": [
+        "Szymon Żurkowski"
+      ],
+      "subjects": [
+        "player:szymon-zurkowski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "polish",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Górnik — rekordowy transfer w sezonie 2018/19 do Fiorentiny",
+          "url": "https://www.gornikzabrze.pl/klub/historia",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "transfer": {
+        "year": 2019,
+        "detail": "Sezon 2018/19",
+        "from": {
+          "club": "Górnik Zabrze",
+          "media": {
+            "path": "assets/d19-badge-gornik-zabrze.png",
+            "source": "https://en.wikipedia.org/wiki/File:G%C3%B3rnik_Zabrze_crest.svg",
+            "credit": "Górnik Zabrze",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:G%C3%B3rnik_Zabrze_crest.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 346,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Fiorentina",
+          "media": {
+            "path": "assets/d09-fiorentina.png",
+            "source": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "credit": "ACF Fiorentina S.p.A.",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACF_Fiorentina.svg",
+            "changes": "Pomniejszenie do wyświetlania.",
+            "width": 330,
+            "height": 491,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-10-02"
+    },
+    {
+      "factKey": "krzysztof-ratajczyk:legia-rapid-austria-wien",
+      "format": "career-riddle",
+      "prompt": "Z Legii przeszedł do Rapidu Wiedeń. Później wrócił na Łazienkowską jako zawodnik Austrii Wiedeń w Pucharze UEFA. Kto to?",
+      "answerParts": [
+        "Krzysztof Ratajczyk"
+      ],
+      "subjects": [
+        "player:krzysztof-ratajczyk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "austria",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — transfer z Legii do Rapidu",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/krzysztof-ratajczyk",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        },
+        {
+          "title": "PZPN — powrót na stadion Legii w barwach Austrii w 2004",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/legia-warszawa-austria-wieden-13-30092004",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-03"
+    },
+    {
+      "format": "kit",
+      "factKey": "napoli:2010-utrecht-shirt-sponsor",
+      "prompt": "Napoli z Utrechtem w Lidze Europy 2010/11. Którego sponsora zasłonięto na koszulce Hamšíka?",
+      "answerParts": [
+        "Lete"
+      ],
+      "subjects": [
+        "sponsor:lete"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "wlochy",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — mecz Napoli z Utrechtem 2 grudnia 2010",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01ec-0e7673a1a534-2c6505dd3d0e-1000--cavani-hat-trick-keeps-napoli-hopes-alive/",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Marek_Ham%C5%A1%C3%ADk_-_FC_Utrecht_v_SSC_Napoli_-_UEFA_Europa_League_2010-11_(cropped).jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-napoli2.jpg",
+        "width": 500,
+        "height": 667,
+        "crop": [
+          60,
+          24,
+          381,
+          550
+        ],
+        "mask": [
+          210,
+          226,
+          121,
+          65
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Marek_Ham%C5%A1%C3%ADk_-_FC_Utrecht_v_SSC_Napoli_-_UEFA_Europa_League_2010-11_(cropped).jpg",
+        "credit": "Vincent Teeuwen (kadrowanie na Commons: Danyele)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-10-04"
+    },
+    {
+      "format": "crest",
+      "factKey": "lorient:crest-fragment",
+      "prompt": "Który francuski klub umieścił morszczuka w pomarańczowo-czarnym herbie?",
+      "answerParts": [
+        "FC Lorient"
+      ],
+      "subjects": [
+        "club:lorient"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "FC Lorient — morszczuk w herbie i historia znaku",
+          "url": "https://www.fclorient.bzh/nouveau-logo-histoire-et-explications/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d10-badge-lorient.png",
+        "source": "https://en.wikipedia.org/wiki/File:FC_Lorient_logo.svg",
+        "credit": "Lorient",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Lorient_logo.svg",
+        "changes": "W quizie pokazany fragment oficjalnego herbu.",
+        "width": 250,
+        "height": 357,
+        "alt": "Fragment herbu bez nazwy klubu.",
+        "crop": [
+          30,
+          153,
+          190,
+          170
+        ]
+      },
+      "id": "2026-11-10-05"
+    },
+    {
+      "factKey": "dario-simic:inter-ac-milan-monaco",
+      "format": "career",
+      "prompt": "Który chorwacki obrońca grał w tych trzech klubach w podanej kolejności?",
+      "answerParts": [
+        "Dario Šimić"
+      ],
+      "subjects": [
+        "player:dario-simic"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "wlochy",
+        "francja",
+        "chorwacja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — kolejność klubów i daty przejść",
+          "url": "https://it.uefa.com/news-media/news/0253-0d7ce4f34ada-9bdc88f2682f-1000--simic-ends-playing-career/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        },
+        {
+          "title": "UEFA — transfer między mediolańskimi klubami w 2002",
+          "url": "https://www.uefa.com/uefachampionsleague/news/0187-0e6a422ce144-53c64a59d950-1000--simic-crosses-san-siro-divide/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby w karierze seniorskiej.",
+      "career": [
+        {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          },
+          "years": "1999–2002"
+        },
+        {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          },
+          "years": "2002–2008"
+        },
+        {
+          "club": "AS Monaco",
+          "media": {
+            "path": "assets/d19-badge-monaco.png",
+            "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "credit": "AS Monaco",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 434,
+            "alt": "Herb klubu"
+          },
+          "years": "2008–2010"
+        }
+      ],
+      "id": "2026-11-10-06"
+    },
+    {
+      "factKey": "wiktor-nowak:2026-11-04:first-champions-league-goal-against-arsenal",
+      "format": "fact",
+      "prompt": "Który Polak strzelił swojego pierwszego gola w Lidze Mistrzów 4 listopada 2026, grając dla Slavii Praga przeciw Arsenalowi?",
+      "answerParts": [
+        "Wiktor Nowak"
+      ],
+      "subjects": [
+        "player:wiktor-nowak"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "liga-mistrzow",
+        "czechy",
+        "strzelcy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-04",
+      "sources": [
+        {
+          "title": "Slavia Praga — bramka Nowaka i data meczu",
+          "url": "https://www.slavia.cz/cze/match/7150",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Slavia Praga — Nowak potwierdza pierwszy gol w Lidze Mistrzów",
+          "url": "https://www.slavia.cz/eng/article/narrow-defeat-to-arsenal-as-nowak-s-goal-makes-for-a-dramatic-finale",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-10-07"
+    },
+    {
+      "format": "career-riddle",
+      "factKey": "roman-kosecki:galatasaray-osasuna-atletico-nantes",
+      "prompt": "Po wyjeździe z Legii grał m.in. dla Galatasaray, Osasuny, Atlético i Nantes. Który to reprezentant Polski?",
+      "answerParts": [
+        "Roman Kosecki"
+      ],
+      "subjects": [
+        "player:roman-kosecki"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "kariera",
+        "turcja",
+        "hiszpania",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — kluby Koseckiego po wyjeździe z Legii",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/15-lutego-1966",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-10-08"
+    },
+    {
+      "factKey": "vasilis-torosidis:olympiacos-roma-2013",
+      "format": "transfer",
+      "prompt": "Który reprezentant Grecji trafił między tymi klubami zimą 2013?",
+      "answerParts": [
+        "Vasilis Torosidis"
+      ],
+      "subjects": [
+        "player:vasilis-torosidis"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "grecja",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Roma — przenosiny obrońcy z Olympiacosu w styczniu 2013",
+          "url": "https://www.asroma.com/en/news/68007/torosidis-my-peak-playing-days-were-at-roma",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        },
+        {
+          "title": "Roma — raport finansowy ujmuje pozyskanie praw do zawodnika",
+          "url": "https://media.asroma.com/prod/files/file/gm-4cef4645-f174-4b94-8ef2-0bea28f10635-2013-05-15resocontointermediodigestioneal31032013.pdf",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Olympiacos",
+          "media": {
+            "path": "assets/d18-olympiacos.png",
+            "width": 1920,
+            "height": 2494,
+            "source": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "credit": "Olympiacos SFP",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Olympiacos_FC_crest.svg",
+            "changes": "Rasteryzacja do PNG; bez retuszu. Pełny herb.",
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-10-09"
+    },
+    {
+      "format": "fact",
+      "factKey": "marek-citko:goal-from-distance-atletico-1996",
+      "prompt": "Który zawodnik Widzewa przelobował bramkarza Atlético z dystansu w Lidze Mistrzów w 1996 roku?",
+      "answerParts": [
+        "Marek Citko"
+      ],
+      "subjects": [
+        "player:marek-citko"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "polish",
+        "liga-mistrzow",
+        "hiszpania"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — pamiętne trafienie w Lidze Mistrzów",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/promyk-nadziei",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-10-10"
+    },
+    {
+      "format": "kit",
+      "factKey": "milan:2011-siena-shirt-sponsor",
+      "prompt": "AC Milan, Serie A 2011/12. Która marka widniała z przodu koszulki Ibrahimovicia?",
+      "answerParts": [
+        "Emirates (Fly Emirates)"
+      ],
+      "subjects": [
+        "sponsor:emirates"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "wlochy",
+        "serie-a"
+      ],
+      "sources": [
+        {
+          "title": "Emirates — sponsoring koszulek Milanu od sezonu 2010/11",
+          "url": "https://www.emirates.com/media-centre/emirates-and-ac-milan-score-new-sponsorship-deal/",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Ibrahimovic_4_wikicommons.jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-milan2.jpg",
+        "width": 250,
+        "height": 306,
+        "crop": [
+          8,
+          0,
+          242,
+          285
+        ],
+        "mask": [
+          69,
+          165,
+          93,
+          55
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Ibrahimovic_4_wikicommons.jpg",
+        "credit": "Franciaio",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-10-11"
+    },
+    {
+      "factKey": "guus-hiddink:park-korea-alex-chelsea",
+      "format": "coach-link",
+      "prompt": "Park Ji-sung na mundialu 2002 i brazylijski stoper Alex w Chelsea wiosną 2009. Kto prowadził obu?",
+      "answerParts": [
+        "Guus Hiddink"
+      ],
+      "subjects": [
+        "coach:guus-hiddink"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "korea-poludniowa",
+        "anglia",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Park w drużynie Hiddinka na mundialu 2002",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01a8-0e6cb6199c39-9e4a40621e43-1000--korea-delivers-for-psv/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        },
+        {
+          "title": "UEFA — Alex w wyjściowej jedenastce Chelsea Hiddinka 6 maja 2009",
+          "url": "https://www.uefa.com/newsfiles/UCL/2009/302812_LU.pdf",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-12"
+    },
+    {
+      "factKey": "werder-bremen:ailton-klasnic-attack-2003-04",
+      "format": "shared-club",
+      "prompt": "W którym klubie Aílton i Ivan Klasnić tworzyli duet napastników w sezonie 2003/04?",
+      "answerParts": [
+        "Werder Brema (SV Werder Bremen)"
+      ],
+      "subjects": [
+        "club:werder-bremen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "niemcy",
+        "powiazania"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Aílton i Klasnić jako duet napastników mistrzowskiego zespołu z sezonu 2003/04",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01a3-0ea705044b99-e8724f95461c-1000--bremen-bank-on-the-flanks/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-13"
+    },
+    {
+      "factKey": "falkirk:2026-11-08:first-away-league-win-at-hearts-since-april-2025",
+      "format": "fact",
+      "prompt": "Który klub 8 listopada 2026 zadał Hearts pierwszą domową porażkę ligową od kwietnia 2025?",
+      "answerParts": [
+        "Falkirk FC"
+      ],
+      "subjects": [
+        "club:falkirk"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "scottish-premiership",
+        "szkocja",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "SPFL — Falkirk przerywa domową serię Hearts",
+          "url": "https://clublogin.spfl.co.uk/news/falkirk-score-five-at-tynecastle",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-10-14"
+    },
+    {
+      "format": "fact",
+      "factKey": "ryszard-tarasiewicz:xamax-nancy-slask-coach",
+      "prompt": "Grał w Neuchâtel Xamax i Nancy. Jako trener zdobył Puchar Ligi ze Śląskiem w 2009. Kto to?",
+      "answerParts": [
+        "Ryszard Tarasiewicz"
+      ],
+      "subjects": [
+        "player:ryszard-tarasiewicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy",
+        "szwajcaria",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — występy za granicą i sukces trenerski w Śląsku",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/27-kwietnia-1962",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-10-15"
+    },
+    {
+      "factKey": "ivan-rakitic:schalke-sevilla-2011",
+      "format": "transfer",
+      "prompt": "Który chorwacki pomocnik przeniósł się z Bundesligi do La Ligi w tym zimowym oknie?",
+      "answerParts": [
+        "Ivan Rakitić"
+      ],
+      "subjects": [
+        "player:ivan-rakitic"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "niemcy",
+        "hiszpania",
+        "chorwacja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — styczniowy transfer z Schalke do Sevilli",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01ed-0e76f2b44bdb-26923d610c25-1000--rakitic-and-medel-sign-on-at-sevilla/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "transfer": {
+        "year": 2011,
+        "detail": "Styczeń",
+        "from": {
+          "club": "Schalke 04",
+          "media": {
+            "id": "13",
+            "path": "assets/13.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "credit": "Gettyng",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schalke_04.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 964
+          }
+        },
+        "to": {
+          "club": "Sevilla",
+          "media": {
+            "path": "assets/d10-badge-sevilla.png",
+            "source": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "credit": "Sevilla",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Sevilla_FC_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 305,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-10-16"
+    },
+    {
+      "format": "fact",
+      "factKey": "stefan-majewski:1986-world-cup-kaiserslautern",
+      "prompt": "Który polski obrońca pojechał na mundial w Meksyku w 1986 roku jako piłkarz Kaiserslautern?",
+      "answerParts": [
+        "Stefan Majewski"
+      ],
+      "subjects": [
+        "player:stefan-majewski"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "mundial",
+        "bundesliga"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — zawodnicy zagranicznych klubów w kadrze Polski na MŚ 1986",
+          "url": "https://www.laczynaspilka.pl/biblioteka/kroniki/bialo-czerwone-mundiale-w-liczbach-cz2/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-10-17"
+    },
+    {
+      "format": "kit",
+      "factKey": "porto:2011-cska-away-shirt-sponsor",
+      "prompt": "FC Porto w Lidze Europy 2010/11. Jaką markę zasłonięto na żółtej koszulce Falcao przeciw CSKA Moskwa?",
+      "answerParts": [
+        "tmn (Telecomunicações Móveis Nacionais)"
+      ],
+      "subjects": [
+        "sponsor:tmn"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "portugalia",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — mecz Porto z CSKA Moskwa z 10 marca 2011",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01ef-0e77700e50ab-93196a339b1c-1000--guarin-fires-porto-past-cska/",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Radamel_Falcao_33086.jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-porto2.jpg",
+        "width": 281,
+        "height": 475,
+        "crop": [
+          5,
+          20,
+          218,
+          357
+        ],
+        "mask": [
+          132,
+          153,
+          67,
+          54
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Radamel_Falcao_33086.jpg",
+        "credit": "Władimir Majorow (Майоров Владимир)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-10-18"
+    },
+    {
+      "format": "stadium",
+      "factKey": "stadium:stade-de-la-beaujoire:image",
+      "prompt": "Który francuski stadion z tym falującym dachem gościł sześć meczów mundialu 1998?",
+      "answerParts": [
+        "Stade de la Beaujoire (Louis-Fonteneau)"
+      ],
+      "subjects": [
+        "stadium:stade-de-la-beaujoire"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "stadiony",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "FC Nantes — sześć meczów mundialu na tym stadionie",
+          "url": "https://www.fcnantes.com/articles/article2809.php?num=1627",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        },
+        {
+          "title": "Wikimedia Commons — fotografia obiektu z mundialu 1998",
+          "url": "https://commons.wikimedia.org/wiki/File:Stade_de_la_Beaujoire.jpg",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0710-visual-nantes.jpg",
+        "width": 330,
+        "height": 216,
+        "crop": [
+          0,
+          0,
+          330,
+          216
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Stade_de_la_Beaujoire.jpg",
+        "credit": "Pirmil",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Fragment stadionu bez nazwy obiektu.",
+        "changes": "Kadr z oryginalnej fotografii."
+      },
+      "id": "2026-11-10-19"
+    },
+    {
+      "factKey": "natalia-padilla-bidas:poland-first-goal-womens-euro-2025",
+      "format": "fact",
+      "prompt": "Kto strzelił pierwszego gola Polski w historii finałów mistrzostw Europy kobiet, w meczu z Danią w 2025?",
+      "answerParts": [
+        "Natalia Padilla-Bidas"
+      ],
+      "subjects": [
+        "player:natalia-padilla-bidas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "pilka-kobieca",
+        "euro"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — historyczna pierwsza bramka dla Polski, zdobyta przez Natalię Padillę",
+          "url": "https://www.uefa.com/womenseuro/news/029b-1e38a0cf6e95-a651cc1c40ff-1000--poland-3-2-denmark-highlights-ewa-pajor-on-target-in-hist/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-20"
+    },
+    {
+      "factKey": "liverpool:2026-11-08:last-away-unbeaten-premier-league-club",
+      "format": "fact",
+      "prompt": "Który klub po meczach 8 listopada 2026 jako jedyny w Premier League nadal nie przegrał na wyjeździe?",
+      "answerParts": [
+        "Liverpool FC"
+      ],
+      "subjects": [
+        "club:liverpool"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league",
+        "anglia",
+        "serie"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "Premier League — Liverpool jedynym zespołem bez porażki na wyjeździe",
+          "url": "https://www.premierleague.com/en/news/4757019/what-we-learned-from-sundays-matches/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Liverpool — zakończony mecz z Crystal Palace 8 listopada",
+          "url": "https://www.liverpoolfc.com/matches/mens-team/crystal-palace-v-liverpool-english-premier-league-20261108",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-10-21"
+    },
+    {
+      "format": "fact",
+      "factKey": "traianos-dellas:only-international-goal-euro-2004-semi",
+      "prompt": "Który grecki obrońca zdobył swoją jedyną bramkę w reprezentacji jako srebrny gol w półfinale Euro 2004?",
+      "answerParts": [
+        "Traianos Dellas"
+      ],
+      "subjects": [
+        "player:traianos-dellas"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "euro",
+        "grecja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — jedyny gol Dellasa w reprezentacji i reguła srebrnego gola",
+          "url": "https://www.uefa.com/uefaeuro/history/news/028f-1b479ff8d984-05ce67dbd4c2-1000--looking-back-on-greece-s-shock-euro-2004-win/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-10-22"
+    },
+    {
+      "factKey": "luiz-gustavo:wolfsburg-marseille-2017",
+      "format": "transfer",
+      "prompt": "Który Brazylijczyk przeniósł się do Ligue 1 po czterech latach gry w klubie po lewej?",
+      "answerParts": [
+        "Luiz Gustavo"
+      ],
+      "subjects": [
+        "player:luiz-gustavo"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "niemcy",
+        "francja",
+        "brazylia"
+      ],
+      "sources": [
+        {
+          "title": "Wolfsburg — transfer do Marsylii po czterech latach",
+          "url": "https://www.vfl-wolfsburg.de/en/newsdetails?cHash=98d3959f891ca2295b3866f8223b8895&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3528",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "transfer": {
+        "year": 2017,
+        "detail": "Lipiec",
+        "from": {
+          "club": "VfL Wolfsburg",
+          "media": {
+            "path": "assets/14.png",
+            "source": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "credit": "Unknown authorUnknown author",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:VfL_Wolfsburg_Logo_wei%C3%9F.svg",
+            "changes": "Bez zmian; pomniejszenie do wyświetlania.",
+            "alt": "Herb klubu",
+            "width": 960,
+            "height": 960
+          }
+        },
+        "to": {
+          "club": "Olympique Marsylia",
+          "media": {
+            "path": "assets/d10-badge-marseille.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "credit": "Olympique de Marseille",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_2026_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-10-23"
+    },
+    {
+      "factKey": "tirana:inaugural-conference-league-final-2022",
+      "format": "fact",
+      "prompt": "W którym mieście Roma i Feyenoord zagrały w pierwszym finale Ligi Konferencji w 2022?",
+      "answerParts": [
+        "Tirana"
+      ],
+      "subjects": [
+        "city:tirana"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "albania",
+        "liga-konferencji"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — pierwszy finał Ligi Konferencji na National Arena w Tiranie",
+          "url": "https://www.uefa.com/uefaconferenceleague/match/2033451--roma-vs-feyenoord/final/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-24"
+    },
+    {
+      "format": "fact",
+      "factKey": "ayumi-kaihori:2011-world-cup-final-japan-goalkeeper",
+      "prompt": "Kto bronił w bramce Japonii w finale mistrzostw świata kobiet przeciw USA w 2011 roku?",
+      "answerParts": [
+        "Ayumi Kaihori"
+      ],
+      "subjects": [
+        "player:ayumi-kaihori"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "mundial",
+        "pilka-kobiet",
+        "japonia",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — bramkarka Japonii w finale 2011",
+          "url": "https://www.fifa.com/en/tournaments/womens/womensworldcup/australia-new-zealand2023/articles/watch-highlights-from-every-womens-world-cup-final-australia-new-zealand-2023",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-10-25"
+    },
+    {
+      "format": "kit",
+      "factKey": "psg:2019-dresden-shirt-sponsor",
+      "prompt": "PSG w sparingu z Dynamem Drezno w lipcu 2019. Co zasłonięto z przodu koszulki Mbappé?",
+      "answerParts": [
+        "ALL (Accor Live Limitless)"
+      ],
+      "subjects": [
+        "sponsor:accor-live-limitless"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "francja",
+        "ligue-1"
+      ],
+      "sources": [
+        {
+          "title": "Accor i PSG — ALL na koszulkach od sezonu 2019/20",
+          "url": "https://assets.group.accor.com/yrj0orc8tx24/5ggWcR5fvj2b6m4W8c9UYG/ccf0fe8a4f69702910c0bf9bbc6974e4/psg_all-reveal_210219_eng.pdf",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93617.jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-psg8.jpg",
+        "width": 500,
+        "height": 692,
+        "crop": [
+          156,
+          28,
+          322,
+          429
+        ],
+        "mask": [
+          223,
+          187,
+          114,
+          68
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93617.jpg",
+        "credit": "Sandro Halank, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-10-26"
+    },
+    {
+      "factKey": "josef-bican:rapid-austria-world-cup-slavia",
+      "format": "fact",
+      "prompt": "Grał na mundialu 1934 dla Austrii, a później był wielokrotnym królem strzelców ligi czechosłowackiej w Slavii Praga. Kto to?",
+      "answerParts": [
+        "Josef Bican"
+      ],
+      "subjects": [
+        "player:josef-bican"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "austria",
+        "czechy",
+        "mundial",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — mundial 1934 z Austrią i wielokrotna korona strzelecka podczas gry w Slavii",
+          "url": "https://www.uefa.com/news/020d-0e9fefd8e766-aa974d9aab5a-1000--slavia-take-pride-in-800-goal-bican/",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-27"
+    },
+    {
+      "factKey": "utah-royals:2026-11-06:first-nwsl-playoff-win-and-semifinal",
+      "format": "fact",
+      "prompt": "Który klub w debiucie w play-offach NWSL 2026 pokonał San Diego Wave i awansował do półfinału?",
+      "answerParts": [
+        "Utah Royals FC"
+      ],
+      "subjects": [
+        "club:utah-royals"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "recent",
+        "nwsl",
+        "pilka-kobieca",
+        "stany-zjednoczone",
+        "play-offy"
+      ],
+      "eventDate": "2026-11-06",
+      "sources": [
+        {
+          "title": "NWSL — debiutanckie zwycięstwo Utah Royals i awans do półfinału",
+          "url": "https://www.nwslsoccer.com/news/utah-royals-upset-san-diego-wave-for-first-playoff-win-why-not-us",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Utah Royals — relacja meczowa z 6 listopada czasu miejscowego",
+          "url": "https://www.rsl.com/utahroyals/news/match-recap-utah-royals-upset-san-diego-wave-make-history-by-advancing-to-first-ever-nwsl-semifinals",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-10-28"
+    },
+    {
+      "factKey": "jorge-campos:bright-shirts-goalkeeper-forward",
+      "format": "fact",
+      "prompt": "Który meksykański bramkarz słynął z jaskrawych strojów i gry również w ataku?",
+      "answerParts": [
+        "Jorge Campos"
+      ],
+      "subjects": [
+        "player:jorge-campos"
+      ],
+      "tags": [],
+      "difficulty": "trudne",
+      "sources": [
+        {
+          "title": "Primary-source screening evidence",
+          "url": "https://collect.fifa.com/marketplace/ML_001",
+          "checkedAt": "2026-10-13T08:28:34.342202+00:00"
+        }
+      ],
+      "id": "2026-11-10-29"
+    },
+    {
+      "factKey": "velez-sarsfield:libertadores-1994-sao-paulo",
+      "format": "fact",
+      "prompt": "Który argentyński klub Carlosa Bianchiego pokonał São Paulo w finale Copa Libertadores 1994?",
+      "answerParts": [
+        "Vélez Sarsfield"
+      ],
+      "subjects": [
+        "club:velez-sarsfield"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "argentyna",
+        "brazylia",
+        "copa-libertadores"
+      ],
+      "sources": [
+        {
+          "title": "Vélez — triumf zespołu Bianchiego nad São Paulo w 1994",
+          "url": "https://velez.com.ar/junta-historica/notas/2023/08/30/235154_velez-campeon-de-america-1994",
+          "checkedAt": "2026-11-09T20:50:48.713Z"
+        }
+      ],
+      "id": "2026-11-10-30"
+    }
+  ]
+}

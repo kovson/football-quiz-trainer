@@ -1,0 +1,1152 @@
+{
+  "id": "2026-11-09",
+  "kind": "daily",
+  "title": "Trening głowy · 9 listopada 2026",
+  "date": "2026-11-09",
+  "publishAt": "2026-11-09T20:51:24.494Z",
+  "researchedAt": "2026-11-09T20:51:24.494Z",
+  "eventWindow": {
+    "start": "2026-10-28",
+    "end": "2026-11-09"
+  },
+  "questions": [
+    {
+      "factKey": "domen-gril:2026-11-07:second-penalty-save-of-season",
+      "format": "fact",
+      "prompt": "Który bramkarz Piasta obronił 7 listopada 2026 przeciw Śląskowi swój drugi rzut karny w tym sezonie Ekstraklasy?",
+      "answerParts": [
+        "Domen Gril"
+      ],
+      "subjects": [
+        "player:domen-gril"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "rzuty-karne"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-07",
+      "sources": [
+        {
+          "title": "Ekstraklasa — druga obroniona jedenastka Grila w sezonie, w meczu ze Śląskiem",
+          "url": "https://ekstraklasa.org/aktualnosci/skrot-slask-00-piast-szansa-z-11-metrow/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-09-01"
+    },
+    {
+      "factKey": "lukasz-skorupski:roma-bologna-2018",
+      "format": "transfer",
+      "prompt": "Który bramkarz przeszedł między tymi klubami po sezonie spędzonym w roli zmiennika Alissona?",
+      "answerParts": [
+        "Łukasz Skorupski"
+      ],
+      "subjects": [
+        "player:lukasz-skorupski"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "polish",
+        "wlochy"
+      ],
+      "sources": [
+        {
+          "title": "Bologna — potwierdzenie transferu z Romy",
+          "url": "https://www.bolognafc.it/en/skorupski-joins-bologna/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        },
+        {
+          "title": "Bologna — kariera i rola zmiennika Alissona w sezonie 2017/18",
+          "url": "https://www.bolognafc.it/en/skorupskis-career-so-far/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "transfer": {
+        "year": 2018,
+        "detail": "Czerwiec",
+        "from": {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Bologna FC 1909",
+          "media": {
+            "path": "assets/n01-h-bologna.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Bologna_F.C._1909_logo.svg",
+            "credit": "Bologna FC",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bologna_F.C._1909_logo.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 384,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-09-02"
+    },
+    {
+      "factKey": "tomasz-cywka:wigan-derby-reading-wisla-lech",
+      "format": "career-riddle",
+      "prompt": "Grał w Wigan, Derby County i Reading. Po powrocie do Polski występował w Wiśle Kraków i Lechu Poznań. Kto to?",
+      "answerParts": [
+        "Tomasz Cywka"
+      ],
+      "subjects": [
+        "player:tomasz-cywka"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Lech — ogłoszenie transferu z Wisły i wcześniejsza kariera w Anglii",
+          "url": "https://www.lechpoznan.pl/pl/aktualnosci%2C2%2Ccywka-pilkarzem-lecha-poznan%2C30858.html",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-03"
+    },
+    {
+      "format": "kit",
+      "factKey": "roma:2010-11:derby-shirt-sponsor",
+      "prompt": "Roma w derbach z Lazio w marcu 2011. Który sponsor widniał na koszulce Tottiego?",
+      "answerParts": [
+        "Wind"
+      ],
+      "subjects": [
+        "sponsor:wind"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "wlochy",
+        "serie-a"
+      ],
+      "sources": [
+        {
+          "title": "AS Roma — Wind na koszulkach w latach 2007–2013",
+          "url": "https://www.asroma.com/en/news/62320/since-1981-40-years-of-shirt-sponsorship",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Totti_2011_crop.jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-totti.jpg",
+        "width": 500,
+        "height": 715,
+        "crop": [
+          25,
+          18,
+          460,
+          590
+        ],
+        "mask": [
+          149,
+          286,
+          204,
+          111
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Totti_2011_crop.jpg",
+        "credit": "Tontotti (kadrowanie na Commons: TFCforever i FMSky)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-09-04"
+    },
+    {
+      "format": "crest",
+      "factKey": "willem-ii:crest-fragment",
+      "prompt": "Który niderlandzki klub ma w herbie tę piłkę pod czerwono-biało-niebieskimi barwami?",
+      "answerParts": [
+        "Willem II Tilburg"
+      ],
+      "subjects": [
+        "club:willem-ii"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "holandia",
+        "herby"
+      ],
+      "sources": [
+        {
+          "title": "Willem II — klub przedstawia swój herb",
+          "url": "https://www.willem-ii.nl/artikel/willem-ii-presenteert-nieuwe-clublogo",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/d11-badge-willem.png",
+        "source": "https://en.wikipedia.org/wiki/File:Willem_II_logo.svg",
+        "credit": "Willem II",
+        "license": "Znak klubowy — bez wolnej licencji",
+        "licenseUrl": "https://en.wikipedia.org/wiki/File:Willem_II_logo.svg",
+        "changes": "W quizie pokazany fragment oficjalnego herbu.",
+        "width": 250,
+        "height": 426,
+        "alt": "Fragment herbu bez nazwy klubu.",
+        "crop": [
+          29,
+          264,
+          190,
+          162
+        ]
+      },
+      "id": "2026-11-09-05"
+    },
+    {
+      "factKey": "jeremy-menez:roma-psg-milan-career",
+      "format": "career",
+      "prompt": "Który francuski piłkarz zaliczył te trzy kolejne etapy kariery?",
+      "answerParts": [
+        "Jérémy Ménez"
+      ],
+      "subjects": [
+        "player:jeremy-menez"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "kariera",
+        "wlochy",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — przejście z Monaco do Romy w 2008",
+          "url": "https://www.uefa.com/uefachampionsleague/news/01d0-0e6fbeab5a8a-512238c0fd14-1000--roma-sign-monaco-forward-menez/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        },
+        {
+          "title": "UEFA — przejście z Romy do PSG w 2011",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01f3-0e79007256fd-cb01e1859fc4-1000--psg-plump-for-menez-matuidi-and-bisevac/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        },
+        {
+          "title": "UEFA — dołączenie do Milanu w 2014",
+          "url": "https://fr.uefa.com/news-media/news/0216-0e8b12744115-912070a291f1-1000--menez-signe-au-milan/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        },
+        {
+          "title": "Milan — kadra sezonu 2015/16",
+          "url": "https://www.acmilan.com/en/roster-archive/men-first-team-archive/acmilan-2015-roster",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "careerCaption": "Trzy kolejne kluby w latach 2008–2016.",
+      "career": [
+        {
+          "club": "AS Roma",
+          "media": {
+            "path": "assets/d10-badge-roma.png",
+            "source": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "credit": "AS Roma",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:AS_Roma_logo_(2017).svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 325,
+            "alt": "Herb klubu"
+          },
+          "years": "2008–2011"
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "media": {
+            "path": "assets/d10-badge-psg.png",
+            "source": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "credit": "Paris Saint-Germain Football Club",
+            "license": "Domena publiczna tylko w USA; możliwa ochrona we Francji i ochrona znaku towarowego",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Paris_Saint-Germain_F.C..svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 251,
+            "alt": "Herb klubu"
+          },
+          "years": "2011–2014"
+        },
+        {
+          "club": "AC Milan",
+          "media": {
+            "path": "assets/d22-badge-milan.png",
+            "source": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "credit": "AC Milan; przesłanie: Vargklo",
+            "license": "Domena publiczna",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 392,
+            "alt": "Herb klubu"
+          },
+          "years": "2014–2016"
+        }
+      ],
+      "id": "2026-11-09-06"
+    },
+    {
+      "factKey": "jagiellonia-1000-ekstraklasa:2026-11-08:szkurin-own-goal",
+      "format": "fact",
+      "prompt": "W jaki sposób padł tysięczny gol Jagiellonii Białystok w historii Ekstraklasy, w meczu z GKS-em Katowice 8 listopada 2026?",
+      "answerParts": [
+        "Po samobójczym trafieniu zawodnika GKS-u Katowice."
+      ],
+      "subjects": [
+        "milestone:jagiellonia-1000-goli-ekstraklasa"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "polish",
+        "ekstraklasa",
+        "jubileusze"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "Ekstraklasa — tysięczna bramka Jagiellonii po samobóju Szkurina",
+          "url": "https://ekstraklasa.org/en/news/highlights-jagiellonia-10-gks-the-1000th-goal-worth-the-victory/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-09-07"
+    },
+    {
+      "format": "career-riddle",
+      "factKey": "pawel-kryszalowicz:amica-eintracht-wilhelmshaven",
+      "prompt": "Grał w Amice i Eintrachcie Frankfurt, a ostatnim zagranicznym klubem był SV Wilhelmshaven. Kto to?",
+      "answerParts": [
+        "Paweł Kryszałowicz"
+      ],
+      "subjects": [
+        "player:pawel-kryszalowicz"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "kariera",
+        "bundesliga"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — przebieg kariery Kryszałowicza",
+          "url": "https://www.laczynaspilka.pl/aktualnosci/caly-w-liczbach/pawel-kryszalowicz-33-mecze-w-kadrze-i-gol-na-mundialu-0",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-09-08"
+    },
+    {
+      "factKey": "joao-cancelo:valencia-inter-loan-2017",
+      "format": "transfer",
+      "prompt": "Który prawy obrońca przeniósł się na takie wypożyczenie po trzech latach w Hiszpanii?",
+      "answerParts": [
+        "João Cancelo"
+      ],
+      "subjects": [
+        "player:joao-cancelo"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "transfer",
+        "hiszpania",
+        "wlochy",
+        "portugalia"
+      ],
+      "sources": [
+        {
+          "title": "Inter — wypożyczenie z Valencii i trzy lata spędzone w Hiszpanii",
+          "url": "https://www.inter.it/en/news/2017-08-22-cancelo-is-an-inter-player",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "transfer": {
+        "year": 2017,
+        "detail": "Sierpień · wypożyczenie z opcją wykupu",
+        "from": {
+          "club": "Valencia",
+          "media": {
+            "path": "assets/d10-badge-valencia.png",
+            "source": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "credit": "Valencia",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Valenciacf.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 315,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Inter Mediolan",
+          "media": {
+            "path": "assets/d10-badge-inter.png",
+            "source": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "credit": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+            "license": "Public domain",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 250,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-09-09"
+    },
+    {
+      "format": "fact",
+      "factKey": "jerzy-podbrozny:1998-fire-assists-leader",
+      "prompt": "Który Polak był najlepszym asystentem Chicago Fire w debiutanckim sezonie zakończonym dubletem w 1998?",
+      "answerParts": [
+        "Jerzy Podbrożny"
+      ],
+      "subjects": [
+        "player:jerzy-podbrozny"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "mls",
+        "usa",
+        "rekordy"
+      ],
+      "sources": [
+        {
+          "title": "Chicago Fire — 14 asyst Podbrożnego i oba tytuły w 1998",
+          "url": "https://images.mlssoccer.com/image/upload/v1709589805/assets/chi/2024_Chicago_Fire_FC_Record_Book_FINAL_v2_1_ecubb3.pdf",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-09-10"
+    },
+    {
+      "format": "kit",
+      "factKey": "marseille:2007-08:valbuena-shirt-sponsor",
+      "prompt": "Olympique Marsylia, sezon 2007/08. Jakiego sponsora zasłonięto na koszulce Mathieu Valbueny?",
+      "answerParts": [
+        "Neuf (Neuf Cegetel)"
+      ],
+      "subjects": [
+        "sponsor:neuf"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "francja",
+        "ligue-1"
+      ],
+      "sources": [
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_-_Footbal_Shirt_-_28_Matthieu_Valbuena_face_1.jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-marseille.jpg",
+        "width": 960,
+        "height": 639,
+        "crop": [
+          55,
+          24,
+          850,
+          590
+        ],
+        "mask": [
+          200,
+          317,
+          633,
+          166
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Olympique_de_Marseille_-_Footbal_Shirt_-_28_Matthieu_Valbuena_face_1.jpg",
+        "credit": "paulogyensfan",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-09-11"
+    },
+    {
+      "factKey": "kazimierz-moskal:fraczak-pogon-ramirez-lks",
+      "format": "coach-link",
+      "prompt": "Adam Frączczak w Pogoni w sezonie 2016/17, Dani Ramírez w ŁKS-ie w sezonie 2018/19. Kto prowadził obu?",
+      "answerParts": [
+        "Kazimierz Moskal"
+      ],
+      "subjects": [
+        "coach:kazimierz-moskal"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "trenerzy"
+      ],
+      "sources": [
+        {
+          "title": "Arka — Frączczak strzelał dla Pogoni prowadzonej przez Moskala",
+          "url": "https://arka.gdynia.pl/news/16900-nasi-rywale-pogon-szczecin",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        },
+        {
+          "title": "ŁKS — Ramírez i awans w 2019 pod wodzą Moskala",
+          "url": "https://lkslodz.pl/aktualnosci/dani-ramirez-powraca-do-lks/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-12"
+    },
+    {
+      "factKey": "andre-villas-boas:porto-europa-league-2011-coach",
+      "format": "coach",
+      "prompt": "Kto prowadził FC Porto w wygranym z Bragą finale Ligi Europy w Dublinie w 2011 roku?",
+      "answerParts": [
+        "André Villas-Boas"
+      ],
+      "subjects": [
+        "coach:andre-villas-boas"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "portugalia",
+        "liga-europy",
+        "trener"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — Porto i trener Villas-Boas w finale 2011",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/0250-0c50f8680b62-7a96c1afdbf0-1000--falcao-heads-porto-to-europa-league-glory/",
+          "checkedAt": "2026-10-12T08:29:55Z"
+        }
+      ],
+      "id": "2026-11-09-13"
+    },
+    {
+      "factKey": "nordin-amrabat:2026-11-08:oldest-eredivisie-outfield-assist-this-century",
+      "format": "fact",
+      "prompt": "Kto 8 listopada 2026 został najstarszym zawodnikiem z pola z asystą w Eredivisie w XXI wieku, w meczu N.E.C. z Utrechtem?",
+      "answerParts": [
+        "Nordin Amrabat"
+      ],
+      "subjects": [
+        "player:nordin-amrabat"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "eredivisie",
+        "holandia",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "Eredivisie — asysta Nordina Amrabata w wieku 39 lat i 222 dni",
+          "url": "https://eredivisie.nl/nieuws/terugblik-speelronde-12/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        },
+        {
+          "title": "Eredivisie — termin meczu Utrecht–N.E.C.",
+          "url": "https://eredivisie.nl/nieuws/data-en-tijden-najaar-vriendenloterij-eredivisie-bekendgemaakt/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-09-14"
+    },
+    {
+      "factKey": "saint-etienne:matuidi-gomis-2009-uefa-cup",
+      "format": "shared-club",
+      "prompt": "W którym francuskim klubie Blaise Matuidi i Bafétimbi Gomis grali w Pucharze UEFA przeciw Olympiacosowi w 2009?",
+      "answerParts": [
+        "AS Saint-Étienne"
+      ],
+      "subjects": [
+        "club:saint-etienne"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "francja",
+        "grecja",
+        "powiazania",
+        "liga-europy"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — skład Saint-Étienne na rewanż przeciw Olympiacosowi",
+          "url": "https://it.uefa.com/uefaeuropaleague/match/304818--st-etienne-vs-olympiacos/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-15"
+    },
+    {
+      "factKey": "roberto-soldado:tottenham-villarreal-2015",
+      "format": "transfer",
+      "prompt": "Który napastnik wrócił tym transferem do La Ligi po dwóch sezonach w Anglii?",
+      "answerParts": [
+        "Roberto Soldado"
+      ],
+      "subjects": [
+        "player:roberto-soldado"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "hiszpania",
+        "anglia"
+      ],
+      "sources": [
+        {
+          "title": "Villarreal — porozumienie z Tottenhamem",
+          "url": "https://villarrealcf.es/en/el-villarreal-cf-ficha-a-roberto-soldado/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        },
+        {
+          "title": "UEFA — powrót do Hiszpanii po dwóch sezonach",
+          "url": "https://es.uefa.com/uefaeuropaleague/news/0224-0e9163bce72c-8d52e64374ff-1000--soldado-nuevo-jugador-del-villarreal/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "transfer": {
+        "year": 2015,
+        "detail": "Sierpień",
+        "from": {
+          "club": "Tottenham",
+          "media": {
+            "path": "assets/d11-badge-tottenham.png",
+            "source": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "credit": "Tottenham",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Tottenham_Hotspur.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 515,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "Villarreal",
+          "media": {
+            "path": "assets/d22-badge-villarreal.png",
+            "source": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "credit": "Villarreal",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:Villarreal_CF_logo-en.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 312,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-09-16"
+    },
+    {
+      "format": "fact",
+      "factKey": "jorvan-vieira:iraq-2007-asian-cup",
+      "prompt": "Który trener doprowadził Irak do zwycięstwa w Pucharze Azji w 2007 roku?",
+      "answerParts": [
+        "Jorvan Vieira"
+      ],
+      "subjects": [
+        "coach:jorvan-vieira"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "trenerzy",
+        "azja",
+        "irak"
+      ],
+      "sources": [
+        {
+          "title": "AFC — retrospekcja triumfu Iraku pod wodzą Vieiry",
+          "url": "https://www.the-afc.com/en/national/afc_asian_cup/news/2007_afc_asian_cup%E2%84%A2_lookback_1.html",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-09-17"
+    },
+    {
+      "format": "kit",
+      "factKey": "psv:2011-rkc-friendly:shirt-sponsor",
+      "prompt": "PSV w sparingu z RKC Waalwijk w marcu 2011. Czyje logo było na piersi Toivonena?",
+      "answerParts": [
+        "Philips"
+      ],
+      "subjects": [
+        "sponsor:philips"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "holandia",
+        "eredivisie"
+      ],
+      "sources": [
+        {
+          "title": "PSV — historia koszulek z logo Philipsa",
+          "url": "https://www.psv.nl/media/artikel/58-shirts-33-prijzen-philips-bedankt",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Toivonen_is_brought_down_in_the_box_(5563999074).jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-psv6.jpg",
+        "width": 960,
+        "height": 960,
+        "crop": [
+          105,
+          95,
+          480,
+          475
+        ],
+        "mask": [
+          307,
+          297,
+          130,
+          66
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Toivonen_is_brought_down_in_the_box_(5563999074).jpg",
+        "credit": "Maarten van Maanen",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-09-18"
+    },
+    {
+      "format": "stadium",
+      "factKey": "stadium:ibrox:image",
+      "prompt": "Który stadion w Glasgow ma tę ceglaną trybunę projektu Archibalda Leitcha?",
+      "answerParts": [
+        "Ibrox Stadium, Glasgow"
+      ],
+      "subjects": [
+        "stadium:ibrox"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "szkocja",
+        "stadiony"
+      ],
+      "sources": [
+        {
+          "title": "Rangers — architektura trybuny głównej Ibrox",
+          "url": "https://www.rangers.co.uk/article/rangers-celebrate-125th-anniversary-of-ibrox-stadium/5B5c0VcFboBv2OniiLCYsD",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        },
+        {
+          "title": "Paul McIlroy — fasada głównej trybuny",
+          "url": "https://commons.wikimedia.org/wiki/File:Ibrox_Stadium_-_geograph.org.uk_-_496743.jpg",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0710-visual-ibrox.jpg",
+        "width": 330,
+        "height": 235,
+        "crop": [
+          1,
+          86,
+          329,
+          113
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Ibrox_Stadium_-_geograph.org.uk_-_496743.jpg",
+        "credit": "Paul McIlroy",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Fragment stadionu bez nazwy obiektu.",
+        "changes": "Kadr z oryginalnej fotografii."
+      },
+      "id": "2026-11-09-19"
+    },
+    {
+      "factKey": "stal-rzeszow:polish-cup-1975-row-reserves",
+      "format": "fact",
+      "prompt": "Który drugoligowiec pokonał rezerwy ROW-u Rybnik w finale Pucharu Polski 1975?",
+      "answerParts": [
+        "Stal Rzeszów"
+      ],
+      "subjects": [
+        "club:stal-rzeszow"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "polish",
+        "puchar-polski",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "PZPN — zdobycie Pucharu Polski przez drugoligową Stal",
+          "url": "https://www.laczynaspilka.pl/biblioteka/mecze/wrexham-fc-stal-rzeszow-20-22101975",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-20"
+    },
+    {
+      "factKey": "evanilson:2026-11-08:first-bournemouth-five-consecutive-premier-league-appearances",
+      "format": "fact",
+      "prompt": "Który piłkarz Bournemouth po trafieniu z Ipswich 8 listopada 2026 jako pierwszy w klubie strzelił w pięciu kolejnych występach Premier League?",
+      "answerParts": [
+        "Evanilson"
+      ],
+      "subjects": [
+        "player:evanilson"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "season",
+        "recent",
+        "premier-league",
+        "anglia",
+        "strzelcy",
+        "rekordy"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "Premier League — pierwszy piłkarz Bournemouth z golem w pięciu kolejnych występach",
+          "url": "https://www.premierleague.com/en/news/4757019/what-we-learned-from-sundays-matches/",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-09-21"
+    },
+    {
+      "format": "fact",
+      "factKey": "copenhagen:2000-uefa-cup-final-city",
+      "prompt": "W którym mieście Galatasaray i Arsenal zagrały finał Pucharu UEFA w 2000 roku?",
+      "answerParts": [
+        "Kopenhaga"
+      ],
+      "subjects": [
+        "city:copenhagen"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "dania",
+        "turcja",
+        "puchar-uefa",
+        "geografia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — miejsce finału Pucharu UEFA 2000",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/016e-0e6a3091ff2c-b6d02ad6a643-1000/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-09-22"
+    },
+    {
+      "factKey": "joao-moutinho:porto-monaco-2013",
+      "format": "transfer",
+      "prompt": "Który Portugalczyk wykonał ten transfer ogłoszony równocześnie z przenosinami Jamesa Rodrígueza?",
+      "answerParts": [
+        "João Moutinho"
+      ],
+      "subjects": [
+        "player:joao-moutinho"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "transfer",
+        "portugalia",
+        "francja"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — obaj piłkarze przenieśli się z Porto do Monaco",
+          "url": "https://www.uefa.com/news-media/news/0250-0c50fd9ae59b-9ef83a69c3e8-1000--monaco-splash-out-70m-on-moutinho-rodriguez/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "transfer": {
+        "year": 2013,
+        "detail": "Ogłoszenie w maju",
+        "from": {
+          "club": "FC Porto",
+          "media": {
+            "path": "assets/d19-badge-porto.png",
+            "source": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "credit": "FC Porto",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:FC_Porto.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 333,
+            "alt": "Herb klubu"
+          }
+        },
+        "to": {
+          "club": "AS Monaco",
+          "media": {
+            "path": "assets/d19-badge-monaco.png",
+            "source": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "credit": "AS Monaco",
+            "license": "Znak klubowy — bez wolnej licencji",
+            "licenseUrl": "https://en.wikipedia.org/wiki/File:LogoASMonacoFC2021.svg",
+            "changes": "Pomniejszenie do wyświetlania; bez retuszu.",
+            "width": 250,
+            "height": 434,
+            "alt": "Herb klubu"
+          }
+        }
+      },
+      "id": "2026-11-09-23"
+    },
+    {
+      "factKey": "ki-klaksvik:ferencvaros-qualifying-olimpija-first-win-2023",
+      "format": "fact",
+      "prompt": "Który klub wyeliminował Ferencváros w kwalifikacjach LM latem 2023, a jesienią pokonał Olimpiję Lublana w Lidze Konferencji?",
+      "answerParts": [
+        "KÍ Klaksvík"
+      ],
+      "subjects": [
+        "club:ki-klaksvik"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "wyspy-owcze",
+        "liga-konferencji"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wyeliminowanie Ferencvárosu i zwycięstwo nad Olimpiją w 2023",
+          "url": "https://www.uefa.com/uefaconferenceleague/news/0284-18c960573a6a-420228626367-1000--ki-klaksvik-meet-the-faroese-side-set-for-uefa-group-stage-a/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-24"
+    },
+    {
+      "format": "fact",
+      "factKey": "packie-bonner:ireland-romania-1990-penalty-save",
+      "prompt": "Który bramkarz Irlandii obronił rzut karny Daniela Timofte w serii jedenastek na mundialu w 1990?",
+      "answerParts": [
+        "Pat „Packie” Bonner"
+      ],
+      "subjects": [
+        "player:packie-bonner"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "mundial",
+        "irlandia",
+        "rumunia",
+        "bramkarze"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — wywiad z Bonnerem i obrona strzału Timofte",
+          "url": "https://inside.fifa.com/en/tournaments/mens/worldcup/1990italy/news/bonner-that-one-save-changed-my-life-forever",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-09-25"
+    },
+    {
+      "format": "kit",
+      "factKey": "barcelona:2014-gamper:shirt-sponsor",
+      "prompt": "FC Barcelona, mecz o Trofeum Gampera w 2014. Jaką markę zasłonięto na koszulce Suáreza?",
+      "answerParts": [
+        "Qatar Airways"
+      ],
+      "subjects": [
+        "sponsor:qatar-airways"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "koszulki",
+        "sponsorzy",
+        "historia",
+        "hiszpania",
+        "la-liga"
+      ],
+      "sources": [
+        {
+          "title": "FC Barcelona — główny sponsor strojów w latach 2013–2017",
+          "url": "https://www.fcbarcelona.com/en/news/1064464/fc-barcelona-and-qatar-airways-extend-sponsorship-agreement",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        },
+        {
+          "title": "Datowane zdjęcie z widocznym oznaczeniem na koszulce",
+          "url": "https://commons.wikimedia.org/wiki/File:Luis_Suarez_FCB_2014.jpg",
+          "checkedAt": "2026-11-09T20:47:22.064Z"
+        }
+      ],
+      "media": {
+        "path": "assets/n0910-kit-barca9.jpg",
+        "width": 500,
+        "height": 667,
+        "crop": [
+          65,
+          46,
+          312,
+          425
+        ],
+        "mask": [
+          167,
+          195,
+          113,
+          51
+        ],
+        "source": "https://commons.wikimedia.org/wiki/File:Luis_Suarez_FCB_2014.jpg",
+        "credit": "Lluís z Sabadell",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "alt": "Oryginalna koszulka piłkarska z zasłoniętym oznaczeniem sponsora.",
+        "changes": "Kadr z oryginalnej fotografii. Zasłona w quizie znika po odkryciu odpowiedzi."
+      },
+      "id": "2026-11-09-26"
+    },
+    {
+      "factKey": "rabah-madjer:backheel-1987-european-cup-final",
+      "format": "fact",
+      "prompt": "Który piłkarz Porto wyrównał piętą przeciwko Bayernowi w finale Pucharu Europy 1987?",
+      "answerParts": [
+        "Rabah Madjer"
+      ],
+      "subjects": [
+        "player:rabah-madjer"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "portugalia",
+        "algieria",
+        "liga-mistrzow",
+        "historia"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — wspomnienie Madjera o wyrównującym golu piętą",
+          "url": "https://www.uefa.com/uefachampionsleague/news/021f-0e8fdb967775-761b0eca2869-1000--legendary-moments-madjer-s-back-heel/",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-27"
+    },
+    {
+      "factKey": "lazio:2026-11-08:unbeaten-serie-a-leaders-after-napoli-draw",
+      "format": "fact",
+      "prompt": "Który niepokonany klub zachował samodzielne prowadzenie w Serie A po wyjazdowym remisie z Napoli 8 listopada 2026?",
+      "answerParts": [
+        "Lazio"
+      ],
+      "subjects": [
+        "club:lazio"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "season",
+        "recent",
+        "serie-a",
+        "wlochy",
+        "tabela"
+      ],
+      "season": "2026/27",
+      "eventDate": "2026-11-08",
+      "sources": [
+        {
+          "title": "Lega Serie A — Lazio wciąż niepokonane i samodzielnie prowadzi po remisie z Napoli",
+          "url": "https://www.legaseriea.it/serie-a/news/napoli-lazio-2026-2027-1-1-cronaca-risultato-gol",
+          "checkedAt": "2026-11-09T20:38:23.291Z"
+        }
+      ],
+      "id": "2026-11-09-28"
+    },
+    {
+      "format": "fact",
+      "factKey": "raymond-goethals:anderlecht-1978-marseille-1993",
+      "prompt": "Kto wygrał Puchar Zdobywców Pucharów z Anderlechtem w 1978, a Ligę Mistrzów z Marsylią w 1993?",
+      "answerParts": [
+        "Raymond Goethals"
+      ],
+      "subjects": [
+        "coach:raymond-goethals"
+      ],
+      "difficulty": "trudne",
+      "tags": [
+        "belgia",
+        "francja",
+        "liga-mistrzow",
+        "pzp"
+      ],
+      "sources": [
+        {
+          "title": "UEFA — sukcesy Goethalsa z Anderlechtem i Marsylią",
+          "url": "https://www.uefa.com/news-media/news/01a4-0f84605fca11-3dc330ff3f3b-1000--the-magician-remembered/",
+          "checkedAt": "2026-11-09T20:50:36.116Z"
+        }
+      ],
+      "id": "2026-11-09-29"
+    },
+    {
+      "factKey": "tim-krul:2014-world-cup-costa-rica-penalty-sub",
+      "format": "fact",
+      "prompt": "Którego bramkarza Louis van Gaal wpuścił na same rzuty karne przeciw Kostaryce na mundialu 2014?",
+      "answerParts": [
+        "Tim Krul"
+      ],
+      "subjects": [
+        "player:tim-krul"
+      ],
+      "difficulty": "średnie",
+      "tags": [
+        "holandia",
+        "mundial"
+      ],
+      "sources": [
+        {
+          "title": "FIFA — zmiana bramkarza przed jedenastkami w ćwierćfinale",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/tim-krul-interview-costa-rica-shootout",
+          "checkedAt": "2026-11-09T20:50:48.514Z"
+        }
+      ],
+      "id": "2026-11-09-30"
+    }
+  ]
+}

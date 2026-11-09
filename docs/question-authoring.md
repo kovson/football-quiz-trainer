@@ -32,6 +32,7 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 ## Current-season selection
 
 - Research the latest completed matches and developments available at authoring time. Balance memorable incidents with standings, managerial changes, transfers, debuts, milestones, and records; do not fill the quota with obscure scorers from an arbitrary round.
+- Use match reports for memorable incidents and milestones. Reserve the slots previously used for recalling final scores for visual shirt-sponsor questions.
 - The preferred authoring start is around 08:00 Europe/Warsaw, followed by publication when the set is ready. Include overnight games that have actually finished by the run; this is a manual morning workflow until unattended authoring is configured, and does not promise that every worldwide game has finished or that new content is live at 07:00.
 - Apply an editorial filter: choose surprising results, meaningful transfers, managerial changes, European breakthroughs, debuts, and milestones worth remembering. Six available match reports do not automatically deserve six questions. Include the season's bigger picture alongside the latest games; source availability alone is not a reason to select a fact.
 - Prefer events within the quiz-event window. If that window is quiet, use useful ongoing-season knowledge and label it as current-season rather than falsely recent.
@@ -52,7 +53,7 @@ These rules include the generator refinements accepted on 11 October 2026 and ap
 ## Shirt sponsor recall
 
 - Use shirts from 2000 onwards: for season-based clues, choose 2000/01 or later. Rotate clubs and seasons within this period; do not use pre-2000 retro shirts for sponsor recall. This is the user's era preference, confirmed on 3 November 2026.
-- Include two visual shirt-sponsor questions in the next ordinary daily set, then rotate this task regularly with the other formats. These replace other questions within the thirty-question set; do not add them to the completed pre-quiz review.
+- Prioritize clubs from major leagues and regular European competitors such as Celtic. Rotate sponsor recall regularly with the other formats within the thirty-question set.
 - Show a genuine shirt or a player wearing it with the sponsor deliberately masked or removed. Ask for the missing sponsor, normally the main front-of-shirt sponsor, rather than the player, club or kit manufacturer. Club crests and recognizable shirt details may remain as intended clues in this task; the no-identifying-kit rule for player portraits does not apply here.
 - Verify the exact shirt, season and competition against reliable evidence: sponsorship can differ by year, competition or shirt variant. Give enough visible context or a short season clue to make one answer unambiguous. Do not assume a player's club spell identifies a unique sponsor.
 - Preserve the shirt design outside the hidden sponsor area. Check the final image on a phone and avoid answer leaks in the prompt, alt text, captions or visible filename. Reveal the sponsor name and supporting source after the usual answer button; retain image attribution and disclose the masking in image-change metadata.
